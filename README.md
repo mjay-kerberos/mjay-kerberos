@@ -22,11 +22,12 @@ I love:
 * Creating dashboards that *actually* look good 😉
 * Learning fast, breaking down complex problems, and teaching others
 
-When I’m not automating something, I’m probably:
-    🎧 Listening to rock/pop/electronic playlists
-    🏎️ Following Formula 1 data
-    🕵️ Solving CTF challenges
-    🖥️ Building cybersecurity games or exporters
+When I’m not automating something, I’m probably:  
+  
+🎧 Listening to rock/pop/electronic playlists  
+🏎️ Following Formula 1 data  
+🕵️ Solving CTF challenges  
+🖥️ Building cybersecurity games or exporters  
 
 ---
 
@@ -57,6 +58,8 @@ When I’m not automating something, I’m probably:
 
 # 📊 Real-Time Dashboards
 
+*COMING SOON!*
+
 ---
 
 # 🚀 Featured Projects
@@ -74,6 +77,8 @@ FastF1 APIs, ML-based race prediction, live driver laps + track maps.
 ---
 
 # 🎶 What I Listen to While Working
+
+*COMING SOON!*
 
 
 ---
