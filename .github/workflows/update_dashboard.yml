@@ -67,36 +67,23 @@ jobs:
 
       - name: Commit stats.json if changed
         run: |
-          # If the stats file wasn't generated, just bail out
-          if [ ! -f scripts/stats.json ]; then
-            echo "No stats.json found, skipping commit"
-            exit 0
-          fi
-
-          # Save the generated file somewhere safe (reset will blow it away)
-          cp scripts/stats.json /tmp/stats.json
-
-          # Make sure we're up to date with remote main
-          git fetch origin
-          git reset --hard origin/main
-
-          # Restore the freshly generated stats.json on top of latest main
-          cp /tmp/stats.json stats.json
-
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          git add stats.json
+          if [ -f scripts/stats.json ]; then
+            mv scripts/stats.json stats.json
+            git add stats.json
 
-          # If nothing actually changed, don't commit
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
+            # If nothing changed, stop here
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+              exit 0
+            fi
 
-          git commit -m "Update stats.json [skip ci]"
-          git push origin HEAD:main
+            git commit -m "Update stats.json [skip ci]"
 
+            # Rebase on latest main to avoid non-fast-forward push
+            git pull --rebase origin main
 
             # Push using the GITHUB_TOKEN configured by actions/checkout
             git push
