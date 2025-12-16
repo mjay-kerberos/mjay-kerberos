@@ -39,19 +39,19 @@ When I’m not automating something, I’m probably:
 
 ### **HPC & Infrastructure**
 
-`Slurm` • `Prometheus` • `Grafana` 
-`Loki` • `Lustre` • `Linux`
+`Slurm` • `Prometheus` • `Grafana` •
+`Loki` • `Lustre` • `Linux` •
 `Ansible` • `Terraform` • `AWS`
 
 ### **Security & Monitoring**
 
-`Threat Detection` • `SIEM` • `Suricata` • `Sysmon`
-`LLM Security` • `AI Observability` • `Auditd`
+`Threat Detection` • `SIEM` • `Suricata` • `Sysmon` •
+`LLM Security` • `AI Observability` • `Auditd` •
 `MITRE ATT&CK` • `Incident Response`
 
 ### **Dev Tools**
 
-`Docker` • `GitHub Actions` • `VSCode`
+`Docker` • `GitHub Actions` • `VSCode` •
 `FastAPI` • `Flask` • `Node_exporter` • `Custom Exporters`
 
 ---
