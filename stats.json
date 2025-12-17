@@ -1,20 +1,20 @@
 {
-  "collected_at": "2025-12-16T18:42:31.740769Z",
+  "collected_at": "2025-12-17T01:49:24.894200Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 219,
-    "public_commits": 219,
+    "total_commits_this_year": 221,
+    "public_commits": 221,
     "private_commits": 0,
-    "commits_this_month": 59,
+    "commits_this_month": 61,
     "total_prs": 38,
     "total_issues": 0,
-    "total_contributions": 266,
+    "total_contributions": 268,
     "repos_owned": 50,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-16T18:42:32.406802",
+    "fetched_at": "2025-12-17T01:49:25.374770",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 217,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-16T18:42:33.744710"
+      "fetched_at": "2025-12-17T01:49:26.365475"
     }
   },
   "lastfm": {
@@ -34,49 +34,49 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 447,
+      "total_scrobbles": 471,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 447,
-      "estimated_minutes": 1564,
-      "estimated_hours": 26.1,
+      "total_scrobbles": 471,
+      "estimated_minutes": 1648,
+      "estimated_hours": 27.5,
       "estimated_days": 1.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 365,
-        "estimated_minutes": 1278,
-        "estimated_hours": 21.3,
+        "total_scrobbles": 338,
+        "estimated_minutes": 1183,
+        "estimated_hours": 19.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 447,
-        "estimated_minutes": 1564,
-        "estimated_hours": 26.1,
+        "total_scrobbles": 471,
+        "estimated_minutes": 1648,
+        "estimated_hours": 27.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 447,
-        "estimated_minutes": 1564,
-        "estimated_hours": 26.1,
+        "total_scrobbles": 471,
+        "estimated_minutes": 1648,
+        "estimated_hours": 27.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 335,
-      "total_plays_this_week": 369
+      "total_tracks_this_week": 361,
+      "total_plays_this_week": 396
     },
     "top_artists": {
       "overall": [
         {
           "name": "Dominic Fike",
-          "playcount": 19,
+          "playcount": 22,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 1
         },
@@ -99,39 +99,39 @@
           "rank": 4
         },
         {
+          "name": "Fall Out Boy",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "rank": 5
+        },
+        {
           "name": "Paramore",
           "playcount": 10,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "The Home Team",
           "playcount": 10,
           "url": "https://www.last.fm/music/The+Home+Team",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Malcolm Todd",
           "playcount": 9,
           "url": "https://www.last.fm/music/Malcolm+Todd",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "SZA",
           "playcount": 9,
           "url": "https://www.last.fm/music/SZA",
-          "rank": 8
-        },
-        {
-          "name": "Fall Out Boy",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 9
         },
         {
-          "name": "blackbear",
+          "name": "5 Seconds of Summer",
           "playcount": 7,
-          "url": "https://www.last.fm/music/blackbear",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 10
         }
       ]
@@ -141,7 +141,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 8,
+          "playcount": 10,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 1
         },
@@ -153,59 +153,59 @@
           "rank": 2
         },
         {
+          "name": "Dark Blue",
+          "artist": "Jack's Mannequin",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
+          "rank": 3
+        },
+        {
           "name": "Changing",
           "artist": "Kevin Jonas",
           "playcount": 3,
           "url": "https://www.last.fm/music/Kevin+Jonas/_/Changing",
-          "rank": 3
+          "rank": 4
+        },
+        {
+          "name": "Loca Playa",
+          "artist": "Santax",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Santax/_/Loca+Playa",
+          "rank": 5
         },
         {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 4
+          "rank": 6
         },
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 2,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 5
+          "rank": 7
         },
         {
           "name": "DtMF",
           "artist": "Bad Bunny",
           "playcount": 2,
           "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
-          "rank": 6
+          "rank": 8
         },
         {
           "name": "Smiley",
           "artist": "Between Friends",
           "playcount": 2,
           "url": "https://www.last.fm/music/Between+Friends/_/Smiley",
-          "rank": 7
+          "rank": 9
         },
         {
           "name": "Finesse",
           "artist": "Bruno Mars",
           "playcount": 2,
           "url": "https://www.last.fm/music/Bruno+Mars/_/Finesse",
-          "rank": 8
-        },
-        {
-          "name": "How Much Is Weed?",
-          "artist": "Dominic Fike",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
-          "rank": 9
-        },
-        {
-          "name": "Sandman",
-          "artist": "Dominic Fike",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/Sandman",
           "rank": 10
         }
       ],
@@ -213,7 +213,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 1
         },
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "DtMF",
-          "artist": "Bad Bunny",
+          "name": "Smiley",
+          "artist": "Between Friends",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+          "url": "https://www.last.fm/music/Between+Friends/_/Smiley",
           "rank": 5
         }
       ]
@@ -259,7 +259,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 8,
+          "playcount": 10,
           "url": "https://www.last.fm/music/Dominic+Fike/White+Keys",
           "rank": 2
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2025-12-16T18:42:38.179620"
+    "fetched_at": "2025-12-17T01:49:30.226853"
   }
 }
