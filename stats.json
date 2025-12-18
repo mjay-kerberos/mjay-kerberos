@@ -1,32 +1,32 @@
 {
-  "collected_at": "2025-12-17T12:52:02.523932Z",
+  "collected_at": "2025-12-18T01:50:00.225913Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 221,
-    "public_commits": 221,
+    "total_commits_this_year": 225,
+    "public_commits": 225,
     "private_commits": 0,
-    "commits_this_month": 61,
+    "commits_this_month": 65,
     "total_prs": 38,
     "total_issues": 0,
-    "total_contributions": 268,
+    "total_contributions": 272,
     "repos_owned": 50,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-17T12:52:03.187355",
+    "fetched_at": "2025-12-18T01:50:00.778599",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
       "total_repos": 50,
-      "public_repos": 24,
-      "private_repos": 26,
+      "public_repos": 23,
+      "private_repos": 27,
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 217,
+      "total_stars_received": 218,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-17T12:52:04.376290"
+      "fetched_at": "2025-12-18T01:50:01.994585"
     }
   },
   "lastfm": {
@@ -34,49 +34,49 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 471,
+      "total_scrobbles": 545,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 471,
-      "estimated_minutes": 1648,
-      "estimated_hours": 27.5,
-      "estimated_days": 1.1,
+      "total_scrobbles": 545,
+      "estimated_minutes": 1908,
+      "estimated_hours": 31.8,
+      "estimated_days": 1.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 328,
-        "estimated_minutes": 1148,
-        "estimated_hours": 19.1,
+        "total_scrobbles": 292,
+        "estimated_minutes": 1022,
+        "estimated_hours": 17.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 471,
-        "estimated_minutes": 1648,
-        "estimated_hours": 27.5,
+        "total_scrobbles": 545,
+        "estimated_minutes": 1908,
+        "estimated_hours": 31.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 471,
-        "estimated_minutes": 1648,
-        "estimated_hours": 27.5,
+        "total_scrobbles": 545,
+        "estimated_minutes": 1908,
+        "estimated_hours": 31.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 361,
-      "total_plays_this_week": 396
+      "total_tracks_this_week": 301,
+      "total_plays_this_week": 329
     },
     "top_artists": {
       "overall": [
         {
           "name": "Dominic Fike",
-          "playcount": 22,
+          "playcount": 23,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 1
         },
@@ -117,21 +117,21 @@
           "rank": 7
         },
         {
-          "name": "Malcolm Todd",
+          "name": "5 Seconds of Summer",
           "playcount": 9,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 8
         },
         {
-          "name": "SZA",
+          "name": "Hozier",
           "playcount": 9,
-          "url": "https://www.last.fm/music/SZA",
+          "url": "https://www.last.fm/music/Hozier",
           "rank": 9
         },
         {
-          "name": "5 Seconds of Summer",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
+          "name": "Malcolm Todd",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 10
         }
       ]
@@ -148,64 +148,64 @@
         {
           "name": "britney in 07",
           "artist": "blackbear",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
           "rank": 2
+        },
+        {
+          "name": "Start Over",
+          "artist": "5 Seconds of Summer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
+          "rank": 3
+        },
+        {
+          "name": "Borderline",
+          "artist": "Ely Oaks",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Ely+Oaks/_/Borderline",
+          "rank": 4
+        },
+        {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 5
+        },
+        {
+          "name": "Back N Forth",
+          "artist": "Jack Murnin",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Jack+Murnin/_/Back+N+Forth",
+          "rank": 6
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 3,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 3
-        },
-        {
-          "name": "Changing",
-          "artist": "Kevin Jonas",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Kevin+Jonas/_/Changing",
-          "rank": 4
-        },
-        {
-          "name": "Loca Playa",
-          "artist": "Santax",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Santax/_/Loca+Playa",
-          "rank": 5
-        },
-        {
-          "name": "Start Over",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 6
-        },
-        {
-          "name": "Cheekbones",
-          "artist": "Arrows in Action",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 7
         },
         {
-          "name": "DtMF",
-          "artist": "Bad Bunny",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+          "name": "Backseat",
+          "artist": "Jackson Laird",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Jackson+Laird/_/Backseat",
           "rank": 8
         },
         {
-          "name": "Smiley",
-          "artist": "Between Friends",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Between+Friends/_/Smiley",
+          "name": "Microdose",
+          "artist": "Jackson Laird",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Jackson+Laird/_/Microdose",
           "rank": 9
         },
         {
-          "name": "Finesse",
-          "artist": "Bruno Mars",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bruno+Mars/_/Finesse",
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 10
         }
       ],
@@ -218,17 +218,17 @@
           "rank": 1
         },
         {
-          "name": "britney in 07",
-          "artist": "blackbear",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
-          "rank": 2
-        },
-        {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
+          "rank": 2
+        },
+        {
+          "name": "cough drops",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
           "rank": 3
         },
         {
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Smiley",
-          "artist": "Between Friends",
+          "name": "So Cold",
+          "artist": "Balu Brigada",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Between+Friends/_/Smiley",
+          "url": "https://www.last.fm/music/Balu+Brigada/_/So+Cold",
           "rank": 5
         }
       ]
@@ -264,28 +264,28 @@
           "rank": 2
         },
         {
+          "name": "I Barely Know Her",
+          "artist": "sombr",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/sombr/I+Barely+Know+Her",
+          "rank": 3
+        },
+        {
+          "name": "britney in 07",
+          "artist": "blackbear",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/blackbear/britney+in+07",
+          "rank": 4
+        },
+        {
           "name": "Dilworth",
           "artist": "Jutes",
           "playcount": 5,
           "url": "https://www.last.fm/music/Jutes/Dilworth",
-          "rank": 3
-        },
-        {
-          "name": "Ladybug",
-          "artist": "Jutes",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Jutes/Ladybug",
-          "rank": 4
-        },
-        {
-          "name": "Sleepyhead",
-          "artist": "Jutes",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Jutes/Sleepyhead",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2025-12-17T12:52:07.980300"
+    "fetched_at": "2025-12-18T01:50:06.926438"
   }
 }
