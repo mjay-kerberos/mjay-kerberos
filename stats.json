@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-18T12:50:04.745666Z",
+  "collected_at": "2025-12-19T01:53:14.408626Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-18T12:50:05.262527",
+    "fetched_at": "2025-12-19T01:53:15.013936",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 218,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-18T12:50:06.270509"
+      "fetched_at": "2025-12-19T01:53:16.056189"
     }
   },
   "lastfm": {
@@ -34,49 +34,49 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 554,
+      "total_scrobbles": 570,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 554,
-      "estimated_minutes": 1939,
-      "estimated_hours": 32.3,
-      "estimated_days": 1.3,
+      "total_scrobbles": 570,
+      "estimated_minutes": 1995,
+      "estimated_hours": 33.2,
+      "estimated_days": 1.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 296,
-        "estimated_minutes": 1036,
-        "estimated_hours": 17.3,
+        "total_scrobbles": 284,
+        "estimated_minutes": 994,
+        "estimated_hours": 16.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 554,
-        "estimated_minutes": 1939,
-        "estimated_hours": 32.3,
+        "total_scrobbles": 570,
+        "estimated_minutes": 1995,
+        "estimated_hours": 33.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 554,
-        "estimated_minutes": 1939,
-        "estimated_hours": 32.3,
+        "total_scrobbles": 570,
+        "estimated_minutes": 1995,
+        "estimated_hours": 33.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 301,
-      "total_plays_this_week": 329
+      "total_tracks_this_week": 264,
+      "total_plays_this_week": 297
     },
     "top_artists": {
       "overall": [
         {
           "name": "Dominic Fike",
-          "playcount": 23,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 1
         },
@@ -105,33 +105,33 @@
           "rank": 5
         },
         {
+          "name": "Malcolm Todd",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "rank": 6
+        },
+        {
           "name": "Paramore",
           "playcount": 10,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "The Home Team",
           "playcount": 10,
           "url": "https://www.last.fm/music/The+Home+Team",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "5 Seconds of Summer",
           "playcount": 9,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Hozier",
           "playcount": 9,
           "url": "https://www.last.fm/music/Hozier",
-          "rank": 9
-        },
-        {
-          "name": "Malcolm Todd",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 10
         }
       ]
@@ -141,7 +141,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 10,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 1
         },
@@ -153,59 +153,59 @@
           "rank": 2
         },
         {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 3
+        },
+        {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 3
+          "rank": 4
+        },
+        {
+          "name": "So Cold",
+          "artist": "Balu Brigada",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Balu+Brigada/_/So+Cold",
+          "rank": 5
+        },
+        {
+          "name": "How Much Is Weed?",
+          "artist": "Dominic Fike",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
+          "rank": 6
         },
         {
           "name": "Borderline",
           "artist": "Ely Oaks",
           "playcount": 3,
           "url": "https://www.last.fm/music/Ely+Oaks/_/Borderline",
-          "rank": 4
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 5
+          "rank": 7
         },
         {
           "name": "Back N Forth",
           "artist": "Jack Murnin",
           "playcount": 3,
           "url": "https://www.last.fm/music/Jack+Murnin/_/Back+N+Forth",
-          "rank": 6
+          "rank": 8
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 3,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 7
+          "rank": 9
         },
         {
           "name": "Backseat",
           "artist": "Jackson Laird",
           "playcount": 3,
           "url": "https://www.last.fm/music/Jackson+Laird/_/Backseat",
-          "rank": 8
-        },
-        {
-          "name": "Microdose",
-          "artist": "Jackson Laird",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Jackson+Laird/_/Microdose",
-          "rank": 9
-        },
-        {
-          "name": "wannabe!",
-          "artist": "Kevian Kraemer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 10
         }
       ],
@@ -213,36 +213,36 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 1
+        },
+        {
+          "name": "So Cold",
+          "artist": "Balu Brigada",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Balu+Brigada/_/So+Cold",
+          "rank": 2
+        },
+        {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 3
         },
         {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 2
+          "rank": 4
         },
         {
           "name": "cough drops",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
-          "rank": 3
-        },
-        {
-          "name": "Cheekbones",
-          "artist": "Arrows in Action",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 4
-        },
-        {
-          "name": "So Cold",
-          "artist": "Balu Brigada",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Balu+Brigada/_/So+Cold",
           "rank": 5
         }
       ]
@@ -259,7 +259,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 10,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Dominic+Fike/White+Keys",
           "rank": 2
         },
@@ -278,14 +278,14 @@
           "rank": 4
         },
         {
-          "name": "Dilworth",
-          "artist": "Jutes",
+          "name": "What Could Possibly Go Wrong",
+          "artist": "Dominic Fike",
           "playcount": 5,
-          "url": "https://www.last.fm/music/Jutes/Dilworth",
+          "url": "https://www.last.fm/music/Dominic+Fike/What+Could+Possibly+Go+Wrong",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2025-12-18T12:50:10.358082"
+    "fetched_at": "2025-12-19T01:53:18.985104"
   }
 }
