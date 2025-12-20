@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-19T12:48:14.632082Z",
+  "collected_at": "2025-12-20T01:47:16.901606Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-19T12:48:15.368247",
+    "fetched_at": "2025-12-20T01:47:17.476585",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 218,
+      "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-19T12:48:16.642785"
+      "fetched_at": "2025-12-20T01:47:18.435502"
     }
   },
   "lastfm": {
@@ -34,49 +34,49 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 570,
+      "total_scrobbles": 605,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 570,
-      "estimated_minutes": 1995,
-      "estimated_hours": 33.2,
-      "estimated_days": 1.4,
+      "total_scrobbles": 605,
+      "estimated_minutes": 2118,
+      "estimated_hours": 35.3,
+      "estimated_days": 1.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 277,
-        "estimated_minutes": 970,
-        "estimated_hours": 16.2,
+        "total_scrobbles": 298,
+        "estimated_minutes": 1043,
+        "estimated_hours": 17.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 570,
-        "estimated_minutes": 1995,
-        "estimated_hours": 33.2,
+        "total_scrobbles": 605,
+        "estimated_minutes": 2118,
+        "estimated_hours": 35.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 570,
-        "estimated_minutes": 1995,
-        "estimated_hours": 33.2,
+        "total_scrobbles": 605,
+        "estimated_minutes": 2118,
+        "estimated_hours": 35.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 264,
-      "total_plays_this_week": 297
+      "total_tracks_this_week": 240,
+      "total_plays_this_week": 277
     },
     "top_artists": {
       "overall": [
         {
           "name": "Dominic Fike",
-          "playcount": 28,
+          "playcount": 29,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 1
         },
@@ -94,44 +94,44 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 11,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 4
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 10,
+          "playcount": 12,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
+        },
+        {
+          "name": "The Home Team",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/The+Home+Team",
+          "rank": 6
+        },
+        {
+          "name": "Tate McRae",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Tate+McRae",
+          "rank": 7
         },
         {
           "name": "Malcolm Todd",
           "playcount": 10,
           "url": "https://www.last.fm/music/Malcolm+Todd",
-          "rank": 6
+          "rank": 8
         },
         {
           "name": "Paramore",
           "playcount": 10,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 7
-        },
-        {
-          "name": "The Home Team",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/The+Home+Team",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "5 Seconds of Summer",
           "playcount": 9,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
-          "rank": 9
-        },
-        {
-          "name": "Hozier",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Hozier",
           "rank": 10
         }
       ]
@@ -160,52 +160,52 @@
           "rank": 3
         },
         {
+          "name": "Dark Blue",
+          "artist": "Jack's Mannequin",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
+          "rank": 4
+        },
+        {
+          "name": "Loca Playa",
+          "artist": "Santax",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Santax/_/Loca+Playa",
+          "rank": 5
+        },
+        {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 4
+          "rank": 6
         },
         {
           "name": "So Cold",
           "artist": "Balu Brigada",
           "playcount": 3,
           "url": "https://www.last.fm/music/Balu+Brigada/_/So+Cold",
-          "rank": 5
+          "rank": 7
         },
         {
           "name": "How Much Is Weed?",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
-          "rank": 6
+          "rank": 8
         },
         {
           "name": "Borderline",
           "artist": "Ely Oaks",
           "playcount": 3,
           "url": "https://www.last.fm/music/Ely+Oaks/_/Borderline",
-          "rank": 7
-        },
-        {
-          "name": "Back N Forth",
-          "artist": "Jack Murnin",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Jack+Murnin/_/Back+N+Forth",
-          "rank": 8
-        },
-        {
-          "name": "Dark Blue",
-          "artist": "Jack's Mannequin",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
           "rank": 9
         },
         {
-          "name": "Backseat",
-          "artist": "Jackson Laird",
+          "name": "Fourth of July",
+          "artist": "Fall Out Boy",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Jackson+Laird/_/Backseat",
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
           "rank": 10
         }
       ],
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 4
+        },
+        {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 4
-        },
-        {
-          "name": "cough drops",
-          "artist": "Almost Monday",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
           "rank": 5
         }
       ]
@@ -271,21 +271,21 @@
           "rank": 3
         },
         {
+          "name": "The Crucible of Life",
+          "artist": "The Home Team",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "rank": 4
+        },
+        {
           "name": "britney in 07",
           "artist": "blackbear",
           "playcount": 5,
           "url": "https://www.last.fm/music/blackbear/britney+in+07",
-          "rank": 4
-        },
-        {
-          "name": "What Could Possibly Go Wrong",
-          "artist": "Dominic Fike",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Dominic+Fike/What+Could+Possibly+Go+Wrong",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2025-12-19T12:48:19.470242"
+    "fetched_at": "2025-12-20T01:47:21.130946"
   }
 }
