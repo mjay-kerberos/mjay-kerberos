@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-20T12:43:08.776671Z",
+  "collected_at": "2025-12-21T01:59:38.663170Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-20T12:43:09.225517",
+    "fetched_at": "2025-12-21T01:59:39.193805",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-20T12:43:10.067832"
+      "fetched_at": "2025-12-21T01:59:40.110411"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 605,
+      "total_scrobbles": 631,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 605,
-      "estimated_minutes": 2118,
-      "estimated_hours": 35.3,
+      "total_scrobbles": 631,
+      "estimated_minutes": 2208,
+      "estimated_hours": 36.8,
       "estimated_days": 1.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 298,
-        "estimated_minutes": 1043,
-        "estimated_hours": 17.4,
+        "total_scrobbles": 262,
+        "estimated_minutes": 917,
+        "estimated_hours": 15.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 605,
-        "estimated_minutes": 2118,
-        "estimated_hours": 35.3,
+        "total_scrobbles": 631,
+        "estimated_minutes": 2208,
+        "estimated_hours": 36.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 605,
-        "estimated_minutes": 2118,
-        "estimated_hours": 35.3,
+        "total_scrobbles": 631,
+        "estimated_minutes": 2208,
+        "estimated_hours": 36.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 240,
-      "total_plays_this_week": 277
+      "total_tracks_this_week": 252,
+      "total_plays_this_week": 299
     },
     "top_artists": {
       "overall": [
@@ -81,57 +81,57 @@
           "rank": 1
         },
         {
+          "name": "Panic! at the Disco",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
+          "rank": 2
+        },
+        {
           "name": "Bad Bunny",
           "playcount": 18,
           "url": "https://www.last.fm/music/Bad+Bunny",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Jutes",
           "playcount": 16,
           "url": "https://www.last.fm/music/Jutes",
-          "rank": 3
-        },
-        {
-          "name": "Panic! at the Disco",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 4
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 12,
+          "playcount": 14,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
+        },
+        {
+          "name": "Paramore",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Paramore",
+          "rank": 6
         },
         {
           "name": "The Home Team",
           "playcount": 12,
           "url": "https://www.last.fm/music/The+Home+Team",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Tate McRae",
           "playcount": 11,
           "url": "https://www.last.fm/music/Tate+McRae",
-          "rank": 7
+          "rank": 8
+        },
+        {
+          "name": "5 Seconds of Summer",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
+          "rank": 9
         },
         {
           "name": "Malcolm Todd",
           "playcount": 10,
           "url": "https://www.last.fm/music/Malcolm+Todd",
-          "rank": 8
-        },
-        {
-          "name": "Paramore",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/Paramore",
-          "rank": 9
-        },
-        {
-          "name": "5 Seconds of Summer",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 10
         }
       ]
@@ -225,24 +225,24 @@
           "rank": 2
         },
         {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 3
-        },
-        {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 3,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 3
+        },
+        {
+          "name": "cough drops",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
           "rank": 4
         },
         {
-          "name": "Start Over",
-          "artist": "5 Seconds of Summer",
+          "name": "blushing!",
+          "artist": "Between Friends",
           "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
+          "url": "https://www.last.fm/music/Between+Friends/_/blushing!",
           "rank": 5
         }
       ]
@@ -264,28 +264,28 @@
           "rank": 2
         },
         {
-          "name": "I Barely Know Her",
-          "artist": "sombr",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/sombr/I+Barely+Know+Her",
+          "name": "A Fever You Can't Sweat Out",
+          "artist": "Panic! at the Disco",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Panic!+at+the+Disco/A+Fever+You+Can%27t+Sweat+Out",
           "rank": 3
         },
         {
-          "name": "The Crucible of Life",
-          "artist": "The Home Team",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "name": "RIOT!",
+          "artist": "Paramore",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Paramore/RIOT!",
           "rank": 4
         },
         {
-          "name": "britney in 07",
-          "artist": "blackbear",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/blackbear/britney+in+07",
+          "name": "Death of a Bachelor",
+          "artist": "Panic! at the Disco",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Panic!+at+the+Disco/Death+of+a+Bachelor",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2025-12-20T12:43:12.766524"
+    "fetched_at": "2025-12-21T01:59:43.131190"
   }
 }
