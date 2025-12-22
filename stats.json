@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-22T01:59:03.197438Z",
+  "collected_at": "2025-12-22T12:49:47.717424Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-22T01:59:03.624412",
+    "fetched_at": "2025-12-22T12:49:48.244818",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-22T01:59:04.431227"
+      "fetched_at": "2025-12-22T12:49:49.026857"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 646,
+      "total_scrobbles": 648,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 646,
-      "estimated_minutes": 2261,
-      "estimated_hours": 37.7,
+      "total_scrobbles": 648,
+      "estimated_minutes": 2268,
+      "estimated_hours": 37.8,
       "estimated_days": 1.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 257,
-        "estimated_minutes": 900,
-        "estimated_hours": 15.0,
+        "total_scrobbles": 230,
+        "estimated_minutes": 805,
+        "estimated_hours": 13.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 646,
-        "estimated_minutes": 2261,
-        "estimated_hours": 37.7,
+        "total_scrobbles": 648,
+        "estimated_minutes": 2268,
+        "estimated_hours": 37.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 646,
-        "estimated_minutes": 2261,
-        "estimated_hours": 37.7,
+        "total_scrobbles": 648,
+        "estimated_minutes": 2268,
+        "estimated_hours": 37.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -174,38 +174,38 @@
           "rank": 5
         },
         {
+          "name": "Game Over",
+          "artist": "Vitaa",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
+          "rank": 6
+        },
+        {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "So Cold",
           "artist": "Balu Brigada",
           "playcount": 3,
           "url": "https://www.last.fm/music/Balu+Brigada/_/So+Cold",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "How Much Is Weed?",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Sandman",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Sandman",
-          "rank": 9
-        },
-        {
-          "name": "Borderline",
-          "artist": "Ely Oaks",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Ely+Oaks/_/Borderline",
           "rank": 10
         }
       ],
@@ -213,7 +213,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 7,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2025-12-22T01:59:07.391133"
+    "fetched_at": "2025-12-22T12:49:53.679753"
   }
 }
