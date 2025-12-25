@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-25T01:54:51.920221Z",
+  "collected_at": "2025-12-25T12:48:42.734262Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-25T01:54:52.555567",
+    "fetched_at": "2025-12-25T12:48:43.306608",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-25T01:54:53.443495"
+      "fetched_at": "2025-12-25T12:48:44.278052"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 892,
+      "total_scrobbles": 953,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 892,
-      "estimated_minutes": 3122,
-      "estimated_hours": 52.0,
-      "estimated_days": 2.2,
+      "total_scrobbles": 953,
+      "estimated_minutes": 3336,
+      "estimated_hours": 55.6,
+      "estimated_days": 2.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 347,
-        "estimated_minutes": 1214,
-        "estimated_hours": 20.2,
+        "total_scrobbles": 398,
+        "estimated_minutes": 1393,
+        "estimated_hours": 23.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 892,
-        "estimated_minutes": 3122,
-        "estimated_hours": 52.0,
+        "total_scrobbles": 953,
+        "estimated_minutes": 3336,
+        "estimated_hours": 55.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 892,
-        "estimated_minutes": 3122,
-        "estimated_hours": 52.0,
+        "total_scrobbles": 953,
+        "estimated_minutes": 3336,
+        "estimated_hours": 55.6,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -88,7 +88,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 31,
+          "playcount": 32,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -195,54 +195,54 @@
           "rank": 8
         },
         {
+          "name": "Winter Wonderland - Spotify Singles Holiday",
+          "artist": "Laufey",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday",
+          "rank": 9
+        },
+        {
           "name": "Loca Playa",
           "artist": "Santax",
           "playcount": 5,
           "url": "https://www.last.fm/music/Santax/_/Loca+Playa",
-          "rank": 9
-        },
-        {
-          "name": "Brain Stew",
-          "artist": "Green Day",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Green+Day/_/Brain+Stew",
           "rank": 10
         }
       ],
       "week": [
         {
+          "name": "Winter Wonderland - Spotify Singles Holiday",
+          "artist": "Laufey",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday",
+          "rank": 1
+        },
+        {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 4,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "Drown",
           "artist": "Bring Me the Horizon",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bring+Me+the+Horizon/_/Drown",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 4,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 4,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 4
-        },
-        {
-          "name": "The Last of the Real Ones",
-          "artist": "Fall Out Boy",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2025-12-25T01:54:56.715246"
+    "fetched_at": "2025-12-25T12:48:47.775604"
   }
 }
