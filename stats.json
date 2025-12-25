@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-24T12:49:24.868917Z",
+  "collected_at": "2025-12-25T01:54:51.920221Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-24T12:49:25.416662",
+    "fetched_at": "2025-12-25T01:54:52.555567",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-24T12:49:26.354234"
+      "fetched_at": "2025-12-25T01:54:53.443495"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 845,
+      "total_scrobbles": 892,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 845,
-      "estimated_minutes": 2958,
-      "estimated_hours": 49.3,
-      "estimated_days": 2.1,
+      "total_scrobbles": 892,
+      "estimated_minutes": 3122,
+      "estimated_hours": 52.0,
+      "estimated_days": 2.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 373,
-        "estimated_minutes": 1306,
-        "estimated_hours": 21.8,
+        "total_scrobbles": 347,
+        "estimated_minutes": 1214,
+        "estimated_hours": 20.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 845,
-        "estimated_minutes": 2958,
-        "estimated_hours": 49.3,
+        "total_scrobbles": 892,
+        "estimated_minutes": 3122,
+        "estimated_hours": 52.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 845,
-        "estimated_minutes": 2958,
-        "estimated_hours": 49.3,
+        "total_scrobbles": 892,
+        "estimated_minutes": 3122,
+        "estimated_hours": 52.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 261,
-      "total_plays_this_week": 303
+      "total_tracks_this_week": 319,
+      "total_plays_this_week": 374
     },
     "top_artists": {
       "overall": [
@@ -123,15 +123,15 @@
           "rank": 8
         },
         {
-          "name": "Tate McRae",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "name": "Sabrina Carpenter",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Sabrina+Carpenter",
           "rank": 9
         },
         {
-          "name": "Malcolm Todd",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "name": "Tate McRae",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 10
         }
       ]
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Start Over",
-          "artist": "5 Seconds of Summer",
+          "name": "The Last of the Real Ones",
+          "artist": "Fall Out Boy",
           "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
           "rank": 5
         }
       ]
@@ -278,14 +278,14 @@
           "rank": 4
         },
         {
-          "name": "A Fever You Can't Sweat Out",
-          "artist": "Panic! at the Disco",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Panic!+at+the+Disco/A+Fever+You+Can%27t+Sweat+Out",
+          "name": "fruitcake",
+          "artist": "Sabrina Carpenter",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Sabrina+Carpenter/fruitcake",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2025-12-24T12:49:30.143486"
+    "fetched_at": "2025-12-25T01:54:56.715246"
   }
 }
