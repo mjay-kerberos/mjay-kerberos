@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-25T12:48:42.734262Z",
+  "collected_at": "2025-12-26T01:53:54.562633Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-25T12:48:43.306608",
+    "fetched_at": "2025-12-26T01:53:55.070165",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-25T12:48:44.278052"
+      "fetched_at": "2025-12-26T01:53:56.025897"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 398,
-        "estimated_minutes": 1393,
-        "estimated_hours": 23.2,
+        "total_scrobbles": 383,
+        "estimated_minutes": 1340,
+        "estimated_hours": 22.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 319,
-      "total_plays_this_week": 374
+      "total_tracks_this_week": 290,
+      "total_plays_this_week": 398
     },
     "top_artists": {
       "overall": [
@@ -211,31 +211,31 @@
       ],
       "week": [
         {
-          "name": "Winter Wonderland - Spotify Singles Holiday",
-          "artist": "Laufey",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday",
-          "rank": 1
-        },
-        {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 4,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Drown",
           "artist": "Bring Me the Horizon",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bring+Me+the+Horizon/_/Drown",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 4,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
+          "rank": 3
+        },
+        {
+          "name": "Winter Wonderland - Spotify Singles Holiday",
+          "artist": "Laufey",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday",
           "rank": 4
         },
         {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2025-12-25T12:48:47.775604"
+    "fetched_at": "2025-12-26T01:53:59.103764"
   }
 }
