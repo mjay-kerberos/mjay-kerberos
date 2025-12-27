@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-27T01:51:32.186689Z",
+  "collected_at": "2025-12-27T12:45:20.916880Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-27T01:51:32.727253",
+    "fetched_at": "2025-12-27T12:45:21.373825",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-27T01:51:33.532378"
+      "fetched_at": "2025-12-27T12:45:22.387750"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 977,
+      "total_scrobbles": 1000,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 977,
-      "estimated_minutes": 3420,
-      "estimated_hours": 57.0,
+      "total_scrobbles": 1000,
+      "estimated_minutes": 3500,
+      "estimated_hours": 58.3,
       "estimated_days": 2.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 371,
-        "estimated_minutes": 1298,
-        "estimated_hours": 21.6,
+        "total_scrobbles": 394,
+        "estimated_minutes": 1379,
+        "estimated_hours": 23.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 977,
-        "estimated_minutes": 3420,
-        "estimated_hours": 57.0,
+        "total_scrobbles": 1000,
+        "estimated_minutes": 3500,
+        "estimated_hours": 58.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 977,
-        "estimated_minutes": 3420,
-        "estimated_hours": 57.0,
+        "total_scrobbles": 1000,
+        "estimated_minutes": 3500,
+        "estimated_hours": 58.3,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -82,7 +82,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 33,
+          "playcount": 34,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 2
         },
@@ -94,13 +94,13 @@
         },
         {
           "name": "Paramore",
-          "playcount": 26,
+          "playcount": 27,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 4
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 5
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2025-12-27T01:51:38.282683"
+    "fetched_at": "2025-12-27T12:45:27.114194"
   }
 }
