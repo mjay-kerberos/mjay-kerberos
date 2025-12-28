@@ -1,5 +1,5 @@
 {
-  "collected_at": "2025-12-27T12:45:20.916880Z",
+  "collected_at": "2025-12-28T02:05:22.437497Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2025,
-    "fetched_at": "2025-12-27T12:45:21.373825",
+    "fetched_at": "2025-12-28T02:05:23.122761",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 33,
-      "fetched_at": "2025-12-27T12:45:22.387750"
+      "fetched_at": "2025-12-28T02:05:24.087799"
     }
   },
   "lastfm": {
@@ -34,74 +34,74 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1000,
+      "total_scrobbles": 1123,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1000,
-      "estimated_minutes": 3500,
-      "estimated_hours": 58.3,
-      "estimated_days": 2.4,
+      "total_scrobbles": 1123,
+      "estimated_minutes": 3930,
+      "estimated_hours": 65.5,
+      "estimated_days": 2.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 394,
-        "estimated_minutes": 1379,
-        "estimated_hours": 23.0,
+        "total_scrobbles": 491,
+        "estimated_minutes": 1718,
+        "estimated_hours": 28.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1000,
-        "estimated_minutes": 3500,
-        "estimated_hours": 58.3,
+        "total_scrobbles": 1123,
+        "estimated_minutes": 3930,
+        "estimated_hours": 65.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1000,
-        "estimated_minutes": 3500,
-        "estimated_hours": 58.3,
+        "total_scrobbles": 1123,
+        "estimated_minutes": 3930,
+        "estimated_hours": 65.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 281,
-      "total_plays_this_week": 383
+      "total_tracks_this_week": 285,
+      "total_plays_this_week": 394
     },
     "top_artists": {
       "overall": [
         {
-          "name": "Fall Out Boy",
-          "playcount": 36,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "5 Seconds of Summer",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
+        },
+        {
+          "name": "Fall Out Boy",
+          "playcount": 39,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "rank": 2
+        },
+        {
+          "name": "Dominic Fike",
+          "playcount": 34,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 3
         },
         {
           "name": "Panic! at the Disco",
           "playcount": 34,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
-          "rank": 2
-        },
-        {
-          "name": "Dominic Fike",
-          "playcount": 32,
-          "url": "https://www.last.fm/music/Dominic+Fike",
-          "rank": 3
-        },
-        {
-          "name": "Paramore",
-          "playcount": 27,
-          "url": "https://www.last.fm/music/Paramore",
           "rank": 4
         },
         {
-          "name": "5 Seconds of Summer",
-          "playcount": 25,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
+          "name": "Paramore",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/Paramore",
           "rank": 5
         },
         {
@@ -117,21 +117,21 @@
           "rank": 7
         },
         {
-          "name": "Jutes",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/Jutes",
+          "name": "Sabrina Carpenter",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Sabrina+Carpenter",
           "rank": 8
         },
         {
-          "name": "Sabrina Carpenter",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Sabrina+Carpenter",
+          "name": "Tate McRae",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 9
         },
         {
-          "name": "Tate McRae",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "name": "Jutes",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/Jutes",
           "rank": 10
         }
       ]
@@ -146,103 +146,103 @@
           "rank": 1
         },
         {
+          "name": "Start Over",
+          "artist": "5 Seconds of Summer",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
+          "rank": 2
+        },
+        {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 3
-        },
-        {
-          "name": "Start Over",
-          "artist": "5 Seconds of Summer",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
           "rank": 4
         },
         {
           "name": "britney in 07",
           "artist": "blackbear",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
           "rank": 5
         },
         {
           "name": "The Last of the Real Ones",
           "artist": "Fall Out Boy",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
           "rank": 6
+        },
+        {
+          "name": "Loca Playa",
+          "artist": "Santax",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Santax/_/Loca+Playa",
+          "rank": 7
+        },
+        {
+          "name": "someone new",
+          "artist": "Arden Jones",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Arden+Jones/_/someone+new",
+          "rank": 8
         },
         {
           "name": "Drown",
           "artist": "Bring Me the Horizon",
           "playcount": 5,
           "url": "https://www.last.fm/music/Bring+Me+the+Horizon/_/Drown",
-          "rank": 7
+          "rank": 9
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 5,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 8
-        },
-        {
-          "name": "Winter Wonderland - Spotify Singles Holiday",
-          "artist": "Laufey",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday",
-          "rank": 9
-        },
-        {
-          "name": "Loca Playa",
-          "artist": "Santax",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Santax/_/Loca+Playa",
           "rank": 10
         }
       ],
       "week": [
         {
+          "name": "Start Over",
+          "artist": "5 Seconds of Summer",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
+          "rank": 1
+        },
+        {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
-          "playcount": 5,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 1
+          "rank": 2
+        },
+        {
+          "name": "someone new",
+          "artist": "Arden Jones",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Arden+Jones/_/someone+new",
+          "rank": 3
+        },
+        {
+          "name": "The Last of the Real Ones",
+          "artist": "Fall Out Boy",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
+          "rank": 4
         },
         {
           "name": "Drown",
           "artist": "Bring Me the Horizon",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bring+Me+the+Horizon/_/Drown",
-          "rank": 2
-        },
-        {
-          "name": "The Last of the Real Ones",
-          "artist": "Fall Out Boy",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
-          "rank": 3
-        },
-        {
-          "name": "Winter Wonderland - Spotify Singles Holiday",
-          "artist": "Laufey",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday",
-          "rank": 4
-        },
-        {
-          "name": "Thank God It's Christmas - 2011 Remaster",
-          "artist": "Queen",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Queen/_/Thank+God+It%27s+Christmas+-+2011+Remaster",
           "rank": 5
         }
       ]
@@ -278,14 +278,14 @@
           "rank": 4
         },
         {
-          "name": "fruitcake",
-          "artist": "Sabrina Carpenter",
+          "name": "EVERYONE'S A STAR!",
+          "artist": "5 Seconds of Summer",
           "playcount": 11,
-          "url": "https://www.last.fm/music/Sabrina+Carpenter/fruitcake",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2025-12-27T12:45:27.114194"
+    "fetched_at": "2025-12-28T02:05:28.064950"
   }
 }
