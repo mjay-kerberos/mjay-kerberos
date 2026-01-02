@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-01-02T01:56:51.235220Z",
+  "collected_at": "2026-01-02T12:48:19.683038Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 1,
-    "public_commits": 1,
+    "total_commits_this_year": 11,
+    "public_commits": 11,
     "private_commits": 0,
-    "commits_this_month": 2,
+    "commits_this_month": 12,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 2,
+    "total_contributions": 12,
     "repos_owned": 51,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-02T01:56:51.888011",
+    "fetched_at": "2026-01-02T12:48:20.220802",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 34,
-      "fetched_at": "2026-01-02T01:56:53.157054"
+      "fetched_at": "2026-01-02T12:48:21.333347"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1515,
+      "total_scrobbles": 1549,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1515,
-      "estimated_minutes": 5302,
-      "estimated_hours": 88.4,
-      "estimated_days": 3.7,
+      "total_scrobbles": 1549,
+      "estimated_minutes": 5422,
+      "estimated_hours": 90.4,
+      "estimated_days": 3.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 562,
-        "estimated_minutes": 1967,
-        "estimated_hours": 32.8,
+        "total_scrobbles": 596,
+        "estimated_minutes": 2086,
+        "estimated_hours": 34.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1515,
-        "estimated_minutes": 5302,
-        "estimated_hours": 88.4,
+        "total_scrobbles": 1549,
+        "estimated_minutes": 5422,
+        "estimated_hours": 90.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1515,
-        "estimated_minutes": 5302,
-        "estimated_hours": 88.4,
+        "total_scrobbles": 1549,
+        "estimated_minutes": 5422,
+        "estimated_hours": 90.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -129,9 +129,9 @@
           "rank": 9
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "ROLE MODEL",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/ROLE+MODEL",
           "rank": 10
         }
       ]
@@ -225,24 +225,24 @@
           "rank": 2
         },
         {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 3
+        },
+        {
           "name": "Evolve",
           "artist": "5 Seconds of Summer",
           "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "someone new",
           "artist": "Arden Jones",
           "playcount": 4,
           "url": "https://www.last.fm/music/Arden+Jones/_/someone+new",
-          "rank": 4
-        },
-        {
-          "name": "ANGEL",
-          "artist": "Dutch Melrose",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Dutch+Melrose/_/ANGEL",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-02T01:56:58.357503"
+    "fetched_at": "2026-01-02T12:48:26.769264"
   }
 }
