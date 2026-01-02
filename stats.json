@@ -1,32 +1,32 @@
 {
-  "collected_at": "2026-01-01T12:49:52.925545Z",
+  "collected_at": "2026-01-02T01:56:51.235220Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 0,
-    "public_commits": 0,
+    "total_commits_this_year": 1,
+    "public_commits": 1,
     "private_commits": 0,
-    "commits_this_month": 0,
+    "commits_this_month": 2,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 0,
-    "repos_owned": 50,
+    "total_contributions": 2,
+    "repos_owned": 51,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-01T12:49:53.386520",
+    "fetched_at": "2026-01-02T01:56:51.888011",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
-      "total_repos": 50,
+      "total_repos": 51,
       "public_repos": 23,
-      "private_repos": 27,
+      "private_repos": 28,
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
       "total_stars_received": 219,
-      "total_forks_received": 33,
-      "fetched_at": "2026-01-01T12:49:54.306939"
+      "total_forks_received": 34,
+      "fetched_at": "2026-01-02T01:56:53.157054"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1480,
+      "total_scrobbles": 1515,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1480,
-      "estimated_minutes": 5180,
-      "estimated_hours": 86.3,
-      "estimated_days": 3.6,
+      "total_scrobbles": 1515,
+      "estimated_minutes": 5302,
+      "estimated_hours": 88.4,
+      "estimated_days": 3.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 527,
-        "estimated_minutes": 1844,
-        "estimated_hours": 30.7,
+        "total_scrobbles": 562,
+        "estimated_minutes": 1967,
+        "estimated_hours": 32.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1480,
-        "estimated_minutes": 5180,
-        "estimated_hours": 86.3,
+        "total_scrobbles": 1515,
+        "estimated_minutes": 5302,
+        "estimated_hours": 88.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1480,
-        "estimated_minutes": 5180,
-        "estimated_hours": 86.3,
+        "total_scrobbles": 1515,
+        "estimated_minutes": 5302,
+        "estimated_hours": 88.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 413,
-      "total_plays_this_week": 558
+      "total_tracks_this_week": 386,
+      "total_plays_this_week": 527
     },
     "top_artists": {
       "overall": [
@@ -82,7 +82,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 42,
+          "playcount": 46,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 2
         },
@@ -94,32 +94,32 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 34,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 4
         },
         {
           "name": "Paramore",
-          "playcount": 30,
+          "playcount": 34,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 5
+        },
+        {
+          "name": "The Home Team",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/The+Home+Team",
+          "rank": 6
         },
         {
           "name": "The Weeknd",
           "playcount": 27,
           "url": "https://www.last.fm/music/The+Weeknd",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Tate McRae",
           "playcount": 24,
           "url": "https://www.last.fm/music/Tate+McRae",
-          "rank": 7
-        },
-        {
-          "name": "The Home Team",
-          "playcount": 24,
-          "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 8
         },
         {
@@ -271,21 +271,21 @@
           "rank": 3
         },
         {
+          "name": "The Crucible of Life",
+          "artist": "The Home Team",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "rank": 4
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 14,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 4
-        },
-        {
-          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
-          "artist": "The Runarounds",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-01T12:49:59.164545"
+    "fetched_at": "2026-01-02T01:56:58.357503"
   }
 }
