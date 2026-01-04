@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-01-04T02:06:39.638180Z",
+  "collected_at": "2026-01-04T12:46:33.692868Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 13,
-    "public_commits": 13,
+    "total_commits_this_year": 15,
+    "public_commits": 15,
     "private_commits": 0,
-    "commits_this_month": 14,
+    "commits_this_month": 16,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 14,
+    "total_contributions": 16,
     "repos_owned": 51,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-04T02:06:40.196332",
+    "fetched_at": "2026-01-04T12:46:34.060886",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 35,
-      "fetched_at": "2026-01-04T02:06:41.416954"
+      "fetched_at": "2026-01-04T12:46:34.912865"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1631,
+      "total_scrobbles": 1642,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1631,
-      "estimated_minutes": 5708,
-      "estimated_hours": 95.1,
+      "total_scrobbles": 1642,
+      "estimated_minutes": 5747,
+      "estimated_hours": 95.8,
       "estimated_days": 4.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 506,
-        "estimated_minutes": 1771,
-        "estimated_hours": 29.5,
+        "total_scrobbles": 484,
+        "estimated_minutes": 1694,
+        "estimated_hours": 28.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1631,
-        "estimated_minutes": 5708,
-        "estimated_hours": 95.1,
+        "total_scrobbles": 1642,
+        "estimated_minutes": 5747,
+        "estimated_hours": 95.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1631,
-        "estimated_minutes": 5708,
-        "estimated_hours": 95.1,
+        "total_scrobbles": 1642,
+        "estimated_minutes": 5747,
+        "estimated_hours": 95.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -130,7 +130,7 @@
         },
         {
           "name": "ROLE MODEL",
-          "playcount": 19,
+          "playcount": 20,
           "url": "https://www.last.fm/music/ROLE+MODEL",
           "rank": 10
         }
@@ -155,7 +155,7 @@
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
-          "playcount": 9,
+          "playcount": 10,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 3
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-04T02:06:51.508931"
+    "fetched_at": "2026-01-04T12:46:39.057699"
   }
 }
