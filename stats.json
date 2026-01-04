@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-01-03T12:45:32.154197Z",
+  "collected_at": "2026-01-04T02:06:39.638180Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 11,
-    "public_commits": 11,
+    "total_commits_this_year": 13,
+    "public_commits": 13,
     "private_commits": 0,
-    "commits_this_month": 12,
+    "commits_this_month": 14,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 12,
+    "total_contributions": 14,
     "repos_owned": 51,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-03T12:45:33.229693",
+    "fetched_at": "2026-01-04T02:06:40.196332",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 35,
-      "fetched_at": "2026-01-03T12:45:34.300131"
+      "fetched_at": "2026-01-04T02:06:41.416954"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1603,
+      "total_scrobbles": 1631,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1603,
-      "estimated_minutes": 5610,
-      "estimated_hours": 93.5,
-      "estimated_days": 3.9,
+      "total_scrobbles": 1631,
+      "estimated_minutes": 5708,
+      "estimated_hours": 95.1,
+      "estimated_days": 4.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 603,
-        "estimated_minutes": 2110,
-        "estimated_hours": 35.2,
+        "total_scrobbles": 506,
+        "estimated_minutes": 1771,
+        "estimated_hours": 29.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1603,
-        "estimated_minutes": 5610,
-        "estimated_hours": 93.5,
+        "total_scrobbles": 1631,
+        "estimated_minutes": 5708,
+        "estimated_hours": 95.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1603,
-        "estimated_minutes": 5610,
-        "estimated_hours": 93.5,
+        "total_scrobbles": 1631,
+        "estimated_minutes": 5708,
+        "estimated_hours": 95.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 435,
-      "total_plays_this_week": 596
+      "total_tracks_this_week": 455,
+      "total_plays_this_week": 606
     },
     "top_artists": {
       "overall": [
@@ -211,38 +211,38 @@
       ],
       "week": [
         {
-          "name": "Bittersweet Dreams",
-          "artist": "David Kushner",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/David+Kushner/_/Bittersweet+Dreams",
-          "rank": 1
-        },
-        {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 5,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 1
+        },
+        {
+          "name": "Bittersweet Dreams",
+          "artist": "David Kushner",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/David+Kushner/_/Bittersweet+Dreams",
           "rank": 2
-        },
-        {
-          "name": "Evolve",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
-          "rank": 3
-        },
-        {
-          "name": "Start Over",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 4
         },
         {
           "name": "ANGEL",
           "artist": "Dutch Melrose",
           "playcount": 4,
           "url": "https://www.last.fm/music/Dutch+Melrose/_/ANGEL",
+          "rank": 3
+        },
+        {
+          "name": "What A Life",
+          "artist": "Ruel",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Ruel/_/What+A+Life",
+          "rank": 4
+        },
+        {
+          "name": "Irregular",
+          "artist": "Stephen Dawes",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Stephen+Dawes/_/Irregular",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-03T12:45:41.131631"
+    "fetched_at": "2026-01-04T02:06:51.508931"
   }
 }
