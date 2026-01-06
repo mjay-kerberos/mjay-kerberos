@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-05T12:53:19.690097Z",
+  "collected_at": "2026-01-06T01:57:02.279736Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-05T12:53:20.254932",
+    "fetched_at": "2026-01-06T01:57:02.821426",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 219,
       "total_forks_received": 35,
-      "fetched_at": "2026-01-05T12:53:21.482818"
+      "fetched_at": "2026-01-06T01:57:04.212929"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1686,
+      "total_scrobbles": 1736,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1686,
-      "estimated_minutes": 5901,
-      "estimated_hours": 98.3,
-      "estimated_days": 4.1,
+      "total_scrobbles": 1736,
+      "estimated_minutes": 6076,
+      "estimated_hours": 101.3,
+      "estimated_days": 4.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 465,
-        "estimated_minutes": 1628,
-        "estimated_hours": 27.1,
+        "total_scrobbles": 470,
+        "estimated_minutes": 1645,
+        "estimated_hours": 27.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1686,
-        "estimated_minutes": 5901,
-        "estimated_hours": 98.3,
+        "total_scrobbles": 1727,
+        "estimated_minutes": 6044,
+        "estimated_hours": 100.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1686,
-        "estimated_minutes": 5901,
-        "estimated_hours": 98.3,
+        "total_scrobbles": 1736,
+        "estimated_minutes": 6076,
+        "estimated_hours": 101.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 390,
-      "total_plays_this_week": 485
+      "total_tracks_this_week": 364,
+      "total_plays_this_week": 467
     },
     "top_artists": {
       "overall": [
@@ -88,7 +88,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 40,
+          "playcount": 41,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
@@ -100,13 +100,13 @@
         },
         {
           "name": "Paramore",
-          "playcount": 34,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 5
         },
         {
           "name": "The Home Team",
-          "playcount": 29,
+          "playcount": 32,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 6
         },
@@ -123,15 +123,15 @@
           "rank": 8
         },
         {
-          "name": "Sabrina Carpenter",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Sabrina+Carpenter",
+          "name": "ROLE MODEL",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/ROLE+MODEL",
           "rank": 9
         },
         {
-          "name": "ROLE MODEL",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/ROLE+MODEL",
+          "name": "Sabrina Carpenter",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/Sabrina+Carpenter",
           "rank": 10
         }
       ]
@@ -174,17 +174,17 @@
           "rank": 5
         },
         {
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
+          "rank": 6
+        },
+        {
           "name": "britney in 07",
           "artist": "blackbear",
           "playcount": 7,
           "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
-          "rank": 6
-        },
-        {
-          "name": "wannabe!",
-          "artist": "Kevian Kraemer",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 7
         },
         {
@@ -195,17 +195,17 @@
           "rank": 8
         },
         {
+          "name": "Old Recliners",
+          "artist": "ROLE MODEL",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/ROLE+MODEL/_/Old+Recliners",
+          "rank": 9
+        },
+        {
           "name": "Loca Playa",
           "artist": "Santax",
           "playcount": 7,
           "url": "https://www.last.fm/music/Santax/_/Loca+Playa",
-          "rank": 9
-        },
-        {
-          "name": "someone new",
-          "artist": "Arden Jones",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Arden+Jones/_/someone+new",
           "rank": 10
         }
       ],
@@ -218,24 +218,24 @@
           "rank": 1
         },
         {
-          "name": "Bittersweet Dreams",
-          "artist": "David Kushner",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/David+Kushner/_/Bittersweet+Dreams",
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 2
+        },
+        {
+          "name": "Planet",
+          "artist": "Aidan Bissett",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Aidan+Bissett/_/Planet",
+          "rank": 3
         },
         {
           "name": "ANGEL",
           "artist": "Dutch Melrose",
           "playcount": 4,
           "url": "https://www.last.fm/music/Dutch+Melrose/_/ANGEL",
-          "rank": 3
-        },
-        {
-          "name": "What A Life",
-          "artist": "Ruel",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Ruel/_/What+A+Life",
           "rank": 4
         },
         {
@@ -264,28 +264,28 @@
           "rank": 2
         },
         {
+          "name": "The Crucible of Life",
+          "artist": "The Home Team",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "rank": 3
+        },
+        {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
           "playcount": 15,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
-          "rank": 3
-        },
-        {
-          "name": "The Crucible of Life",
-          "artist": "The Home Team",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 4
         },
         {
-          "name": "SO CLOSE TO WHAT??? (deluxe)",
-          "artist": "Tate McRae",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
+          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+          "artist": "The Runarounds",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-05T12:53:27.789436"
+    "fetched_at": "2026-01-06T01:57:10.615511"
   }
 }
