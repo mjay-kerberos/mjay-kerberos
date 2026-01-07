@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-06T12:51:38.101023Z",
+  "collected_at": "2026-01-07T01:56:42.721516Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-06T12:51:38.665504",
+    "fetched_at": "2026-01-07T01:56:43.119870",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-06T12:51:40.023558"
+      "fetched_at": "2026-01-07T01:56:44.061684"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1762,
+      "total_scrobbles": 1769,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1762,
-      "estimated_minutes": 6167,
-      "estimated_hours": 102.8,
+      "total_scrobbles": 1769,
+      "estimated_minutes": 6192,
+      "estimated_hours": 103.2,
       "estimated_days": 4.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 496,
-        "estimated_minutes": 1736,
-        "estimated_hours": 28.9,
+        "total_scrobbles": 387,
+        "estimated_minutes": 1354,
+        "estimated_hours": 22.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1742,
-        "estimated_minutes": 6097,
-        "estimated_hours": 101.6,
+        "total_scrobbles": 1721,
+        "estimated_minutes": 6024,
+        "estimated_hours": 100.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1762,
-        "estimated_minutes": 6167,
-        "estimated_hours": 102.8,
+        "total_scrobbles": 1769,
+        "estimated_minutes": 6192,
+        "estimated_hours": 103.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 364,
-      "total_plays_this_week": 467
+      "total_tracks_this_week": 391,
+      "total_plays_this_week": 497
     },
     "top_artists": {
       "overall": [
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
-          "name": "wannabe!",
-          "artist": "Kevian Kraemer",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
+          "name": "Amsterdam",
+          "artist": "Alfie Jukes",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Alfie+Jukes/_/Amsterdam",
           "rank": 2
         },
         {
-          "name": "Planet",
-          "artist": "Aidan Bissett",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Aidan+Bissett/_/Planet",
+          "name": "Had To See",
+          "artist": "Edwin",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Edwin/_/Had+To+See",
           "rank": 3
         },
         {
-          "name": "ANGEL",
-          "artist": "Dutch Melrose",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Dutch+Melrose/_/ANGEL",
+          "name": "Thnks fr th Mmrs",
+          "artist": "Fall Out Boy",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Thnks+fr+th+Mmrs",
           "rank": 4
         },
         {
-          "name": "Irregular",
-          "artist": "Stephen Dawes",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Stephen+Dawes/_/Irregular",
+          "name": "Bitter",
+          "artist": "Gunnar",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Gunnar/_/Bitter",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-06T12:51:46.683205"
+    "fetched_at": "2026-01-07T01:56:49.473805"
   }
 }
