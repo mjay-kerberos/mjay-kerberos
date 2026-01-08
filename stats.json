@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-07T12:52:34.457669Z",
+  "collected_at": "2026-01-08T01:56:53.379668Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-07T12:52:35.121129",
+    "fetched_at": "2026-01-08T01:56:53.754570",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,266 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-07T12:52:36.131036"
+      "fetched_at": "2026-01-08T01:56:54.697814"
     }
+  },
+  "lastfm": {
+    "user": {
+      "username": "julie-xandria",
+      "real_name": "",
+      "country": "None",
+      "total_scrobbles": 1823,
+      "registered": 1765297888,
+      "profile_url": "https://www.last.fm/user/julie-xandria"
+    },
+    "listening_time": {
+      "total_scrobbles": 1823,
+      "estimated_minutes": 6380,
+      "estimated_hours": 106.3,
+      "estimated_days": 4.4,
+      "avg_track_duration_assumed": 3.5
+    },
+    "listening_time_periods": {
+      "7day": {
+        "period": "7day",
+        "total_scrobbles": 343,
+        "estimated_minutes": 1200,
+        "estimated_hours": 20.0,
+        "avg_track_duration_assumed": 3.5
+      },
+      "1month": {
+        "period": "1month",
+        "total_scrobbles": 1765,
+        "estimated_minutes": 6178,
+        "estimated_hours": 103.0,
+        "avg_track_duration_assumed": 3.5
+      },
+      "12month": {
+        "period": "12month",
+        "total_scrobbles": 1796,
+        "estimated_minutes": 6286,
+        "estimated_hours": 104.8,
+        "avg_track_duration_assumed": 3.5
+      }
+    },
+    "weekly_stats": {
+      "total_tracks_this_week": 317,
+      "total_plays_this_week": 378
+    },
+    "top_artists": {
+      "overall": [
+        {
+          "name": "5 Seconds of Summer",
+          "playcount": 67,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
+          "rank": 1
+        },
+        {
+          "name": "Fall Out Boy",
+          "playcount": 48,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "rank": 2
+        },
+        {
+          "name": "Dominic Fike",
+          "playcount": 41,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 3
+        },
+        {
+          "name": "Tate McRae",
+          "playcount": 39,
+          "url": "https://www.last.fm/music/Tate+McRae",
+          "rank": 4
+        },
+        {
+          "name": "Panic! at the Disco",
+          "playcount": 37,
+          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
+          "rank": 5
+        },
+        {
+          "name": "Paramore",
+          "playcount": 36,
+          "url": "https://www.last.fm/music/Paramore",
+          "rank": 6
+        },
+        {
+          "name": "The Home Team",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/The+Home+Team",
+          "rank": 7
+        },
+        {
+          "name": "The Weeknd",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/The+Weeknd",
+          "rank": 8
+        },
+        {
+          "name": "ROLE MODEL",
+          "playcount": 24,
+          "url": "https://www.last.fm/music/ROLE+MODEL",
+          "rank": 9
+        },
+        {
+          "name": "Edwin",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/Edwin",
+          "rank": 10
+        }
+      ]
+    },
+    "top_tracks": {
+      "overall": [
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 1
+        },
+        {
+          "name": "Cheekbones",
+          "artist": "Arrows in Action",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
+          "rank": 2
+        },
+        {
+          "name": "Start Over",
+          "artist": "5 Seconds of Summer",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
+          "rank": 3
+        },
+        {
+          "name": "The Last of the Real Ones",
+          "artist": "Fall Out Boy",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
+          "rank": 4
+        },
+        {
+          "name": "Dark Blue",
+          "artist": "Jack's Mannequin",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
+          "rank": 5
+        },
+        {
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
+          "rank": 6
+        },
+        {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 7
+        },
+        {
+          "name": "britney in 07",
+          "artist": "blackbear",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
+          "rank": 8
+        },
+        {
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 9
+        },
+        {
+          "name": "Old Recliners",
+          "artist": "ROLE MODEL",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/ROLE+MODEL/_/Old+Recliners",
+          "rank": 10
+        }
+      ],
+      "week": [
+        {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 1
+        },
+        {
+          "name": "Thnks fr th Mmrs",
+          "artist": "Fall Out Boy",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Thnks+fr+th+Mmrs",
+          "rank": 2
+        },
+        {
+          "name": "Pretty Girl Rock",
+          "artist": "Keri Hilson",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Keri+Hilson/_/Pretty+Girl+Rock",
+          "rank": 3
+        },
+        {
+          "name": "My Own Worst Enemy",
+          "artist": "Lit",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Lit/_/My+Own+Worst+Enemy",
+          "rank": 4
+        },
+        {
+          "name": "Decode",
+          "artist": "Paramore",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Paramore/_/Decode",
+          "rank": 5
+        }
+      ]
+    },
+    "top_albums": {
+      "overall": [
+        {
+          "name": "EVERYONE'S A STAR!",
+          "artist": "5 Seconds of Summer",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
+          "rank": 1
+        },
+        {
+          "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+          "artist": "Bad Bunny",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
+          "rank": 2
+        },
+        {
+          "name": "SO CLOSE TO WHAT??? (deluxe)",
+          "artist": "Tate McRae",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
+          "rank": 3
+        },
+        {
+          "name": "The Crucible of Life",
+          "artist": "The Home Team",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "rank": 4
+        },
+        {
+          "name": "5SOS5",
+          "artist": "5 Seconds of Summer",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
+          "rank": 5
+        }
+      ]
+    },
+    "fetched_at": "2026-01-08T01:56:58.548552"
   }
 }
