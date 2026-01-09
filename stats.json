@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-09T01:58:00.369931Z",
+  "collected_at": "2026-01-09T12:51:48.566234Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-09T01:58:00.843313",
+    "fetched_at": "2026-01-09T12:51:49.122174",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-09T01:58:01.841823"
+      "fetched_at": "2026-01-09T12:51:50.287501"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1837,
+      "total_scrobbles": 1926,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1837,
-      "estimated_minutes": 6430,
-      "estimated_hours": 107.2,
-      "estimated_days": 4.5,
+      "total_scrobbles": 1926,
+      "estimated_minutes": 6741,
+      "estimated_hours": 112.3,
+      "estimated_days": 4.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 322,
-        "estimated_minutes": 1127,
-        "estimated_hours": 18.8,
+        "total_scrobbles": 377,
+        "estimated_minutes": 1320,
+        "estimated_hours": 22.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1704,
-        "estimated_minutes": 5964,
-        "estimated_hours": 99.4,
+        "total_scrobbles": 1739,
+        "estimated_minutes": 6086,
+        "estimated_hours": 101.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1810,
-        "estimated_minutes": 6335,
-        "estimated_hours": 105.6,
+        "total_scrobbles": 1842,
+        "estimated_minutes": 6447,
+        "estimated_hours": 107.5,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -81,57 +81,57 @@
           "rank": 1
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 49,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Almost Monday",
+          "playcount": 54,
+          "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 2
+        },
+        {
+          "name": "Fall Out Boy",
+          "playcount": 50,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "rank": 3
         },
         {
           "name": "Dominic Fike",
           "playcount": 41,
           "url": "https://www.last.fm/music/Dominic+Fike",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Tate McRae",
           "playcount": 39,
           "url": "https://www.last.fm/music/Tate+McRae",
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "Panic! at the Disco",
           "playcount": 37,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "Paramore",
           "playcount": 36,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "The Home Team",
           "playcount": 33,
           "url": "https://www.last.fm/music/The+Home+Team",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "The Weeknd",
           "playcount": 29,
           "url": "https://www.last.fm/music/The+Weeknd",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "ROLE MODEL",
           "playcount": 24,
           "url": "https://www.last.fm/music/ROLE+MODEL",
-          "rank": 9
-        },
-        {
-          "name": "Edwin",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/Edwin",
           "rank": 10
         }
       ]
@@ -160,24 +160,24 @@
           "rank": 3
         },
         {
+          "name": "The Last of the Real Ones",
+          "artist": "Fall Out Boy",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
+          "rank": 4
+        },
+        {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 10,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 9,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 5
-        },
-        {
-          "name": "The Last of the Real Ones",
-          "artist": "Fall Out Boy",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
           "rank": 6
         },
         {
@@ -211,17 +211,17 @@
       ],
       "week": [
         {
-          "name": "put a finger down",
-          "artist": "Edwin",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 1
-        },
-        {
           "name": "Game Over",
           "artist": "Vitaa",
           "playcount": 5,
           "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
+          "rank": 1
+        },
+        {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
           "rank": 2
         },
         {
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Planet",
-          "artist": "Aidan Bissett",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Aidan+Bissett/_/Planet",
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 5
         }
       ]
@@ -278,14 +278,14 @@
           "rank": 4
         },
         {
-          "name": "5SOS5",
-          "artist": "5 Seconds of Summer",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-09T01:58:06.766294"
+    "fetched_at": "2026-01-09T12:51:57.279896"
   }
 }
