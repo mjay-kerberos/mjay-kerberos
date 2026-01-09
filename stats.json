@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-08T12:52:52.371433Z",
+  "collected_at": "2026-01-09T01:58:00.369931Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-08T12:52:52.980596",
+    "fetched_at": "2026-01-09T01:58:00.843313",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-08T12:52:53.956332"
+      "fetched_at": "2026-01-09T01:58:01.841823"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1823,
+      "total_scrobbles": 1837,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1823,
-      "estimated_minutes": 6380,
-      "estimated_hours": 106.3,
-      "estimated_days": 4.4,
+      "total_scrobbles": 1837,
+      "estimated_minutes": 6430,
+      "estimated_hours": 107.2,
+      "estimated_days": 4.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 343,
-        "estimated_minutes": 1200,
-        "estimated_hours": 20.0,
+        "total_scrobbles": 322,
+        "estimated_minutes": 1127,
+        "estimated_hours": 18.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1765,
-        "estimated_minutes": 6178,
-        "estimated_hours": 103.0,
+        "total_scrobbles": 1704,
+        "estimated_minutes": 5964,
+        "estimated_hours": 99.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1796,
-        "estimated_minutes": 6286,
-        "estimated_hours": 104.8,
+        "total_scrobbles": 1810,
+        "estimated_minutes": 6335,
+        "estimated_hours": 105.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 317,
-      "total_plays_this_week": 378
+      "total_tracks_this_week": 299,
+      "total_plays_this_week": 345
     },
     "top_artists": {
       "overall": [
@@ -82,7 +82,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 48,
+          "playcount": 49,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 2
         },
@@ -112,7 +112,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 32,
+          "playcount": 33,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 7
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "Edwin",
-          "playcount": 22,
+          "playcount": 23,
           "url": "https://www.last.fm/music/Edwin",
           "rank": 10
         }
@@ -148,7 +148,7 @@
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
-          "playcount": 11,
+          "playcount": 12,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 2
         },
@@ -160,52 +160,52 @@
           "rank": 3
         },
         {
+          "name": "Dark Blue",
+          "artist": "Jack's Mannequin",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
+          "rank": 4
+        },
+        {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 5
+        },
+        {
           "name": "The Last of the Real Ones",
           "artist": "Fall Out Boy",
           "playcount": 9,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
-          "rank": 4
-        },
-        {
-          "name": "Dark Blue",
-          "artist": "Jack's Mannequin",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 9,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 6
+          "rank": 7
         },
         {
-          "name": "put a finger down",
-          "artist": "Edwin",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 7
+          "name": "Game Over",
+          "artist": "Vitaa",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
+          "rank": 8
         },
         {
           "name": "britney in 07",
           "artist": "blackbear",
           "playcount": 7,
           "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 7,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 9
-        },
-        {
-          "name": "Old Recliners",
-          "artist": "ROLE MODEL",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/ROLE+MODEL/_/Old+Recliners",
           "rank": 10
         }
       ],
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
-          "name": "Thnks fr th Mmrs",
-          "artist": "Fall Out Boy",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Thnks+fr+th+Mmrs",
+          "name": "Game Over",
+          "artist": "Vitaa",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
           "rank": 2
         },
         {
           "name": "Pretty Girl Rock",
           "artist": "Keri Hilson",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Keri+Hilson/_/Pretty+Girl+Rock",
           "rank": 3
         },
         {
-          "name": "My Own Worst Enemy",
-          "artist": "Lit",
+          "name": "Cheekbones",
+          "artist": "Arrows in Action",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Lit/_/My+Own+Worst+Enemy",
+          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 4
         },
         {
-          "name": "Decode",
-          "artist": "Paramore",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Paramore/_/Decode",
+          "name": "Planet",
+          "artist": "Aidan Bissett",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Aidan+Bissett/_/Planet",
           "rank": 5
         }
       ]
@@ -273,7 +273,7 @@
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
-          "playcount": 17,
+          "playcount": 18,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 4
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-08T12:52:58.852953"
+    "fetched_at": "2026-01-09T01:58:06.766294"
   }
 }
