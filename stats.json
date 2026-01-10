@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-09T12:51:48.566234Z",
+  "collected_at": "2026-01-10T01:54:03.779747Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-09T12:51:49.122174",
+    "fetched_at": "2026-01-10T01:54:04.355516",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-09T12:51:50.287501"
+      "fetched_at": "2026-01-10T01:54:05.246267"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1926,
+      "total_scrobbles": 1936,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1926,
-      "estimated_minutes": 6741,
-      "estimated_hours": 112.3,
+      "total_scrobbles": 1936,
+      "estimated_minutes": 6776,
+      "estimated_hours": 112.9,
       "estimated_days": 4.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 377,
-        "estimated_minutes": 1320,
-        "estimated_hours": 22.0,
+        "total_scrobbles": 330,
+        "estimated_minutes": 1155,
+        "estimated_hours": 19.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1739,
-        "estimated_minutes": 6086,
-        "estimated_hours": 101.4,
+        "total_scrobbles": 1683,
+        "estimated_minutes": 5890,
+        "estimated_hours": 98.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1842,
-        "estimated_minutes": 6447,
-        "estimated_hours": 107.5,
+        "total_scrobbles": 1848,
+        "estimated_minutes": 6468,
+        "estimated_hours": 107.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 299,
-      "total_plays_this_week": 345
+      "total_tracks_this_week": 323,
+      "total_plays_this_week": 378
     },
     "top_artists": {
       "overall": [
@@ -100,7 +100,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 39,
+          "playcount": 41,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "ROLE MODEL",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/ROLE+MODEL",
           "rank": 10
         }
@@ -250,24 +250,24 @@
     "top_albums": {
       "overall": [
         {
+          "name": "SO CLOSE TO WHAT??? (deluxe)",
+          "artist": "Tate McRae",
+          "playcount": 20,
+          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
+          "rank": 1
+        },
+        {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
           "playcount": 19,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
           "playcount": 18,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
-          "rank": 2
-        },
-        {
-          "name": "SO CLOSE TO WHAT??? (deluxe)",
-          "artist": "Tate McRae",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 3
         },
         {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-09T12:51:57.279896"
+    "fetched_at": "2026-01-10T01:54:09.135020"
   }
 }
