@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-11T02:06:16.101467Z",
+  "collected_at": "2026-01-11T12:47:12.068350Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-11T02:06:16.567164",
+    "fetched_at": "2026-01-11T12:47:12.546080",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-11T02:06:17.383425"
+      "fetched_at": "2026-01-11T12:47:13.510908"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1939,
+      "total_scrobbles": 1958,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1939,
-      "estimated_minutes": 6786,
-      "estimated_hours": 113.1,
-      "estimated_days": 4.7,
+      "total_scrobbles": 1958,
+      "estimated_minutes": 6853,
+      "estimated_hours": 114.2,
+      "estimated_days": 4.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 307,
-        "estimated_minutes": 1074,
-        "estimated_hours": 17.9,
+        "total_scrobbles": 315,
+        "estimated_minutes": 1102,
+        "estimated_hours": 18.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1651,
-        "estimated_minutes": 5778,
-        "estimated_hours": 96.3,
+        "total_scrobbles": 1665,
+        "estimated_minutes": 5828,
+        "estimated_hours": 97.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1851,
-        "estimated_minutes": 6478,
-        "estimated_hours": 108.0,
+        "total_scrobbles": 1867,
+        "estimated_minutes": 6534,
+        "estimated_hours": 108.9,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -87,15 +87,15 @@
           "rank": 2
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 50,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Tate McRae",
+          "playcount": 51,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 3
         },
         {
-          "name": "Tate McRae",
-          "playcount": 43,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "name": "Fall Out Boy",
+          "playcount": 50,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
@@ -130,7 +130,7 @@
         },
         {
           "name": "ROLE MODEL",
-          "playcount": 25,
+          "playcount": 26,
           "url": "https://www.last.fm/music/ROLE+MODEL",
           "rank": 10
         }
@@ -211,38 +211,38 @@
       ],
       "week": [
         {
-          "name": "Game Over",
-          "artist": "Vitaa",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
-          "rank": 1
-        },
-        {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 4,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Pretty Girl Rock",
           "artist": "Keri Hilson",
           "playcount": 4,
           "url": "https://www.last.fm/music/Keri+Hilson/_/Pretty+Girl+Rock",
-          "rank": 3
+          "rank": 2
         },
         {
-          "name": "Cheekbones",
-          "artist": "Arrows in Action",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 4
+          "name": "Game Over",
+          "artist": "Vitaa",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
+          "rank": 3
         },
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
           "playcount": 3,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "rank": 4
+        },
+        {
+          "name": "Fame Is a Gun",
+          "artist": "Addison Rae",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
           "rank": 5
         }
       ]
@@ -252,7 +252,7 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 21,
+          "playcount": 23,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-11T02:06:23.128917"
+    "fetched_at": "2026-01-11T12:47:18.322106"
   }
 }
