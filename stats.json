@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-11T12:47:12.068350Z",
+  "collected_at": "2026-01-12T02:03:09.252266Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-11T12:47:12.546080",
+    "fetched_at": "2026-01-12T02:03:09.835374",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-11T12:47:13.510908"
+      "fetched_at": "2026-01-12T02:03:10.871089"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 315,
-        "estimated_minutes": 1102,
-        "estimated_hours": 18.4,
+        "total_scrobbles": 270,
+        "estimated_minutes": 945,
+        "estimated_hours": 15.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1665,
-        "estimated_minutes": 5828,
-        "estimated_hours": 97.1,
+        "total_scrobbles": 1651,
+        "estimated_minutes": 5778,
+        "estimated_hours": 96.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 276,
-      "total_plays_this_week": 331
+      "total_tracks_this_week": 253,
+      "total_plays_this_week": 315
     },
     "top_artists": {
       "overall": [
@@ -227,22 +227,22 @@
         {
           "name": "Game Over",
           "artist": "Vitaa",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
           "rank": 3
-        },
-        {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
-          "rank": 4
         },
         {
           "name": "Fame Is a Gun",
           "artist": "Addison Rae",
           "playcount": 2,
           "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+          "rank": 4
+        },
+        {
+          "name": "Planet",
+          "artist": "Aidan Bissett",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Aidan+Bissett/_/Planet",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-11T12:47:18.322106"
+    "fetched_at": "2026-01-12T02:03:25.047514"
   }
 }
