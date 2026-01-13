@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-12T12:54:15.011355Z",
+  "collected_at": "2026-01-13T01:54:26.219054Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-12T12:54:15.703187",
+    "fetched_at": "2026-01-13T01:54:26.623984",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-12T12:54:16.760496"
+      "fetched_at": "2026-01-13T01:54:27.500880"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 1958,
+      "total_scrobbles": 1959,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 1958,
-      "estimated_minutes": 6853,
-      "estimated_hours": 114.2,
+      "total_scrobbles": 1959,
+      "estimated_minutes": 6856,
+      "estimated_hours": 114.3,
       "estimated_days": 4.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 270,
-        "estimated_minutes": 945,
-        "estimated_hours": 15.8,
+        "total_scrobbles": 223,
+        "estimated_minutes": 780,
+        "estimated_hours": 13.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1651,
-        "estimated_minutes": 5778,
-        "estimated_hours": 96.3,
+        "total_scrobbles": 1590,
+        "estimated_minutes": 5565,
+        "estimated_hours": 92.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1867,
-        "estimated_minutes": 6534,
-        "estimated_hours": 108.9,
+        "total_scrobbles": 1868,
+        "estimated_minutes": 6538,
+        "estimated_hours": 109.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 253,
-      "total_plays_this_week": 315
+      "total_tracks_this_week": 225,
+      "total_plays_this_week": 271
     },
     "top_artists": {
       "overall": [
@@ -88,7 +88,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 51,
+          "playcount": 52,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 3
         },
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Planet",
-          "artist": "Aidan Bissett",
+          "name": "cool enough",
+          "artist": "Almost Monday",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Aidan+Bissett/_/Planet",
+          "url": "https://www.last.fm/music/Almost+Monday/_/cool+enough",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-12T12:54:24.005273"
+    "fetched_at": "2026-01-13T01:54:31.348039"
   }
 }
