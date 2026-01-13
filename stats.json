@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-13T01:54:26.219054Z",
+  "collected_at": "2026-01-13T12:54:08.623164Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-13T01:54:26.623984",
+    "fetched_at": "2026-01-13T12:54:09.061930",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-13T01:54:27.500880"
+      "fetched_at": "2026-01-13T12:54:10.096452"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 223,
-        "estimated_minutes": 780,
-        "estimated_hours": 13.0,
+        "total_scrobbles": 196,
+        "estimated_minutes": 686,
+        "estimated_hours": 11.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
-          "name": "Fame Is a Gun",
-          "artist": "Addison Rae",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
-          "rank": 4
-        },
-        {
           "name": "cool enough",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/cool+enough",
+          "rank": 4
+        },
+        {
+          "name": "don't say you're ordinary",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/don%27t+say+you%27re+ordinary",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-13T01:54:31.348039"
+    "fetched_at": "2026-01-13T12:54:14.922840"
   }
 }
