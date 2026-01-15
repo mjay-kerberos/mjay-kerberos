@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-14T12:54:02.213879Z",
+  "collected_at": "2026-01-15T01:56:43.956529Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-14T12:54:02.686266",
+    "fetched_at": "2026-01-15T01:56:44.727014",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 220,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-14T12:54:03.896973"
+      "fetched_at": "2026-01-15T01:56:45.665568"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2006,
+      "total_scrobbles": 2040,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2006,
-      "estimated_minutes": 7021,
-      "estimated_hours": 117.0,
-      "estimated_days": 4.9,
+      "total_scrobbles": 2040,
+      "estimated_minutes": 7140,
+      "estimated_hours": 119.0,
+      "estimated_days": 5.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 224,
-        "estimated_minutes": 784,
-        "estimated_hours": 13.1,
+        "total_scrobbles": 215,
+        "estimated_minutes": 752,
+        "estimated_hours": 12.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1588,
-        "estimated_minutes": 5558,
-        "estimated_hours": 92.6,
+        "total_scrobbles": 1597,
+        "estimated_minutes": 5590,
+        "estimated_hours": 93.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1890,
-        "estimated_minutes": 6615,
-        "estimated_hours": 110.2,
+        "total_scrobbles": 1896,
+        "estimated_minutes": 6636,
+        "estimated_hours": 110.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 180,
-      "total_plays_this_week": 196
+      "total_tracks_this_week": 205,
+      "total_plays_this_week": 225
     },
     "top_artists": {
       "overall": [
@@ -211,10 +211,10 @@
       ],
       "week": [
         {
-          "name": "put a finger down",
-          "artist": "Edwin",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "name": "Fame Is a Gun",
+          "artist": "Addison Rae",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
           "rank": 1
         },
         {
@@ -225,24 +225,24 @@
           "rank": 2
         },
         {
-          "name": "Fame Is a Gun",
-          "artist": "Addison Rae",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
-          "rank": 3
-        },
-        {
           "name": "cool enough",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/cool+enough",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "don't say you're ordinary",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/don%27t+say+you%27re+ordinary",
+          "rank": 4
+        },
+        {
+          "name": "hailey beebs",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/hailey+beebs",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-14T12:54:10.151523"
+    "fetched_at": "2026-01-15T01:56:53.457608"
   }
 }
