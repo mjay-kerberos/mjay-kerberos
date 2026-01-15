@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-15T01:56:43.956529Z",
+  "collected_at": "2026-01-15T12:53:00.660618Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-15T01:56:44.727014",
+    "fetched_at": "2026-01-15T12:53:01.375315",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 220,
+      "total_stars_received": 221,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-15T01:56:45.665568"
+      "fetched_at": "2026-01-15T12:53:02.476939"
     }
   },
   "lastfm": {
@@ -34,29 +34,29 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2040,
+      "total_scrobbles": 2043,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2040,
-      "estimated_minutes": 7140,
-      "estimated_hours": 119.0,
+      "total_scrobbles": 2043,
+      "estimated_minutes": 7150,
+      "estimated_hours": 119.2,
       "estimated_days": 5.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 215,
-        "estimated_minutes": 752,
-        "estimated_hours": 12.5,
+        "total_scrobbles": 218,
+        "estimated_minutes": 763,
+        "estimated_hours": 12.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1597,
-        "estimated_minutes": 5590,
+        "total_scrobbles": 1598,
+        "estimated_minutes": 5593,
         "estimated_hours": 93.2,
         "avg_track_duration_assumed": 3.5
       },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-15T01:56:53.457608"
+    "fetched_at": "2026-01-15T12:53:12.723604"
   }
 }
