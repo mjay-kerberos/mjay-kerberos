@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-16T01:58:28.330744Z",
+  "collected_at": "2026-01-16T12:51:59.106485Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-16T01:58:28.871581",
+    "fetched_at": "2026-01-16T12:51:59.699896",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 221,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-16T01:58:29.829619"
+      "fetched_at": "2026-01-16T12:52:00.824589"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2068,
+      "total_scrobbles": 2069,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2068,
-      "estimated_minutes": 7238,
-      "estimated_hours": 120.6,
+      "total_scrobbles": 2069,
+      "estimated_minutes": 7242,
+      "estimated_hours": 120.7,
       "estimated_days": 5.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 230,
-        "estimated_minutes": 805,
-        "estimated_hours": 13.4,
+        "total_scrobbles": 142,
+        "estimated_minutes": 497,
+        "estimated_hours": 8.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1596,
-        "estimated_minutes": 5586,
-        "estimated_hours": 93.1,
+        "total_scrobbles": 1597,
+        "estimated_minutes": 5590,
+        "estimated_hours": 93.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1920,
-        "estimated_minutes": 6720,
-        "estimated_hours": 112.0,
+        "total_scrobbles": 1921,
+        "estimated_minutes": 6724,
+        "estimated_hours": 112.1,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -94,7 +94,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 51,
+          "playcount": 52,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
-          "name": "cool enough",
-          "artist": "Almost Monday",
+          "name": "we can't be friends (wait for your love)",
+          "artist": "Ariana Grande",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/cool+enough",
+          "url": "https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+(wait+for+your+love)",
           "rank": 2
         },
         {
-          "name": "don't say you're ordinary",
-          "artist": "Almost Monday",
+          "name": "I Just Might",
+          "artist": "Bruno Mars",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/don%27t+say+you%27re+ordinary",
+          "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
           "rank": 3
         },
         {
-          "name": "hailey beebs",
-          "artist": "Almost Monday",
+          "name": "Maniac",
+          "artist": "Conan Gray",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/hailey+beebs",
+          "url": "https://www.last.fm/music/Conan+Gray/_/Maniac",
           "rank": 4
         },
         {
-          "name": "jupiter",
-          "artist": "Almost Monday",
+          "name": "Been Like This",
+          "artist": "Doja Cat",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/jupiter",
+          "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-16T01:58:37.538849"
+    "fetched_at": "2026-01-16T12:52:06.524785"
   }
 }
