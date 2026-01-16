@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-15T12:53:00.660618Z",
+  "collected_at": "2026-01-16T01:58:28.330744Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-15T12:53:01.375315",
+    "fetched_at": "2026-01-16T01:58:28.871581",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 221,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-15T12:53:02.476939"
+      "fetched_at": "2026-01-16T01:58:29.829619"
     }
   },
   "lastfm": {
@@ -34,55 +34,55 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2043,
+      "total_scrobbles": 2068,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2043,
-      "estimated_minutes": 7150,
-      "estimated_hours": 119.2,
+      "total_scrobbles": 2068,
+      "estimated_minutes": 7238,
+      "estimated_hours": 120.6,
       "estimated_days": 5.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 218,
-        "estimated_minutes": 763,
-        "estimated_hours": 12.7,
+        "total_scrobbles": 230,
+        "estimated_minutes": 805,
+        "estimated_hours": 13.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1598,
-        "estimated_minutes": 5593,
-        "estimated_hours": 93.2,
+        "total_scrobbles": 1596,
+        "estimated_minutes": 5586,
+        "estimated_hours": 93.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1896,
-        "estimated_minutes": 6636,
-        "estimated_hours": 110.6,
+        "total_scrobbles": 1920,
+        "estimated_minutes": 6720,
+        "estimated_hours": 112.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 205,
-      "total_plays_this_week": 225
+      "total_tracks_this_week": 201,
+      "total_plays_this_week": 216
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 68,
+          "playcount": 70,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Tate McRae",
-          "playcount": 63,
+          "playcount": 68,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
@@ -94,7 +94,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 50,
+          "playcount": 51,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -118,7 +118,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 33,
+          "playcount": 34,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 8
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "ROLE MODEL",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/ROLE+MODEL",
           "rank": 10
         }
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
-          "name": "Game Over",
-          "artist": "Vitaa",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
-          "rank": 2
-        },
-        {
           "name": "cool enough",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/cool+enough",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "don't say you're ordinary",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/don%27t+say+you%27re+ordinary",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "hailey beebs",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/hailey+beebs",
+          "rank": 4
+        },
+        {
+          "name": "jupiter",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/jupiter",
           "rank": 5
         }
       ]
@@ -252,40 +252,40 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 23,
+          "playcount": 26,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 1
         },
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 19,
+          "playcount": 20,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 2
+        },
+        {
+          "name": "The Crucible of Life",
+          "artist": "The Home Team",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "rank": 3
         },
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
           "playcount": 18,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
           "playcount": 18,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
-          "rank": 4
-        },
-        {
-          "name": "The Crucible of Life",
-          "artist": "The Home Team",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-15T12:53:12.723604"
+    "fetched_at": "2026-01-16T01:58:37.538849"
   }
 }
