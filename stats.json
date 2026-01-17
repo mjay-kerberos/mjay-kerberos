@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-17T01:52:42.275777Z",
+  "collected_at": "2026-01-17T12:45:31.438093Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-17T01:52:42.718930",
+    "fetched_at": "2026-01-17T12:45:31.938676",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 221,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-17T01:52:43.673449"
+      "fetched_at": "2026-01-17T12:45:33.099313"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2146,
+      "total_scrobbles": 2148,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2146,
-      "estimated_minutes": 7511,
-      "estimated_hours": 125.2,
+      "total_scrobbles": 2148,
+      "estimated_minutes": 7518,
+      "estimated_hours": 125.3,
       "estimated_days": 5.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 209,
-        "estimated_minutes": 732,
-        "estimated_hours": 12.2,
+        "total_scrobbles": 211,
+        "estimated_minutes": 738,
+        "estimated_hours": 12.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1601,
-        "estimated_minutes": 5604,
-        "estimated_hours": 93.4,
+        "total_scrobbles": 1593,
+        "estimated_minutes": 5576,
+        "estimated_hours": 92.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1982,
-        "estimated_minutes": 6937,
-        "estimated_hours": 115.6,
+        "total_scrobbles": 1984,
+        "estimated_minutes": 6944,
+        "estimated_hours": 115.7,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -213,7 +213,7 @@
         {
           "name": "Fame Is a Gun",
           "artist": "Addison Rae",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-17T01:52:49.417248"
+    "fetched_at": "2026-01-17T12:45:36.763931"
   }
 }
