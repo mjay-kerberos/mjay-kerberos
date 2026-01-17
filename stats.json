@@ -1,32 +1,32 @@
 {
-  "collected_at": "2026-01-16T12:51:59.106485Z",
+  "collected_at": "2026-01-17T01:52:42.275777Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 19,
-    "public_commits": 19,
+    "total_commits_this_year": 21,
+    "public_commits": 21,
     "private_commits": 0,
-    "commits_this_month": 20,
+    "commits_this_month": 23,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 20,
-    "repos_owned": 51,
+    "total_contributions": 23,
+    "repos_owned": 52,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-16T12:51:59.699896",
+    "fetched_at": "2026-01-17T01:52:42.718930",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
-      "total_repos": 51,
+      "total_repos": 52,
       "public_repos": 23,
-      "private_repos": 28,
+      "private_repos": 29,
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
       "total_stars_received": 221,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-16T12:52:00.824589"
+      "fetched_at": "2026-01-17T01:52:43.673449"
     }
   },
   "lastfm": {
@@ -34,92 +34,92 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2069,
+      "total_scrobbles": 2146,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2069,
-      "estimated_minutes": 7242,
-      "estimated_hours": 120.7,
-      "estimated_days": 5.0,
+      "total_scrobbles": 2146,
+      "estimated_minutes": 7511,
+      "estimated_hours": 125.2,
+      "estimated_days": 5.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 142,
-        "estimated_minutes": 497,
-        "estimated_hours": 8.3,
+        "total_scrobbles": 209,
+        "estimated_minutes": 732,
+        "estimated_hours": 12.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1597,
-        "estimated_minutes": 5590,
-        "estimated_hours": 93.2,
+        "total_scrobbles": 1601,
+        "estimated_minutes": 5604,
+        "estimated_hours": 93.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1921,
-        "estimated_minutes": 6724,
-        "estimated_hours": 112.1,
+        "total_scrobbles": 1982,
+        "estimated_minutes": 6937,
+        "estimated_hours": 115.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 201,
-      "total_plays_this_week": 216
+      "total_tracks_this_week": 127,
+      "total_plays_this_week": 142
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 70,
+          "playcount": 72,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Tate McRae",
-          "playcount": 68,
+          "playcount": 71,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
         {
-          "name": "Almost Monday",
-          "playcount": 54,
-          "url": "https://www.last.fm/music/Almost+Monday",
+          "name": "Fall Out Boy",
+          "playcount": 61,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 52,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Almost Monday",
+          "playcount": 60,
+          "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
         {
           "name": "Dominic Fike",
-          "playcount": 41,
+          "playcount": 44,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 5
+        },
+        {
+          "name": "The Home Team",
+          "playcount": 38,
+          "url": "https://www.last.fm/music/The+Home+Team",
+          "rank": 6
         },
         {
           "name": "Panic! at the Disco",
           "playcount": 37,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Paramore",
           "playcount": 36,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 7
-        },
-        {
-          "name": "The Home Team",
-          "playcount": 34,
-          "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 8
         },
         {
@@ -174,38 +174,38 @@
           "rank": 5
         },
         {
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
+          "rank": 6
+        },
+        {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 9,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 6
+          "rank": 7
         },
         {
-          "name": "wannabe!",
-          "artist": "Kevian Kraemer",
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
           "playcount": 9,
-          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 7
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 8
         },
         {
           "name": "Game Over",
           "artist": "Vitaa",
           "playcount": 9,
           "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
-          "rank": 8
-        },
-        {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 9
         },
         {
-          "name": "Old Recliners",
-          "artist": "ROLE MODEL",
+          "name": "britney in 07",
+          "artist": "blackbear",
           "playcount": 8,
-          "url": "https://www.last.fm/music/ROLE+MODEL/_/Old+Recliners",
+          "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
           "rank": 10
         }
       ],
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
+          "name": "I Just Might",
+          "artist": "Bruno Mars",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
+          "rank": 2
+        },
+        {
+          "name": "Just Keep Watching (From F1\u00ae The Movie)",
+          "artist": "Tate McRae",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Tate+McRae/_/Just+Keep+Watching+(From+F1%C2%AE+The+Movie)",
+          "rank": 3
+        },
+        {
           "name": "we can't be friends (wait for your love)",
           "artist": "Ariana Grande",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+(wait+for+your+love)",
-          "rank": 2
-        },
-        {
-          "name": "I Just Might",
-          "artist": "Bruno Mars",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Maniac",
           "artist": "Conan Gray",
           "playcount": 2,
           "url": "https://www.last.fm/music/Conan+Gray/_/Maniac",
-          "rank": 4
-        },
-        {
-          "name": "Been Like This",
-          "artist": "Doja Cat",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
           "rank": 5
         }
       ]
@@ -252,40 +252,40 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 26,
+          "playcount": 27,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 1
         },
         {
-          "name": "EVERYONE'S A STAR!",
-          "artist": "5 Seconds of Summer",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
+          "name": "The Crucible of Life",
+          "artist": "The Home Team",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 2
         },
         {
-          "name": "The Crucible of Life",
-          "artist": "The Home Team",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "name": "EVERYONE'S A STAR!",
+          "artist": "5 Seconds of Summer",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
         },
         {
-          "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-          "artist": "Bad Bunny",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 4
         },
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 18,
+          "playcount": 19,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-16T12:52:06.524785"
+    "fetched_at": "2026-01-17T01:52:49.417248"
   }
 }
