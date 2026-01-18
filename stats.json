@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-17T12:45:31.438093Z",
+  "collected_at": "2026-01-18T02:05:24.100763Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-17T12:45:31.938676",
+    "fetched_at": "2026-01-18T02:05:24.640431",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 221,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-17T12:45:33.099313"
+      "fetched_at": "2026-01-18T02:05:25.433925"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2148,
+      "total_scrobbles": 2215,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2148,
-      "estimated_minutes": 7518,
-      "estimated_hours": 125.3,
-      "estimated_days": 5.2,
+      "total_scrobbles": 2215,
+      "estimated_minutes": 7752,
+      "estimated_hours": 129.2,
+      "estimated_days": 5.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 211,
-        "estimated_minutes": 738,
-        "estimated_hours": 12.3,
+        "total_scrobbles": 275,
+        "estimated_minutes": 962,
+        "estimated_hours": 16.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1593,
-        "estimated_minutes": 5576,
-        "estimated_hours": 92.9,
+        "total_scrobbles": 1645,
+        "estimated_minutes": 5758,
+        "estimated_hours": 96.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 1984,
-        "estimated_minutes": 6944,
-        "estimated_hours": 115.7,
+        "total_scrobbles": 2019,
+        "estimated_minutes": 7066,
+        "estimated_hours": 117.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 127,
-      "total_plays_this_week": 142
+      "total_tracks_this_week": 190,
+      "total_plays_this_week": 213
     },
     "top_artists": {
       "overall": [
@@ -82,20 +82,20 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 71,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
+        },
+        {
+          "name": "Almost Monday",
+          "playcount": 62,
+          "url": "https://www.last.fm/music/Almost+Monday",
+          "rank": 3
         },
         {
           "name": "Fall Out Boy",
           "playcount": 61,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
-          "rank": 3
-        },
-        {
-          "name": "Almost Monday",
-          "playcount": 60,
-          "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
         {
@@ -129,9 +129,9 @@
           "rank": 9
         },
         {
-          "name": "ROLE MODEL",
-          "playcount": 28,
-          "url": "https://www.last.fm/music/ROLE+MODEL",
+          "name": "The Runarounds",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 10
         }
       ]
@@ -181,17 +181,17 @@
           "rank": 6
         },
         {
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 7
+        },
+        {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 9,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 7
-        },
-        {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 8
         },
         {
@@ -220,15 +220,15 @@
         {
           "name": "I Just Might",
           "artist": "Bruno Mars",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
           "rank": 2
         },
         {
-          "name": "Just Keep Watching (From F1\u00ae The Movie)",
-          "artist": "Tate McRae",
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Tate+McRae/_/Just+Keep+Watching+(From+F1%C2%AE+The+Movie)",
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 3
         },
         {
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Maniac",
-          "artist": "Conan Gray",
+          "name": "Love Songs",
+          "artist": "Ax and the Hatchetmen",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Conan+Gray/_/Maniac",
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Love+Songs",
           "rank": 5
         }
       ]
@@ -264,28 +264,28 @@
           "rank": 2
         },
         {
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "rank": 3
+        },
+        {
+          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+          "artist": "The Runarounds",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
+          "rank": 4
+        },
+        {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
           "playcount": 21,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
-          "rank": 3
-        },
-        {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
-          "rank": 4
-        },
-        {
-          "name": "So Close to What",
-          "artist": "Tate McRae",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-17T12:45:36.763931"
+    "fetched_at": "2026-01-18T02:05:44.895245"
   }
 }
