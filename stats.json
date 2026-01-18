@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-18T02:05:24.100763Z",
+  "collected_at": "2026-01-18T12:45:47.366001Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-18T02:05:24.640431",
+    "fetched_at": "2026-01-18T12:45:47.822145",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 221,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-18T02:05:25.433925"
+      "fetched_at": "2026-01-18T12:45:48.898158"
     }
   },
   "lastfm": {
@@ -34,30 +34,30 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2215,
+      "total_scrobbles": 2217,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2215,
-      "estimated_minutes": 7752,
-      "estimated_hours": 129.2,
+      "total_scrobbles": 2217,
+      "estimated_minutes": 7760,
+      "estimated_hours": 129.3,
       "estimated_days": 5.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 275,
-        "estimated_minutes": 962,
-        "estimated_hours": 16.0,
+        "total_scrobbles": 258,
+        "estimated_minutes": 903,
+        "estimated_hours": 15.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1645,
-        "estimated_minutes": 5758,
-        "estimated_hours": 96.0,
+        "total_scrobbles": 1647,
+        "estimated_minutes": 5764,
+        "estimated_hours": 96.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -211,17 +211,17 @@
       ],
       "week": [
         {
-          "name": "Fame Is a Gun",
-          "artist": "Addison Rae",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
-          "rank": 1
-        },
-        {
           "name": "I Just Might",
           "artist": "Bruno Mars",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
+          "rank": 1
+        },
+        {
+          "name": "Fame Is a Gun",
+          "artist": "Addison Rae",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
           "rank": 2
         },
         {
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
-          "name": "we can't be friends (wait for your love)",
-          "artist": "Ariana Grande",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+(wait+for+your+love)",
-          "rank": 4
-        },
-        {
           "name": "Love Songs",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Love+Songs",
+          "rank": 4
+        },
+        {
+          "name": "24K Magic",
+          "artist": "Bruno Mars",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bruno+Mars/_/24K+Magic",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-18T02:05:44.895245"
+    "fetched_at": "2026-01-18T12:45:53.333574"
   }
 }
