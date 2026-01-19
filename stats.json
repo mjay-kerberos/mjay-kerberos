@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-18T12:45:47.366001Z",
+  "collected_at": "2026-01-19T02:03:34.780473Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-18T12:45:47.822145",
+    "fetched_at": "2026-01-19T02:03:35.432600",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 221,
+      "total_stars_received": 222,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-18T12:45:48.898158"
+      "fetched_at": "2026-01-19T02:03:36.306615"
     }
   },
   "lastfm": {
@@ -34,67 +34,67 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2217,
+      "total_scrobbles": 2322,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2217,
-      "estimated_minutes": 7760,
-      "estimated_hours": 129.3,
-      "estimated_days": 5.4,
+      "total_scrobbles": 2322,
+      "estimated_minutes": 8127,
+      "estimated_hours": 135.4,
+      "estimated_days": 5.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 258,
-        "estimated_minutes": 903,
-        "estimated_hours": 15.1,
+        "total_scrobbles": 363,
+        "estimated_minutes": 1270,
+        "estimated_hours": 21.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1647,
-        "estimated_minutes": 5764,
-        "estimated_hours": 96.1,
+        "total_scrobbles": 1705,
+        "estimated_minutes": 5968,
+        "estimated_hours": 99.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2019,
-        "estimated_minutes": 7066,
-        "estimated_hours": 117.8,
+        "total_scrobbles": 2084,
+        "estimated_minutes": 7294,
+        "estimated_hours": 121.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 190,
-      "total_plays_this_week": 213
+      "total_tracks_this_week": 236,
+      "total_plays_this_week": 259
     },
     "top_artists": {
       "overall": [
         {
-          "name": "5 Seconds of Summer",
-          "playcount": 72,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
+          "name": "Tate McRae",
+          "playcount": 78,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
-          "name": "Tate McRae",
+          "name": "5 Seconds of Summer",
           "playcount": 72,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Almost Monday",
-          "playcount": 62,
+          "playcount": 63,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 61,
+          "playcount": 63,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -105,33 +105,33 @@
           "rank": 5
         },
         {
+          "name": "The Runarounds",
+          "playcount": 40,
+          "url": "https://www.last.fm/music/The+Runarounds",
+          "rank": 6
+        },
+        {
           "name": "The Home Team",
           "playcount": 38,
           "url": "https://www.last.fm/music/The+Home+Team",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Panic! at the Disco",
           "playcount": 37,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Paramore",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "The Weeknd",
           "playcount": 33,
           "url": "https://www.last.fm/music/The+Weeknd",
-          "rank": 9
-        },
-        {
-          "name": "The Runarounds",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 10
         }
       ]
@@ -195,17 +195,17 @@
           "rank": 8
         },
         {
+          "name": "TIT FOR TAT",
+          "artist": "Tate McRae",
+          "playcount": 9,
+          "url": "https://www.last.fm/music/Tate+McRae/_/TIT+FOR+TAT",
+          "rank": 9
+        },
+        {
           "name": "Game Over",
           "artist": "Vitaa",
           "playcount": 9,
           "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
-          "rank": 9
-        },
-        {
-          "name": "britney in 07",
-          "artist": "blackbear",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
           "rank": 10
         }
       ],
@@ -225,24 +225,24 @@
           "rank": 2
         },
         {
+          "name": "Blurry Lights (with Albert Hammond Jr)",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Blurry+Lights+(with+Albert+Hammond+Jr)",
+          "rank": 3
+        },
+        {
+          "name": "Been Like This",
+          "artist": "Doja Cat",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
+          "rank": 4
+        },
+        {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 3,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 3
-        },
-        {
-          "name": "Love Songs",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Love+Songs",
-          "rank": 4
-        },
-        {
-          "name": "24K Magic",
-          "artist": "Bruno Mars",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bruno+Mars/_/24K+Magic",
           "rank": 5
         }
       ]
@@ -250,31 +250,31 @@
     "top_albums": {
       "overall": [
         {
+          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+          "artist": "The Runarounds",
+          "playcount": 30,
+          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
+          "rank": 1
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 1
+          "rank": 2
+        },
+        {
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "rank": 3
         },
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
           "playcount": 23,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
-          "rank": 2
-        },
-        {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 22,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
-          "rank": 3
-        },
-        {
-          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
-          "artist": "The Runarounds",
-          "playcount": 22,
-          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 4
         },
         {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-18T12:45:53.333574"
+    "fetched_at": "2026-01-19T02:03:41.460323"
   }
 }
