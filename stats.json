@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-19T12:56:33.688093Z",
+  "collected_at": "2026-01-20T01:58:15.162182Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-19T12:56:34.323185",
+    "fetched_at": "2026-01-20T01:58:15.784295",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 222,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-19T12:56:35.762932"
+      "fetched_at": "2026-01-20T01:58:17.041744"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2340,
+      "total_scrobbles": 2386,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2340,
-      "estimated_minutes": 8190,
-      "estimated_hours": 136.5,
-      "estimated_days": 5.7,
+      "total_scrobbles": 2386,
+      "estimated_minutes": 8351,
+      "estimated_hours": 139.2,
+      "estimated_days": 5.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 381,
-        "estimated_minutes": 1334,
-        "estimated_hours": 22.2,
+        "total_scrobbles": 427,
+        "estimated_minutes": 1494,
+        "estimated_hours": 24.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1721,
-        "estimated_minutes": 6024,
-        "estimated_hours": 100.4,
+        "total_scrobbles": 1716,
+        "estimated_minutes": 6006,
+        "estimated_hours": 100.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2101,
-        "estimated_minutes": 7354,
-        "estimated_hours": 122.6,
+        "total_scrobbles": 2114,
+        "estimated_minutes": 7399,
+        "estimated_hours": 123.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 236,
-      "total_plays_this_week": 259
+      "total_tracks_this_week": 329,
+      "total_plays_this_week": 382
     },
     "top_artists": {
       "overall": [
@@ -106,7 +106,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 40,
+          "playcount": 41,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -160,38 +160,38 @@
           "rank": 3
         },
         {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 10,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 4
+        },
+        {
           "name": "The Last of the Real Ones",
           "artist": "Fall Out Boy",
           "playcount": 10,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 10,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 10,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 10,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 7
-        },
-        {
-          "name": "put a finger down",
-          "artist": "Edwin",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
           "rank": 8
         },
         {
@@ -213,7 +213,7 @@
         {
           "name": "I Just Might",
           "artist": "Bruno Mars",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
           "rank": 1
         },
@@ -252,7 +252,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 30,
+          "playcount": 31,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-19T12:56:43.845400"
+    "fetched_at": "2026-01-20T01:58:21.422048"
   }
 }
