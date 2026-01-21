@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-01-20T12:56:55.668259Z",
+  "collected_at": "2026-01-21T02:01:04.460288Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 21,
-    "public_commits": 21,
+    "total_commits_this_year": 25,
+    "public_commits": 25,
     "private_commits": 0,
-    "commits_this_month": 23,
+    "commits_this_month": 27,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 23,
+    "total_contributions": 27,
     "repos_owned": 52,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-20T12:56:56.360804",
+    "fetched_at": "2026-01-21T02:01:04.992973",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 222,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-20T12:56:57.673439"
+      "fetched_at": "2026-01-21T02:01:06.224260"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2386,
+      "total_scrobbles": 2425,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2386,
-      "estimated_minutes": 8351,
-      "estimated_hours": 139.2,
-      "estimated_days": 5.8,
+      "total_scrobbles": 2425,
+      "estimated_minutes": 8488,
+      "estimated_hours": 141.5,
+      "estimated_days": 5.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 427,
-        "estimated_minutes": 1494,
-        "estimated_hours": 24.9,
+        "total_scrobbles": 418,
+        "estimated_minutes": 1463,
+        "estimated_hours": 24.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1716,
-        "estimated_minutes": 6006,
-        "estimated_hours": 100.1,
+        "total_scrobbles": 1728,
+        "estimated_minutes": 6048,
+        "estimated_hours": 100.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2114,
-        "estimated_minutes": 7399,
-        "estimated_hours": 123.3,
+        "total_scrobbles": 2141,
+        "estimated_minutes": 7494,
+        "estimated_hours": 124.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 329,
-      "total_plays_this_week": 382
+      "total_tracks_this_week": 368,
+      "total_plays_this_week": 427
     },
     "top_artists": {
       "overall": [
@@ -106,7 +106,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 41,
+          "playcount": 43,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -213,15 +213,15 @@
         {
           "name": "I Just Might",
           "artist": "Bruno Mars",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
           "rank": 1
         },
         {
-          "name": "Fame Is a Gun",
-          "artist": "Addison Rae",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+          "name": "Valerie (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Valerie+(From+The+Runarounds+Original+Series)",
           "rank": 2
         },
         {
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
           "playcount": 3,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 5
         }
       ]
@@ -252,7 +252,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 31,
+          "playcount": 33,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-20T12:57:27.252133"
+    "fetched_at": "2026-01-21T02:01:11.177932"
   }
 }
