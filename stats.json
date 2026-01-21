@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-21T02:01:04.460288Z",
+  "collected_at": "2026-01-21T12:56:33.041277Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-21T02:01:04.992973",
+    "fetched_at": "2026-01-21T12:56:33.628125",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 222,
       "total_forks_received": 36,
-      "fetched_at": "2026-01-21T02:01:06.224260"
+      "fetched_at": "2026-01-21T12:56:35.100184"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2425,
+      "total_scrobbles": 2442,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2425,
-      "estimated_minutes": 8488,
-      "estimated_hours": 141.5,
+      "total_scrobbles": 2442,
+      "estimated_minutes": 8547,
+      "estimated_hours": 142.4,
       "estimated_days": 5.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 418,
-        "estimated_minutes": 1463,
-        "estimated_hours": 24.4,
+        "total_scrobbles": 435,
+        "estimated_minutes": 1522,
+        "estimated_hours": 25.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1728,
-        "estimated_minutes": 6048,
-        "estimated_hours": 100.8,
+        "total_scrobbles": 1741,
+        "estimated_minutes": 6094,
+        "estimated_hours": 101.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2141,
-        "estimated_minutes": 7494,
-        "estimated_hours": 124.9,
+        "total_scrobbles": 2155,
+        "estimated_minutes": 7542,
+        "estimated_hours": 125.7,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -76,7 +76,7 @@
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 78,
+          "playcount": 79,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
@@ -88,7 +88,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 63,
+          "playcount": 64,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 3
         },
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 2
+        },
+        {
           "name": "Valerie (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 4,
           "url": "https://www.last.fm/music/The+Runarounds/_/Valerie+(From+The+Runarounds+Original+Series)",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Blurry Lights (with Albert Hammond Jr)",
           "artist": "Ax and the Hatchetmen",
           "playcount": 3,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Blurry+Lights+(with+Albert+Hammond+Jr)",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Been Like This",
           "artist": "Doja Cat",
           "playcount": 3,
           "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
-          "rank": 4
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 5
         }
       ]
@@ -259,14 +259,14 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 28,
+          "playcount": 29,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 2
         },
         {
           "name": "DIVE",
           "artist": "Almost Monday",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 3
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-21T02:01:11.177932"
+    "fetched_at": "2026-01-21T12:56:40.089099"
   }
 }
