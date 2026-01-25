@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-25T02:08:50.657277Z",
+  "collected_at": "2026-01-25T12:49:18.963248Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-25T02:08:51.295540",
+    "fetched_at": "2026-01-25T12:49:19.388605",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 222,
       "total_forks_received": 37,
-      "fetched_at": "2026-01-25T02:08:52.330882"
+      "fetched_at": "2026-01-25T12:49:20.611613"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2723,
+      "total_scrobbles": 2734,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2723,
-      "estimated_minutes": 9530,
-      "estimated_hours": 158.8,
+      "total_scrobbles": 2734,
+      "estimated_minutes": 9569,
+      "estimated_hours": 159.5,
       "estimated_days": 6.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 507,
-        "estimated_minutes": 1774,
-        "estimated_hours": 29.6,
+        "total_scrobbles": 516,
+        "estimated_minutes": 1806,
+        "estimated_hours": 30.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1770,
-        "estimated_minutes": 6195,
-        "estimated_hours": 103.2,
+        "total_scrobbles": 1781,
+        "estimated_minutes": 6234,
+        "estimated_hours": 103.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2354,
-        "estimated_minutes": 8239,
-        "estimated_hours": 137.3,
+        "total_scrobbles": 2365,
+        "estimated_minutes": 8278,
+        "estimated_hours": 138.0,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -76,7 +76,7 @@
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 102,
+          "playcount": 108,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
@@ -100,7 +100,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 50,
+          "playcount": 51,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 5
         },
@@ -202,10 +202,10 @@
           "rank": 9
         },
         {
-          "name": "Anything but love",
-          "artist": "Tate McRae",
+          "name": "Writing's On The Wall",
+          "artist": "ROLE MODEL",
           "playcount": 10,
-          "url": "https://www.last.fm/music/Tate+McRae/_/Anything+but+love",
+          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
           "rank": 10
         }
       ],
@@ -252,7 +252,7 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 1
         },
@@ -266,26 +266,26 @@
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 27,
+          "playcount": 29,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 3
+        },
+        {
+          "name": "THINK LATER",
+          "artist": "Tate McRae",
+          "playcount": 27,
+          "url": "https://www.last.fm/music/Tate+McRae/THINK+LATER",
+          "rank": 4
         },
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
           "playcount": 27,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
-          "rank": 4
-        },
-        {
-          "name": "EVERYONE'S A STAR!",
-          "artist": "5 Seconds of Summer",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-25T02:08:57.785738"
+    "fetched_at": "2026-01-25T12:49:24.368515"
   }
 }
