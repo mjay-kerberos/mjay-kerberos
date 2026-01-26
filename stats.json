@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-26T02:08:09.126792Z",
+  "collected_at": "2026-01-26T12:55:29.725650Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-26T02:08:09.677367",
+    "fetched_at": "2026-01-26T12:55:30.468277",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 223,
       "total_forks_received": 37,
-      "fetched_at": "2026-01-26T02:08:10.800929"
+      "fetched_at": "2026-01-26T12:55:31.802670"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2776,
+      "total_scrobbles": 2808,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2776,
-      "estimated_minutes": 9716,
-      "estimated_hours": 161.9,
-      "estimated_days": 6.7,
+      "total_scrobbles": 2808,
+      "estimated_minutes": 9828,
+      "estimated_hours": 163.8,
+      "estimated_days": 6.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 452,
-        "estimated_minutes": 1582,
-        "estimated_hours": 26.4,
+        "total_scrobbles": 467,
+        "estimated_minutes": 1634,
+        "estimated_hours": 27.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1784,
-        "estimated_minutes": 6244,
+        "total_scrobbles": 1785,
+        "estimated_minutes": 6248,
         "estimated_hours": 104.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2387,
-        "estimated_minutes": 8354,
-        "estimated_hours": 139.2,
+        "total_scrobbles": 2398,
+        "estimated_minutes": 8393,
+        "estimated_hours": 139.9,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -76,13 +76,13 @@
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 113,
+          "playcount": 117,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 88,
+          "playcount": 93,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "Ariana Grande",
-          "playcount": 33,
+          "playcount": 34,
           "url": "https://www.last.fm/music/Ariana+Grande",
           "rank": 10
         }
@@ -153,17 +153,17 @@
           "rank": 2
         },
         {
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 3
+        },
+        {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 12,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 3
-        },
-        {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 4
         },
         {
@@ -181,31 +181,31 @@
           "rank": 6
         },
         {
+          "name": "Anything but love",
+          "artist": "Tate McRae",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Tate+McRae/_/Anything+but+love",
+          "rank": 7
+        },
+        {
           "name": "Game Over",
           "artist": "Vitaa",
           "playcount": 11,
           "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 10,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 10,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 9
-        },
-        {
-          "name": "Writing's On The Wall",
-          "artist": "ROLE MODEL",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
           "rank": 10
         }
       ],
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Blame Brett",
-          "artist": "The Beaches",
+          "name": "Anything but love",
+          "artist": "Tate McRae",
           "playcount": 4,
-          "url": "https://www.last.fm/music/The+Beaches/_/Blame+Brett",
+          "url": "https://www.last.fm/music/Tate+McRae/_/Anything+but+love",
           "rank": 5
         }
       ]
@@ -252,14 +252,14 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 1
         },
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 2
         },
@@ -273,7 +273,7 @@
         {
           "name": "THINK LATER",
           "artist": "Tate McRae",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Tate+McRae/THINK+LATER",
           "rank": 4
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-26T02:08:15.030378"
+    "fetched_at": "2026-01-26T12:55:37.317548"
   }
 }
