@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-26T12:55:29.725650Z",
+  "collected_at": "2026-01-27T02:04:35.151636Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-26T12:55:30.468277",
+    "fetched_at": "2026-01-27T02:04:35.618347",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 223,
       "total_forks_received": 37,
-      "fetched_at": "2026-01-26T12:55:31.802670"
+      "fetched_at": "2026-01-27T02:04:36.668885"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2808,
+      "total_scrobbles": 2821,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2808,
-      "estimated_minutes": 9828,
-      "estimated_hours": 163.8,
-      "estimated_days": 6.8,
+      "total_scrobbles": 2821,
+      "estimated_minutes": 9874,
+      "estimated_hours": 164.6,
+      "estimated_days": 6.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 467,
-        "estimated_minutes": 1634,
-        "estimated_hours": 27.2,
+        "total_scrobbles": 435,
+        "estimated_minutes": 1522,
+        "estimated_hours": 25.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1785,
-        "estimated_minutes": 6248,
-        "estimated_hours": 104.1,
+        "total_scrobbles": 1697,
+        "estimated_minutes": 5940,
+        "estimated_hours": 99.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2398,
-        "estimated_minutes": 8393,
-        "estimated_hours": 139.9,
+        "total_scrobbles": 2410,
+        "estimated_minutes": 8435,
+        "estimated_hours": 140.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 403,
-      "total_plays_this_week": 516
+      "total_tracks_this_week": 386,
+      "total_plays_this_week": 469
     },
     "top_artists": {
       "overall": [
@@ -82,7 +82,7 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 93,
+          "playcount": 95,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -100,7 +100,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 51,
+          "playcount": 52,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 5
         },
@@ -112,7 +112,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 44,
+          "playcount": 45,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "Ariana Grande",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/Ariana+Grande",
           "rank": 10
         }
@@ -148,7 +148,7 @@
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
-          "playcount": 13,
+          "playcount": 14,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 2
         },
@@ -213,36 +213,36 @@
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
-          "playcount": 9,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 1
-        },
-        {
-          "name": "FaceTime",
-          "artist": "LNGSHOT",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/LNGSHOT/_/FaceTime",
-          "rank": 2
-        },
-        {
-          "name": "Moonwalkin'",
-          "artist": "LNGSHOT",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
-          "rank": 3
-        },
-        {
-          "name": "Saucin'",
-          "artist": "LNGSHOT",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/LNGSHOT/_/Saucin%27",
-          "rank": 4
         },
         {
           "name": "Anything but love",
           "artist": "Tate McRae",
           "playcount": 4,
           "url": "https://www.last.fm/music/Tate+McRae/_/Anything+but+love",
+          "rank": 2
+        },
+        {
+          "name": "Blame Brett",
+          "artist": "The Beaches",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Beaches/_/Blame+Brett",
+          "rank": 3
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 4
+        },
+        {
+          "name": "FaceTime",
+          "artist": "LNGSHOT",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/LNGSHOT/_/FaceTime",
           "rank": 5
         }
       ]
@@ -266,7 +266,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 3
         },
@@ -278,14 +278,14 @@
           "rank": 4
         },
         {
-          "name": "The Crucible of Life",
-          "artist": "The Home Team",
+          "name": "5SOS5",
+          "artist": "5 Seconds of Summer",
           "playcount": 27,
-          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-26T12:55:37.317548"
+    "fetched_at": "2026-01-27T02:04:42.889996"
   }
 }
