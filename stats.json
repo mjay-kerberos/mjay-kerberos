@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-28T12:57:27.932678Z",
+  "collected_at": "2026-01-29T02:22:43.124963Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-28T12:57:28.709058",
+    "fetched_at": "2026-01-29T02:22:43.568038",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 223,
       "total_forks_received": 37,
-      "fetched_at": "2026-01-28T12:57:29.911237"
+      "fetched_at": "2026-01-29T02:22:44.493523"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2854,
+      "total_scrobbles": 2888,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2854,
-      "estimated_minutes": 9989,
-      "estimated_hours": 166.5,
-      "estimated_days": 6.9,
+      "total_scrobbles": 2888,
+      "estimated_minutes": 10108,
+      "estimated_hours": 168.5,
+      "estimated_days": 7.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 411,
-        "estimated_minutes": 1438,
-        "estimated_hours": 24.0,
+        "total_scrobbles": 358,
+        "estimated_minutes": 1253,
+        "estimated_hours": 20.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1633,
-        "estimated_minutes": 5716,
-        "estimated_hours": 95.3,
+        "total_scrobbles": 1622,
+        "estimated_minutes": 5677,
+        "estimated_hours": 94.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2440,
-        "estimated_minutes": 8540,
-        "estimated_hours": 142.3,
+        "total_scrobbles": 2467,
+        "estimated_minutes": 8634,
+        "estimated_hours": 143.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 365,
-      "total_plays_this_week": 436
+      "total_tracks_this_week": 339,
+      "total_plays_this_week": 413
     },
     "top_artists": {
       "overall": [
@@ -82,13 +82,13 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 97,
+          "playcount": 98,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 71,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -100,13 +100,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 53,
+          "playcount": 54,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 5
         },
         {
           "name": "The Home Team",
-          "playcount": 47,
+          "playcount": 48,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 6
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "Ariana Grande",
-          "playcount": 35,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Ariana+Grande",
           "rank": 10
         }
@@ -202,47 +202,47 @@
           "rank": 9
         },
         {
-          "name": "wannabe!",
-          "artist": "Kevian Kraemer",
+          "name": "britney in 07",
+          "artist": "blackbear",
           "playcount": 10,
-          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
+          "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 1
-        },
-        {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 4,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Anything but love",
           "artist": "Tate McRae",
           "playcount": 4,
           "url": "https://www.last.fm/music/Tate+McRae/_/Anything+but+love",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "You Can't Stop This",
           "artist": "Alex Warren",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alex+Warren/_/You+Can%27t+Stop+This",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Double Negative (Skeleton Milkshake)",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Double+Negative+(Skeleton+Milkshake)",
+          "rank": 4
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 5
         }
       ]
@@ -280,12 +280,12 @@
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
-          "playcount": 28,
+          "playcount": 29,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-01-28T12:57:37.126428"
+    "fetched_at": "2026-01-29T02:22:49.102514"
   }
 }
