@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-01-29T13:04:09.037253Z",
+  "collected_at": "2026-01-30T02:22:35.182315Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-29T13:04:09.588740",
+    "fetched_at": "2026-01-30T02:22:35.630005",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 224,
       "total_forks_received": 37,
-      "fetched_at": "2026-01-29T13:04:10.686951"
+      "fetched_at": "2026-01-30T02:22:36.904053"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2891,
+      "total_scrobbles": 2912,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2891,
-      "estimated_minutes": 10118,
-      "estimated_hours": 168.6,
-      "estimated_days": 7.0,
+      "total_scrobbles": 2912,
+      "estimated_minutes": 10192,
+      "estimated_hours": 169.9,
+      "estimated_days": 7.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 360,
-        "estimated_minutes": 1260,
-        "estimated_hours": 21.0,
+        "total_scrobbles": 319,
+        "estimated_minutes": 1116,
+        "estimated_hours": 18.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1625,
-        "estimated_minutes": 5688,
-        "estimated_hours": 94.8,
+        "total_scrobbles": 1528,
+        "estimated_minutes": 5348,
+        "estimated_hours": 89.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2470,
-        "estimated_minutes": 8645,
-        "estimated_hours": 144.1,
+        "total_scrobbles": 2488,
+        "estimated_minutes": 8708,
+        "estimated_hours": 145.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 339,
-      "total_plays_this_week": 413
+      "total_tracks_this_week": 299,
+      "total_plays_this_week": 358
     },
     "top_artists": {
       "overall": [
@@ -82,13 +82,13 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 98,
+          "playcount": 99,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 72,
+          "playcount": 73,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -106,7 +106,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 48,
+          "playcount": 49,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 6
         },
@@ -174,75 +174,75 @@
           "rank": 5
         },
         {
+          "name": "Fourth of July",
+          "artist": "Fall Out Boy",
+          "playcount": 11,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
+          "rank": 6
+        },
+        {
           "name": "The Last of the Real Ones",
           "artist": "Fall Out Boy",
           "playcount": 11,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
-          "rank": 6
+          "rank": 7
         },
         {
-          "name": "Anything but love",
+          "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 11,
-          "url": "https://www.last.fm/music/Tate+McRae/_/Anything+but+love",
-          "rank": 7
+          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "rank": 8
         },
         {
           "name": "Game Over",
           "artist": "Vitaa",
           "playcount": 11,
           "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Start Over",
           "artist": "5 Seconds of Summer",
           "playcount": 10,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Start+Over",
-          "rank": 9
-        },
-        {
-          "name": "britney in 07",
-          "artist": "blackbear",
-          "playcount": 10,
-          "url": "https://www.last.fm/music/blackbear/_/britney+in+07",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 1
-        },
-        {
-          "name": "Anything but love",
-          "artist": "Tate McRae",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Tate+McRae/_/Anything+but+love",
-          "rank": 2
-        },
-        {
-          "name": "You Can't Stop This",
-          "artist": "Alex Warren",
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Alex+Warren/_/You+Can%27t+Stop+This",
-          "rank": 3
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 1
         },
         {
           "name": "Double Negative (Skeleton Milkshake)",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Double+Negative+(Skeleton+Milkshake)",
+          "rank": 2
+        },
+        {
+          "name": "My Love (feat. T.I.)",
+          "artist": "Justin Timberlake",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Justin+Timberlake/_/My+Love+(feat.+T.I.)",
+          "rank": 3
+        },
+        {
+          "name": "Never Let Go",
+          "artist": "LNGSHOT",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/LNGSHOT/_/Never+Let+Go",
           "rank": 4
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-29T13:04:14.916541"
+    "fetched_at": "2026-01-30T02:22:42.232615"
   }
 }
