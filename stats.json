@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-01-31T12:54:19.671679Z",
+  "collected_at": "2026-02-01T02:41:34.038586Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
     "total_commits_this_year": 30,
     "public_commits": 30,
     "private_commits": 0,
-    "commits_this_month": 33,
+    "commits_this_month": 0,
     "total_prs": 0,
     "total_issues": 0,
     "total_contributions": 33,
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-01-31T12:54:20.282655",
+    "fetched_at": "2026-02-01T02:41:34.565822",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 225,
       "total_forks_received": 37,
-      "fetched_at": "2026-01-31T12:54:21.498534"
+      "fetched_at": "2026-02-01T02:41:35.777321"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 312,
-        "estimated_minutes": 1092,
-        "estimated_hours": 18.2,
+        "total_scrobbles": 224,
+        "estimated_minutes": 784,
+        "estimated_hours": 13.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1469,
-        "estimated_minutes": 5142,
-        "estimated_hours": 85.7,
+        "total_scrobbles": 1423,
+        "estimated_minutes": 4980,
+        "estimated_hours": 83.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 268,
-      "total_plays_this_week": 320
+      "total_tracks_this_week": 259,
+      "total_plays_this_week": 312
     },
     "top_artists": {
       "overall": [
@@ -211,38 +211,38 @@
       ],
       "week": [
         {
-          "name": "Never Let Go",
-          "artist": "LNGSHOT",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/LNGSHOT/_/Never+Let+Go",
-          "rank": 1
-        },
-        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 1
+        },
+        {
+          "name": "She Looks So Perfect",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/She+Looks+So+Perfect",
           "rank": 2
         },
         {
-          "name": "My Love (feat. T.I.)",
-          "artist": "Justin Timberlake",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Justin+Timberlake/_/My+Love+(feat.+T.I.)",
+          "name": "IDGAF",
+          "artist": "AJ Vitanza",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/AJ+Vitanza/_/IDGAF",
           "rank": 3
         },
         {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "name": "TELL 'EM YOU'RE MINE",
+          "artist": "Alan Vuong",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Alan+Vuong/_/TELL+%27EM+YOU%27RE+MINE",
           "rank": 4
         },
         {
-          "name": "Writing's On The Wall",
-          "artist": "ROLE MODEL",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
+          "name": "Eternity",
+          "artist": "Alex Warren",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Alex+Warren/_/Eternity",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-01-31T12:54:27.451211"
+    "fetched_at": "2026-02-01T02:41:41.434218"
   }
 }
