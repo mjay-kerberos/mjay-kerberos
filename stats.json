@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-01T02:41:34.038586Z",
+  "collected_at": "2026-02-01T12:56:39.703987Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-01T02:41:34.565822",
+    "fetched_at": "2026-02-01T12:56:40.288545",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 225,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-01T02:41:35.777321"
+      "fetched_at": "2026-02-01T12:56:41.320607"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 224,
-        "estimated_minutes": 784,
-        "estimated_hours": 13.1,
+        "total_scrobbles": 215,
+        "estimated_minutes": 752,
+        "estimated_hours": 12.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1423,
-        "estimated_minutes": 4980,
-        "estimated_hours": 83.0,
+        "total_scrobbles": 1400,
+        "estimated_minutes": 4900,
+        "estimated_hours": 81.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-01T02:41:41.434218"
+    "fetched_at": "2026-02-01T12:56:46.675390"
   }
 }
