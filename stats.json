@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-02T02:31:38.946207Z",
+  "collected_at": "2026-02-02T13:06:31.080424Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-02T02:31:39.555549",
+    "fetched_at": "2026-02-02T13:06:31.854267",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 225,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-02T02:31:40.819592"
+      "fetched_at": "2026-02-02T13:06:33.404802"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 170,
-        "estimated_minutes": 595,
-        "estimated_hours": 9.9,
+        "total_scrobbles": 140,
+        "estimated_minutes": 490,
+        "estimated_hours": 8.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -213,7 +213,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 3,
+          "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-02T02:31:46.427896"
+    "fetched_at": "2026-02-02T13:06:39.211591"
   }
 }
