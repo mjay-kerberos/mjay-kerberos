@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-02-01T12:56:39.703987Z",
+  "collected_at": "2026-02-02T02:31:38.946207Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 30,
-    "public_commits": 30,
+    "total_commits_this_year": 38,
+    "public_commits": 38,
     "private_commits": 0,
-    "commits_this_month": 0,
+    "commits_this_month": 8,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 33,
+    "total_contributions": 41,
     "repos_owned": 53,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-01T12:56:40.288545",
+    "fetched_at": "2026-02-02T02:31:39.555549",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 225,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-01T12:56:41.320607"
+      "fetched_at": "2026-02-02T02:31:40.819592"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2949,
+      "total_scrobbles": 2951,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2949,
-      "estimated_minutes": 10322,
-      "estimated_hours": 172.0,
+      "total_scrobbles": 2951,
+      "estimated_minutes": 10328,
+      "estimated_hours": 172.1,
       "estimated_days": 7.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 215,
-        "estimated_minutes": 752,
-        "estimated_hours": 12.5,
+        "total_scrobbles": 170,
+        "estimated_minutes": 595,
+        "estimated_hours": 9.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1400,
-        "estimated_minutes": 4900,
-        "estimated_hours": 81.7,
+        "total_scrobbles": 1345,
+        "estimated_minutes": 4708,
+        "estimated_hours": 78.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2514,
-        "estimated_minutes": 8799,
+        "total_scrobbles": 2515,
+        "estimated_minutes": 8802,
         "estimated_hours": 146.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 259,
-      "total_plays_this_week": 312
+      "total_tracks_this_week": 188,
+      "total_plays_this_week": 216
     },
     "top_artists": {
       "overall": [
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-01T12:56:46.675390"
+    "fetched_at": "2026-02-02T02:31:46.427896"
   }
 }
