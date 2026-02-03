@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-02T13:06:31.080424Z",
+  "collected_at": "2026-02-03T02:28:42.634338Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-02T13:06:31.854267",
+    "fetched_at": "2026-02-03T02:28:43.091775",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 225,
+      "total_stars_received": 226,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-02T13:06:33.404802"
+      "fetched_at": "2026-02-03T02:28:44.027523"
     }
   },
   "lastfm": {
@@ -34,55 +34,55 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2951,
+      "total_scrobbles": 2986,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2951,
-      "estimated_minutes": 10328,
-      "estimated_hours": 172.1,
-      "estimated_days": 7.2,
+      "total_scrobbles": 2986,
+      "estimated_minutes": 10451,
+      "estimated_hours": 174.2,
+      "estimated_days": 7.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 140,
-        "estimated_minutes": 490,
-        "estimated_hours": 8.2,
+        "total_scrobbles": 164,
+        "estimated_minutes": 574,
+        "estimated_hours": 9.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1345,
-        "estimated_minutes": 4708,
-        "estimated_hours": 78.5,
+        "total_scrobbles": 1354,
+        "estimated_minutes": 4739,
+        "estimated_hours": 79.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2515,
-        "estimated_minutes": 8802,
-        "estimated_hours": 146.7,
+        "total_scrobbles": 2535,
+        "estimated_minutes": 8872,
+        "estimated_hours": 147.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 188,
-      "total_plays_this_week": 216
+      "total_tracks_this_week": 118,
+      "total_plays_this_week": 140
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 119,
+          "playcount": 121,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 99,
+          "playcount": 100,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -94,7 +94,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 69,
+          "playcount": 70,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -106,13 +106,13 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 49,
+          "playcount": 50,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 6
         },
         {
           "name": "The Runarounds",
-          "playcount": 47,
+          "playcount": 48,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
@@ -202,19 +202,19 @@
           "rank": 9
         },
         {
-          "name": "Game Over",
-          "artist": "Vitaa",
+          "name": "TIT FOR TAT",
+          "artist": "Tate McRae",
           "playcount": 11,
-          "url": "https://www.last.fm/music/Vitaa/_/Game+Over",
+          "url": "https://www.last.fm/music/Tate+McRae/_/TIT+FOR+TAT",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "name": "LIGHTS GO OUT",
+          "artist": "John Summit",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/John+Summit/_/LIGHTS+GO+OUT",
           "rank": 1
         },
         {
@@ -252,40 +252,40 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 38,
+          "playcount": 39,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 1
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 35,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 3
         },
         {
-          "name": "THINK LATER",
-          "artist": "Tate McRae",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/Tate+McRae/THINK+LATER",
+          "name": "The Crucible of Life",
+          "artist": "The Home Team",
+          "playcount": 30,
+          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 4
         },
         {
-          "name": "The Crucible of Life",
-          "artist": "The Home Team",
+          "name": "DIVE",
+          "artist": "Almost Monday",
           "playcount": 29,
-          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-02T13:06:39.211591"
+    "fetched_at": "2026-02-03T02:28:49.202835"
   }
 }
