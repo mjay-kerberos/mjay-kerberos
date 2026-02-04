@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-03T13:07:26.916855Z",
+  "collected_at": "2026-02-04T02:23:37.481706Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-03T13:07:27.621912",
+    "fetched_at": "2026-02-04T02:23:38.191323",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 226,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-03T13:07:28.960168"
+      "fetched_at": "2026-02-04T02:23:39.471071"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 2986,
+      "total_scrobbles": 3013,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 2986,
-      "estimated_minutes": 10451,
-      "estimated_hours": 174.2,
+      "total_scrobbles": 3013,
+      "estimated_minutes": 10546,
+      "estimated_hours": 175.8,
       "estimated_days": 7.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 164,
-        "estimated_minutes": 574,
-        "estimated_hours": 9.6,
+        "total_scrobbles": 157,
+        "estimated_minutes": 550,
+        "estimated_hours": 9.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1343,
-        "estimated_minutes": 4700,
-        "estimated_hours": 78.3,
+        "total_scrobbles": 1325,
+        "estimated_minutes": 4638,
+        "estimated_hours": 77.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2535,
-        "estimated_minutes": 8872,
-        "estimated_hours": 147.9,
+        "total_scrobbles": 2559,
+        "estimated_minutes": 8956,
+        "estimated_hours": 149.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 118,
-      "total_plays_this_week": 140
+      "total_tracks_this_week": 143,
+      "total_plays_this_week": 166
     },
     "top_artists": {
       "overall": [
@@ -105,33 +105,33 @@
           "rank": 5
         },
         {
+          "name": "Bad Bunny",
+          "playcount": 52,
+          "url": "https://www.last.fm/music/Bad+Bunny",
+          "rank": 6
+        },
+        {
           "name": "The Home Team",
           "playcount": 50,
           "url": "https://www.last.fm/music/The+Home+Team",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "The Runarounds",
           "playcount": 48,
           "url": "https://www.last.fm/music/The+Runarounds",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Panic! at the Disco",
           "playcount": 42,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Paramore",
           "playcount": 41,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 9
-        },
-        {
-          "name": "Ariana Grande",
-          "playcount": 37,
-          "url": "https://www.last.fm/music/Ariana+Grande",
           "rank": 10
         }
       ]
@@ -211,38 +211,38 @@
       ],
       "week": [
         {
-          "name": "LIGHTS GO OUT",
-          "artist": "John Summit",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/John+Summit/_/LIGHTS+GO+OUT",
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
         {
-          "name": "She Looks So Perfect",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/She+Looks+So+Perfect",
+          "name": "EL CL\u00faB",
+          "artist": "Bad Bunny",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB",
           "rank": 2
         },
         {
-          "name": "IDGAF",
-          "artist": "AJ Vitanza",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/AJ+Vitanza/_/IDGAF",
+          "name": "CAF\u00e9 CON RON",
+          "artist": "Bad Bunny",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
           "rank": 3
         },
         {
-          "name": "TELL 'EM YOU'RE MINE",
-          "artist": "Alan Vuong",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Alan+Vuong/_/TELL+%27EM+YOU%27RE+MINE",
+          "name": "PIToRRO DE COCO",
+          "artist": "Bad Bunny",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/PIToRRO+DE+COCO",
           "rank": 4
         },
         {
-          "name": "Eternity",
-          "artist": "Alex Warren",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Alex+Warren/_/Eternity",
+          "name": "VeLD\u00c1",
+          "artist": "Bad Bunny",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81",
           "rank": 5
         }
       ]
@@ -250,42 +250,42 @@
     "top_albums": {
       "overall": [
         {
+          "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+          "artist": "Bad Bunny",
+          "playcount": 49,
+          "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
+          "rank": 1
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 39,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
           "playcount": 38,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
           "playcount": 36,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
           "playcount": 30,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
-          "rank": 4
-        },
-        {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-03T13:07:34.385931"
+    "fetched_at": "2026-02-04T02:23:43.637212"
   }
 }
