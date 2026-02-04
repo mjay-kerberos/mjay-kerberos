@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-04T02:23:37.481706Z",
+  "collected_at": "2026-02-04T13:06:27.616202Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-04T02:23:38.191323",
+    "fetched_at": "2026-02-04T13:06:28.347551",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 226,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-04T02:23:39.471071"
+      "fetched_at": "2026-02-04T13:06:29.946241"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3013,
+      "total_scrobbles": 3020,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3013,
-      "estimated_minutes": 10546,
-      "estimated_hours": 175.8,
+      "total_scrobbles": 3020,
+      "estimated_minutes": 10570,
+      "estimated_hours": 176.2,
       "estimated_days": 7.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 157,
-        "estimated_minutes": 550,
-        "estimated_hours": 9.2,
+        "total_scrobbles": 164,
+        "estimated_minutes": 574,
+        "estimated_hours": 9.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1325,
-        "estimated_minutes": 4638,
-        "estimated_hours": 77.3,
+        "total_scrobbles": 1332,
+        "estimated_minutes": 4662,
+        "estimated_hours": 77.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2559,
-        "estimated_minutes": 8956,
-        "estimated_hours": 149.3,
+        "total_scrobbles": 2565,
+        "estimated_minutes": 8978,
+        "estimated_hours": 149.6,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -76,13 +76,13 @@
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 121,
+          "playcount": 122,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 100,
+          "playcount": 101,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -273,7 +273,7 @@
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 4
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-04T02:23:43.637212"
+    "fetched_at": "2026-02-04T13:06:34.440088"
   }
 }
