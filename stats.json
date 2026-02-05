@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-05T02:25:02.942772Z",
+  "collected_at": "2026-02-05T13:09:12.348157Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-05T02:25:03.334572",
+    "fetched_at": "2026-02-05T13:09:12.948819",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 227,
+      "total_stars_received": 228,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-05T02:25:04.284375"
+      "fetched_at": "2026-02-05T13:09:14.042495"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3043,
+      "total_scrobbles": 3053,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3043,
-      "estimated_minutes": 10650,
-      "estimated_hours": 177.5,
+      "total_scrobbles": 3053,
+      "estimated_minutes": 10686,
+      "estimated_hours": 178.1,
       "estimated_days": 7.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 154,
-        "estimated_minutes": 539,
-        "estimated_hours": 9.0,
+        "total_scrobbles": 161,
+        "estimated_minutes": 564,
+        "estimated_hours": 9.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1307,
-        "estimated_minutes": 4574,
-        "estimated_hours": 76.2,
+        "total_scrobbles": 1290,
+        "estimated_minutes": 4515,
+        "estimated_hours": 75.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2580,
-        "estimated_minutes": 9030,
-        "estimated_hours": 150.5,
+        "total_scrobbles": 2588,
+        "estimated_minutes": 9058,
+        "estimated_hours": 151.0,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -100,7 +100,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 62,
+          "playcount": 68,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
@@ -160,52 +160,52 @@
           "rank": 3
         },
         {
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "rank": 4
+        },
+        {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 12,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 11,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 11,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "The Last of the Real Ones",
           "artist": "Fall Out Boy",
           "playcount": 11,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Writing's On The Wall",
           "artist": "ROLE MODEL",
           "playcount": 11,
           "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 11,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 9
-        },
-        {
-          "name": "TIT FOR TAT",
-          "artist": "Tate McRae",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/Tate+McRae/_/TIT+FOR+TAT",
           "rank": 10
         }
       ],
@@ -213,36 +213,36 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 9,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
         {
           "name": "EL CL\u00faB",
           "artist": "Bad Bunny",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB",
           "rank": 2
+        },
+        {
+          "name": "CAF\u00e9 CON RON",
+          "artist": "Bad Bunny",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
+          "rank": 3
+        },
+        {
+          "name": "DtMF",
+          "artist": "Bad Bunny",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+          "rank": 4
         },
         {
           "name": "NUEVAYoL",
           "artist": "Bad Bunny",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
-          "rank": 3
-        },
-        {
-          "name": "CAF\u00e9 CON RON",
-          "artist": "Bad Bunny",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
-          "rank": 4
-        },
-        {
-          "name": "DtMF",
-          "artist": "Bad Bunny",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
           "rank": 5
         }
       ]
@@ -252,7 +252,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 58,
+          "playcount": 64,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-05T02:25:14.363217"
+    "fetched_at": "2026-02-05T13:09:20.187458"
   }
 }
