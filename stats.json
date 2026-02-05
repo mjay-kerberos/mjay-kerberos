@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-04T13:06:27.616202Z",
+  "collected_at": "2026-02-05T02:25:02.942772Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-04T13:06:28.347551",
+    "fetched_at": "2026-02-05T02:25:03.334572",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 226,
+      "total_stars_received": 227,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-04T13:06:29.946241"
+      "fetched_at": "2026-02-05T02:25:04.284375"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3020,
+      "total_scrobbles": 3043,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3020,
-      "estimated_minutes": 10570,
-      "estimated_hours": 176.2,
-      "estimated_days": 7.3,
+      "total_scrobbles": 3043,
+      "estimated_minutes": 10650,
+      "estimated_hours": 177.5,
+      "estimated_days": 7.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 164,
-        "estimated_minutes": 574,
-        "estimated_hours": 9.6,
+        "total_scrobbles": 154,
+        "estimated_minutes": 539,
+        "estimated_hours": 9.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1332,
-        "estimated_minutes": 4662,
-        "estimated_hours": 77.7,
+        "total_scrobbles": 1307,
+        "estimated_minutes": 4574,
+        "estimated_hours": 76.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2565,
-        "estimated_minutes": 8978,
-        "estimated_hours": 149.6,
+        "total_scrobbles": 2580,
+        "estimated_minutes": 9030,
+        "estimated_hours": 150.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 143,
-      "total_plays_this_week": 166
+      "total_tracks_this_week": 125,
+      "total_plays_this_week": 159
     },
     "top_artists": {
       "overall": [
@@ -82,7 +82,7 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 101,
+          "playcount": 102,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -99,15 +99,15 @@
           "rank": 4
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 54,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Bad Bunny",
+          "playcount": 62,
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 52,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Dominic Fike",
+          "playcount": 54,
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
@@ -213,7 +213,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 6,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
@@ -225,24 +225,24 @@
           "rank": 2
         },
         {
+          "name": "NUEVAYoL",
+          "artist": "Bad Bunny",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
+          "rank": 3
+        },
+        {
           "name": "CAF\u00e9 CON RON",
           "artist": "Bad Bunny",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
-          "rank": 3
-        },
-        {
-          "name": "PIToRRO DE COCO",
-          "artist": "Bad Bunny",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/PIToRRO+DE+COCO",
           "rank": 4
         },
         {
-          "name": "VeLD\u00c1",
+          "name": "DtMF",
           "artist": "Bad Bunny",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81",
+          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
           "rank": 5
         }
       ]
@@ -252,7 +252,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 49,
+          "playcount": 58,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-04T13:06:34.440088"
+    "fetched_at": "2026-02-05T02:25:14.363217"
   }
 }
