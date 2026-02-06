@@ -1,32 +1,32 @@
 {
-  "collected_at": "2026-02-05T13:09:12.348157Z",
+  "collected_at": "2026-02-06T02:25:22.833841Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 38,
-    "public_commits": 38,
+    "total_commits_this_year": 44,
+    "public_commits": 44,
     "private_commits": 0,
-    "commits_this_month": 8,
+    "commits_this_month": 15,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 41,
-    "repos_owned": 53,
-    "repos_contributed_to": 5,
+    "total_contributions": 48,
+    "repos_owned": 55,
+    "repos_contributed_to": 6,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-05T13:09:12.948819",
+    "fetched_at": "2026-02-06T02:25:23.327922",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
-      "total_repos": 53,
+      "total_repos": 55,
       "public_repos": 23,
-      "private_repos": 30,
-      "repos_contributed_to": 5,
+      "private_repos": 32,
+      "repos_contributed_to": 6,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 228,
+      "total_stars_received": 229,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-05T13:09:14.042495"
+      "fetched_at": "2026-02-06T02:25:24.726290"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3053,
+      "total_scrobbles": 3098,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3053,
-      "estimated_minutes": 10686,
-      "estimated_hours": 178.1,
-      "estimated_days": 7.4,
+      "total_scrobbles": 3098,
+      "estimated_minutes": 10843,
+      "estimated_hours": 180.7,
+      "estimated_days": 7.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 161,
-        "estimated_minutes": 564,
-        "estimated_hours": 9.4,
+        "total_scrobbles": 185,
+        "estimated_minutes": 648,
+        "estimated_hours": 10.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1290,
-        "estimated_minutes": 4515,
-        "estimated_hours": 75.2,
+        "total_scrobbles": 1328,
+        "estimated_minutes": 4648,
+        "estimated_hours": 77.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2588,
-        "estimated_minutes": 9058,
-        "estimated_hours": 151.0,
+        "total_scrobbles": 2623,
+        "estimated_minutes": 9180,
+        "estimated_hours": 153.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 125,
-      "total_plays_this_week": 159
+      "total_tracks_this_week": 121,
+      "total_plays_this_week": 156
     },
     "top_artists": {
       "overall": [
@@ -88,19 +88,19 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 74,
+          "playcount": 77,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 70,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
         {
           "name": "Bad Bunny",
-          "playcount": 68,
+          "playcount": 70,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
@@ -112,13 +112,13 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 50,
+          "playcount": 53,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 7
         },
         {
           "name": "The Runarounds",
-          "playcount": 48,
+          "playcount": 49,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -139,17 +139,17 @@
     "top_tracks": {
       "overall": [
         {
+          "name": "Cheekbones",
+          "artist": "Arrows in Action",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
+          "rank": 1
+        },
+        {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 16,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 1
-        },
-        {
-          "name": "Cheekbones",
-          "artist": "Arrows in Action",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 2
         },
         {
@@ -162,36 +162,36 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 12,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 4
+        },
+        {
+          "name": "The Last of the Real Ones",
+          "artist": "Fall Out Boy",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
+          "rank": 5
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 12,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 11,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 11,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 7
-        },
-        {
-          "name": "The Last of the Real Ones",
-          "artist": "Fall Out Boy",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
           "rank": 8
         },
         {
@@ -213,29 +213,29 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 11,
+          "playcount": 12,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
+        },
+        {
+          "name": "DtMF",
+          "artist": "Bad Bunny",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+          "rank": 2
         },
         {
           "name": "EL CL\u00faB",
           "artist": "Bad Bunny",
           "playcount": 5,
           "url": "https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "CAF\u00e9 CON RON",
           "artist": "Bad Bunny",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
-          "rank": 3
-        },
-        {
-          "name": "DtMF",
-          "artist": "Bad Bunny",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
           "rank": 4
         },
         {
@@ -252,7 +252,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 64,
+          "playcount": 66,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -266,7 +266,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 38,
+          "playcount": 39,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 3
         },
@@ -280,12 +280,12 @@
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
-          "playcount": 30,
+          "playcount": 33,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-05T13:09:20.187458"
+    "fetched_at": "2026-02-06T02:25:29.885840"
   }
 }
