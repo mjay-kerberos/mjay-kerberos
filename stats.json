@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-06T02:25:22.833841Z",
+  "collected_at": "2026-02-06T13:06:19.286466Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 6,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-06T02:25:23.327922",
+    "fetched_at": "2026-02-06T13:06:19.947211",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 229,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-06T02:25:24.726290"
+      "fetched_at": "2026-02-06T13:06:21.036307"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3098,
+      "total_scrobbles": 3099,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3098,
-      "estimated_minutes": 10843,
-      "estimated_hours": 180.7,
+      "total_scrobbles": 3099,
+      "estimated_minutes": 10846,
+      "estimated_hours": 180.8,
       "estimated_days": 7.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 185,
-        "estimated_minutes": 648,
+        "total_scrobbles": 186,
+        "estimated_minutes": 651,
         "estimated_hours": 10.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1328,
-        "estimated_minutes": 4648,
-        "estimated_hours": 77.5,
+        "total_scrobbles": 1317,
+        "estimated_minutes": 4610,
+        "estimated_hours": 76.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2623,
-        "estimated_minutes": 9180,
-        "estimated_hours": 153.0,
+        "total_scrobbles": 2624,
+        "estimated_minutes": 9184,
+        "estimated_hours": 153.1,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -100,7 +100,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 70,
+          "playcount": 71,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
@@ -252,7 +252,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 66,
+          "playcount": 67,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-06T02:25:29.885840"
+    "fetched_at": "2026-02-06T13:06:34.346260"
   }
 }
