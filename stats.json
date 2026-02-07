@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-06T13:06:19.286466Z",
+  "collected_at": "2026-02-07T02:21:01.324790Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 6,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-06T13:06:19.947211",
+    "fetched_at": "2026-02-07T02:21:01.963765",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 229,
       "total_forks_received": 37,
-      "fetched_at": "2026-02-06T13:06:21.036307"
+      "fetched_at": "2026-02-07T02:21:03.188956"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3099,
+      "total_scrobbles": 3128,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3099,
-      "estimated_minutes": 10846,
-      "estimated_hours": 180.8,
-      "estimated_days": 7.5,
+      "total_scrobbles": 3128,
+      "estimated_minutes": 10948,
+      "estimated_hours": 182.5,
+      "estimated_days": 7.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 186,
-        "estimated_minutes": 651,
-        "estimated_hours": 10.8,
+        "total_scrobbles": 177,
+        "estimated_minutes": 620,
+        "estimated_hours": 10.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1317,
-        "estimated_minutes": 4610,
-        "estimated_hours": 76.8,
+        "total_scrobbles": 1303,
+        "estimated_minutes": 4560,
+        "estimated_hours": 76.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2624,
-        "estimated_minutes": 9184,
-        "estimated_hours": 153.1,
+        "total_scrobbles": 2645,
+        "estimated_minutes": 9258,
+        "estimated_hours": 154.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 121,
-      "total_plays_this_week": 156
+      "total_tracks_this_week": 131,
+      "total_plays_this_week": 187
     },
     "top_artists": {
       "overall": [
@@ -88,7 +88,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 77,
+          "playcount": 79,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -106,19 +106,19 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 54,
+          "playcount": 55,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
           "name": "The Home Team",
-          "playcount": 53,
+          "playcount": 54,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 7
         },
         {
           "name": "The Runarounds",
-          "playcount": 49,
+          "playcount": 50,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 41,
+          "playcount": 42,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 10
         }
@@ -181,24 +181,24 @@
           "rank": 6
         },
         {
+          "name": "Writing's On The Wall",
+          "artist": "ROLE MODEL",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
+          "rank": 7
+        },
+        {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 11,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 11,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 8
-        },
-        {
-          "name": "Writing's On The Wall",
-          "artist": "ROLE MODEL",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
           "rank": 9
         },
         {
@@ -257,17 +257,17 @@
           "rank": 1
         },
         {
+          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+          "artist": "The Runarounds",
+          "playcount": 40,
+          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
+          "rank": 2
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 39,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 2
-        },
-        {
-          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
-          "artist": "The Runarounds",
-          "playcount": 39,
-          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 3
         },
         {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-06T13:06:34.346260"
+    "fetched_at": "2026-02-07T02:21:07.265967"
   }
 }
