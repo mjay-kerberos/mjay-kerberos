@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-08T12:56:45.665244Z",
+  "collected_at": "2026-02-09T02:32:31.892003Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-08T12:56:46.159891",
+    "fetched_at": "2026-02-09T02:32:32.377967",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -25,8 +25,8 @@
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
       "total_stars_received": 231,
-      "total_forks_received": 37,
-      "fetched_at": "2026-02-08T12:56:47.473310"
+      "total_forks_received": 38,
+      "fetched_at": "2026-02-09T02:32:33.312636"
     }
   },
   "lastfm": {
@@ -34,67 +34,67 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3150,
+      "total_scrobbles": 3193,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3150,
-      "estimated_minutes": 11025,
-      "estimated_hours": 183.8,
-      "estimated_days": 7.7,
+      "total_scrobbles": 3193,
+      "estimated_minutes": 11176,
+      "estimated_hours": 186.3,
+      "estimated_days": 7.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 199,
-        "estimated_minutes": 696,
-        "estimated_hours": 11.6,
+        "total_scrobbles": 241,
+        "estimated_minutes": 844,
+        "estimated_hours": 14.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1223,
-        "estimated_minutes": 4280,
-        "estimated_hours": 71.3,
+        "total_scrobbles": 1256,
+        "estimated_minutes": 4396,
+        "estimated_hours": 73.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2667,
-        "estimated_minutes": 9334,
-        "estimated_hours": 155.6,
+        "total_scrobbles": 2710,
+        "estimated_minutes": 9485,
+        "estimated_hours": 158.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 133,
-      "total_plays_this_week": 181
+      "total_tracks_this_week": 146,
+      "total_plays_this_week": 200
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 123,
+          "playcount": 124,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 102,
+          "playcount": 105,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 80,
+          "playcount": 83,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 73,
+          "playcount": 75,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -106,32 +106,32 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 56,
+          "playcount": 57,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
           "name": "The Home Team",
-          "playcount": 55,
+          "playcount": 56,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 7
         },
         {
           "name": "The Runarounds",
-          "playcount": 52,
+          "playcount": 53,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
+        },
+        {
+          "name": "Ariana Grande",
+          "playcount": 42,
+          "url": "https://www.last.fm/music/Ariana+Grande",
+          "rank": 9
         },
         {
           "name": "Panic! at the Disco",
           "playcount": 42,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
-          "rank": 9
-        },
-        {
-          "name": "Paramore",
-          "playcount": 42,
-          "url": "https://www.last.fm/music/Paramore",
           "rank": 10
         }
       ]
@@ -167,38 +167,38 @@
           "rank": 4
         },
         {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 12,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 5
+        },
+        {
           "name": "The Last of the Real Ones",
           "artist": "Fall Out Boy",
           "playcount": 12,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "Dark Blue",
           "artist": "Jack's Mannequin",
           "playcount": 12,
           "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Writing's On The Wall",
           "artist": "ROLE MODEL",
           "playcount": 12,
           "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 12,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 8
-        },
-        {
-          "name": "put a finger down",
-          "artist": "Edwin",
-          "playcount": 11,
-          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
           "rank": 9
         },
         {
@@ -259,7 +259,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 42,
+          "playcount": 43,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -273,19 +273,19 @@
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 4
         },
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-08T12:56:50.647524"
+    "fetched_at": "2026-02-09T02:32:37.955222"
   }
 }
