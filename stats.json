@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-02-10T13:20:57.502694Z",
+  "collected_at": "2026-02-11T02:37:59.811164Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 44,
-    "public_commits": 44,
+    "total_commits_this_year": 45,
+    "public_commits": 45,
     "private_commits": 0,
-    "commits_this_month": 15,
+    "commits_this_month": 16,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 48,
+    "total_contributions": 49,
     "repos_owned": 55,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-10T13:20:57.999958",
+    "fetched_at": "2026-02-11T02:38:00.227079",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 233,
-      "total_forks_received": 38,
-      "fetched_at": "2026-02-10T13:20:59.257030"
+      "total_stars_received": 235,
+      "total_forks_received": 39,
+      "fetched_at": "2026-02-11T02:38:01.175030"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 270,
-        "estimated_minutes": 945,
-        "estimated_hours": 15.8,
+        "total_scrobbles": 243,
+        "estimated_minutes": 850,
+        "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 180,
-      "total_plays_this_week": 245
+      "total_tracks_this_week": 209,
+      "total_plays_this_week": 270
     },
     "top_artists": {
       "overall": [
@@ -213,36 +213,36 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 10,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
         {
           "name": "DtMF",
           "artist": "Bad Bunny",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
           "rank": 2
         },
         {
-          "name": "EL CL\u00faB",
+          "name": "NUEVAYoL",
           "artist": "Bad Bunny",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
           "rank": 3
         },
         {
-          "name": "NUEVAYoL",
-          "artist": "Bad Bunny",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 4
         },
         {
-          "name": "VeLD\u00c1",
-          "artist": "Bad Bunny",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81",
+          "name": "English Love Affair",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/English+Love+Affair",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-10T13:21:03.602539"
+    "fetched_at": "2026-02-11T02:38:05.514407"
   }
 }
