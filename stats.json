@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-12T02:33:08.362555Z",
+  "collected_at": "2026-02-12T13:15:33.927599Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-12T02:33:09.012547",
+    "fetched_at": "2026-02-12T13:15:34.659062",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 235,
       "total_forks_received": 39,
-      "fetched_at": "2026-02-12T02:33:10.274223"
+      "fetched_at": "2026-02-12T13:15:35.988962"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3298,
+      "total_scrobbles": 3304,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3298,
-      "estimated_minutes": 11543,
-      "estimated_hours": 192.4,
+      "total_scrobbles": 3304,
+      "estimated_minutes": 11564,
+      "estimated_hours": 192.7,
       "estimated_days": 8.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 253,
-        "estimated_minutes": 886,
-        "estimated_hours": 14.8,
+        "total_scrobbles": 250,
+        "estimated_minutes": 875,
+        "estimated_hours": 14.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1339,
-        "estimated_minutes": 4686,
-        "estimated_hours": 78.1,
+        "total_scrobbles": 1345,
+        "estimated_minutes": 4708,
+        "estimated_hours": 78.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2802,
-        "estimated_minutes": 9807,
-        "estimated_hours": 163.4,
+        "total_scrobbles": 2808,
+        "estimated_minutes": 9828,
+        "estimated_hours": 163.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -76,13 +76,13 @@
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 125,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 108,
+          "playcount": 109,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
-          "name": "DtMF",
-          "artist": "Bad Bunny",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
-          "rank": 2
-        },
-        {
           "name": "Where Did the Party Go",
           "artist": "Fall Out Boy",
           "playcount": 3,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Where+Did+the+Party+Go",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 3,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 3,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 4
+        },
+        {
+          "name": "Jealous - Remix",
+          "artist": "Nick Jonas",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Nick+Jonas/_/Jealous+-+Remix",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-12T02:33:14.825983"
+    "fetched_at": "2026-02-12T13:15:44.039178"
   }
 }
