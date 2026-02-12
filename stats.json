@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-11T13:17:28.274760Z",
+  "collected_at": "2026-02-12T02:33:08.362555Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-11T13:17:28.887614",
+    "fetched_at": "2026-02-12T02:33:09.012547",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 235,
       "total_forks_received": 39,
-      "fetched_at": "2026-02-11T13:17:30.083529"
+      "fetched_at": "2026-02-12T02:33:10.274223"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3258,
+      "total_scrobbles": 3298,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3258,
-      "estimated_minutes": 11403,
-      "estimated_hours": 190.1,
-      "estimated_days": 7.9,
+      "total_scrobbles": 3298,
+      "estimated_minutes": 11543,
+      "estimated_hours": 192.4,
+      "estimated_days": 8.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 232,
-        "estimated_minutes": 812,
-        "estimated_hours": 13.5,
+        "total_scrobbles": 253,
+        "estimated_minutes": 886,
+        "estimated_hours": 14.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1299,
-        "estimated_minutes": 4546,
-        "estimated_hours": 75.8,
+        "total_scrobbles": 1339,
+        "estimated_minutes": 4686,
+        "estimated_hours": 78.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2767,
-        "estimated_minutes": 9684,
-        "estimated_hours": 161.4,
+        "total_scrobbles": 2802,
+        "estimated_minutes": 9807,
+        "estimated_hours": 163.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 209,
-      "total_plays_this_week": 270
+      "total_tracks_this_week": 203,
+      "total_plays_this_week": 244
     },
     "top_artists": {
       "overall": [
@@ -82,19 +82,19 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 106,
+          "playcount": 108,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 89,
+          "playcount": 92,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 75,
+          "playcount": 78,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -106,13 +106,13 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 62,
+          "playcount": 63,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 6
         },
         {
           "name": "Dominic Fike",
-          "playcount": 57,
+          "playcount": 58,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 7
         },
@@ -123,15 +123,15 @@
           "rank": 8
         },
         {
-          "name": "Paramore",
+          "name": "Panic! at the Disco",
           "playcount": 48,
-          "url": "https://www.last.fm/music/Paramore",
+          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 9
         },
         {
-          "name": "Panic! at the Disco",
-          "playcount": 47,
-          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
+          "name": "Paramore",
+          "playcount": 48,
+          "url": "https://www.last.fm/music/Paramore",
           "rank": 10
         }
       ]
@@ -202,47 +202,47 @@
           "rank": 9
         },
         {
-          "name": "Writing's On The Wall",
-          "artist": "ROLE MODEL",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
           "playcount": 12,
-          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "WELTiTA",
-          "artist": "Bad Bunny",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "name": "is it too late?",
+          "artist": "Almost Monday",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Almost+Monday/_/is+it+too+late%3F",
           "rank": 1
         },
         {
           "name": "DtMF",
           "artist": "Bad Bunny",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
           "rank": 2
         },
         {
-          "name": "NUEVAYoL",
-          "artist": "Bad Bunny",
+          "name": "Where Did the Party Go",
+          "artist": "Fall Out Boy",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Where+Did+the+Party+Go",
           "rank": 3
         },
         {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
+          "name": "Dead Beat City",
+          "artist": "Kids That Fly",
           "playcount": 3,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 4
         },
         {
-          "name": "English Love Affair",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/English+Love+Affair",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 5
         }
       ]
@@ -280,12 +280,12 @@
         {
           "name": "The Crucible of Life",
           "artist": "The Home Team",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-11T13:17:44.154163"
+    "fetched_at": "2026-02-12T02:33:14.825983"
   }
 }
