@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-14T02:22:40.791218Z",
+  "collected_at": "2026-02-14T12:55:31.784714Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-14T02:22:41.209372",
+    "fetched_at": "2026-02-14T12:55:32.257921",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 235,
+      "total_stars_received": 236,
       "total_forks_received": 39,
-      "fetched_at": "2026-02-14T02:22:42.164646"
+      "fetched_at": "2026-02-14T12:55:33.376135"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 305,
-        "estimated_minutes": 1068,
-        "estimated_hours": 17.8,
+        "total_scrobbles": 304,
+        "estimated_minutes": 1064,
+        "estimated_hours": 17.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1395,
-        "estimated_minutes": 4882,
-        "estimated_hours": 81.4,
+        "total_scrobbles": 1391,
+        "estimated_minutes": 4868,
+        "estimated_hours": 81.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -220,7 +220,7 @@
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 2
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-14T02:22:45.805827"
+    "fetched_at": "2026-02-14T12:55:38.508037"
   }
 }
