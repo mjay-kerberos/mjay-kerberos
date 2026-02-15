@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-02-14T12:55:31.784714Z",
+  "collected_at": "2026-02-15T02:34:23.239760Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 62,
-    "public_commits": 62,
+    "total_commits_this_year": 66,
+    "public_commits": 66,
     "private_commits": 0,
-    "commits_this_month": 35,
+    "commits_this_month": 39,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 68,
+    "total_contributions": 72,
     "repos_owned": 57,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-14T12:55:32.257921",
+    "fetched_at": "2026-02-15T02:34:23.793943",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 236,
       "total_forks_received": 39,
-      "fetched_at": "2026-02-14T12:55:33.376135"
+      "fetched_at": "2026-02-15T02:34:24.685665"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 304,
-        "estimated_minutes": 1064,
-        "estimated_hours": 17.7,
+        "total_scrobbles": 286,
+        "estimated_minutes": 1001,
+        "estimated_hours": 16.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1391,
-        "estimated_minutes": 4868,
-        "estimated_hours": 81.1,
+        "total_scrobbles": 1367,
+        "estimated_minutes": 4784,
+        "estimated_hours": 79.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 190,
-      "total_plays_this_week": 245
+      "total_tracks_this_week": 228,
+      "total_plays_this_week": 304
     },
     "top_artists": {
       "overall": [
@@ -213,7 +213,7 @@
         {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-14T12:55:38.508037"
+    "fetched_at": "2026-02-15T02:34:28.417218"
   }
 }
