@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-15T12:57:30.091797Z",
+  "collected_at": "2026-02-16T02:30:45.019041Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-15T12:57:30.825984",
+    "fetched_at": "2026-02-16T02:30:45.661203",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 236,
       "total_forks_received": 39,
-      "fetched_at": "2026-02-15T12:57:32.020640"
+      "fetched_at": "2026-02-16T02:30:46.675328"
     }
   },
   "lastfm": {
@@ -34,61 +34,61 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3436,
+      "total_scrobbles": 3457,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3436,
-      "estimated_minutes": 12026,
-      "estimated_hours": 200.4,
+      "total_scrobbles": 3457,
+      "estimated_minutes": 12100,
+      "estimated_hours": 201.7,
       "estimated_days": 8.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 285,
-        "estimated_minutes": 998,
-        "estimated_hours": 16.6,
+        "total_scrobbles": 260,
+        "estimated_minutes": 910,
+        "estimated_hours": 15.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1367,
-        "estimated_minutes": 4784,
-        "estimated_hours": 79.7,
+        "total_scrobbles": 1308,
+        "estimated_minutes": 4578,
+        "estimated_hours": 76.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2900,
-        "estimated_minutes": 10150,
-        "estimated_hours": 169.2,
+        "total_scrobbles": 2920,
+        "estimated_minutes": 10220,
+        "estimated_hours": 170.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 228,
-      "total_plays_this_week": 304
+      "total_tracks_this_week": 222,
+      "total_plays_this_week": 287
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 129,
+          "playcount": 130,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 112,
+          "playcount": 114,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 94,
+          "playcount": 96,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -118,7 +118,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 61,
+          "playcount": 62,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -160,30 +160,30 @@
           "rank": 3
         },
         {
-          "name": "WELTiTA",
-          "artist": "Bad Bunny",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 4
-        },
-        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
-          "playcount": 13,
+          "playcount": 14,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 5
+          "rank": 4
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
-          "playcount": 13,
+          "playcount": 14,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 5
+        },
+        {
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 6
         },
         {
           "name": "put a finger down",
           "artist": "Edwin",
-          "playcount": 12,
+          "playcount": 13,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
           "rank": 7
         },
@@ -211,38 +211,38 @@
       ],
       "week": [
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 1
+        },
+        {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 5,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 1
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 2
-        },
-        {
-          "name": "Irregular",
-          "artist": "Stephen Dawes",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Stephen+Dawes/_/Irregular",
-          "rank": 3
         },
         {
           "name": "Life Was Easier When I Only Cared About Me",
           "artist": "Bad Suns",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
+          "rank": 3
+        },
+        {
+          "name": "My Favorite Girl Loves Reading",
+          "artist": "Foxtide",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
           "rank": 4
         },
         {
-          "name": "Young Volcanoes",
-          "artist": "Fall Out Boy",
+          "name": "Moonwalkin'",
+          "artist": "LNGSHOT",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Young+Volcanoes",
+          "url": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
           "rank": 5
         }
       ]
@@ -259,14 +259,14 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 50,
+          "playcount": 51,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 42,
+          "playcount": 43,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 3
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-15T12:57:35.404125"
+    "fetched_at": "2026-02-16T02:30:50.128406"
   }
 }
