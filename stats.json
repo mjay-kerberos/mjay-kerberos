@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-16T13:10:41.782516Z",
+  "collected_at": "2026-02-17T02:27:26.549315Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-16T13:10:42.285920",
+    "fetched_at": "2026-02-17T02:27:27.099608",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 236,
-      "total_forks_received": 39,
-      "fetched_at": "2026-02-16T13:10:43.594945"
+      "total_stars_received": 237,
+      "total_forks_received": 40,
+      "fetched_at": "2026-02-17T02:27:28.417504"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 260,
-        "estimated_minutes": 910,
-        "estimated_hours": 15.2,
+        "total_scrobbles": 199,
+        "estimated_minutes": 696,
+        "estimated_hours": 11.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1307,
-        "estimated_minutes": 4574,
-        "estimated_hours": 76.2,
+        "total_scrobbles": 1240,
+        "estimated_minutes": 4340,
+        "estimated_hours": 72.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 222,
-      "total_plays_this_week": 287
+      "total_tracks_this_week": 211,
+      "total_plays_this_week": 260
     },
     "top_artists": {
       "overall": [
@@ -211,17 +211,17 @@
       ],
       "week": [
         {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 1
-        },
-        {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 5,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
+          "rank": 1
+        },
+        {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 2
         },
         {
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Moonwalkin'",
-          "artist": "LNGSHOT",
+          "name": "Irregular",
+          "artist": "Stephen Dawes",
           "playcount": 3,
-          "url": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
+          "url": "https://www.last.fm/music/Stephen+Dawes/_/Irregular",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-16T13:10:47.906640"
+    "fetched_at": "2026-02-17T02:27:32.398263"
   }
 }
