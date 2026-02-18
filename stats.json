@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-18T02:30:39.218250Z",
+  "collected_at": "2026-02-18T13:11:38.541513Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-18T02:30:39.839211",
+    "fetched_at": "2026-02-18T13:11:39.399867",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 237,
+      "total_stars_received": 238,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-18T02:30:40.953817"
+      "fetched_at": "2026-02-18T13:11:40.780105"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3482,
+      "total_scrobbles": 3487,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3482,
-      "estimated_minutes": 12187,
-      "estimated_hours": 203.1,
+      "total_scrobbles": 3487,
+      "estimated_minutes": 12204,
+      "estimated_hours": 203.4,
       "estimated_days": 8.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 223,
-        "estimated_minutes": 780,
-        "estimated_hours": 13.0,
+        "total_scrobbles": 228,
+        "estimated_minutes": 798,
+        "estimated_hours": 13.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1151,
-        "estimated_minutes": 4028,
-        "estimated_hours": 67.1,
+        "total_scrobbles": 1146,
+        "estimated_minutes": 4011,
+        "estimated_hours": 66.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2942,
-        "estimated_minutes": 10297,
-        "estimated_hours": 171.6,
+        "total_scrobbles": 2947,
+        "estimated_minutes": 10314,
+        "estimated_hours": 171.9,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -129,9 +129,9 @@
           "rank": 9
         },
         {
-          "name": "Paramore",
+          "name": "Ariana Grande",
           "playcount": 48,
-          "url": "https://www.last.fm/music/Paramore",
+          "url": "https://www.last.fm/music/Ariana+Grande",
           "rank": 10
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-18T02:30:44.662140"
+    "fetched_at": "2026-02-18T13:11:44.345459"
   }
 }
