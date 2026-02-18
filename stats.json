@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-17T13:10:26.151574Z",
+  "collected_at": "2026-02-18T02:30:39.218250Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-17T13:10:26.726007",
+    "fetched_at": "2026-02-18T02:30:39.839211",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 237,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-17T13:10:29.135504"
+      "fetched_at": "2026-02-18T02:30:40.953817"
     }
   },
   "lastfm": {
@@ -34,49 +34,49 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3457,
+      "total_scrobbles": 3482,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3457,
-      "estimated_minutes": 12100,
-      "estimated_hours": 201.7,
-      "estimated_days": 8.4,
+      "total_scrobbles": 3482,
+      "estimated_minutes": 12187,
+      "estimated_hours": 203.1,
+      "estimated_days": 8.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 199,
-        "estimated_minutes": 696,
-        "estimated_hours": 11.6,
+        "total_scrobbles": 223,
+        "estimated_minutes": 780,
+        "estimated_hours": 13.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1239,
-        "estimated_minutes": 4336,
-        "estimated_hours": 72.3,
+        "total_scrobbles": 1151,
+        "estimated_minutes": 4028,
+        "estimated_hours": 67.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2920,
-        "estimated_minutes": 10220,
-        "estimated_hours": 170.3,
+        "total_scrobbles": 2942,
+        "estimated_minutes": 10297,
+        "estimated_hours": 171.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 211,
-      "total_plays_this_week": 260
+      "total_tracks_this_week": 160,
+      "total_plays_this_week": 201
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 130,
+          "playcount": 131,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
@@ -105,21 +105,21 @@
           "rank": 5
         },
         {
-          "name": "The Home Team",
-          "playcount": 63,
-          "url": "https://www.last.fm/music/The+Home+Team",
+          "name": "The Runarounds",
+          "playcount": 68,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
         {
           "name": "Dominic Fike",
-          "playcount": 62,
+          "playcount": 64,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 7
         },
         {
-          "name": "The Runarounds",
-          "playcount": 62,
-          "url": "https://www.last.fm/music/The+Runarounds",
+          "name": "The Home Team",
+          "playcount": 63,
+          "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 8
         },
         {
@@ -153,24 +153,24 @@
           "rank": 2
         },
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 3
+        },
+        {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 15,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 14,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 4
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 5
         },
         {
@@ -188,61 +188,61 @@
           "rank": 7
         },
         {
+          "name": "Writing's On The Wall",
+          "artist": "ROLE MODEL",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
+          "rank": 8
+        },
+        {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 12,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "The Last of the Real Ones",
           "artist": "Fall Out Boy",
           "playcount": 12,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
-          "rank": 9
-        },
-        {
-          "name": "Dark Blue",
-          "artist": "Jack's Mannequin",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Jack%27s+Mannequin/_/Dark+Blue",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Dead Beat City",
-          "artist": "Kids That Fly",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 1
         },
         {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "name": "Dead Beat City",
+          "artist": "Kids That Fly",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 2
+        },
+        {
+          "name": "Everybody Talks",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Everybody+Talks",
+          "rank": 3
         },
         {
           "name": "Life Was Easier When I Only Cared About Me",
           "artist": "Bad Suns",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "My Favorite Girl Loves Reading",
           "artist": "Foxtide",
           "playcount": 3,
           "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
-          "rank": 4
-        },
-        {
-          "name": "Irregular",
-          "artist": "Stephen Dawes",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Stephen+Dawes/_/Irregular",
           "rank": 5
         }
       ]
@@ -259,7 +259,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 51,
+          "playcount": 56,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -273,7 +273,7 @@
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 40,
+          "playcount": 41,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 4
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-17T13:10:33.272422"
+    "fetched_at": "2026-02-18T02:30:44.662140"
   }
 }
