@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-19T02:29:45.001949Z",
+  "collected_at": "2026-02-19T13:13:10.674724Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-19T02:29:45.563051",
+    "fetched_at": "2026-02-19T13:13:11.299439",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 239,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-19T02:29:46.725643"
+      "fetched_at": "2026-02-19T13:13:12.635241"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3505,
+      "total_scrobbles": 3512,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3505,
-      "estimated_minutes": 12268,
-      "estimated_hours": 204.5,
+      "total_scrobbles": 3512,
+      "estimated_minutes": 12292,
+      "estimated_hours": 204.9,
       "estimated_days": 8.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 206,
-        "estimated_minutes": 721,
-        "estimated_hours": 12.0,
+        "total_scrobbles": 207,
+        "estimated_minutes": 724,
+        "estimated_hours": 12.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1119,
-        "estimated_minutes": 3916,
-        "estimated_hours": 65.3,
+        "total_scrobbles": 1126,
+        "estimated_minutes": 3941,
+        "estimated_hours": 65.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2958,
-        "estimated_minutes": 10353,
-        "estimated_hours": 172.6,
+        "total_scrobbles": 2965,
+        "estimated_minutes": 10378,
+        "estimated_hours": 173.0,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -118,7 +118,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 63,
+          "playcount": 64,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 8
         },
@@ -129,9 +129,9 @@
           "rank": 9
         },
         {
-          "name": "Ariana Grande",
-          "playcount": 48,
-          "url": "https://www.last.fm/music/Ariana+Grande",
+          "name": "Paramore",
+          "playcount": 49,
+          "url": "https://www.last.fm/music/Paramore",
           "rank": 10
         }
       ]
@@ -141,7 +141,7 @@
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
-          "playcount": 16,
+          "playcount": 17,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 1
         },
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
+          "name": "Dancer",
+          "artist": "Claire Rosinkranz",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Claire+Rosinkranz/_/Dancer",
+          "rank": 4
+        },
+        {
           "name": "My Favorite Girl Loves Reading",
           "artist": "Foxtide",
           "playcount": 3,
           "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
-          "rank": 4
-        },
-        {
-          "name": "Irregular",
-          "artist": "Stephen Dawes",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Stephen+Dawes/_/Irregular",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-19T02:29:50.675914"
+    "fetched_at": "2026-02-19T13:13:16.605451"
   }
 }
