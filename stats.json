@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-18T13:11:38.541513Z",
+  "collected_at": "2026-02-19T02:29:45.001949Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-18T13:11:39.399867",
+    "fetched_at": "2026-02-19T02:29:45.563051",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 238,
+      "total_stars_received": 239,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-18T13:11:40.780105"
+      "fetched_at": "2026-02-19T02:29:46.725643"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3487,
+      "total_scrobbles": 3505,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3487,
-      "estimated_minutes": 12204,
-      "estimated_hours": 203.4,
+      "total_scrobbles": 3505,
+      "estimated_minutes": 12268,
+      "estimated_hours": 204.5,
       "estimated_days": 8.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 228,
-        "estimated_minutes": 798,
-        "estimated_hours": 13.3,
+        "total_scrobbles": 206,
+        "estimated_minutes": 721,
+        "estimated_hours": 12.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1146,
-        "estimated_minutes": 4011,
-        "estimated_hours": 66.8,
+        "total_scrobbles": 1119,
+        "estimated_minutes": 3916,
+        "estimated_hours": 65.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2947,
-        "estimated_minutes": 10314,
-        "estimated_hours": 171.9,
+        "total_scrobbles": 2958,
+        "estimated_minutes": 10353,
+        "estimated_hours": 172.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 160,
-      "total_plays_this_week": 201
+      "total_tracks_this_week": 173,
+      "total_plays_this_week": 224
     },
     "top_artists": {
       "overall": [
@@ -88,13 +88,13 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 96,
+          "playcount": 97,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 79,
+          "playcount": 82,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -124,7 +124,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 49,
+          "playcount": 50,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 9
         },
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
-          "name": "Life Was Easier When I Only Cared About Me",
-          "artist": "Bad Suns",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
-          "rank": 4
-        },
-        {
           "name": "My Favorite Girl Loves Reading",
           "artist": "Foxtide",
           "playcount": 3,
           "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
+          "rank": 4
+        },
+        {
+          "name": "Irregular",
+          "artist": "Stephen Dawes",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Stephen+Dawes/_/Irregular",
           "rank": 5
         }
       ]
@@ -278,14 +278,14 @@
           "rank": 4
         },
         {
-          "name": "The Crucible of Life",
-          "artist": "The Home Team",
-          "playcount": 37,
-          "url": "https://www.last.fm/music/The+Home+Team/The+Crucible+of+Life",
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 38,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-18T13:11:44.345459"
+    "fetched_at": "2026-02-19T02:29:50.675914"
   }
 }
