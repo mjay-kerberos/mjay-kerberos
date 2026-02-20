@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-19T13:13:10.674724Z",
+  "collected_at": "2026-02-20T02:25:19.144565Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-19T13:13:11.299439",
+    "fetched_at": "2026-02-20T02:25:19.601630",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 5,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 239,
+      "total_stars_received": 240,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-19T13:13:12.635241"
+      "fetched_at": "2026-02-20T02:25:20.726790"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3512,
+      "total_scrobbles": 3541,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3512,
-      "estimated_minutes": 12292,
-      "estimated_hours": 204.9,
-      "estimated_days": 8.5,
+      "total_scrobbles": 3541,
+      "estimated_minutes": 12394,
+      "estimated_hours": 206.6,
+      "estimated_days": 8.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 207,
-        "estimated_minutes": 724,
-        "estimated_hours": 12.1,
+        "total_scrobbles": 195,
+        "estimated_minutes": 682,
+        "estimated_hours": 11.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1126,
-        "estimated_minutes": 3941,
-        "estimated_hours": 65.7,
+        "total_scrobbles": 1113,
+        "estimated_minutes": 3896,
+        "estimated_hours": 64.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 2965,
-        "estimated_minutes": 10378,
-        "estimated_hours": 173.0,
+        "total_scrobbles": 2988,
+        "estimated_minutes": 10458,
+        "estimated_hours": 174.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 173,
-      "total_plays_this_week": 224
+      "total_tracks_this_week": 158,
+      "total_plays_this_week": 202
     },
     "top_artists": {
       "overall": [
@@ -88,13 +88,13 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 97,
+          "playcount": 98,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 82,
+          "playcount": 86,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 49,
+          "playcount": 50,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 10
         }
@@ -188,40 +188,40 @@
           "rank": 7
         },
         {
-          "name": "Writing's On The Wall",
-          "artist": "ROLE MODEL",
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
           "playcount": 13,
-          "url": "https://www.last.fm/music/ROLE+MODEL/_/Writing%27s+On+The+Wall",
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 8
         },
         {
-          "name": "Fourth of July",
-          "artist": "Fall Out Boy",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
+          "name": "Dead Beat City",
+          "artist": "Kids That Fly",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 9
         },
         {
-          "name": "The Last of the Real Ones",
-          "artist": "Fall Out Boy",
-          "playcount": 12,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 1
-        },
-        {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 6,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
+          "rank": 1
+        },
+        {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 2
         },
         {
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "My Favorite Girl Loves Reading",
-          "artist": "Foxtide",
+          "name": "Midnight Sun",
+          "artist": "Zara Larsson",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
+          "url": "https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun",
           "rank": 5
         }
       ]
@@ -271,21 +271,21 @@
           "rank": 3
         },
         {
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 41,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "rank": 4
+        },
+        {
           "name": "So Close to What",
           "artist": "Tate McRae",
           "playcount": 41,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
-          "rank": 4
-        },
-        {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 38,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-19T13:13:16.605451"
+    "fetched_at": "2026-02-20T02:25:26.373933"
   }
 }
