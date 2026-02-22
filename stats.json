@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-02-21T12:54:42.771994Z",
+  "collected_at": "2026-02-22T02:30:28.525283Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 70,
-    "public_commits": 70,
+    "total_commits_this_year": 71,
+    "public_commits": 71,
     "private_commits": 0,
-    "commits_this_month": 43,
+    "commits_this_month": 44,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 76,
+    "total_contributions": 77,
     "repos_owned": 57,
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-21T12:54:43.281077",
+    "fetched_at": "2026-02-22T02:30:28.986517",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-21T12:54:44.277750"
+      "fetched_at": "2026-02-22T02:30:29.924119"
     }
   },
   "lastfm": {
@@ -34,55 +34,55 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3618,
+      "total_scrobbles": 3657,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3618,
-      "estimated_minutes": 12663,
-      "estimated_hours": 211.1,
-      "estimated_days": 8.8,
+      "total_scrobbles": 3657,
+      "estimated_minutes": 12800,
+      "estimated_hours": 213.3,
+      "estimated_days": 8.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 181,
-        "estimated_minutes": 634,
-        "estimated_hours": 10.6,
+        "total_scrobbles": 219,
+        "estimated_minutes": 766,
+        "estimated_hours": 12.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1087,
-        "estimated_minutes": 3804,
-        "estimated_hours": 63.4,
+        "total_scrobbles": 1064,
+        "estimated_minutes": 3724,
+        "estimated_hours": 62.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3044,
-        "estimated_minutes": 10654,
-        "estimated_hours": 177.6,
+        "total_scrobbles": 3066,
+        "estimated_minutes": 10731,
+        "estimated_hours": 178.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 174,
-      "total_plays_this_week": 208
+      "total_tracks_this_week": 158,
+      "total_plays_this_week": 183
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 132,
+          "playcount": 134,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 119,
+          "playcount": 122,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -94,13 +94,13 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 87,
+          "playcount": 91,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
         {
           "name": "Bad Bunny",
-          "playcount": 74,
+          "playcount": 75,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
@@ -153,17 +153,17 @@
           "rank": 2
         },
         {
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 3
+        },
+        {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 16,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 3
-        },
-        {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 4
         },
         {
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Everybody Talks",
-          "artist": "Ax and the Hatchetmen",
+          "name": "jupiter",
+          "artist": "Almost Monday",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Everybody+Talks",
+          "url": "https://www.last.fm/music/Almost+Monday/_/jupiter",
           "rank": 5
         }
       ]
@@ -264,28 +264,28 @@
           "rank": 2
         },
         {
+          "name": "So Close to What",
+          "artist": "Tate McRae",
+          "playcount": 43,
+          "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
+          "rank": 3
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 43,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "DIVE",
           "artist": "Almost Monday",
           "playcount": 42,
           "url": "https://www.last.fm/music/Almost+Monday/DIVE",
-          "rank": 4
-        },
-        {
-          "name": "So Close to What",
-          "artist": "Tate McRae",
-          "playcount": 42,
-          "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-21T12:54:48.758119"
+    "fetched_at": "2026-02-22T02:30:37.779549"
   }
 }
