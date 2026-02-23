@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-23T02:30:58.043832Z",
+  "collected_at": "2026-02-23T13:12:11.128991Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-23T02:30:58.511184",
+    "fetched_at": "2026-02-23T13:12:11.760181",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-23T02:30:59.589079"
+      "fetched_at": "2026-02-23T13:12:13.187016"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3717,
+      "total_scrobbles": 3738,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3717,
-      "estimated_minutes": 13010,
-      "estimated_hours": 216.8,
-      "estimated_days": 9.0,
+      "total_scrobbles": 3738,
+      "estimated_minutes": 13083,
+      "estimated_hours": 218.1,
+      "estimated_days": 9.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 259,
-        "estimated_minutes": 906,
-        "estimated_hours": 15.1,
+        "total_scrobbles": 279,
+        "estimated_minutes": 976,
+        "estimated_hours": 16.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1080,
-        "estimated_minutes": 3780,
-        "estimated_hours": 63.0,
+        "total_scrobbles": 1101,
+        "estimated_minutes": 3854,
+        "estimated_hours": 64.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3075,
-        "estimated_minutes": 10762,
-        "estimated_hours": 179.4,
+        "total_scrobbles": 3086,
+        "estimated_minutes": 10801,
+        "estimated_hours": 180.0,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -225,24 +225,24 @@
           "rank": 2
         },
         {
+          "name": "Dandelion",
+          "artist": "Dogpark",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dogpark/_/Dandelion",
+          "rank": 3
+        },
+        {
           "name": "jupiter",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/jupiter",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "lost",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/lost",
-          "rank": 4
-        },
-        {
-          "name": "Problem",
-          "artist": "Ariana Grande",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ariana+Grande/_/Problem",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-23T02:31:03.256041"
+    "fetched_at": "2026-02-23T13:12:17.425344"
   }
 }
