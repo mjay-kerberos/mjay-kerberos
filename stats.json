@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-22T12:56:17.828848Z",
+  "collected_at": "2026-02-23T02:30:58.043832Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-22T12:56:18.158169",
+    "fetched_at": "2026-02-23T02:30:58.511184",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-22T12:56:19.325157"
+      "fetched_at": "2026-02-23T02:30:59.589079"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3657,
+      "total_scrobbles": 3717,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3657,
-      "estimated_minutes": 12800,
-      "estimated_hours": 213.3,
-      "estimated_days": 8.9,
+      "total_scrobbles": 3717,
+      "estimated_minutes": 13010,
+      "estimated_hours": 216.8,
+      "estimated_days": 9.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 219,
-        "estimated_minutes": 766,
-        "estimated_hours": 12.8,
+        "total_scrobbles": 259,
+        "estimated_minutes": 906,
+        "estimated_hours": 15.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1064,
-        "estimated_minutes": 3724,
-        "estimated_hours": 62.1,
+        "total_scrobbles": 1080,
+        "estimated_minutes": 3780,
+        "estimated_hours": 63.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3066,
-        "estimated_minutes": 10731,
-        "estimated_hours": 178.8,
+        "total_scrobbles": 3075,
+        "estimated_minutes": 10762,
+        "estimated_hours": 179.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 158,
-      "total_plays_this_week": 183
+      "total_tracks_this_week": 191,
+      "total_plays_this_week": 220
     },
     "top_artists": {
       "overall": [
@@ -106,7 +106,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 68,
+          "playcount": 69,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 6
         },
@@ -118,7 +118,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 64,
+          "playcount": 65,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 8
         },
@@ -225,24 +225,24 @@
           "rank": 2
         },
         {
-          "name": "Dancer",
-          "artist": "Claire Rosinkranz",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Claire+Rosinkranz/_/Dancer",
-          "rank": 3
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 4
-        },
-        {
           "name": "jupiter",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/jupiter",
+          "rank": 3
+        },
+        {
+          "name": "lost",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/lost",
+          "rank": 4
+        },
+        {
+          "name": "Problem",
+          "artist": "Ariana Grande",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Ariana+Grande/_/Problem",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-22T12:56:23.041986"
+    "fetched_at": "2026-02-23T02:31:03.256041"
   }
 }
