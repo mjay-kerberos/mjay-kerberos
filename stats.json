@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-24T02:27:31.369324Z",
+  "collected_at": "2026-02-24T13:13:01.914376Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-24T02:27:32.133583",
+    "fetched_at": "2026-02-24T13:13:02.634988",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-24T02:27:33.329618"
+      "fetched_at": "2026-02-24T13:13:03.924251"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3760,
+      "total_scrobbles": 3773,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3760,
-      "estimated_minutes": 13160,
-      "estimated_hours": 219.3,
-      "estimated_days": 9.1,
+      "total_scrobbles": 3773,
+      "estimated_minutes": 13206,
+      "estimated_hours": 220.1,
+      "estimated_days": 9.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 301,
-        "estimated_minutes": 1054,
-        "estimated_hours": 17.6,
+        "total_scrobbles": 314,
+        "estimated_minutes": 1099,
+        "estimated_hours": 18.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1036,
-        "estimated_minutes": 3626,
-        "estimated_hours": 60.4,
+        "total_scrobbles": 1039,
+        "estimated_minutes": 3636,
+        "estimated_hours": 60.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3099,
-        "estimated_minutes": 10846,
-        "estimated_hours": 180.8,
+        "total_scrobbles": 3109,
+        "estimated_minutes": 10882,
+        "estimated_hours": 181.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -94,7 +94,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 92,
+          "playcount": 93,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "jupiter",
-          "artist": "Almost Monday",
+          "name": "Ultraviolet",
+          "artist": "Aidan Bissett",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/jupiter",
+          "url": "https://www.last.fm/music/Aidan+Bissett/_/Ultraviolet",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-24T02:27:37.142951"
+    "fetched_at": "2026-02-24T13:13:08.663689"
   }
 }
