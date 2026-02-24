@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-23T13:12:11.128991Z",
+  "collected_at": "2026-02-24T02:27:31.369324Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-23T13:12:11.760181",
+    "fetched_at": "2026-02-24T02:27:32.133583",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-23T13:12:13.187016"
+      "fetched_at": "2026-02-24T02:27:33.329618"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3738,
+      "total_scrobbles": 3760,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3738,
-      "estimated_minutes": 13083,
-      "estimated_hours": 218.1,
+      "total_scrobbles": 3760,
+      "estimated_minutes": 13160,
+      "estimated_hours": 219.3,
       "estimated_days": 9.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 279,
-        "estimated_minutes": 976,
-        "estimated_hours": 16.3,
+        "total_scrobbles": 301,
+        "estimated_minutes": 1054,
+        "estimated_hours": 17.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1101,
-        "estimated_minutes": 3854,
-        "estimated_hours": 64.2,
+        "total_scrobbles": 1036,
+        "estimated_minutes": 3626,
+        "estimated_hours": 60.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3086,
-        "estimated_minutes": 10801,
-        "estimated_hours": 180.0,
+        "total_scrobbles": 3099,
+        "estimated_minutes": 10846,
+        "estimated_hours": 180.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 191,
-      "total_plays_this_week": 220
+      "total_tracks_this_week": 241,
+      "total_plays_this_week": 279
     },
     "top_artists": {
       "overall": [
@@ -94,7 +94,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 91,
+          "playcount": 92,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -112,13 +112,13 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 68,
+          "playcount": 69,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
         {
           "name": "Dominic Fike",
-          "playcount": 65,
+          "playcount": 67,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 8
         },
@@ -211,38 +211,38 @@
       ],
       "week": [
         {
+          "name": "Dandelion",
+          "artist": "Dogpark",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dogpark/_/Dandelion",
+          "rank": 1
+        },
+        {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 4,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "is it too late?",
           "artist": "Almost Monday",
           "playcount": 3,
           "url": "https://www.last.fm/music/Almost+Monday/_/is+it+too+late%3F",
-          "rank": 2
+          "rank": 3
         },
         {
-          "name": "Dandelion",
-          "artist": "Dogpark",
+          "name": "Sandman",
+          "artist": "Dominic Fike",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Dogpark/_/Dandelion",
-          "rank": 3
+          "url": "https://www.last.fm/music/Dominic+Fike/_/Sandman",
+          "rank": 4
         },
         {
           "name": "jupiter",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/jupiter",
-          "rank": 4
-        },
-        {
-          "name": "lost",
-          "artist": "Almost Monday",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/lost",
           "rank": 5
         }
       ]
@@ -259,33 +259,33 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 56,
+          "playcount": 57,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
+        },
+        {
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 43,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "rank": 3
         },
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
           "playcount": 43,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 43,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 4
-        },
-        {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 42,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-02-23T13:12:17.425344"
+    "fetched_at": "2026-02-24T02:27:37.142951"
   }
 }
