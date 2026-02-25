@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-24T13:13:01.914376Z",
+  "collected_at": "2026-02-25T02:28:45.313765Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 5,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-24T13:13:02.634988",
+    "fetched_at": "2026-02-25T02:28:45.982270",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-24T13:13:03.924251"
+      "fetched_at": "2026-02-25T02:28:47.381030"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3773,
+      "total_scrobbles": 3783,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3773,
-      "estimated_minutes": 13206,
-      "estimated_hours": 220.1,
+      "total_scrobbles": 3783,
+      "estimated_minutes": 13240,
+      "estimated_hours": 220.7,
       "estimated_days": 9.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 314,
-        "estimated_minutes": 1099,
-        "estimated_hours": 18.3,
+        "total_scrobbles": 300,
+        "estimated_minutes": 1050,
+        "estimated_hours": 17.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1039,
-        "estimated_minutes": 3636,
-        "estimated_hours": 60.6,
+        "total_scrobbles": 1003,
+        "estimated_minutes": 3510,
+        "estimated_hours": 58.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3109,
-        "estimated_minutes": 10882,
-        "estimated_hours": 181.4,
+        "total_scrobbles": 3119,
+        "estimated_minutes": 10916,
+        "estimated_hours": 181.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 241,
-      "total_plays_this_week": 279
+      "total_tracks_this_week": 259,
+      "total_plays_this_week": 314
     },
     "top_artists": {
       "overall": [
@@ -211,38 +211,38 @@
       ],
       "week": [
         {
+          "name": "If You Can't Hang",
+          "artist": "Sleeping With Sirens",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang",
+          "rank": 1
+        },
+        {
           "name": "Dandelion",
           "artist": "Dogpark",
           "playcount": 4,
           "url": "https://www.last.fm/music/Dogpark/_/Dandelion",
-          "rank": 1
+          "rank": 2
         },
         {
-          "name": "Dead Beat City",
-          "artist": "Kids That Fly",
+          "name": "If I'm James Dean, You're Audrey Hepburn",
+          "artist": "Sleeping With Sirens",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 2
+          "url": "https://www.last.fm/music/Sleeping+With+Sirens/_/If+I%27m+James+Dean,+You%27re+Audrey+Hepburn",
+          "rank": 3
         },
         {
           "name": "is it too late?",
           "artist": "Almost Monday",
           "playcount": 3,
           "url": "https://www.last.fm/music/Almost+Monday/_/is+it+too+late%3F",
-          "rank": 3
-        },
-        {
-          "name": "Sandman",
-          "artist": "Dominic Fike",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/Sandman",
           "rank": 4
         },
         {
-          "name": "Ultraviolet",
-          "artist": "Aidan Bissett",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Aidan+Bissett/_/Ultraviolet",
+          "name": "Dead Beat City",
+          "artist": "Kids That Fly",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-24T13:13:08.663689"
+    "fetched_at": "2026-02-25T02:28:53.057975"
   }
 }
