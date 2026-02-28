@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-28T02:06:23.877625Z",
+  "collected_at": "2026-02-28T12:52:18.612626Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-28T02:06:24.485374",
+    "fetched_at": "2026-02-28T12:52:18.931659",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-28T02:06:25.608786"
+      "fetched_at": "2026-02-28T12:52:19.746953"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3872,
+      "total_scrobbles": 3875,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3872,
-      "estimated_minutes": 13552,
-      "estimated_hours": 225.9,
+      "total_scrobbles": 3875,
+      "estimated_minutes": 13562,
+      "estimated_hours": 226.0,
       "estimated_days": 9.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 252,
-        "estimated_minutes": 882,
-        "estimated_hours": 14.7,
+        "total_scrobbles": 255,
+        "estimated_minutes": 892,
+        "estimated_hours": 14.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 983,
-        "estimated_minutes": 3440,
-        "estimated_hours": 57.3,
+        "total_scrobbles": 985,
+        "estimated_minutes": 3448,
+        "estimated_hours": 57.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3182,
-        "estimated_minutes": 11137,
-        "estimated_hours": 185.6,
+        "total_scrobbles": 3185,
+        "estimated_minutes": 11148,
+        "estimated_hours": 185.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 4
+        },
+        {
           "name": "If I'm James Dean, You're Audrey Hepburn",
           "artist": "Sleeping With Sirens",
           "playcount": 4,
           "url": "https://www.last.fm/music/Sleeping+With+Sirens/_/If+I%27m+James+Dean,+You%27re+Audrey+Hepburn",
-          "rank": 4
-        },
-        {
-          "name": "City",
-          "artist": "Claire Rosinkranz",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Claire+Rosinkranz/_/City",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-28T02:06:31.281731"
+    "fetched_at": "2026-02-28T12:52:24.485010"
   }
 }
