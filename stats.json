@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-02-27T13:05:11.905776Z",
+  "collected_at": "2026-02-28T02:06:23.877625Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-27T13:05:12.346981",
+    "fetched_at": "2026-02-28T02:06:24.485374",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-27T13:05:13.340304"
+      "fetched_at": "2026-02-28T02:06:25.608786"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3842,
+      "total_scrobbles": 3872,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3842,
-      "estimated_minutes": 13447,
-      "estimated_hours": 224.1,
-      "estimated_days": 9.3,
+      "total_scrobbles": 3872,
+      "estimated_minutes": 13552,
+      "estimated_hours": 225.9,
+      "estimated_days": 9.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 288,
-        "estimated_minutes": 1008,
-        "estimated_hours": 16.8,
+        "total_scrobbles": 252,
+        "estimated_minutes": 882,
+        "estimated_hours": 14.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 986,
-        "estimated_minutes": 3451,
-        "estimated_hours": 57.5,
+        "total_scrobbles": 983,
+        "estimated_minutes": 3440,
+        "estimated_hours": 57.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3160,
-        "estimated_minutes": 11060,
-        "estimated_hours": 184.3,
+        "total_scrobbles": 3182,
+        "estimated_minutes": 11137,
+        "estimated_hours": 185.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 243,
-      "total_plays_this_week": 295
+      "total_tracks_this_week": 241,
+      "total_plays_this_week": 289
     },
     "top_artists": {
       "overall": [
@@ -105,21 +105,21 @@
           "rank": 5
         },
         {
+          "name": "Dominic Fike",
+          "playcount": 70,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 6
+        },
+        {
           "name": "The Runarounds",
           "playcount": 70,
           "url": "https://www.last.fm/music/The+Runarounds",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Paramore",
           "playcount": 69,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 7
-        },
-        {
-          "name": "Dominic Fike",
-          "playcount": 67,
-          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 8
         },
         {
@@ -141,22 +141,22 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 19,
+          "playcount": 22,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 2
         },
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 17,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 2
-        },
-        {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 3
         },
         {
@@ -218,17 +218,17 @@
           "rank": 1
         },
         {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 2
         },
         {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 3
         },
         {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-27T13:05:18.887083"
+    "fetched_at": "2026-02-28T02:06:31.281731"
   }
 }
