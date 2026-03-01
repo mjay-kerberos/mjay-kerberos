@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-02-28T12:52:18.612626Z",
+  "collected_at": "2026-03-01T02:37:03.504847Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
     "total_commits_this_year": 71,
     "public_commits": 71,
     "private_commits": 0,
-    "commits_this_month": 44,
+    "commits_this_month": 0,
     "total_prs": 0,
     "total_issues": 0,
     "total_contributions": 77,
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-02-28T12:52:18.931659",
+    "fetched_at": "2026-03-01T02:37:03.866752",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-02-28T12:52:19.746953"
+      "fetched_at": "2026-03-01T02:37:04.820512"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 255,
-        "estimated_minutes": 892,
-        "estimated_hours": 14.9,
+        "total_scrobbles": 217,
+        "estimated_minutes": 760,
+        "estimated_hours": 12.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 985,
-        "estimated_minutes": 3448,
-        "estimated_hours": 57.5,
+        "total_scrobbles": 962,
+        "estimated_minutes": 3367,
+        "estimated_hours": 56.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 241,
-      "total_plays_this_week": 289
+      "total_tracks_this_week": 195,
+      "total_plays_this_week": 255
     },
     "top_artists": {
       "overall": [
@@ -220,7 +220,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 2
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-02-28T12:52:24.485010"
+    "fetched_at": "2026-03-01T02:37:08.251867"
   }
 }
