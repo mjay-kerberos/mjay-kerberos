@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-01T12:54:55.678993Z",
+  "collected_at": "2026-03-02T02:26:10.501852Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-01T12:54:56.281371",
+    "fetched_at": "2026-03-02T02:26:10.978850",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-01T12:54:57.281199"
+      "fetched_at": "2026-03-02T02:26:11.843477"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3875,
+      "total_scrobbles": 3949,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3875,
-      "estimated_minutes": 13562,
-      "estimated_hours": 226.0,
-      "estimated_days": 9.4,
+      "total_scrobbles": 3949,
+      "estimated_minutes": 13822,
+      "estimated_hours": 230.4,
+      "estimated_days": 9.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 217,
-        "estimated_minutes": 760,
-        "estimated_hours": 12.7,
+        "total_scrobbles": 232,
+        "estimated_minutes": 812,
+        "estimated_hours": 13.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 962,
-        "estimated_minutes": 3367,
-        "estimated_hours": 56.1,
+        "total_scrobbles": 998,
+        "estimated_minutes": 3493,
+        "estimated_hours": 58.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3185,
-        "estimated_minutes": 11148,
-        "estimated_hours": 185.8,
+        "total_scrobbles": 3230,
+        "estimated_minutes": 11305,
+        "estimated_hours": 188.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 195,
-      "total_plays_this_week": 255
+      "total_tracks_this_week": 162,
+      "total_plays_this_week": 217
     },
     "top_artists": {
       "overall": [
@@ -88,7 +88,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 102,
+          "playcount": 110,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -106,20 +106,20 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 70,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
+        },
+        {
+          "name": "Paramore",
+          "playcount": 71,
+          "url": "https://www.last.fm/music/Paramore",
+          "rank": 7
         },
         {
           "name": "The Runarounds",
           "playcount": 70,
           "url": "https://www.last.fm/music/The+Runarounds",
-          "rank": 7
-        },
-        {
-          "name": "Paramore",
-          "playcount": 69,
-          "url": "https://www.last.fm/music/Paramore",
           "rank": 8
         },
         {
@@ -130,7 +130,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 53,
+          "playcount": 54,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -195,17 +195,17 @@
           "rank": 8
         },
         {
+          "name": "Fourth of July",
+          "artist": "Fall Out Boy",
+          "playcount": 13,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
+          "rank": 9
+        },
+        {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 13,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 9
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
@@ -213,7 +213,7 @@
         {
           "name": "If You Can't Hang",
           "artist": "Sleeping With Sirens",
-          "playcount": 8,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang",
           "rank": 1
         },
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "name": "Roommates",
+          "artist": "Malcolm Todd",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Roommates",
           "rank": 4
         },
         {
-          "name": "If I'm James Dean, You're Audrey Hepburn",
-          "artist": "Sleeping With Sirens",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Sleeping+With+Sirens/_/If+I%27m+James+Dean,+You%27re+Audrey+Hepburn",
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-01T12:55:02.295119"
+    "fetched_at": "2026-03-02T02:26:19.579771"
   }
 }
