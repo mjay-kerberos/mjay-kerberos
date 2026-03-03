@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-02T13:05:25.414725Z",
+  "collected_at": "2026-03-03T02:28:35.560340Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-02T13:05:25.916871",
+    "fetched_at": "2026-03-03T02:28:36.066359",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-02T13:05:27.211280"
+      "fetched_at": "2026-03-03T02:28:37.078464"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 3949,
+      "total_scrobbles": 4008,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 3949,
-      "estimated_minutes": 13822,
-      "estimated_hours": 230.4,
-      "estimated_days": 9.6,
+      "total_scrobbles": 4008,
+      "estimated_minutes": 14028,
+      "estimated_hours": 233.8,
+      "estimated_days": 9.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 211,
-        "estimated_minutes": 738,
-        "estimated_hours": 12.3,
+        "total_scrobbles": 246,
+        "estimated_minutes": 861,
+        "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 998,
-        "estimated_minutes": 3493,
-        "estimated_hours": 58.2,
+        "total_scrobbles": 1057,
+        "estimated_minutes": 3700,
+        "estimated_hours": 61.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3230,
-        "estimated_minutes": 11305,
-        "estimated_hours": 188.4,
+        "total_scrobbles": 3270,
+        "estimated_minutes": 11445,
+        "estimated_hours": 190.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 162,
-      "total_plays_this_week": 217
+      "total_tracks_this_week": 161,
+      "total_plays_this_week": 212
     },
     "top_artists": {
       "overall": [
@@ -106,7 +106,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 72,
+          "playcount": 75,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -123,15 +123,15 @@
           "rank": 8
         },
         {
-          "name": "The Home Team",
-          "playcount": 64,
-          "url": "https://www.last.fm/music/The+Home+Team",
+          "name": "Malcolm Todd",
+          "playcount": 66,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 9
         },
         {
-          "name": "Panic! at the Disco",
-          "playcount": 54,
-          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
+          "name": "The Home Team",
+          "playcount": 64,
+          "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
       ]
@@ -174,75 +174,75 @@
           "rank": 5
         },
         {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 6
+        },
+        {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 14,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 13,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 13,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 13,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 9
-        },
-        {
-          "name": "wannabe!",
-          "artist": "Kevian Kraemer",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 10
         }
       ],
       "week": [
         {
+          "name": "Roommates",
+          "artist": "Malcolm Todd",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Roommates",
+          "rank": 1
+        },
+        {
           "name": "If You Can't Hang",
           "artist": "Sleeping With Sirens",
           "playcount": 7,
           "url": "https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 6,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 2
+          "rank": 3
+        },
+        {
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 4
         },
         {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 5,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 3
-        },
-        {
-          "name": "Roommates",
-          "artist": "Malcolm Todd",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Roommates",
-          "rank": 4
-        },
-        {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-02T13:05:31.027309"
+    "fetched_at": "2026-03-03T02:28:42.149862"
   }
 }
