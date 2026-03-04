@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-03T13:04:12.459619Z",
+  "collected_at": "2026-03-04T02:22:19.317673Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-03T13:04:12.899998",
+    "fetched_at": "2026-03-04T02:22:19.729444",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-03T13:04:14.073056"
+      "fetched_at": "2026-03-04T02:22:20.764118"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4008,
+      "total_scrobbles": 4062,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4008,
-      "estimated_minutes": 14028,
-      "estimated_hours": 233.8,
-      "estimated_days": 9.7,
+      "total_scrobbles": 4062,
+      "estimated_minutes": 14217,
+      "estimated_hours": 236.9,
+      "estimated_days": 9.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 235,
-        "estimated_minutes": 822,
-        "estimated_hours": 13.7,
+        "total_scrobbles": 279,
+        "estimated_minutes": 976,
+        "estimated_hours": 16.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1057,
-        "estimated_minutes": 3700,
-        "estimated_hours": 61.7,
+        "total_scrobbles": 1110,
+        "estimated_minutes": 3885,
+        "estimated_hours": 64.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3270,
-        "estimated_minutes": 11445,
-        "estimated_hours": 190.8,
+        "total_scrobbles": 3316,
+        "estimated_minutes": 11606,
+        "estimated_hours": 193.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 161,
-      "total_plays_this_week": 212
+      "total_tracks_this_week": 162,
+      "total_plays_this_week": 236
     },
     "top_artists": {
       "overall": [
@@ -82,7 +82,7 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 122,
+          "playcount": 124,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -94,38 +94,38 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 93,
+          "playcount": 94,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
         {
           "name": "Bad Bunny",
-          "playcount": 75,
+          "playcount": 76,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 75,
+          "playcount": 76,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
           "name": "Paramore",
-          "playcount": 71,
+          "playcount": 74,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
+        },
+        {
+          "name": "Malcolm Todd",
+          "playcount": 70,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "rank": 8
         },
         {
           "name": "The Runarounds",
           "playcount": 70,
           "url": "https://www.last.fm/music/The+Runarounds",
-          "rank": 8
-        },
-        {
-          "name": "Malcolm Todd",
-          "playcount": 66,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 9
         },
         {
@@ -167,45 +167,45 @@
           "rank": 4
         },
         {
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
+          "rank": 5
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 15,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 14,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 14,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 7
+          "rank": 8
+        },
+        {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 9
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 13,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 8
-        },
-        {
-          "name": "put a finger down",
-          "artist": "Edwin",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 9
-        },
-        {
-          "name": "Fourth of July",
-          "artist": "Fall Out Boy",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
           "rank": 10
         }
       ],
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
-          "name": "If You Can't Hang",
-          "artist": "Sleeping With Sirens",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Sleeping+With+Sirens/_/If+You+Can%27t+Hang",
-          "rank": 2
-        },
-        {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 6,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 5,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 5,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 4
+        },
+        {
+          "name": "Bleed (feat. Omar Apollo)",
+          "artist": "Malcolm Todd",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Bleed+(feat.+Omar+Apollo)",
           "rank": 5
         }
       ]
@@ -252,7 +252,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 70,
+          "playcount": 71,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-03T13:04:18.683765"
+    "fetched_at": "2026-03-04T02:22:25.119131"
   }
 }
