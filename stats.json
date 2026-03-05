@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-04T13:03:31.567028Z",
+  "collected_at": "2026-03-05T02:25:08.631077Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-04T13:03:32.199578",
+    "fetched_at": "2026-03-05T02:25:09.121033",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 4,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 242,
+      "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-04T13:03:33.446018"
+      "fetched_at": "2026-03-05T02:25:09.892073"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4062,
+      "total_scrobbles": 4109,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4062,
-      "estimated_minutes": 14217,
-      "estimated_hours": 236.9,
-      "estimated_days": 9.9,
+      "total_scrobbles": 4109,
+      "estimated_minutes": 14382,
+      "estimated_hours": 239.7,
+      "estimated_days": 10.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 279,
-        "estimated_minutes": 976,
-        "estimated_hours": 16.3,
+        "total_scrobbles": 307,
+        "estimated_minutes": 1074,
+        "estimated_hours": 17.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1110,
-        "estimated_minutes": 3885,
-        "estimated_hours": 64.8,
+        "total_scrobbles": 1121,
+        "estimated_minutes": 3924,
+        "estimated_hours": 65.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3316,
-        "estimated_minutes": 11606,
-        "estimated_hours": 193.4,
+        "total_scrobbles": 3355,
+        "estimated_minutes": 11742,
+        "estimated_hours": 195.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 162,
-      "total_plays_this_week": 236
+      "total_tracks_this_week": 192,
+      "total_plays_this_week": 279
     },
     "top_artists": {
       "overall": [
@@ -82,19 +82,19 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 124,
+          "playcount": 127,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 110,
+          "playcount": 111,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 94,
+          "playcount": 96,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 64,
+          "playcount": 65,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
@@ -141,22 +141,22 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 22,
+          "playcount": 23,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
+        },
+        {
+          "name": "Cheekbones",
+          "artist": "Arrows in Action",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
+          "rank": 2
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 18,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 2
-        },
-        {
-          "name": "Cheekbones",
-          "artist": "Arrows in Action",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
           "rank": 3
         },
         {
@@ -181,31 +181,31 @@
           "rank": 6
         },
         {
+          "name": "put a finger down",
+          "artist": "Edwin",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "rank": 7
+        },
+        {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 14,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 14,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 14,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 9
-        },
-        {
-          "name": "WELTiTA",
-          "artist": "Bad Bunny",
-          "playcount": 13,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 10
         }
       ],
@@ -220,7 +220,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 2
         },
@@ -264,17 +264,17 @@
           "rank": 2
         },
         {
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 44,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "rank": 3
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 44,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 3
-        },
-        {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 43,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 4
         },
         {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-04T13:03:42.443925"
+    "fetched_at": "2026-03-05T02:25:16.448562"
   }
 }
