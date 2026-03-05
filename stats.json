@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-05T02:25:08.631077Z",
+  "collected_at": "2026-03-05T13:07:08.022312Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-05T02:25:09.121033",
+    "fetched_at": "2026-03-05T13:07:08.645338",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-05T02:25:09.892073"
+      "fetched_at": "2026-03-05T13:07:10.064211"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4109,
+      "total_scrobbles": 4114,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4109,
-      "estimated_minutes": 14382,
-      "estimated_hours": 239.7,
+      "total_scrobbles": 4114,
+      "estimated_minutes": 14399,
+      "estimated_hours": 240.0,
       "estimated_days": 10.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 307,
-        "estimated_minutes": 1074,
+        "total_scrobbles": 306,
+        "estimated_minutes": 1071,
         "estimated_hours": 17.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1121,
-        "estimated_minutes": 3924,
-        "estimated_hours": 65.4,
+        "total_scrobbles": 1126,
+        "estimated_minutes": 3941,
+        "estimated_hours": 65.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3355,
-        "estimated_minutes": 11742,
-        "estimated_hours": 195.7,
+        "total_scrobbles": 3357,
+        "estimated_minutes": 11750,
+        "estimated_hours": 195.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -220,7 +220,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 2
         },
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 4
-        },
-        {
           "name": "Bleed (feat. Omar Apollo)",
           "artist": "Malcolm Todd",
           "playcount": 5,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Bleed+(feat.+Omar+Apollo)",
+          "rank": 4
+        },
+        {
+          "name": "You Owe Me",
+          "artist": "Malcolm Todd",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/You+Owe+Me",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-05T02:25:16.448562"
+    "fetched_at": "2026-03-05T13:07:15.222829"
   }
 }
