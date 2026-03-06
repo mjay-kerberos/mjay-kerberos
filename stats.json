@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-06T02:23:17.890649Z",
+  "collected_at": "2026-03-06T13:02:51.526794Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-06T02:23:18.360386",
+    "fetched_at": "2026-03-06T13:02:52.071548",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-06T02:23:19.260119"
+      "fetched_at": "2026-03-06T13:02:53.140967"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4149,
+      "total_scrobbles": 4153,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4149,
-      "estimated_minutes": 14522,
-      "estimated_hours": 242.0,
+      "total_scrobbles": 4153,
+      "estimated_minutes": 14536,
+      "estimated_hours": 242.3,
       "estimated_days": 10.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 306,
-        "estimated_minutes": 1071,
-        "estimated_hours": 17.9,
+        "total_scrobbles": 310,
+        "estimated_minutes": 1085,
+        "estimated_hours": 18.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1134,
-        "estimated_minutes": 3969,
-        "estimated_hours": 66.2,
+        "total_scrobbles": 1131,
+        "estimated_minutes": 3958,
+        "estimated_hours": 66.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3387,
-        "estimated_minutes": 11854,
-        "estimated_hours": 197.6,
+        "total_scrobbles": 3390,
+        "estimated_minutes": 11865,
+        "estimated_hours": 197.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-06T02:23:23.807957"
+    "fetched_at": "2026-03-06T13:02:58.165968"
   }
 }
