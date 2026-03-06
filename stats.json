@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-05T13:07:08.022312Z",
+  "collected_at": "2026-03-06T02:23:17.890649Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-05T13:07:08.645338",
+    "fetched_at": "2026-03-06T02:23:18.360386",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-05T13:07:10.064211"
+      "fetched_at": "2026-03-06T02:23:19.260119"
     }
   },
   "lastfm": {
@@ -34,15 +34,15 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4114,
+      "total_scrobbles": 4149,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4114,
-      "estimated_minutes": 14399,
-      "estimated_hours": 240.0,
-      "estimated_days": 10.0,
+      "total_scrobbles": 4149,
+      "estimated_minutes": 14522,
+      "estimated_hours": 242.0,
+      "estimated_days": 10.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
@@ -55,34 +55,34 @@
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1126,
-        "estimated_minutes": 3941,
-        "estimated_hours": 65.7,
+        "total_scrobbles": 1134,
+        "estimated_minutes": 3969,
+        "estimated_hours": 66.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3357,
-        "estimated_minutes": 11750,
-        "estimated_hours": 195.8,
+        "total_scrobbles": 3387,
+        "estimated_minutes": 11854,
+        "estimated_hours": 197.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 192,
-      "total_plays_this_week": 279
+      "total_tracks_this_week": 212,
+      "total_plays_this_week": 308
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 135,
+          "playcount": 137,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 127,
+          "playcount": 129,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -94,25 +94,25 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 96,
+          "playcount": 97,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
+        },
+        {
+          "name": "Dominic Fike",
+          "playcount": 77,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 5
         },
         {
           "name": "Bad Bunny",
           "playcount": 76,
           "url": "https://www.last.fm/music/Bad+Bunny",
-          "rank": 5
-        },
-        {
-          "name": "Dominic Fike",
-          "playcount": 76,
-          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
           "name": "Paramore",
-          "playcount": 74,
+          "playcount": 76,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
@@ -213,36 +213,36 @@
         {
           "name": "Roommates",
           "artist": "Malcolm Todd",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Roommates",
           "rank": 1
         },
         {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 2
         },
         {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "name": "City",
+          "artist": "Claire Rosinkranz",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Claire+Rosinkranz/_/City",
           "rank": 3
         },
         {
-          "name": "Bleed (feat. Omar Apollo)",
-          "artist": "Malcolm Todd",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Bleed+(feat.+Omar+Apollo)",
+          "name": "Babydoll",
+          "artist": "Dominic Fike",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
           "rank": 4
         },
         {
-          "name": "You Owe Me",
-          "artist": "Malcolm Todd",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/You+Owe+Me",
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 5
         }
       ]
@@ -266,26 +266,26 @@
         {
           "name": "DIVE",
           "artist": "Almost Monday",
-          "playcount": 44,
+          "playcount": 45,
           "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 3
+        },
+        {
+          "name": "So Close to What",
+          "artist": "Tate McRae",
+          "playcount": 45,
+          "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
+          "rank": 4
         },
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 44,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 4
-        },
-        {
-          "name": "So Close to What",
-          "artist": "Tate McRae",
-          "playcount": 43,
-          "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-05T13:07:15.222829"
+    "fetched_at": "2026-03-06T02:23:23.807957"
   }
 }
