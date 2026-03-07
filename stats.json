@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-07T02:09:59.136601Z",
+  "collected_at": "2026-03-07T12:53:45.787560Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-07T02:09:59.647157",
+    "fetched_at": "2026-03-07T12:53:46.217318",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-07T02:10:00.782890"
+      "fetched_at": "2026-03-07T12:53:47.240265"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4191,
+      "total_scrobbles": 4206,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4191,
-      "estimated_minutes": 14668,
-      "estimated_hours": 244.5,
+      "total_scrobbles": 4206,
+      "estimated_minutes": 14721,
+      "estimated_hours": 245.3,
       "estimated_days": 10.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 318,
-        "estimated_minutes": 1113,
-        "estimated_hours": 18.6,
+        "total_scrobbles": 331,
+        "estimated_minutes": 1158,
+        "estimated_hours": 19.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1146,
-        "estimated_minutes": 4011,
-        "estimated_hours": 66.8,
+        "total_scrobbles": 1152,
+        "estimated_minutes": 4032,
+        "estimated_hours": 67.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3418,
-        "estimated_minutes": 11963,
-        "estimated_hours": 199.4,
+        "total_scrobbles": 3420,
+        "estimated_minutes": 11970,
+        "estimated_hours": 199.5,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -174,38 +174,38 @@
           "rank": 5
         },
         {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 6
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 15,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 14,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 14,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 14,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 9
-        },
-        {
-          "name": "Moonwalkin'",
-          "artist": "LNGSHOT",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
           "rank": 10
         }
       ],
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-07T02:10:06.958823"
+    "fetched_at": "2026-03-07T12:53:52.283893"
   }
 }
