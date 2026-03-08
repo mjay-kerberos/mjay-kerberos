@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-07T12:53:45.787560Z",
+  "collected_at": "2026-03-08T02:27:48.697997Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-07T12:53:46.217318",
+    "fetched_at": "2026-03-08T02:27:49.088558",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-07T12:53:47.240265"
+      "fetched_at": "2026-03-08T02:27:50.068185"
     }
   },
   "lastfm": {
@@ -34,49 +34,49 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4206,
+      "total_scrobbles": 4236,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4206,
-      "estimated_minutes": 14721,
-      "estimated_hours": 245.3,
-      "estimated_days": 10.2,
+      "total_scrobbles": 4236,
+      "estimated_minutes": 14826,
+      "estimated_hours": 247.1,
+      "estimated_days": 10.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 331,
-        "estimated_minutes": 1158,
-        "estimated_hours": 19.3,
+        "total_scrobbles": 361,
+        "estimated_minutes": 1264,
+        "estimated_hours": 21.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1152,
-        "estimated_minutes": 4032,
-        "estimated_hours": 67.2,
+        "total_scrobbles": 1135,
+        "estimated_minutes": 3972,
+        "estimated_hours": 66.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3420,
-        "estimated_minutes": 11970,
-        "estimated_hours": 199.5,
+        "total_scrobbles": 3447,
+        "estimated_minutes": 12064,
+        "estimated_hours": 201.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 227,
-      "total_plays_this_week": 308
+      "total_tracks_this_week": 252,
+      "total_plays_this_week": 332
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 137,
+          "playcount": 138,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
@@ -88,13 +88,13 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 112,
+          "playcount": 115,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 98,
+          "playcount": 99,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -118,13 +118,13 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 73,
+          "playcount": 74,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 71,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 9
         },
@@ -167,24 +167,24 @@
           "rank": 4
         },
         {
+          "name": "ANYTHING BUT LOVE",
+          "artist": "Tate McRae",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "rank": 5
+        },
+        {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 15,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 15,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 6
-        },
-        {
-          "name": "ANYTHING BUT LOVE",
-          "artist": "Tate McRae",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
           "rank": 7
         },
         {
@@ -195,54 +195,54 @@
           "rank": 8
         },
         {
+          "name": "Fourth of July",
+          "artist": "Fall Out Boy",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
+          "rank": 9
+        },
+        {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 14,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 9
-        },
-        {
-          "name": "Dead Beat City",
-          "artist": "Kids That Fly",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 10
         }
       ],
       "week": [
         {
+          "name": "Spineless",
+          "artist": "Loveshy",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Loveshy/_/Spineless",
+          "rank": 1
+        },
+        {
           "name": "City",
           "artist": "Claire Rosinkranz",
           "playcount": 4,
           "url": "https://www.last.fm/music/Claire+Rosinkranz/_/City",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "Babydoll",
           "artist": "Dominic Fike",
           "playcount": 4,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
-          "rank": 2
+          "rank": 3
+        },
+        {
+          "name": "Back N Forth",
+          "artist": "Jack Murnin",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Jack+Murnin/_/Back+N+Forth",
+          "rank": 4
         },
         {
           "name": "Moonwalkin'",
           "artist": "LNGSHOT",
           "playcount": 4,
           "url": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
-          "rank": 3
-        },
-        {
-          "name": "Roommates",
-          "artist": "Malcolm Todd",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Roommates",
-          "rank": 4
-        },
-        {
-          "name": "Dreamin",
-          "artist": "PARTYNEXTDOOR",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/PARTYNEXTDOOR/_/Dreamin",
           "rank": 5
         }
       ]
@@ -259,7 +259,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 60,
+          "playcount": 61,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -280,12 +280,12 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 44,
+          "playcount": 45,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-07T12:53:52.283893"
+    "fetched_at": "2026-03-08T02:27:54.194103"
   }
 }
