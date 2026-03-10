@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-10T02:21:20.458204Z",
+  "collected_at": "2026-03-10T13:07:47.582557Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-10T02:21:20.903334",
+    "fetched_at": "2026-03-10T13:07:48.055004",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-10T02:21:22.007220"
+      "fetched_at": "2026-03-10T13:07:49.276132"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4246,
+      "total_scrobbles": 4292,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4246,
-      "estimated_minutes": 14861,
-      "estimated_hours": 247.7,
-      "estimated_days": 10.3,
+      "total_scrobbles": 4292,
+      "estimated_minutes": 15022,
+      "estimated_hours": 250.4,
+      "estimated_days": 10.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 237,
-        "estimated_minutes": 830,
-        "estimated_hours": 13.8,
+        "total_scrobbles": 283,
+        "estimated_minutes": 990,
+        "estimated_hours": 16.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1096,
-        "estimated_minutes": 3836,
-        "estimated_hours": 63.9,
+        "total_scrobbles": 1141,
+        "estimated_minutes": 3994,
+        "estimated_hours": 66.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3457,
-        "estimated_minutes": 12100,
-        "estimated_hours": 201.7,
+        "total_scrobbles": 3494,
+        "estimated_minutes": 12229,
+        "estimated_hours": 203.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -88,7 +88,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 116,
+          "playcount": 120,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -99,21 +99,21 @@
           "rank": 4
         },
         {
+          "name": "Paramore",
+          "playcount": 80,
+          "url": "https://www.last.fm/music/Paramore",
+          "rank": 5
+        },
+        {
           "name": "Dominic Fike",
           "playcount": 78,
           "url": "https://www.last.fm/music/Dominic+Fike",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "Bad Bunny",
           "playcount": 76,
           "url": "https://www.last.fm/music/Bad+Bunny",
-          "rank": 6
-        },
-        {
-          "name": "Paramore",
-          "playcount": 76,
-          "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
         {
@@ -130,7 +130,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 66,
+          "playcount": 70,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
@@ -141,7 +141,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -167,24 +167,24 @@
           "rank": 4
         },
         {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 5
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 16,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 15,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 6
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 7
         },
         {
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-10T02:21:28.161315"
+    "fetched_at": "2026-03-10T13:07:55.196220"
   }
 }
