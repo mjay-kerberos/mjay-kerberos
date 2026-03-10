@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-09T13:10:15.835734Z",
+  "collected_at": "2026-03-10T02:21:20.458204Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-09T13:10:16.455165",
+    "fetched_at": "2026-03-10T02:21:20.903334",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-09T13:10:17.440533"
+      "fetched_at": "2026-03-10T02:21:22.007220"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4240,
+      "total_scrobbles": 4246,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4240,
-      "estimated_minutes": 14840,
-      "estimated_hours": 247.3,
+      "total_scrobbles": 4246,
+      "estimated_minutes": 14861,
+      "estimated_hours": 247.7,
       "estimated_days": 10.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 290,
-        "estimated_minutes": 1015,
-        "estimated_hours": 16.9,
+        "total_scrobbles": 237,
+        "estimated_minutes": 830,
+        "estimated_hours": 13.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1108,
-        "estimated_minutes": 3878,
-        "estimated_hours": 64.6,
+        "total_scrobbles": 1096,
+        "estimated_minutes": 3836,
+        "estimated_hours": 63.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3451,
-        "estimated_minutes": 12078,
-        "estimated_hours": 201.3,
+        "total_scrobbles": 3457,
+        "estimated_minutes": 12100,
+        "estimated_hours": 201.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 272,
-      "total_plays_this_week": 362
+      "total_tracks_this_week": 224,
+      "total_plays_this_week": 292
     },
     "top_artists": {
       "overall": [
@@ -88,7 +88,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 115,
+          "playcount": 116,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -130,7 +130,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 65,
+          "playcount": 66,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-09T13:10:26.191578"
+    "fetched_at": "2026-03-10T02:21:28.161315"
   }
 }
