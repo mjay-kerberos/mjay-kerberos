@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-10T13:07:47.582557Z",
+  "collected_at": "2026-03-11T02:20:56.147645Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-10T13:07:48.055004",
+    "fetched_at": "2026-03-11T02:20:56.685422",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 40,
-      "fetched_at": "2026-03-10T13:07:49.276132"
+      "fetched_at": "2026-03-11T02:20:57.998982"
     }
   },
   "lastfm": {
@@ -34,55 +34,55 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4292,
+      "total_scrobbles": 4331,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4292,
-      "estimated_minutes": 15022,
-      "estimated_hours": 250.4,
-      "estimated_days": 10.4,
+      "total_scrobbles": 4331,
+      "estimated_minutes": 15158,
+      "estimated_hours": 252.6,
+      "estimated_days": 10.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 283,
-        "estimated_minutes": 990,
-        "estimated_hours": 16.5,
+        "total_scrobbles": 269,
+        "estimated_minutes": 942,
+        "estimated_hours": 15.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1141,
-        "estimated_minutes": 3994,
-        "estimated_hours": 66.6,
+        "total_scrobbles": 1134,
+        "estimated_minutes": 3969,
+        "estimated_hours": 66.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3494,
-        "estimated_minutes": 12229,
-        "estimated_hours": 203.8,
+        "total_scrobbles": 3521,
+        "estimated_minutes": 12324,
+        "estimated_hours": 205.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
       "total_tracks_this_week": 224,
-      "total_plays_this_week": 292
+      "total_plays_this_week": 274
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 138,
+          "playcount": 142,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 129,
+          "playcount": 131,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -100,7 +100,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 80,
+          "playcount": 81,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 5
         },
@@ -211,17 +211,17 @@
       ],
       "week": [
         {
-          "name": "Spineless",
-          "artist": "Loveshy",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Loveshy/_/Spineless",
-          "rank": 1
-        },
-        {
           "name": "Moonwalkin'",
           "artist": "LNGSHOT",
           "playcount": 4,
           "url": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
+          "rank": 1
+        },
+        {
+          "name": "Spineless",
+          "artist": "Loveshy",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Loveshy/_/Spineless",
           "rank": 2
         },
         {
@@ -232,17 +232,17 @@
           "rank": 3
         },
         {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 4
-        },
-        {
           "name": "Fluorescent Adolescent",
           "artist": "Arctic Monkeys",
           "playcount": 3,
           "url": "https://www.last.fm/music/Arctic+Monkeys/_/Fluorescent+Adolescent",
+          "rank": 4
+        },
+        {
+          "name": "Uma Thurman",
+          "artist": "Fall Out Boy",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Uma+Thurman",
           "rank": 5
         }
       ]
@@ -264,28 +264,28 @@
           "rank": 2
         },
         {
+          "name": "SO CLOSE TO WHAT??? (deluxe)",
+          "artist": "Tate McRae",
+          "playcount": 47,
+          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
+          "rank": 3
+        },
+        {
           "name": "DIVE",
           "artist": "Almost Monday",
           "playcount": 46,
           "url": "https://www.last.fm/music/Almost+Monday/DIVE",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
           "playcount": 45,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
-          "rank": 4
-        },
-        {
-          "name": "SO CLOSE TO WHAT??? (deluxe)",
-          "artist": "Tate McRae",
-          "playcount": 45,
-          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-10T13:07:55.196220"
+    "fetched_at": "2026-03-11T02:21:02.211872"
   }
 }
