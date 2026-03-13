@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-12T13:07:02.829734Z",
+  "collected_at": "2026-03-13T02:24:47.980013Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-12T13:07:04.023238",
+    "fetched_at": "2026-03-13T02:24:48.699714",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 41,
-      "fetched_at": "2026-03-12T13:07:05.400187"
+      "fetched_at": "2026-03-13T02:24:49.655704"
     }
   },
   "lastfm": {
@@ -34,43 +34,43 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4335,
+      "total_scrobbles": 4337,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4335,
-      "estimated_minutes": 15172,
-      "estimated_hours": 252.9,
+      "total_scrobbles": 4337,
+      "estimated_minutes": 15180,
+      "estimated_hours": 253.0,
       "estimated_days": 10.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 221,
-        "estimated_minutes": 774,
-        "estimated_hours": 12.9,
+        "total_scrobbles": 186,
+        "estimated_minutes": 651,
+        "estimated_hours": 10.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1077,
-        "estimated_minutes": 3770,
-        "estimated_hours": 62.8,
+        "total_scrobbles": 1078,
+        "estimated_minutes": 3773,
+        "estimated_hours": 62.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3524,
-        "estimated_minutes": 12334,
-        "estimated_hours": 205.6,
+        "total_scrobbles": 3526,
+        "estimated_minutes": 12341,
+        "estimated_hours": 205.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 225,
-      "total_plays_this_week": 269
+      "total_tracks_this_week": 190,
+      "total_plays_this_week": 226
     },
     "top_artists": {
       "overall": [
@@ -82,7 +82,7 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 131,
+          "playcount": 133,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -188,24 +188,24 @@
           "rank": 7
         },
         {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 14,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 8
+        },
+        {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 14,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 14,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 9
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 10
         }
       ],
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Arctic+Monkeys/_/Fluorescent+Adolescent",
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 2
         },
         {
-          "name": "Moonwalkin'",
-          "artist": "LNGSHOT",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
+          "name": "Telephone Busy",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
           "rank": 3
         },
         {
-          "name": "Spineless",
-          "artist": "Loveshy",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Loveshy/_/Spineless",
+          "name": "Fame Is a Gun",
+          "artist": "Addison Rae",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
           "rank": 4
         },
         {
-          "name": "What You Know",
-          "artist": "Two Door Cinema Club",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Arctic+Monkeys/_/Fluorescent+Adolescent",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-12T13:07:13.246513"
+    "fetched_at": "2026-03-13T02:24:54.476203"
   }
 }
