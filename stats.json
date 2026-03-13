@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-13T02:24:47.980013Z",
+  "collected_at": "2026-03-13T13:05:36.979665Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-13T02:24:48.699714",
+    "fetched_at": "2026-03-13T13:05:38.039271",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 41,
-      "fetched_at": "2026-03-13T02:24:49.655704"
+      "fetched_at": "2026-03-13T13:05:39.356877"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4337,
+      "total_scrobbles": 4346,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4337,
-      "estimated_minutes": 15180,
-      "estimated_hours": 253.0,
-      "estimated_days": 10.5,
+      "total_scrobbles": 4346,
+      "estimated_minutes": 15211,
+      "estimated_hours": 253.5,
+      "estimated_days": 10.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 186,
-        "estimated_minutes": 651,
-        "estimated_hours": 10.8,
+        "total_scrobbles": 191,
+        "estimated_minutes": 668,
+        "estimated_hours": 11.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1078,
-        "estimated_minutes": 3773,
-        "estimated_hours": 62.9,
+        "total_scrobbles": 1087,
+        "estimated_minutes": 3804,
+        "estimated_hours": 63.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3526,
-        "estimated_minutes": 12341,
-        "estimated_hours": 205.7,
+        "total_scrobbles": 3531,
+        "estimated_minutes": 12358,
+        "estimated_hours": 206.0,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -82,7 +82,7 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 133,
+          "playcount": 136,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -181,17 +181,17 @@
           "rank": 6
         },
         {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 7
+        },
+        {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 15,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 7
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 8
         },
         {
@@ -220,7 +220,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 2,
+          "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 2
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-13T02:24:54.476203"
+    "fetched_at": "2026-03-13T13:05:44.816910"
   }
 }
