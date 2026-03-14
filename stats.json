@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-13T13:05:36.979665Z",
+  "collected_at": "2026-03-14T02:22:34.124558Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-13T13:05:38.039271",
+    "fetched_at": "2026-03-14T02:22:34.615041",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 243,
       "total_forks_received": 41,
-      "fetched_at": "2026-03-13T13:05:39.356877"
+      "fetched_at": "2026-03-14T02:22:35.408029"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 191,
-        "estimated_minutes": 668,
-        "estimated_hours": 11.1,
+        "total_scrobbles": 153,
+        "estimated_minutes": 536,
+        "estimated_hours": 8.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1087,
-        "estimated_minutes": 3804,
-        "estimated_hours": 63.4,
+        "total_scrobbles": 1047,
+        "estimated_minutes": 3664,
+        "estimated_hours": 61.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -69,8 +69,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 190,
-      "total_plays_this_week": 226
+      "total_tracks_this_week": 160,
+      "total_plays_this_week": 186
     },
     "top_artists": {
       "overall": [
@@ -239,10 +239,10 @@
           "rank": 4
         },
         {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
+          "name": "I Just Might",
+          "artist": "Bruno Mars",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Arctic+Monkeys/_/Fluorescent+Adolescent",
+          "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
           "rank": 5
         }
       ]
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-13T13:05:44.816910"
+    "fetched_at": "2026-03-14T02:22:40.589284"
   }
 }
