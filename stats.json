@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-15T02:41:53.633266Z",
+  "collected_at": "2026-03-15T12:59:43.997676Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 4,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-03-15T02:41:54.065636",
+    "fetched_at": "2026-03-15T12:59:44.531820",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 242,
       "total_forks_received": 41,
-      "fetched_at": "2026-03-15T02:41:55.051109"
+      "fetched_at": "2026-03-15T12:59:45.332117"
     }
   },
   "lastfm": {
@@ -34,37 +34,37 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4426,
+      "total_scrobbles": 4430,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4426,
-      "estimated_minutes": 15491,
-      "estimated_hours": 258.2,
+      "total_scrobbles": 4430,
+      "estimated_minutes": 15505,
+      "estimated_hours": 258.4,
       "estimated_days": 10.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 188,
-        "estimated_minutes": 658,
-        "estimated_hours": 11.0,
+        "total_scrobbles": 191,
+        "estimated_minutes": 668,
+        "estimated_hours": 11.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1080,
-        "estimated_minutes": 3780,
-        "estimated_hours": 63.0,
+        "total_scrobbles": 1084,
+        "estimated_minutes": 3794,
+        "estimated_hours": 63.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3568,
-        "estimated_minutes": 12488,
-        "estimated_hours": 208.1,
+        "total_scrobbles": 3571,
+        "estimated_minutes": 12498,
+        "estimated_hours": 208.3,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -100,20 +100,20 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 98,
+          "playcount": 99,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
+        },
+        {
+          "name": "Malcolm Todd",
+          "playcount": 81,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "rank": 6
         },
         {
           "name": "Paramore",
           "playcount": 81,
           "url": "https://www.last.fm/music/Paramore",
-          "rank": 6
-        },
-        {
-          "name": "Malcolm Todd",
-          "playcount": 80,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 7
         },
         {
@@ -218,31 +218,31 @@
           "rank": 1
         },
         {
+          "name": "Lonesome",
+          "artist": "Jack Harlow",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Jack+Harlow/_/Lonesome",
+          "rank": 2
+        },
+        {
+          "name": "Trade Places",
+          "artist": "Jack Harlow",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Jack+Harlow/_/Trade+Places",
+          "rank": 3
+        },
+        {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
-          "rank": 2
+          "rank": 4
         },
         {
           "name": "Fame Is a Gun",
           "artist": "Addison Rae",
           "playcount": 2,
           "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
-          "rank": 3
-        },
-        {
-          "name": "BAILE INoLVIDABLE",
-          "artist": "Bad Bunny",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
-          "rank": 4
-        },
-        {
-          "name": "CAF\u00e9 CON RON",
-          "artist": "Bad Bunny",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
           "rank": 5
         }
       ]
@@ -252,7 +252,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 91,
+          "playcount": 92,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -286,6 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-15T02:41:59.495703"
+    "fetched_at": "2026-03-15T12:59:49.722882"
   }
 }
