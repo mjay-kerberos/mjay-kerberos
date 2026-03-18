@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-17T13:18:35.125730Z",
+  "collected_at": "2026-03-18T02:32:02.332950Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4438,
+      "total_scrobbles": 4459,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4438,
-      "estimated_minutes": 15533,
-      "estimated_hours": 258.9,
+      "total_scrobbles": 4459,
+      "estimated_minutes": 15606,
+      "estimated_hours": 260.1,
       "estimated_days": 10.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 145,
-        "estimated_minutes": 508,
-        "estimated_hours": 8.5,
+        "total_scrobbles": 128,
+        "estimated_minutes": 448,
+        "estimated_hours": 7.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1000,
-        "estimated_minutes": 3500,
-        "estimated_hours": 58.3,
+        "total_scrobbles": 1001,
+        "estimated_minutes": 3504,
+        "estimated_hours": 58.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3574,
-        "estimated_minutes": 12509,
-        "estimated_hours": 208.5,
+        "total_scrobbles": 3592,
+        "estimated_minutes": 12572,
+        "estimated_hours": 209.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 163,
-      "total_plays_this_week": 191
+      "total_tracks_this_week": 127,
+      "total_plays_this_week": 156
     },
     "top_artists": {
       "overall": [
@@ -53,19 +53,19 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 136,
+          "playcount": 137,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 120,
+          "playcount": 121,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Almost Monday",
-          "playcount": 99,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 4
         },
@@ -95,13 +95,13 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 74,
+          "playcount": 75,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 9
         },
         {
           "name": "The Home Team",
-          "playcount": 70,
+          "playcount": 71,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
@@ -173,10 +173,10 @@
           "rank": 9
         },
         {
-          "name": "put a finger down",
-          "artist": "Edwin",
-          "playcount": 14,
-          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
+          "name": "Dead Beat City",
+          "artist": "Kids That Fly",
+          "playcount": 15,
+          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 10
         }
       ],
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Telephone Busy",
-          "artist": "5 Seconds of Summer",
+          "name": "BAILE INoLVIDABLE",
+          "artist": "Bad Bunny",
           "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
+          "url": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
           "rank": 4
         },
         {
-          "name": "Fame Is a Gun",
-          "artist": "Addison Rae",
+          "name": "CAF\u00e9 CON RON",
+          "artist": "Bad Bunny",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 61,
+          "playcount": 62,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -242,21 +242,21 @@
           "rank": 3
         },
         {
+          "name": "DIVE",
+          "artist": "Almost Monday",
+          "playcount": 47,
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "rank": 4
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 47,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 4
-        },
-        {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 46,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-17T13:18:41.112182"
+    "fetched_at": "2026-03-18T02:32:07.014675"
   }
 }
