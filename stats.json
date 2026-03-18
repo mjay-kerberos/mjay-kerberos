@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-03-18T02:32:02.332950Z",
+  "collected_at": "2026-03-18T13:19:46.550856Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4459,
+      "total_scrobbles": 4463,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4459,
-      "estimated_minutes": 15606,
-      "estimated_hours": 260.1,
+      "total_scrobbles": 4463,
+      "estimated_minutes": 15620,
+      "estimated_hours": 260.3,
       "estimated_days": 10.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 128,
-        "estimated_minutes": 448,
-        "estimated_hours": 7.5,
+        "total_scrobbles": 131,
+        "estimated_minutes": 458,
+        "estimated_hours": 7.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1001,
-        "estimated_minutes": 3504,
-        "estimated_hours": 58.4,
+        "total_scrobbles": 1004,
+        "estimated_minutes": 3514,
+        "estimated_hours": 58.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3592,
-        "estimated_minutes": 12572,
-        "estimated_hours": 209.5,
+        "total_scrobbles": 3596,
+        "estimated_minutes": 12586,
+        "estimated_hours": 209.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -95,7 +95,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 75,
+          "playcount": 76,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 9
         },
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 62,
+          "playcount": 63,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-18T02:32:07.014675"
+    "fetched_at": "2026-03-18T13:19:55.192725"
   }
 }
