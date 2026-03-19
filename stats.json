@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-03-19T02:33:06.542667Z",
+  "collected_at": "2026-03-19T13:11:43.574847Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4495,
+      "total_scrobbles": 4501,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4495,
-      "estimated_minutes": 15732,
-      "estimated_hours": 262.2,
+      "total_scrobbles": 4501,
+      "estimated_minutes": 15754,
+      "estimated_hours": 262.6,
       "estimated_days": 10.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 159,
-        "estimated_minutes": 556,
-        "estimated_hours": 9.3,
+        "total_scrobbles": 165,
+        "estimated_minutes": 578,
+        "estimated_hours": 9.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1036,
-        "estimated_minutes": 3626,
-        "estimated_hours": 60.4,
+        "total_scrobbles": 1042,
+        "estimated_minutes": 3647,
+        "estimated_hours": 60.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3625,
-        "estimated_minutes": 12688,
-        "estimated_hours": 211.5,
+        "total_scrobbles": 3630,
+        "estimated_minutes": 12705,
+        "estimated_hours": 211.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 86,
+          "playcount": 88,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 78,
+          "playcount": 79,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 8
         },
@@ -117,24 +117,24 @@
           "rank": 1
         },
         {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 2
+        },
+        {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 18,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 18,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 3
-        },
-        {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 4
         },
         {
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "Trade Places",
+          "artist": "Jack Harlow",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Jack+Harlow/_/Trade+Places",
+          "rank": 2
+        },
+        {
           "name": "BAILE INoLVIDABLE",
           "artist": "Bad Bunny",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "CAF\u00e9 CON RON",
           "artist": "Bad Bunny",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
-          "rank": 3
-        },
-        {
-          "name": "Lonesome",
-          "artist": "Jack Harlow",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Jack+Harlow/_/Lonesome",
           "rank": 4
         },
         {
-          "name": "Trade Places",
-          "artist": "Jack Harlow",
+          "name": "God Was Showing Off",
+          "artist": "Bruno Mars",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Jack+Harlow/_/Trade+Places",
+          "url": "https://www.last.fm/music/Bruno+Mars/_/God+Was+Showing+Off",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-19T02:33:13.025112"
+    "fetched_at": "2026-03-19T13:11:49.773255"
   }
 }
