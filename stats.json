@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-18T13:19:46.550856Z",
+  "collected_at": "2026-03-19T02:33:06.542667Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4463,
+      "total_scrobbles": 4495,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4463,
-      "estimated_minutes": 15620,
-      "estimated_hours": 260.3,
-      "estimated_days": 10.8,
+      "total_scrobbles": 4495,
+      "estimated_minutes": 15732,
+      "estimated_hours": 262.2,
+      "estimated_days": 10.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 131,
-        "estimated_minutes": 458,
-        "estimated_hours": 7.6,
+        "total_scrobbles": 159,
+        "estimated_minutes": 556,
+        "estimated_hours": 9.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1004,
-        "estimated_minutes": 3514,
-        "estimated_hours": 58.6,
+        "total_scrobbles": 1036,
+        "estimated_minutes": 3626,
+        "estimated_hours": 60.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3596,
-        "estimated_minutes": 12586,
-        "estimated_hours": 209.8,
+        "total_scrobbles": 3625,
+        "estimated_minutes": 12688,
+        "estimated_hours": 211.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 127,
-      "total_plays_this_week": 156
+      "total_tracks_this_week": 114,
+      "total_plays_this_week": 134
     },
     "top_artists": {
       "overall": [
@@ -59,31 +59,31 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 121,
+          "playcount": 122,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
+        },
+        {
+          "name": "Bad Bunny",
+          "playcount": 106,
+          "url": "https://www.last.fm/music/Bad+Bunny",
+          "rank": 4
         },
         {
           "name": "Almost Monday",
           "playcount": 100,
           "url": "https://www.last.fm/music/Almost+Monday",
-          "rank": 4
-        },
-        {
-          "name": "Bad Bunny",
-          "playcount": 99,
-          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 82,
+          "playcount": 86,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
         {
           "name": "Paramore",
-          "playcount": 81,
+          "playcount": 82,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
@@ -124,96 +124,96 @@
           "rank": 2
         },
         {
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "rank": 3
+        },
+        {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 18,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 17,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 16,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 16,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 15,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 7
+          "rank": 8
         },
         {
-          "name": "WELTiTA",
-          "artist": "Bad Bunny",
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
           "playcount": 15,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 8
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 9
         },
         {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 15,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 9
-        },
-        {
-          "name": "Dead Beat City",
-          "artist": "Kids That Fly",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
+        },
+        {
+          "name": "BAILE INoLVIDABLE",
+          "artist": "Bad Bunny",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
+          "rank": 2
+        },
+        {
+          "name": "CAF\u00e9 CON RON",
+          "artist": "Bad Bunny",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
+          "rank": 3
         },
         {
           "name": "Lonesome",
           "artist": "Jack Harlow",
           "playcount": 3,
           "url": "https://www.last.fm/music/Jack+Harlow/_/Lonesome",
-          "rank": 2
+          "rank": 4
         },
         {
           "name": "Trade Places",
           "artist": "Jack Harlow",
           "playcount": 3,
           "url": "https://www.last.fm/music/Jack+Harlow/_/Trade+Places",
-          "rank": 3
-        },
-        {
-          "name": "BAILE INoLVIDABLE",
-          "artist": "Bad Bunny",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
-          "rank": 4
-        },
-        {
-          "name": "CAF\u00e9 CON RON",
-          "artist": "Bad Bunny",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 92,
+          "playcount": 99,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -249,14 +249,14 @@
           "rank": 4
         },
         {
-          "name": "SO CLOSE TO WHAT??? (deluxe)",
-          "artist": "Tate McRae",
+          "name": "Sweet Boy",
+          "artist": "Malcolm Todd",
           "playcount": 47,
-          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
+          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-18T13:19:55.192725"
+    "fetched_at": "2026-03-19T02:33:13.025112"
   }
 }
