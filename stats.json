@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-19T13:11:43.574847Z",
+  "collected_at": "2026-03-20T02:25:33.747253Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4501,
+      "total_scrobbles": 4572,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4501,
-      "estimated_minutes": 15754,
-      "estimated_hours": 262.6,
-      "estimated_days": 10.9,
+      "total_scrobbles": 4572,
+      "estimated_minutes": 16002,
+      "estimated_hours": 266.7,
+      "estimated_days": 11.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 165,
-        "estimated_minutes": 578,
-        "estimated_hours": 9.6,
+        "total_scrobbles": 235,
+        "estimated_minutes": 822,
+        "estimated_hours": 13.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1042,
-        "estimated_minutes": 3647,
-        "estimated_hours": 60.8,
+        "total_scrobbles": 1089,
+        "estimated_minutes": 3812,
+        "estimated_hours": 63.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3630,
-        "estimated_minutes": 12705,
-        "estimated_hours": 211.8,
+        "total_scrobbles": 3638,
+        "estimated_minutes": 12733,
+        "estimated_hours": 212.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 114,
-      "total_plays_this_week": 134
+      "total_tracks_this_week": 132,
+      "total_plays_this_week": 166
     },
     "top_artists": {
       "overall": [
@@ -59,7 +59,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 122,
+          "playcount": 123,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -95,7 +95,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 76,
+          "playcount": 77,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 9
         },
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 63,
+          "playcount": 64,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-19T13:11:49.773255"
+    "fetched_at": "2026-03-20T02:25:38.916794"
   }
 }
