@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-03-20T13:06:04.213119Z",
+  "collected_at": "2026-03-21T02:12:29.927915Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4573,
+      "total_scrobbles": 4596,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4573,
-      "estimated_minutes": 16006,
-      "estimated_hours": 266.8,
-      "estimated_days": 11.1,
+      "total_scrobbles": 4596,
+      "estimated_minutes": 16086,
+      "estimated_hours": 268.1,
+      "estimated_days": 11.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 227,
-        "estimated_minutes": 794,
-        "estimated_hours": 13.2,
+        "total_scrobbles": 250,
+        "estimated_minutes": 875,
+        "estimated_hours": 14.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1086,
-        "estimated_minutes": 3801,
-        "estimated_hours": 63.4,
+        "total_scrobbles": 1089,
+        "estimated_minutes": 3812,
+        "estimated_hours": 63.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3638,
-        "estimated_minutes": 12733,
-        "estimated_hours": 212.2,
+        "total_scrobbles": 3655,
+        "estimated_minutes": 12792,
+        "estimated_hours": 213.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 132,
-      "total_plays_this_week": 166
+      "total_tracks_this_week": 202,
+      "total_plays_this_week": 237
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 145,
+          "playcount": 149,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
@@ -77,13 +77,13 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 88,
+          "playcount": 89,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
         {
           "name": "Paramore",
-          "playcount": 82,
+          "playcount": 83,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -138,24 +138,24 @@
           "rank": 4
         },
         {
+          "name": "ANYTHING BUT LOVE",
+          "artist": "Tate McRae",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "rank": 5
+        },
+        {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 17,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 16,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 6
-        },
-        {
-          "name": "ANYTHING BUT LOVE",
-          "artist": "Tate McRae",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
           "rank": 7
         },
         {
@@ -237,26 +237,26 @@
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 48,
+          "playcount": 50,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 3
         },
         {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 47,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "name": "SO CLOSE TO WHAT??? (deluxe)",
+          "artist": "Tate McRae",
+          "playcount": 49,
+          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 4
         },
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 47,
+          "playcount": 48,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-20T13:06:08.717828"
+    "fetched_at": "2026-03-21T02:12:35.055435"
   }
 }
