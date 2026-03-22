@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-21T12:56:07.926906Z",
+  "collected_at": "2026-03-22T02:33:22.970343Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4596,
+      "total_scrobbles": 4609,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4596,
-      "estimated_minutes": 16086,
-      "estimated_hours": 268.1,
+      "total_scrobbles": 4609,
+      "estimated_minutes": 16132,
+      "estimated_hours": 268.9,
       "estimated_days": 11.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 250,
-        "estimated_minutes": 875,
-        "estimated_hours": 14.6,
+        "total_scrobbles": 180,
+        "estimated_minutes": 630,
+        "estimated_hours": 10.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1085,
-        "estimated_minutes": 3798,
-        "estimated_hours": 63.3,
+        "total_scrobbles": 1063,
+        "estimated_minutes": 3720,
+        "estimated_hours": 62.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3655,
-        "estimated_minutes": 12792,
-        "estimated_hours": 213.2,
+        "total_scrobbles": 3666,
+        "estimated_minutes": 12831,
+        "estimated_hours": 213.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 202,
-      "total_plays_this_week": 237
+      "total_tracks_this_week": 215,
+      "total_plays_this_week": 251
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 106,
+          "playcount": 110,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 4
         },
@@ -117,24 +117,24 @@
           "rank": 1
         },
         {
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "rank": 2
+        },
+        {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 19,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 18,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 3
-        },
-        {
-          "name": "WELTiTA",
-          "artist": "Bad Bunny",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 4
         },
         {
@@ -184,36 +184,36 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
         {
-          "name": "Trade Places",
-          "artist": "Jack Harlow",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Jack+Harlow/_/Trade+Places",
+          "name": "Breathe",
+          "artist": "Malcolm Todd",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Breathe",
           "rank": 2
         },
         {
-          "name": "BAILE INoLVIDABLE",
-          "artist": "Bad Bunny",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 3
-        },
-        {
-          "name": "CAF\u00e9 CON RON",
-          "artist": "Bad Bunny",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
-          "rank": 4
         },
         {
           "name": "God Was Showing Off",
           "artist": "Bruno Mars",
-          "playcount": 3,
+          "playcount": 2,
           "url": "https://www.last.fm/music/Bruno+Mars/_/God+Was+Showing+Off",
+          "rank": 4
+        },
+        {
+          "name": "American Girls",
+          "artist": "Harry Styles",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 99,
+          "playcount": 102,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-21T12:56:16.113011"
+    "fetched_at": "2026-03-22T02:33:28.170788"
   }
 }
