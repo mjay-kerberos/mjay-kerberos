@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-03-23T02:34:02.345948Z",
+  "collected_at": "2026-03-23T13:14:49.908017Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4609,
+      "total_scrobbles": 4635,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4609,
-      "estimated_minutes": 16132,
-      "estimated_hours": 268.9,
-      "estimated_days": 11.2,
+      "total_scrobbles": 4635,
+      "estimated_minutes": 16222,
+      "estimated_hours": 270.4,
+      "estimated_days": 11.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 175,
-        "estimated_minutes": 612,
-        "estimated_hours": 10.2,
+        "total_scrobbles": 201,
+        "estimated_minutes": 704,
+        "estimated_hours": 11.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 989,
-        "estimated_minutes": 3462,
-        "estimated_hours": 57.7,
+        "total_scrobbles": 1015,
+        "estimated_minutes": 3552,
+        "estimated_hours": 59.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3666,
-        "estimated_minutes": 12831,
-        "estimated_hours": 213.8,
+        "total_scrobbles": 3690,
+        "estimated_minutes": 12915,
+        "estimated_hours": 215.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 164,
-      "total_plays_this_week": 180
+      "total_tracks_this_week": 166,
+      "total_plays_this_week": 182
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 149,
+          "playcount": 154,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
@@ -77,13 +77,13 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 89,
+          "playcount": 91,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
         {
           "name": "Paramore",
-          "playcount": 83,
+          "playcount": 84,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 25,
+          "playcount": 26,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -159,24 +159,24 @@
           "rank": 7
         },
         {
+          "name": "TIT FOR TAT",
+          "artist": "Tate McRae",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/Tate+McRae/_/TIT+FOR+TAT",
+          "rank": 8
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 15,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 15,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 9
-        },
-        {
-          "name": "wannabe!",
-          "artist": "Kevian Kraemer",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 10
         }
       ],
@@ -191,29 +191,29 @@
         {
           "name": "Breathe",
           "artist": "Malcolm Todd",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Breathe",
           "rank": 2
+        },
+        {
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 3
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "God Was Showing Off",
           "artist": "Bruno Mars",
           "playcount": 2,
           "url": "https://www.last.fm/music/Bruno+Mars/_/God+Was+Showing+Off",
-          "rank": 4
-        },
-        {
-          "name": "American Girls",
-          "artist": "Harry Styles",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
           "rank": 5
         }
       ]
@@ -237,26 +237,26 @@
         {
           "name": "So Close to What",
           "artist": "Tate McRae",
-          "playcount": 50,
+          "playcount": 52,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
           "rank": 3
         },
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 49,
+          "playcount": 50,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 4
         },
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 48,
+          "playcount": 49,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-23T02:34:06.399848"
+    "fetched_at": "2026-03-23T13:15:14.929755"
   }
 }
