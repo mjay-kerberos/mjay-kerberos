@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-23T13:14:49.908017Z",
+  "collected_at": "2026-03-24T02:26:07.005119Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4635,
+      "total_scrobbles": 4684,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4635,
-      "estimated_minutes": 16222,
-      "estimated_hours": 270.4,
-      "estimated_days": 11.3,
+      "total_scrobbles": 4684,
+      "estimated_minutes": 16394,
+      "estimated_hours": 273.2,
+      "estimated_days": 11.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 201,
-        "estimated_minutes": 704,
-        "estimated_hours": 11.7,
+        "total_scrobbles": 247,
+        "estimated_minutes": 864,
+        "estimated_hours": 14.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1015,
-        "estimated_minutes": 3552,
-        "estimated_hours": 59.2,
+        "total_scrobbles": 1026,
+        "estimated_minutes": 3591,
+        "estimated_hours": 59.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3690,
-        "estimated_minutes": 12915,
-        "estimated_hours": 215.2,
+        "total_scrobbles": 3732,
+        "estimated_minutes": 13062,
+        "estimated_hours": 217.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 166,
-      "total_plays_this_week": 182
+      "total_tracks_this_week": 165,
+      "total_plays_this_week": 180
     },
     "top_artists": {
       "overall": [
@@ -58,15 +58,15 @@
           "rank": 2
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 123,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Bad Bunny",
+          "playcount": 125,
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 110,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Fall Out Boy",
+          "playcount": 125,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
@@ -77,31 +77,31 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 91,
+          "playcount": 92,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
         {
           "name": "Paramore",
-          "playcount": 84,
+          "playcount": 85,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
         {
           "name": "Dominic Fike",
-          "playcount": 79,
+          "playcount": 80,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 8
         },
         {
           "name": "The Runarounds",
-          "playcount": 77,
+          "playcount": 79,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 9
         },
         {
           "name": "The Home Team",
-          "playcount": 71,
+          "playcount": 72,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
@@ -112,14 +112,14 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 26,
+          "playcount": 28,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 19,
+          "playcount": 21,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
@@ -184,7 +184,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 4,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 3
+        },
+        {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 4
+        },
+        {
           "name": "Earrings",
           "artist": "Malcolm Todd",
           "playcount": 3,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
-          "rank": 3
-        },
-        {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 4
-        },
-        {
-          "name": "God Was Showing Off",
-          "artist": "Bruno Mars",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bruno+Mars/_/God+Was+Showing+Off",
           "rank": 5
         }
       ]
@@ -223,14 +223,14 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 102,
+          "playcount": 117,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 64,
+          "playcount": 66,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -242,21 +242,21 @@
           "rank": 3
         },
         {
+          "name": "Sweet Boy",
+          "artist": "Malcolm Todd",
+          "playcount": 50,
+          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
+          "rank": 4
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 50,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 4
-        },
-        {
-          "name": "Sweet Boy",
-          "artist": "Malcolm Todd",
-          "playcount": 49,
-          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-03-23T13:15:14.929755"
+    "fetched_at": "2026-03-24T02:26:12.671209"
   }
 }
