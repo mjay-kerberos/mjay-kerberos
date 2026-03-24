@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-03-24T02:26:07.005119Z",
+  "collected_at": "2026-03-24T13:18:28.383378Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4684,
+      "total_scrobbles": 4690,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4684,
-      "estimated_minutes": 16394,
-      "estimated_hours": 273.2,
+      "total_scrobbles": 4690,
+      "estimated_minutes": 16415,
+      "estimated_hours": 273.6,
       "estimated_days": 11.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 247,
-        "estimated_minutes": 864,
-        "estimated_hours": 14.4,
+        "total_scrobbles": 250,
+        "estimated_minutes": 875,
+        "estimated_hours": 14.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1026,
-        "estimated_minutes": 3591,
-        "estimated_hours": 59.9,
+        "total_scrobbles": 1032,
+        "estimated_minutes": 3612,
+        "estimated_hours": 60.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3732,
-        "estimated_minutes": 13062,
-        "estimated_hours": 217.7,
+        "total_scrobbles": 3734,
+        "estimated_minutes": 13069,
+        "estimated_hours": 217.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -71,7 +71,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 100,
+          "playcount": 101,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 5
         },
@@ -152,31 +152,31 @@
           "rank": 6
         },
         {
+          "name": "Dead Beat City",
+          "artist": "Kids That Fly",
+          "playcount": 16,
+          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
+          "rank": 7
+        },
+        {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 16,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "TIT FOR TAT",
           "artist": "Tate McRae",
           "playcount": 16,
           "url": "https://www.last.fm/music/Tate+McRae/_/TIT+FOR+TAT",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 15,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 9
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 10
         }
       ],
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-24T02:26:12.671209"
+    "fetched_at": "2026-03-24T13:18:32.305247"
   }
 }
