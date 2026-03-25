@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-03-25T02:31:19.385144Z",
+  "collected_at": "2026-03-25T13:17:59.109554Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4714,
+      "total_scrobbles": 4735,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4714,
-      "estimated_minutes": 16499,
-      "estimated_hours": 275.0,
+      "total_scrobbles": 4735,
+      "estimated_minutes": 16572,
+      "estimated_hours": 276.2,
       "estimated_days": 11.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 253,
-        "estimated_minutes": 886,
-        "estimated_hours": 14.8,
+        "total_scrobbles": 270,
+        "estimated_minutes": 945,
+        "estimated_hours": 15.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 996,
-        "estimated_minutes": 3486,
-        "estimated_hours": 58.1,
+        "total_scrobbles": 997,
+        "estimated_minutes": 3490,
+        "estimated_hours": 58.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3747,
-        "estimated_minutes": 13114,
-        "estimated_hours": 218.6,
+        "total_scrobbles": 3763,
+        "estimated_minutes": 13170,
+        "estimated_hours": 219.5,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -53,25 +53,25 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 137,
+          "playcount": 139,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Bad Bunny",
-          "playcount": 126,
+          "playcount": 130,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 125,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Almost Monday",
-          "playcount": 101,
+          "playcount": 102,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 5
         },
@@ -88,15 +88,15 @@
           "rank": 7
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 80,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "The Runarounds",
+          "playcount": 81,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
         {
-          "name": "The Runarounds",
+          "name": "Dominic Fike",
           "playcount": 80,
-          "url": "https://www.last.fm/music/The+Runarounds",
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 9
         },
         {
@@ -119,7 +119,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 22,
+          "playcount": 23,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
@@ -184,7 +184,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
+          "name": "CAF\u00e9 CON RON",
+          "artist": "Bad Bunny",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
           "rank": 5
         }
       ]
@@ -223,14 +223,14 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 118,
+          "playcount": 121,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 67,
+          "playcount": 68,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-25T02:31:24.248045"
+    "fetched_at": "2026-03-25T13:18:03.446458"
   }
 }
