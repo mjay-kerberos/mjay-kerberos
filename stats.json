@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-24T13:18:28.383378Z",
+  "collected_at": "2026-03-25T02:31:19.385144Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4690,
+      "total_scrobbles": 4714,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4690,
-      "estimated_minutes": 16415,
-      "estimated_hours": 273.6,
-      "estimated_days": 11.4,
+      "total_scrobbles": 4714,
+      "estimated_minutes": 16499,
+      "estimated_hours": 275.0,
+      "estimated_days": 11.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 250,
-        "estimated_minutes": 875,
-        "estimated_hours": 14.6,
+        "total_scrobbles": 253,
+        "estimated_minutes": 886,
+        "estimated_hours": 14.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1032,
-        "estimated_minutes": 3612,
-        "estimated_hours": 60.2,
+        "total_scrobbles": 996,
+        "estimated_minutes": 3486,
+        "estimated_hours": 58.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3734,
-        "estimated_minutes": 13069,
-        "estimated_hours": 217.8,
+        "total_scrobbles": 3747,
+        "estimated_minutes": 13114,
+        "estimated_hours": 218.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 165,
-      "total_plays_this_week": 180
+      "total_tracks_this_week": 211,
+      "total_plays_this_week": 251
     },
     "top_artists": {
       "overall": [
@@ -59,7 +59,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 125,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 92,
+          "playcount": 93,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
@@ -95,7 +95,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 79,
+          "playcount": 80,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 9
         },
@@ -112,14 +112,14 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 28,
+          "playcount": 29,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 21,
+          "playcount": 22,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
@@ -138,17 +138,17 @@
           "rank": 4
         },
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 18,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 5
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 17,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 5
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 6
         },
         {
@@ -184,28 +184,28 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
         {
           "name": "Breathe",
           "artist": "Malcolm Todd",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Breathe",
           "rank": 2
         },
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 3
         },
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 4
         },
@@ -223,14 +223,14 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 117,
+          "playcount": 118,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 66,
+          "playcount": 67,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-24T13:18:32.305247"
+    "fetched_at": "2026-03-25T02:31:24.248045"
   }
 }
