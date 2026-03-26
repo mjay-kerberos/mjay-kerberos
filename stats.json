@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-03-26T02:38:11.933479Z",
+  "collected_at": "2026-03-26T13:23:39.947591Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4788,
+      "total_scrobbles": 4795,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4788,
-      "estimated_minutes": 16758,
-      "estimated_hours": 279.3,
-      "estimated_days": 11.6,
+      "total_scrobbles": 4795,
+      "estimated_minutes": 16782,
+      "estimated_hours": 279.7,
+      "estimated_days": 11.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 292,
-        "estimated_minutes": 1022,
-        "estimated_hours": 17.0,
+        "total_scrobbles": 293,
+        "estimated_minutes": 1026,
+        "estimated_hours": 17.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1024,
-        "estimated_minutes": 3584,
-        "estimated_hours": 59.7,
+        "total_scrobbles": 1022,
+        "estimated_minutes": 3577,
+        "estimated_hours": 59.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3799,
-        "estimated_minutes": 13296,
-        "estimated_hours": 221.6,
+        "total_scrobbles": 3803,
+        "estimated_minutes": 13310,
+        "estimated_hours": 221.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 155,
+          "playcount": 156,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
@@ -59,7 +59,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 131,
+          "playcount": 133,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
@@ -119,7 +119,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
@@ -184,7 +184,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
@@ -203,10 +203,10 @@
           "rank": 3
         },
         {
-          "name": "Breathe",
-          "artist": "Malcolm Todd",
+          "name": "No Broke Boys",
+          "artist": "Disco Lines",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Breathe",
+          "url": "https://www.last.fm/music/Disco+Lines/_/No+Broke+Boys",
           "rank": 4
         },
         {
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 122,
+          "playcount": 123,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-26T02:38:16.122313"
+    "fetched_at": "2026-03-26T13:23:44.517416"
   }
 }
