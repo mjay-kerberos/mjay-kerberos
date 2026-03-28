@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-27T13:13:22.097788Z",
+  "collected_at": "2026-03-28T02:30:10.377810Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4841,
+      "total_scrobbles": 4858,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4841,
-      "estimated_minutes": 16944,
-      "estimated_hours": 282.4,
+      "total_scrobbles": 4858,
+      "estimated_minutes": 17003,
+      "estimated_hours": 283.4,
       "estimated_days": 11.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 267,
-        "estimated_minutes": 934,
-        "estimated_hours": 15.6,
+        "total_scrobbles": 261,
+        "estimated_minutes": 914,
+        "estimated_hours": 15.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1058,
-        "estimated_minutes": 3703,
-        "estimated_hours": 61.7,
+        "total_scrobbles": 1056,
+        "estimated_minutes": 3696,
+        "estimated_hours": 61.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3824,
-        "estimated_minutes": 13384,
-        "estimated_hours": 223.1,
+        "total_scrobbles": 3836,
+        "estimated_minutes": 13426,
+        "estimated_hours": 223.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 246,
-      "total_plays_this_week": 295
+      "total_tracks_this_week": 218,
+      "total_plays_this_week": 267
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 128,
+          "playcount": 129,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -152,17 +152,17 @@
           "rank": 6
         },
         {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 7
+        },
+        {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 16,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 7
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 8
         },
         {
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 2
-        },
-        {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
           "playcount": 5,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 2
+        },
+        {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 3
         },
         {
-          "name": "No Broke Boys",
-          "artist": "Disco Lines",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Disco+Lines/_/No+Broke+Boys",
+          "name": "Tel\u00e9fono",
+          "artist": "Aitana",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Aitana/_/Tel%C3%A9fono",
           "rank": 4
         },
         {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "name": "CAF\u00e9 CON RON",
+          "artist": "Bad Bunny",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-27T13:13:27.287927"
+    "fetched_at": "2026-03-28T02:30:14.482779"
   }
 }
