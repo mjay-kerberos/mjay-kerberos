@@ -1,17 +1,17 @@
 {
-  "collected_at": "2026-03-28T02:30:10.377810Z",
+  "collected_at": "2026-03-28T13:01:24.398577Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4858,
+      "total_scrobbles": 4859,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4858,
-      "estimated_minutes": 17003,
+      "total_scrobbles": 4859,
+      "estimated_minutes": 17006,
       "estimated_hours": 283.4,
       "estimated_days": 11.8,
       "avg_track_duration_assumed": 3.5
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 261,
-        "estimated_minutes": 914,
-        "estimated_hours": 15.2,
+        "total_scrobbles": 262,
+        "estimated_minutes": 917,
+        "estimated_hours": 15.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1056,
-        "estimated_minutes": 3696,
-        "estimated_hours": 61.6,
+        "total_scrobbles": 1051,
+        "estimated_minutes": 3678,
+        "estimated_hours": 61.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 129,
+          "playcount": 130,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-28T02:30:14.482779"
+    "fetched_at": "2026-03-28T13:01:28.965642"
   }
 }
