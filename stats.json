@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-28T13:01:24.398577Z",
+  "collected_at": "2026-03-29T02:43:46.253528Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 262,
-        "estimated_minutes": 917,
-        "estimated_hours": 15.3,
+        "total_scrobbles": 248,
+        "estimated_minutes": 868,
+        "estimated_hours": 14.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1051,
-        "estimated_minutes": 3678,
-        "estimated_hours": 61.3,
+        "total_scrobbles": 1016,
+        "estimated_minutes": 3556,
+        "estimated_hours": 59.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 218,
-      "total_plays_this_week": 267
+      "total_tracks_this_week": 223,
+      "total_plays_this_week": 262
     },
     "top_artists": {
       "overall": [
@@ -184,7 +184,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 9,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-28T13:01:28.965642"
+    "fetched_at": "2026-03-29T02:43:51.079200"
   }
 }
