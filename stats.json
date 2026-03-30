@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-30T02:46:30.697647Z",
+  "collected_at": "2026-03-30T13:27:18.049977Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 269,
-        "estimated_minutes": 942,
-        "estimated_hours": 15.7,
+        "total_scrobbles": 244,
+        "estimated_minutes": 854,
+        "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1007,
-        "estimated_minutes": 3524,
-        "estimated_hours": 58.7,
+        "total_scrobbles": 1005,
+        "estimated_minutes": 3518,
+        "estimated_hours": 58.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -191,29 +191,29 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 2
         },
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 3
-        },
-        {
-          "name": "Breathe",
-          "artist": "Malcolm Todd",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Breathe",
-          "rank": 4
         },
         {
           "name": "Tel\u00e9fono",
           "artist": "Aitana",
           "playcount": 2,
           "url": "https://www.last.fm/music/Aitana/_/Tel%C3%A9fono",
+          "rank": 4
+        },
+        {
+          "name": "CAF\u00e9 CON RON",
+          "artist": "Bad Bunny",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-30T02:46:35.326776"
+    "fetched_at": "2026-03-30T13:27:21.696632"
   }
 }
