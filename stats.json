@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-30T13:27:18.049977Z",
+  "collected_at": "2026-03-31T02:39:57.727970Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4880,
+      "total_scrobbles": 4928,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4880,
-      "estimated_minutes": 17080,
-      "estimated_hours": 284.7,
-      "estimated_days": 11.9,
+      "total_scrobbles": 4928,
+      "estimated_minutes": 17248,
+      "estimated_hours": 287.5,
+      "estimated_days": 12.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 244,
-        "estimated_minutes": 854,
+        "total_scrobbles": 243,
+        "estimated_minutes": 850,
         "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1005,
-        "estimated_minutes": 3518,
-        "estimated_hours": 58.6,
+        "total_scrobbles": 1053,
+        "estimated_minutes": 3686,
+        "estimated_hours": 61.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3854,
-        "estimated_minutes": 13489,
-        "estimated_hours": 224.8,
+        "total_scrobbles": 3879,
+        "estimated_minutes": 13576,
+        "estimated_hours": 226.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 217,
-      "total_plays_this_week": 251
+      "total_tracks_this_week": 225,
+      "total_plays_this_week": 267
     },
     "top_artists": {
       "overall": [
@@ -53,19 +53,19 @@
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 140,
+          "playcount": 141,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
         {
           "name": "Bad Bunny",
-          "playcount": 136,
+          "playcount": 137,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 130,
+          "playcount": 131,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 84,
+          "playcount": 85,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -131,52 +131,52 @@
           "rank": 3
         },
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 4
+        },
+        {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 18,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 18,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 5
+          "rank": 6
         },
         {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 6
+          "name": "Dead Beat City",
+          "artist": "Kids That Fly",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
+          "rank": 7
         },
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 17,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 7
+          "rank": 8
         },
         {
-          "name": "Dead Beat City",
-          "artist": "Kids That Fly",
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
           "playcount": 16,
-          "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 8
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 9
         },
         {
           "name": "TIT FOR TAT",
           "artist": "Tate McRae",
           "playcount": 16,
           "url": "https://www.last.fm/music/Tate+McRae/_/TIT+FOR+TAT",
-          "rank": 9
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 15,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 10
         }
       ],
@@ -184,22 +184,22 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 8,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
         {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "name": "Enough For Me",
+          "artist": "Graham",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Graham/_/Enough+For+Me",
           "rank": 2
         },
         {
-          "name": "E85",
-          "artist": "Don Toliver",
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 3
         },
         {
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "CAF\u00e9 CON RON",
-          "artist": "Bad Bunny",
+          "name": "Everybody Talks",
+          "artist": "Ax and the Hatchetmen",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Everybody+Talks",
           "rank": 5
         }
       ]
@@ -223,14 +223,14 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 125,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 70,
+          "playcount": 71,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-30T13:27:21.696632"
+    "fetched_at": "2026-03-31T02:40:02.151284"
   }
 }
