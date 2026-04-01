@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-04-01T02:51:53.751206Z",
+  "collected_at": "2026-04-01T13:40:32.456795Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4956,
+      "total_scrobbles": 4987,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4956,
-      "estimated_minutes": 17346,
-      "estimated_hours": 289.1,
-      "estimated_days": 12.0,
+      "total_scrobbles": 4987,
+      "estimated_minutes": 17454,
+      "estimated_hours": 290.9,
+      "estimated_days": 12.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 241,
-        "estimated_minutes": 844,
-        "estimated_hours": 14.1,
+        "total_scrobbles": 249,
+        "estimated_minutes": 872,
+        "estimated_hours": 14.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1006,
-        "estimated_minutes": 3521,
-        "estimated_hours": 58.7,
+        "total_scrobbles": 1037,
+        "estimated_minutes": 3630,
+        "estimated_hours": 60.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3896,
-        "estimated_minutes": 13636,
-        "estimated_hours": 227.3,
+        "total_scrobbles": 3903,
+        "estimated_minutes": 13660,
+        "estimated_hours": 227.7,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 31,
+          "playcount": 32,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -184,7 +184,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Tel\u00e9fono",
-          "artist": "Aitana",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Aitana/_/Tel%C3%A9fono",
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 4
         },
         {
-          "name": "Everybody Talks",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Everybody+Talks",
+          "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+          "artist": "RAYE",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/RAYE/_/Click+Clack+Symphony.+(feat.+Hans+Zimmer)",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-01T02:52:03.110267"
+    "fetched_at": "2026-04-01T13:40:39.215358"
   }
 }
