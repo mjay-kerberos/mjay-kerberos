@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-03-31T13:26:07.231241Z",
+  "collected_at": "2026-04-01T02:51:53.751206Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4928,
+      "total_scrobbles": 4956,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4928,
-      "estimated_minutes": 17248,
-      "estimated_hours": 287.5,
+      "total_scrobbles": 4956,
+      "estimated_minutes": 17346,
+      "estimated_hours": 289.1,
       "estimated_days": 12.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 237,
-        "estimated_minutes": 830,
-        "estimated_hours": 13.8,
+        "total_scrobbles": 241,
+        "estimated_minutes": 844,
+        "estimated_hours": 14.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1049,
-        "estimated_minutes": 3672,
-        "estimated_hours": 61.2,
+        "total_scrobbles": 1006,
+        "estimated_minutes": 3521,
+        "estimated_hours": 58.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3879,
-        "estimated_minutes": 13576,
-        "estimated_hours": 226.3,
+        "total_scrobbles": 3896,
+        "estimated_minutes": 13636,
+        "estimated_hours": 227.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 225,
-      "total_plays_this_week": 267
+      "total_tracks_this_week": 209,
+      "total_plays_this_week": 238
     },
     "top_artists": {
       "overall": [
@@ -59,7 +59,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 137,
+          "playcount": 139,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
@@ -119,7 +119,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 27,
+          "playcount": 29,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
@@ -184,22 +184,22 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
+        },
+        {
+          "name": "Body",
+          "artist": "Don Toliver",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Don+Toliver/_/Body",
+          "rank": 2
         },
         {
           "name": "Enough For Me",
           "artist": "Graham",
           "playcount": 3,
           "url": "https://www.last.fm/music/Graham/_/Enough+For+Me",
-          "rank": 2
-        },
-        {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 3
         },
         {
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 126,
+          "playcount": 128,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-03-31T13:26:12.232429"
+    "fetched_at": "2026-04-01T02:52:03.110267"
   }
 }
