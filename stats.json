@@ -1,59 +1,59 @@
 {
-  "collected_at": "2026-04-01T13:40:32.456795Z",
+  "collected_at": "2026-04-02T02:35:56.163912Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 4987,
+      "total_scrobbles": 5035,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 4987,
-      "estimated_minutes": 17454,
-      "estimated_hours": 290.9,
-      "estimated_days": 12.1,
+      "total_scrobbles": 5035,
+      "estimated_minutes": 17622,
+      "estimated_hours": 293.7,
+      "estimated_days": 12.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 249,
-        "estimated_minutes": 872,
-        "estimated_hours": 14.5,
+        "total_scrobbles": 245,
+        "estimated_minutes": 858,
+        "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1037,
-        "estimated_minutes": 3630,
-        "estimated_hours": 60.5,
+        "total_scrobbles": 1026,
+        "estimated_minutes": 3591,
+        "estimated_hours": 59.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3903,
-        "estimated_minutes": 13660,
-        "estimated_hours": 227.7,
+        "total_scrobbles": 3939,
+        "estimated_minutes": 13786,
+        "estimated_hours": 229.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 209,
-      "total_plays_this_week": 238
+      "total_tracks_this_week": 235,
+      "total_plays_this_week": 273
     },
     "top_artists": {
       "overall": [
         {
           "name": "Tate McRae",
-          "playcount": 157,
+          "playcount": 158,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 1
         },
         {
           "name": "5 Seconds of Summer",
-          "playcount": 141,
+          "playcount": 152,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 2
         },
@@ -71,7 +71,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 102,
+          "playcount": 103,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 5
         },
@@ -83,7 +83,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 86,
+          "playcount": 87,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "The Home Team",
-          "playcount": 72,
+          "playcount": 73,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
@@ -131,30 +131,30 @@
           "rank": 3
         },
         {
+          "name": "ANYTHING BUT LOVE",
+          "artist": "Tate McRae",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "rank": 4
+        },
+        {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 19,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 18,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 5
-        },
-        {
-          "name": "ANYTHING BUT LOVE",
-          "artist": "Tate McRae",
-          "playcount": 18,
-          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
           "rank": 6
         },
         {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
-          "playcount": 17,
+          "playcount": 18,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
           "rank": 7
         },
@@ -166,17 +166,17 @@
           "rank": 8
         },
         {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
           "playcount": 16,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 9
         },
         {
-          "name": "TIT FOR TAT",
-          "artist": "Tate McRae",
+          "name": "put a finger down",
+          "artist": "Edwin",
           "playcount": 16,
-          "url": "https://www.last.fm/music/Tate+McRae/_/TIT+FOR+TAT",
+          "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
           "rank": 10
         }
       ],
@@ -184,7 +184,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 6,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 1
         },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "name": "Better Place (From TROLLS Band Together)",
+          "artist": "*NSYNC",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/*NSYNC/_/Better+Place+(From+TROLLS+Band+Together)",
           "rank": 4
         },
         {
-          "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-          "artist": "RAYE",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/RAYE/_/Click+Clack+Symphony.+(feat.+Hans+Zimmer)",
+          "name": "Tel\u00e9fono",
+          "artist": "Aitana",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Aitana/_/Tel%C3%A9fono",
           "rank": 5
         }
       ]
@@ -251,12 +251,12 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 51,
+          "playcount": 52,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-04-01T13:40:39.215358"
+    "fetched_at": "2026-04-02T02:36:00.327210"
   }
 }
