@@ -1,19 +1,19 @@
 {
-  "collected_at": "2026-04-02T02:35:56.163912Z",
+  "collected_at": "2026-04-02T13:20:49.833550Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5035,
+      "total_scrobbles": 5042,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5035,
-      "estimated_minutes": 17622,
-      "estimated_hours": 293.7,
-      "estimated_days": 12.2,
+      "total_scrobbles": 5042,
+      "estimated_minutes": 17647,
+      "estimated_hours": 294.1,
+      "estimated_days": 12.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
@@ -26,9 +26,9 @@
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1026,
-        "estimated_minutes": 3591,
-        "estimated_hours": 59.9,
+        "total_scrobbles": 1033,
+        "estimated_minutes": 3616,
+        "estimated_hours": 60.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-02T02:36:00.327210"
+    "fetched_at": "2026-04-02T13:20:57.320797"
   }
 }
