@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-04-03T02:38:03.890922Z",
+  "collected_at": "2026-04-03T13:10:21.378890Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5071,
+      "total_scrobbles": 5084,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5071,
-      "estimated_minutes": 17748,
-      "estimated_hours": 295.8,
-      "estimated_days": 12.3,
+      "total_scrobbles": 5084,
+      "estimated_minutes": 17794,
+      "estimated_hours": 296.6,
+      "estimated_days": 12.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 241,
-        "estimated_minutes": 844,
-        "estimated_hours": 14.1,
+        "total_scrobbles": 243,
+        "estimated_minutes": 850,
+        "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1009,
-        "estimated_minutes": 3532,
-        "estimated_hours": 58.9,
+        "total_scrobbles": 1022,
+        "estimated_minutes": 3577,
+        "estimated_hours": 59.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3957,
-        "estimated_minutes": 13850,
-        "estimated_hours": 230.8,
+        "total_scrobbles": 3964,
+        "estimated_minutes": 13874,
+        "estimated_hours": 231.2,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -100,9 +100,9 @@
           "rank": 9
         },
         {
-          "name": "The Home Team",
+          "name": "Panic! at the Disco",
           "playcount": 73,
-          "url": "https://www.last.fm/music/The+Home+Team",
+          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
       ]
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Body",
-          "artist": "Don Toliver",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Don+Toliver/_/Body",
-          "rank": 1
-        },
-        {
           "name": "Enough For Me",
           "artist": "Graham",
           "playcount": 3,
           "url": "https://www.last.fm/music/Graham/_/Enough+For+Me",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Better Place (From TROLLS Band Together)",
           "artist": "*NSYNC",
           "playcount": 2,
           "url": "https://www.last.fm/music/*NSYNC/_/Better+Place+(From+TROLLS+Band+Together)",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "BLENDER",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Caramel",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Caramel",
+          "rank": 4
+        },
+        {
+          "name": "Don't Stop",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Don%27t+Stop",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-03T02:38:07.587082"
+    "fetched_at": "2026-04-03T13:10:25.740220"
   }
 }
