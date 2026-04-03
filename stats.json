@@ -1,60 +1,60 @@
 {
-  "collected_at": "2026-04-02T13:20:49.833550Z",
+  "collected_at": "2026-04-03T02:38:03.890922Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5042,
+      "total_scrobbles": 5071,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5042,
-      "estimated_minutes": 17647,
-      "estimated_hours": 294.1,
+      "total_scrobbles": 5071,
+      "estimated_minutes": 17748,
+      "estimated_hours": 295.8,
       "estimated_days": 12.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 245,
-        "estimated_minutes": 858,
-        "estimated_hours": 14.3,
+        "total_scrobbles": 241,
+        "estimated_minutes": 844,
+        "estimated_hours": 14.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1033,
-        "estimated_minutes": 3616,
-        "estimated_hours": 60.3,
+        "total_scrobbles": 1009,
+        "estimated_minutes": 3532,
+        "estimated_hours": 58.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 3939,
-        "estimated_minutes": 13786,
-        "estimated_hours": 229.8,
+        "total_scrobbles": 3957,
+        "estimated_minutes": 13850,
+        "estimated_hours": 230.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 235,
-      "total_plays_this_week": 273
+      "total_tracks_this_week": 215,
+      "total_plays_this_week": 246
     },
     "top_artists": {
       "overall": [
         {
-          "name": "Tate McRae",
-          "playcount": 158,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "name": "5 Seconds of Summer",
+          "playcount": 174,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
-          "name": "5 Seconds of Summer",
-          "playcount": 152,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
+          "name": "Tate McRae",
+          "playcount": 158,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
         {
@@ -159,17 +159,17 @@
           "rank": 7
         },
         {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 8
+        },
+        {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 17,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 8
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 16,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 9
         },
         {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "WELTiTA",
-          "artist": "Bad Bunny",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 1
-        },
-        {
           "name": "Body",
           "artist": "Don Toliver",
           "playcount": 3,
           "url": "https://www.last.fm/music/Don+Toliver/_/Body",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Enough For Me",
           "artist": "Graham",
           "playcount": 3,
           "url": "https://www.last.fm/music/Graham/_/Enough+For+Me",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Better Place (From TROLLS Band Together)",
           "artist": "*NSYNC",
           "playcount": 2,
           "url": "https://www.last.fm/music/*NSYNC/_/Better+Place+(From+TROLLS+Band+Together)",
+          "rank": 3
+        },
+        {
+          "name": "BLENDER",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
           "rank": 4
         },
         {
-          "name": "Tel\u00e9fono",
-          "artist": "Aitana",
+          "name": "Caramel",
+          "artist": "5 Seconds of Summer",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Aitana/_/Tel%C3%A9fono",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Caramel",
           "rank": 5
         }
       ]
@@ -235,28 +235,28 @@
           "rank": 2
         },
         {
+          "name": "5SOS5",
+          "artist": "5 Seconds of Summer",
+          "playcount": 53,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
+          "rank": 3
+        },
+        {
           "name": "So Close to What",
           "artist": "Tate McRae",
           "playcount": 53,
           "url": "https://www.last.fm/music/Tate+McRae/So+Close+to+What",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
           "playcount": 52,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
-          "rank": 4
-        },
-        {
-          "name": "SO CLOSE TO WHAT??? (deluxe)",
-          "artist": "Tate McRae",
-          "playcount": 52,
-          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-04-02T13:20:57.320797"
+    "fetched_at": "2026-04-03T02:38:07.587082"
   }
 }
