@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-04-05T13:03:53.770593Z",
+  "collected_at": "2026-04-06T02:47:42.730244Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5236,
+      "total_scrobbles": 5257,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5236,
-      "estimated_minutes": 18326,
-      "estimated_hours": 305.4,
-      "estimated_days": 12.7,
+      "total_scrobbles": 5257,
+      "estimated_minutes": 18400,
+      "estimated_hours": 306.7,
+      "estimated_days": 12.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 374,
-        "estimated_minutes": 1309,
-        "estimated_hours": 21.8,
+        "total_scrobbles": 376,
+        "estimated_minutes": 1316,
+        "estimated_hours": 21.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1081,
-        "estimated_minutes": 3784,
-        "estimated_hours": 63.1,
+        "total_scrobbles": 1062,
+        "estimated_minutes": 3717,
+        "estimated_hours": 62.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4094,
-        "estimated_minutes": 14329,
-        "estimated_hours": 238.8,
+        "total_scrobbles": 4113,
+        "estimated_minutes": 14396,
+        "estimated_hours": 239.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 286,
-      "total_plays_this_week": 338
+      "total_tracks_this_week": 298,
+      "total_plays_this_week": 373
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 133,
+          "playcount": 136,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -95,13 +95,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 84,
+          "playcount": 85,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 9
         },
         {
           "name": "The Home Team",
-          "playcount": 76,
+          "playcount": 77,
           "url": "https://www.last.fm/music/The+Home+Team",
           "rank": 10
         }
@@ -124,17 +124,17 @@
           "rank": 2
         },
         {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 3
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 21,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 3
-        },
-        {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 4
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-05T13:03:58.336136"
+    "fetched_at": "2026-04-06T02:47:47.323655"
   }
 }
