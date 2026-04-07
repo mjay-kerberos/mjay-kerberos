@@ -1,59 +1,59 @@
 {
-  "collected_at": "2026-04-06T13:17:35.341704Z",
+  "collected_at": "2026-04-07T02:41:20.618483Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5257,
+      "total_scrobbles": 5295,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5257,
-      "estimated_minutes": 18400,
-      "estimated_hours": 306.7,
-      "estimated_days": 12.8,
+      "total_scrobbles": 5295,
+      "estimated_minutes": 18532,
+      "estimated_hours": 308.9,
+      "estimated_days": 12.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 376,
-        "estimated_minutes": 1316,
-        "estimated_hours": 21.9,
+        "total_scrobbles": 366,
+        "estimated_minutes": 1281,
+        "estimated_hours": 21.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1049,
-        "estimated_minutes": 3672,
-        "estimated_hours": 61.2,
+        "total_scrobbles": 1057,
+        "estimated_minutes": 3700,
+        "estimated_hours": 61.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4113,
-        "estimated_minutes": 14396,
-        "estimated_hours": 239.9,
+        "total_scrobbles": 4142,
+        "estimated_minutes": 14497,
+        "estimated_hours": 241.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
       "total_tracks_this_week": 298,
-      "total_plays_this_week": 373
+      "total_plays_this_week": 377
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 204,
+          "playcount": 218,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Tate McRae",
-          "playcount": 162,
+          "playcount": 163,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 101,
+          "playcount": 102,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 86,
+          "playcount": 87,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -100,9 +100,9 @@
           "rank": 9
         },
         {
-          "name": "The Home Team",
+          "name": "Panic! at the Disco",
           "playcount": 77,
-          "url": "https://www.last.fm/music/The+Home+Team",
+          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
       ]
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 32,
+          "playcount": 33,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -124,17 +124,17 @@
           "rank": 2
         },
         {
+          "name": "ANYTHING BUT LOVE",
+          "artist": "Tate McRae",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "rank": 3
+        },
+        {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 21,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 3
-        },
-        {
-          "name": "ANYTHING BUT LOVE",
-          "artist": "Tate McRae",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
           "rank": 4
         },
         {
@@ -166,54 +166,54 @@
           "rank": 8
         },
         {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 17,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 9
+        },
+        {
           "name": "put a finger down",
           "artist": "Edwin",
           "playcount": 17,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
-          "rank": 9
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Enough For Me",
-          "artist": "Graham",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Graham/_/Enough+For+Me",
+          "name": "Bad Omens",
+          "artist": "5 Seconds of Summer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Bad+Omens",
           "rank": 1
         },
         {
-          "name": "Bad Omens",
+          "name": "I'm Scared I\u2019ll Never Sleep Again",
           "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Bad+Omens",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/I%27m+Scared+I%E2%80%99ll+Never+Sleep+Again",
           "rank": 2
+        },
+        {
+          "name": "ANYTHING BUT LOVE",
+          "artist": "Tate McRae",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "rank": 3
         },
         {
           "name": "English Love Affair",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/English+Love+Affair",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 4
-        },
-        {
-          "name": "I'm Scared I\u2019ll Never Sleep Again",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/I%27m+Scared+I%E2%80%99ll+Never+Sleep+Again",
           "rank": 5
         }
       ]
@@ -237,26 +237,26 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 57,
+          "playcount": 58,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 55,
+          "playcount": 56,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 4
         },
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 54,
+          "playcount": 55,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-04-06T13:17:41.602588"
+    "fetched_at": "2026-04-07T02:41:26.708342"
   }
 }
