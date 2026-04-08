@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-04-07T13:24:26.943064Z",
+  "collected_at": "2026-04-08T02:41:48.969221Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5299,
+      "total_scrobbles": 5330,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5299,
-      "estimated_minutes": 18546,
-      "estimated_hours": 309.1,
-      "estimated_days": 12.9,
+      "total_scrobbles": 5330,
+      "estimated_minutes": 18655,
+      "estimated_hours": 310.9,
+      "estimated_days": 13.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 370,
-        "estimated_minutes": 1295,
-        "estimated_hours": 21.6,
+        "total_scrobbles": 372,
+        "estimated_minutes": 1302,
+        "estimated_hours": 21.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1060,
-        "estimated_minutes": 3710,
-        "estimated_hours": 61.8,
+        "total_scrobbles": 1088,
+        "estimated_minutes": 3808,
+        "estimated_hours": 63.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4143,
-        "estimated_minutes": 14500,
-        "estimated_hours": 241.7,
+        "total_scrobbles": 4170,
+        "estimated_minutes": 14595,
+        "estimated_hours": 243.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 298,
-      "total_plays_this_week": 377
+      "total_tracks_this_week": 285,
+      "total_plays_this_week": 370
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 218,
+          "playcount": 219,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 136,
+          "playcount": 138,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -83,13 +83,13 @@
         },
         {
           "name": "Paramore",
-          "playcount": 92,
+          "playcount": 93,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
         {
           "name": "The Runarounds",
-          "playcount": 87,
+          "playcount": 90,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -138,44 +138,44 @@
           "rank": 4
         },
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 20,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 5
+        },
+        {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 19,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 5
+          "rank": 6
+        },
+        {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 19,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 7
         },
         {
           "name": "Dead Beat City",
           "artist": "Kids That Fly",
           "playcount": 19,
           "url": "https://www.last.fm/music/Kids+That+Fly/_/Dead+Beat+City",
-          "rank": 6
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 18,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 8
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 17,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 9
         },
         {
           "name": "put a finger down",
           "artist": "Edwin",
-          "playcount": 17,
+          "playcount": 18,
           "url": "https://www.last.fm/music/Edwin/_/put+a+finger+down",
           "rank": 10
         }
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
+          "name": "DECEIVE ME",
+          "artist": "AJ Vitanza",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/AJ+Vitanza/_/DECEIVE+ME",
+          "rank": 3
+        },
+        {
+          "name": "Life Was Easier When I Only Cared About Me",
+          "artist": "Bad Suns",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
+          "rank": 4
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 4,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 3
-        },
-        {
-          "name": "English Love Affair",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/English+Love+Affair",
-          "rank": 4
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 72,
+          "playcount": 75,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-07T13:24:31.648122"
+    "fetched_at": "2026-04-08T02:41:52.891667"
   }
 }
