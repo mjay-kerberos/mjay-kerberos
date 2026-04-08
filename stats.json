@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-04-08T02:41:48.969221Z",
+  "collected_at": "2026-04-08T13:25:10.582019Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5330,
+      "total_scrobbles": 5344,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5330,
-      "estimated_minutes": 18655,
-      "estimated_hours": 310.9,
+      "total_scrobbles": 5344,
+      "estimated_minutes": 18704,
+      "estimated_hours": 311.7,
       "estimated_days": 13.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 372,
-        "estimated_minutes": 1302,
-        "estimated_hours": 21.7,
+        "total_scrobbles": 356,
+        "estimated_minutes": 1246,
+        "estimated_hours": 20.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1088,
-        "estimated_minutes": 3808,
-        "estimated_hours": 63.5,
+        "total_scrobbles": 1102,
+        "estimated_minutes": 3857,
+        "estimated_hours": 64.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4170,
-        "estimated_minutes": 14595,
-        "estimated_hours": 243.2,
+        "total_scrobbles": 4184,
+        "estimated_minutes": 14644,
+        "estimated_hours": 244.1,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,13 +47,13 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 219,
+          "playcount": 221,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Tate McRae",
-          "playcount": 163,
+          "playcount": 164,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
@@ -71,7 +71,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 105,
+          "playcount": 106,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 5
         },
@@ -83,13 +83,13 @@
         },
         {
           "name": "Paramore",
-          "playcount": 93,
+          "playcount": 94,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
         {
           "name": "The Runarounds",
-          "playcount": 90,
+          "playcount": 91,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -230,14 +230,14 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 75,
+          "playcount": 76,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 58,
+          "playcount": 59,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-08T02:41:52.891667"
+    "fetched_at": "2026-04-08T13:25:15.063962"
   }
 }
