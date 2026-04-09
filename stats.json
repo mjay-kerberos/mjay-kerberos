@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-04-08T13:25:10.582019Z",
+  "collected_at": "2026-04-09T02:36:25.973392Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5344,
+      "total_scrobbles": 5368,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5344,
-      "estimated_minutes": 18704,
-      "estimated_hours": 311.7,
+      "total_scrobbles": 5368,
+      "estimated_minutes": 18788,
+      "estimated_hours": 313.1,
       "estimated_days": 13.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 356,
-        "estimated_minutes": 1246,
-        "estimated_hours": 20.8,
+        "total_scrobbles": 332,
+        "estimated_minutes": 1162,
+        "estimated_hours": 19.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1102,
-        "estimated_minutes": 3857,
-        "estimated_hours": 64.3,
+        "total_scrobbles": 1117,
+        "estimated_minutes": 3910,
+        "estimated_hours": 65.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4184,
-        "estimated_minutes": 14644,
-        "estimated_hours": 244.1,
+        "total_scrobbles": 4207,
+        "estimated_minutes": 14724,
+        "estimated_hours": 245.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 285,
-      "total_plays_this_week": 370
+      "total_tracks_this_week": 248,
+      "total_plays_this_week": 357
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 221,
+          "playcount": 222,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -71,19 +71,19 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 106,
+          "playcount": 107,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 5
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 102,
+          "playcount": 105,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 6
         },
         {
           "name": "Paramore",
-          "playcount": 94,
+          "playcount": 95,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 7
         },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 85,
+          "playcount": 86,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 9
         },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Bad Omens",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Bad+Omens",
-          "rank": 1
-        },
-        {
           "name": "I'm Scared I\u2019ll Never Sleep Again",
           "artist": "5 Seconds of Summer",
           "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/I%27m+Scared+I%E2%80%99ll+Never+Sleep+Again",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "DECEIVE ME",
           "artist": "AJ Vitanza",
           "playcount": 4,
           "url": "https://www.last.fm/music/AJ+Vitanza/_/DECEIVE+ME",
+          "rank": 2
+        },
+        {
+          "name": "All I Really Want",
+          "artist": "Yes Boone",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Yes+Boone/_/All+I+Really+Want",
           "rank": 3
         },
         {
-          "name": "Life Was Easier When I Only Cared About Me",
-          "artist": "Bad Suns",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
+          "name": "Bad Omens",
+          "artist": "5 Seconds of Summer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Bad+Omens",
           "rank": 4
         },
         {
-          "name": "ANYTHING BUT LOVE",
-          "artist": "Tate McRae",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "name": "Ghost of You",
+          "artist": "5 Seconds of Summer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Ghost+of+You",
           "rank": 5
         }
       ]
@@ -242,21 +242,21 @@
           "rank": 3
         },
         {
+          "name": "Sweet Boy",
+          "artist": "Malcolm Todd",
+          "playcount": 57,
+          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
+          "rank": 4
+        },
+        {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
           "playcount": 56,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
-          "rank": 4
-        },
-        {
-          "name": "Sweet Boy",
-          "artist": "Malcolm Todd",
-          "playcount": 55,
-          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-04-08T13:25:15.063962"
+    "fetched_at": "2026-04-09T02:36:30.526749"
   }
 }
