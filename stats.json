@@ -1,18 +1,18 @@
 {
-  "collected_at": "2026-04-12T02:52:03.184198Z",
+  "collected_at": "2026-04-12T13:07:29.112582Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5504,
+      "total_scrobbles": 5507,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5504,
-      "estimated_minutes": 19264,
-      "estimated_hours": 321.1,
+      "total_scrobbles": 5507,
+      "estimated_minutes": 19274,
+      "estimated_hours": 321.2,
       "estimated_days": 13.4,
       "avg_track_duration_assumed": 3.5
     },
@@ -26,16 +26,16 @@
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1167,
-        "estimated_minutes": 4084,
-        "estimated_hours": 68.1,
+        "total_scrobbles": 1161,
+        "estimated_minutes": 4064,
+        "estimated_hours": 67.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4308,
-        "estimated_minutes": 15078,
-        "estimated_hours": 251.3,
+        "total_scrobbles": 4310,
+        "estimated_minutes": 15085,
+        "estimated_hours": 251.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 111,
+          "playcount": 112,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -184,29 +184,29 @@
         {
           "name": "Fever Dream",
           "artist": "Alex Warren",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
           "rank": 1
+        },
+        {
+          "name": "How Much Is Weed?",
+          "artist": "Dominic Fike",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
+          "rank": 2
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 4,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "DONTTRUSTME",
           "artist": "3OH!3",
           "playcount": 3,
           "url": "https://www.last.fm/music/+noredirect/3OH!3/_/DONTTRUSTME",
-          "rank": 3
-        },
-        {
-          "name": "DECEIVE ME",
-          "artist": "AJ Vitanza",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/AJ+Vitanza/_/DECEIVE+ME",
           "rank": 4
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-12T02:52:08.217495"
+    "fetched_at": "2026-04-12T13:07:33.517536"
   }
 }
