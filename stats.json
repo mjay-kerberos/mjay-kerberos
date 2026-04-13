@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-04-12T13:07:29.112582Z",
+  "collected_at": "2026-04-13T02:56:33.450081Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5507,
+      "total_scrobbles": 5521,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5507,
-      "estimated_minutes": 19274,
-      "estimated_hours": 321.2,
+      "total_scrobbles": 5521,
+      "estimated_minutes": 19324,
+      "estimated_hours": 322.1,
       "estimated_days": 13.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 269,
-        "estimated_minutes": 942,
-        "estimated_hours": 15.7,
+        "total_scrobbles": 263,
+        "estimated_minutes": 920,
+        "estimated_hours": 15.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1161,
-        "estimated_minutes": 4064,
-        "estimated_hours": 67.7,
+        "total_scrobbles": 1175,
+        "estimated_minutes": 4112,
+        "estimated_hours": 68.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4310,
-        "estimated_minutes": 15085,
-        "estimated_hours": 251.4,
+        "total_scrobbles": 4321,
+        "estimated_minutes": 15124,
+        "estimated_hours": 252.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 169,
-      "total_plays_this_week": 223
+      "total_tracks_this_week": 205,
+      "total_plays_this_week": 271
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 224,
+          "playcount": 226,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,7 +59,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 139,
+          "playcount": 140,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
@@ -196,17 +196,17 @@
           "rank": 2
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
+          "name": "Night at the Opera",
+          "artist": "Emei",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
           "rank": 3
         },
         {
-          "name": "DONTTRUSTME",
-          "artist": "3OH!3",
+          "name": "BLENDER",
+          "artist": "5 Seconds of Summer",
           "playcount": 3,
-          "url": "https://www.last.fm/music/+noredirect/3OH!3/_/DONTTRUSTME",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
           "rank": 4
         },
         {
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 128,
+          "playcount": 129,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -237,7 +237,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 61,
+          "playcount": 63,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-12T13:07:33.517536"
+    "fetched_at": "2026-04-13T02:56:37.501494"
   }
 }
