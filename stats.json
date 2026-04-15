@@ -1,33 +1,33 @@
 {
-  "collected_at": "2026-04-15T02:47:13.385610Z",
+  "collected_at": "2026-04-15T13:44:09.260955Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5584,
+      "total_scrobbles": 5585,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5584,
-      "estimated_minutes": 19544,
-      "estimated_hours": 325.7,
+      "total_scrobbles": 5585,
+      "estimated_minutes": 19548,
+      "estimated_hours": 325.8,
       "estimated_days": 13.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 253,
-        "estimated_minutes": 886,
-        "estimated_hours": 14.8,
+        "total_scrobbles": 240,
+        "estimated_minutes": 840,
+        "estimated_hours": 14.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1150,
-        "estimated_minutes": 4025,
+        "total_scrobbles": 1151,
+        "estimated_minutes": 4028,
         "estimated_hours": 67.1,
         "avg_track_duration_assumed": 3.5
       },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Light Like You",
-          "artist": "Arrows in Action",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Arrows+in+Action/_/Light+Like+You",
-          "rank": 4
-        },
-        {
           "name": "Jealous Type",
           "artist": "Doja Cat",
           "playcount": 4,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 4
+        },
+        {
+          "name": "How Much Is Weed?",
+          "artist": "Dominic Fike",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-15T02:47:17.659224"
+    "fetched_at": "2026-04-15T13:44:16.485057"
   }
 }
