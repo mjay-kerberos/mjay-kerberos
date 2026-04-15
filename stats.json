@@ -1,59 +1,59 @@
 {
-  "collected_at": "2026-04-14T13:49:31.758031Z",
+  "collected_at": "2026-04-15T02:47:13.385610Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5542,
+      "total_scrobbles": 5584,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5542,
-      "estimated_minutes": 19397,
-      "estimated_hours": 323.3,
-      "estimated_days": 13.5,
+      "total_scrobbles": 5584,
+      "estimated_minutes": 19544,
+      "estimated_hours": 325.7,
+      "estimated_days": 13.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 243,
-        "estimated_minutes": 850,
-        "estimated_hours": 14.2,
+        "total_scrobbles": 253,
+        "estimated_minutes": 886,
+        "estimated_hours": 14.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1109,
-        "estimated_minutes": 3882,
-        "estimated_hours": 64.7,
+        "total_scrobbles": 1150,
+        "estimated_minutes": 4025,
+        "estimated_hours": 67.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4342,
-        "estimated_minutes": 15197,
-        "estimated_hours": 253.3,
+        "total_scrobbles": 4380,
+        "estimated_minutes": 15330,
+        "estimated_hours": 255.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 197,
-      "total_plays_this_week": 266
+      "total_tracks_this_week": 167,
+      "total_plays_this_week": 244
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 227,
+          "playcount": 231,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Tate McRae",
-          "playcount": 165,
+          "playcount": 166,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
@@ -83,19 +83,19 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 108,
+          "playcount": 109,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
         {
           "name": "Paramore",
-          "playcount": 96,
+          "playcount": 97,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 8
         },
         {
           "name": "The Runarounds",
-          "playcount": 91,
+          "playcount": 94,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 9
         },
@@ -131,45 +131,45 @@
           "rank": 3
         },
         {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 4
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 22,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 4
+          "rank": 5
         },
         {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 6
+        },
+        {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
           "playcount": 21,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 5
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 7
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 20,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 6
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Cheekbones",
           "artist": "Arrows in Action",
           "playcount": 19,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
-          "rank": 8
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 9
         },
         {
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "Heads Will Roll X Give It To Me",
-          "artist": "kayvid",
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
           "playcount": 5,
-          "url": "https://www.last.fm/music/kayvid/_/Heads+Will+Roll+X+Give+It+To+Me",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 2
+        },
+        {
+          "name": "Night at the Opera",
+          "artist": "Emei",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
+          "rank": 3
         },
         {
           "name": "Light Like You",
           "artist": "Arrows in Action",
           "playcount": 4,
           "url": "https://www.last.fm/music/Arrows+in+Action/_/Light+Like+You",
-          "rank": 3
-        },
-        {
-          "name": "How Much Is Weed?",
-          "artist": "Dominic Fike",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
           "rank": 4
         },
         {
-          "name": "Night at the Opera",
-          "artist": "Emei",
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 5
         }
       ]
@@ -230,14 +230,14 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 76,
+          "playcount": 79,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 64,
+          "playcount": 66,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -251,12 +251,12 @@
         {
           "name": "SO CLOSE TO WHAT??? (deluxe)",
           "artist": "Tate McRae",
-          "playcount": 56,
+          "playcount": 57,
           "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-04-14T13:49:38.766117"
+    "fetched_at": "2026-04-15T02:47:17.659224"
   }
 }
