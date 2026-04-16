@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-04-15T13:44:09.260955Z",
+  "collected_at": "2026-04-16T02:54:17.294942Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5585,
+      "total_scrobbles": 5586,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5585,
-      "estimated_minutes": 19548,
-      "estimated_hours": 325.8,
+      "total_scrobbles": 5586,
+      "estimated_minutes": 19551,
+      "estimated_hours": 325.9,
       "estimated_days": 13.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 240,
-        "estimated_minutes": 840,
-        "estimated_hours": 14.0,
+        "total_scrobbles": 213,
+        "estimated_minutes": 746,
+        "estimated_hours": 12.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1151,
-        "estimated_minutes": 4028,
-        "estimated_hours": 67.1,
+        "total_scrobbles": 1147,
+        "estimated_minutes": 4014,
+        "estimated_hours": 66.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4380,
-        "estimated_minutes": 15330,
-        "estimated_hours": 255.5,
+        "total_scrobbles": 4381,
+        "estimated_minutes": 15334,
+        "estimated_hours": 255.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 167,
-      "total_plays_this_week": 244
+      "total_tracks_this_week": 163,
+      "total_plays_this_week": 240
     },
     "top_artists": {
       "overall": [
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-15T13:44:16.485057"
+    "fetched_at": "2026-04-16T02:54:20.628146"
   }
 }
