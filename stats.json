@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-04-17T13:25:22.893280Z",
+  "collected_at": "2026-04-18T02:40:42.852593Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5655,
+      "total_scrobbles": 5664,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5655,
-      "estimated_minutes": 19792,
-      "estimated_hours": 329.9,
-      "estimated_days": 13.7,
+      "total_scrobbles": 5664,
+      "estimated_minutes": 19824,
+      "estimated_hours": 330.4,
+      "estimated_days": 13.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 251,
-        "estimated_minutes": 878,
-        "estimated_hours": 14.6,
+        "total_scrobbles": 248,
+        "estimated_minutes": 868,
+        "estimated_hours": 14.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1190,
-        "estimated_minutes": 4165,
-        "estimated_hours": 69.4,
+        "total_scrobbles": 1168,
+        "estimated_minutes": 4088,
+        "estimated_hours": 68.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4435,
-        "estimated_minutes": 15522,
-        "estimated_hours": 258.7,
+        "total_scrobbles": 4442,
+        "estimated_minutes": 15547,
+        "estimated_hours": 259.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 147,
-      "total_plays_this_week": 214
+      "total_tracks_this_week": 168,
+      "total_plays_this_week": 251
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 239,
+          "playcount": 240,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -88,15 +88,15 @@
           "rank": 7
         },
         {
-          "name": "Paramore",
-          "playcount": 97,
-          "url": "https://www.last.fm/music/Paramore",
+          "name": "The Runarounds",
+          "playcount": 98,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
         {
-          "name": "The Runarounds",
+          "name": "Paramore",
           "playcount": 97,
-          "url": "https://www.last.fm/music/The+Runarounds",
+          "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
         {
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 33,
+          "playcount": 34,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -126,7 +126,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 3
         },
@@ -159,17 +159,17 @@
           "rank": 7
         },
         {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 8
+        },
+        {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 20,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 8
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 9
         },
         {
@@ -184,21 +184,21 @@
         {
           "name": "Fever Dream",
           "artist": "Alex Warren",
-          "playcount": 8,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
           "rank": 1
         },
         {
           "name": "Night at the Opera",
           "artist": "Emei",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
           "rank": 2
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 3
         },
@@ -237,7 +237,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 69,
+          "playcount": 70,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-17T13:25:28.787081"
+    "fetched_at": "2026-04-18T02:40:47.395762"
   }
 }
