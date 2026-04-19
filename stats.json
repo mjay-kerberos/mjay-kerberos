@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-04-19T02:56:56.690953Z",
+  "collected_at": "2026-04-19T13:07:57.183216Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 179,
-        "estimated_minutes": 626,
-        "estimated_hours": 10.4,
+        "total_scrobbles": 175,
+        "estimated_minutes": 612,
+        "estimated_hours": 10.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1112,
-        "estimated_minutes": 3892,
-        "estimated_hours": 64.9,
+        "total_scrobbles": 1110,
+        "estimated_minutes": 3885,
+        "estimated_hours": 64.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -182,17 +182,17 @@
       ],
       "week": [
         {
-          "name": "Fever Dream",
-          "artist": "Alex Warren",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
-          "rank": 1
-        },
-        {
           "name": "Night at the Opera",
           "artist": "Emei",
           "playcount": 7,
           "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
+          "rank": 1
+        },
+        {
+          "name": "Fever Dream",
+          "artist": "Alex Warren",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
           "rank": 2
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-19T02:57:01.420916"
+    "fetched_at": "2026-04-19T13:08:01.607623"
   }
 }
