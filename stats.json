@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-04-18T13:08:18.624146Z",
+  "collected_at": "2026-04-19T02:56:56.690953Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5664,
+      "total_scrobbles": 5684,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5664,
-      "estimated_minutes": 19824,
-      "estimated_hours": 330.4,
+      "total_scrobbles": 5684,
+      "estimated_minutes": 19894,
+      "estimated_hours": 331.6,
       "estimated_days": 13.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 240,
-        "estimated_minutes": 840,
-        "estimated_hours": 14.0,
+        "total_scrobbles": 179,
+        "estimated_minutes": 626,
+        "estimated_hours": 10.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1162,
-        "estimated_minutes": 4067,
-        "estimated_hours": 67.8,
+        "total_scrobbles": 1112,
+        "estimated_minutes": 3892,
+        "estimated_hours": 64.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4442,
-        "estimated_minutes": 15547,
-        "estimated_hours": 259.1,
+        "total_scrobbles": 4459,
+        "estimated_minutes": 15606,
+        "estimated_hours": 260.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 168,
-      "total_plays_this_week": 251
+      "total_tracks_this_week": 159,
+      "total_plays_this_week": 241
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 240,
+          "playcount": 241,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -58,15 +58,15 @@
           "rank": 2
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 140,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Fall Out Boy",
+          "playcount": 142,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 139,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Bad Bunny",
+          "playcount": 140,
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 4
         },
         {
@@ -88,15 +88,15 @@
           "rank": 7
         },
         {
-          "name": "The Runarounds",
+          "name": "Paramore",
           "playcount": 98,
-          "url": "https://www.last.fm/music/The+Runarounds",
+          "url": "https://www.last.fm/music/Paramore",
           "rank": 8
         },
         {
-          "name": "Paramore",
-          "playcount": 97,
-          "url": "https://www.last.fm/music/Paramore",
+          "name": "The Runarounds",
+          "playcount": 98,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 9
         },
         {
@@ -184,36 +184,36 @@
         {
           "name": "Fever Dream",
           "artist": "Alex Warren",
-          "playcount": 9,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
           "rank": 1
         },
         {
           "name": "Night at the Opera",
           "artist": "Emei",
-          "playcount": 8,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
           "rank": 2
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 7,
+          "playcount": 5,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 3
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 4
         },
         {
           "name": "Pilot Wings",
           "artist": "Foxtide",
           "playcount": 5,
           "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
+          "rank": 4
+        },
+        {
+          "name": "Like That",
+          "artist": "Loveshy",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Loveshy/_/Like+That",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-18T13:08:22.832680"
+    "fetched_at": "2026-04-19T02:57:01.420916"
   }
 }
