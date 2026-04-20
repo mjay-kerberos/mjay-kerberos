@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-04-19T13:07:57.183216Z",
+  "collected_at": "2026-04-20T02:57:10.984336Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5684,
+      "total_scrobbles": 5686,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5684,
-      "estimated_minutes": 19894,
-      "estimated_hours": 331.6,
+      "total_scrobbles": 5686,
+      "estimated_minutes": 19901,
+      "estimated_hours": 331.7,
       "estimated_days": 13.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 175,
-        "estimated_minutes": 612,
-        "estimated_hours": 10.2,
+        "total_scrobbles": 164,
+        "estimated_minutes": 574,
+        "estimated_hours": 9.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1110,
-        "estimated_minutes": 3885,
-        "estimated_hours": 64.8,
+        "total_scrobbles": 1089,
+        "estimated_minutes": 3812,
+        "estimated_hours": 63.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4459,
-        "estimated_minutes": 15606,
-        "estimated_hours": 260.1,
+        "total_scrobbles": 4461,
+        "estimated_minutes": 15614,
+        "estimated_hours": 260.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 159,
-      "total_plays_this_week": 241
+      "total_tracks_this_week": 130,
+      "total_plays_this_week": 180
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Night at the Opera",
-          "artist": "Emei",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
-          "rank": 1
-        },
-        {
           "name": "Fever Dream",
           "artist": "Alex Warren",
           "playcount": 6,
           "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 5,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 3
+          "rank": 2
         },
         {
-          "name": "Pilot Wings",
-          "artist": "Foxtide",
+          "name": "Night at the Opera",
+          "artist": "Emei",
           "playcount": 5,
-          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
-          "rank": 4
+          "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
+          "rank": 3
         },
         {
           "name": "Like That",
           "artist": "Loveshy",
           "playcount": 5,
           "url": "https://www.last.fm/music/Loveshy/_/Like+That",
+          "rank": 4
+        },
+        {
+          "name": "Pilot Wings",
+          "artist": "Foxtide",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-19T13:08:01.607623"
+    "fetched_at": "2026-04-20T02:57:14.840598"
   }
 }
