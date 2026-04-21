@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-04-20T13:48:39.516732Z",
+  "collected_at": "2026-04-21T02:50:59.680998Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 162,
-        "estimated_minutes": 567,
-        "estimated_hours": 9.4,
+        "total_scrobbles": 143,
+        "estimated_minutes": 500,
+        "estimated_hours": 8.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1089,
-        "estimated_minutes": 3812,
-        "estimated_hours": 63.5,
+        "total_scrobbles": 1075,
+        "estimated_minutes": 3762,
+        "estimated_hours": 62.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 130,
-      "total_plays_this_week": 180
+      "total_tracks_this_week": 118,
+      "total_plays_this_week": 162
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Fever Dream",
-          "artist": "Alex Warren",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 1
         },
         {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "name": "Fever Dream",
+          "artist": "Alex Warren",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
           "rank": 2
         },
         {
           "name": "Night at the Opera",
           "artist": "Emei",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
           "rank": 3
         },
         {
           "name": "Like That",
           "artist": "Loveshy",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Loveshy/_/Like+That",
           "rank": 4
         },
         {
-          "name": "Pilot Wings",
-          "artist": "Foxtide",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
+          "name": "Afters",
+          "artist": "Bl3ss",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bl3ss/_/Afters",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-20T13:48:44.619865"
+    "fetched_at": "2026-04-21T02:51:05.103723"
   }
 }
