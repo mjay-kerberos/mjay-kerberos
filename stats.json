@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-04-21T13:48:31.921936Z",
+  "collected_at": "2026-04-22T02:49:41.556512Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5686,
+      "total_scrobbles": 5707,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5686,
-      "estimated_minutes": 19901,
-      "estimated_hours": 331.7,
-      "estimated_days": 13.8,
+      "total_scrobbles": 5707,
+      "estimated_minutes": 19974,
+      "estimated_hours": 332.9,
+      "estimated_days": 13.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 143,
-        "estimated_minutes": 500,
-        "estimated_hours": 8.3,
+        "total_scrobbles": 122,
+        "estimated_minutes": 427,
+        "estimated_hours": 7.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1075,
-        "estimated_minutes": 3762,
-        "estimated_hours": 62.7,
+        "total_scrobbles": 1096,
+        "estimated_minutes": 3836,
+        "estimated_hours": 63.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4461,
-        "estimated_minutes": 15614,
-        "estimated_hours": 260.2,
+        "total_scrobbles": 4477,
+        "estimated_minutes": 15670,
+        "estimated_hours": 261.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 118,
-      "total_plays_this_week": 162
+      "total_tracks_this_week": 130,
+      "total_plays_this_week": 164
     },
     "top_artists": {
       "overall": [
@@ -71,13 +71,13 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 123,
+          "playcount": 124,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 112,
+          "playcount": 114,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -159,17 +159,17 @@
           "rank": 7
         },
         {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 21,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 8
+        },
+        {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 21,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 8
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 20,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 9
         },
         {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
+          "name": "Night at the Opera",
+          "artist": "Emei",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
+          "rank": 1
+        },
+        {
+          "name": "Somebody to Love",
+          "artist": "Justin Bieber",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Justin+Bieber/_/Somebody+to+Love",
+          "rank": 2
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 4,
+          "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 1
+          "rank": 3
+        },
+        {
+          "name": "NOT OK",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/NOT+OK",
+          "rank": 4
         },
         {
           "name": "Fever Dream",
           "artist": "Alex Warren",
-          "playcount": 4,
+          "playcount": 2,
           "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
-          "rank": 2
-        },
-        {
-          "name": "Night at the Opera",
-          "artist": "Emei",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Emei/_/Night+at+the+Opera",
-          "rank": 3
-        },
-        {
-          "name": "Like That",
-          "artist": "Loveshy",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Loveshy/_/Like+That",
-          "rank": 4
-        },
-        {
-          "name": "Afters",
-          "artist": "Bl3ss",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Bl3ss/_/Afters",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-21T13:48:38.439225"
+    "fetched_at": "2026-04-22T02:49:45.619874"
   }
 }
