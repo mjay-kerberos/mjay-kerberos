@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-04-24T13:41:45.615721Z",
+  "collected_at": "2026-04-25T02:42:25.118823Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5708,
+      "total_scrobbles": 5712,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5708,
-      "estimated_minutes": 19978,
-      "estimated_hours": 333.0,
+      "total_scrobbles": 5712,
+      "estimated_minutes": 19992,
+      "estimated_hours": 333.2,
       "estimated_days": 13.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 52,
-        "estimated_minutes": 182,
-        "estimated_hours": 3.0,
+        "total_scrobbles": 47,
+        "estimated_minutes": 164,
+        "estimated_hours": 2.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 970,
-        "estimated_minutes": 3395,
-        "estimated_hours": 56.6,
+        "total_scrobbles": 922,
+        "estimated_minutes": 3227,
+        "estimated_hours": 53.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4477,
-        "estimated_minutes": 15670,
-        "estimated_hours": 261.2,
+        "total_scrobbles": 4480,
+        "estimated_minutes": 15680,
+        "estimated_hours": 261.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 111,
-      "total_plays_this_week": 121
+      "total_tracks_this_week": 53,
+      "total_plays_this_week": 54
     },
     "top_artists": {
       "overall": [
@@ -189,10 +189,10 @@
           "rank": 1
         },
         {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "name": "I Had Some Help (feat. Morgan Wallen)",
+          "artist": "Post Malone",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
           "rank": 2
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-24T13:41:50.105314"
+    "fetched_at": "2026-04-25T02:42:30.771591"
   }
 }
