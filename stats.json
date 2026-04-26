@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-04-25T13:11:04.760766Z",
+  "collected_at": "2026-04-26T03:19:35.436029Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 47,
-        "estimated_minutes": 164,
-        "estimated_hours": 2.7,
+        "total_scrobbles": 27,
+        "estimated_minutes": 94,
+        "estimated_hours": 1.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 915,
-        "estimated_minutes": 3202,
-        "estimated_hours": 53.4,
+        "total_scrobbles": 882,
+        "estimated_minutes": 3087,
+        "estimated_hours": 51.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 53,
-      "total_plays_this_week": 54
+      "total_tracks_this_week": 45,
+      "total_plays_this_week": 47
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Somebody to Love",
-          "artist": "Justin Bieber",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Justin+Bieber/_/Somebody+to+Love",
-          "rank": 1
-        },
-        {
           "name": "I Had Some Help (feat. Morgan Wallen)",
           "artist": "Post Malone",
           "playcount": 2,
           "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
-          "rank": 2
-        },
-        {
-          "name": "She's Kinda Hot",
-          "artist": "5 Seconds of Summer",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/She%27s+Kinda+Hot",
-          "rank": 3
+          "rank": 1
         },
         {
           "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
           "artist": "A$AP Rocky",
           "playcount": 1,
           "url": "https://www.last.fm/music/A$AP+Rocky/_/F**kin%27+Problems+(feat.+Drake,+2+Chainz+&+Kendrick+Lamar)",
-          "rank": 4
+          "rank": 2
         },
         {
           "name": "TELL 'EM YOU'RE MINE",
           "artist": "Alan Vuong",
           "playcount": 1,
           "url": "https://www.last.fm/music/Alan+Vuong/_/TELL+%27EM+YOU%27RE+MINE",
+          "rank": 3
+        },
+        {
+          "name": "Rolex",
+          "artist": "Ayo & Teo",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Ayo+&+Teo/_/Rolex",
+          "rank": 4
+        },
+        {
+          "name": "Fall in Love",
+          "artist": "Bailey Zimmerman",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Bailey+Zimmerman/_/Fall+in+Love",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-25T13:11:09.922562"
+    "fetched_at": "2026-04-26T03:19:40.240395"
   }
 }
