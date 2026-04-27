@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-04-26T13:12:55.243331Z",
+  "collected_at": "2026-04-27T03:24:23.052137Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5712,
+      "total_scrobbles": 5723,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5712,
-      "estimated_minutes": 19992,
-      "estimated_hours": 333.2,
+      "total_scrobbles": 5723,
+      "estimated_minutes": 20030,
+      "estimated_hours": 333.8,
       "estimated_days": 13.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 26,
-        "estimated_minutes": 91,
-        "estimated_hours": 1.5,
+        "total_scrobbles": 37,
+        "estimated_minutes": 130,
+        "estimated_hours": 2.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 871,
-        "estimated_minutes": 3048,
-        "estimated_hours": 50.8,
+        "total_scrobbles": 861,
+        "estimated_minutes": 3014,
+        "estimated_hours": 50.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4480,
-        "estimated_minutes": 15680,
-        "estimated_hours": 261.3,
+        "total_scrobbles": 4489,
+        "estimated_minutes": 15712,
+        "estimated_hours": 261.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 45,
-      "total_plays_this_week": 47
+      "total_tracks_this_week": 26,
+      "total_plays_this_week": 27
     },
     "top_artists": {
       "overall": [
@@ -71,13 +71,13 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 124,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 114,
+          "playcount": 115,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -145,24 +145,24 @@
           "rank": 5
         },
         {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 6
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 22,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 22,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 7
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 8
         },
         {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
+          "name": "How Much Is Weed?",
+          "artist": "Dominic Fike",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
+          "rank": 1
+        },
+        {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 2
+        },
+        {
+          "name": "Back N Forth",
+          "artist": "Jack Murnin",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Jack+Murnin/_/Back+N+Forth",
+          "rank": 3
+        },
+        {
           "name": "I Had Some Help (feat. Morgan Wallen)",
           "artist": "Post Malone",
           "playcount": 2,
           "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
-          "rank": 1
-        },
-        {
-          "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
-          "artist": "A$AP Rocky",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/A$AP+Rocky/_/F**kin%27+Problems+(feat.+Drake,+2+Chainz+&+Kendrick+Lamar)",
-          "rank": 2
-        },
-        {
-          "name": "TELL 'EM YOU'RE MINE",
-          "artist": "Alan Vuong",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Alan+Vuong/_/TELL+%27EM+YOU%27RE+MINE",
-          "rank": 3
-        },
-        {
-          "name": "Rolex",
-          "artist": "Ayo & Teo",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Ayo+&+Teo/_/Rolex",
           "rank": 4
         },
         {
-          "name": "Fall in Love",
-          "artist": "Bailey Zimmerman",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Bailey+Zimmerman/_/Fall+in+Love",
+          "name": "Yeah! (feat. Lil Jon & Ludacris)",
+          "artist": "Usher",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Usher/_/Yeah!+(feat.+Lil+Jon+&+Ludacris)",
           "rank": 5
         }
       ]
@@ -244,7 +244,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 63,
+          "playcount": 64,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-26T13:12:58.779530"
+    "fetched_at": "2026-04-27T03:24:26.971554"
   }
 }
