@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-04-27T14:01:14.056247Z",
+  "collected_at": "2026-04-28T03:30:38.332605Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,9 +19,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 37,
-        "estimated_minutes": 130,
-        "estimated_hours": 2.2,
+        "total_scrobbles": 16,
+        "estimated_minutes": 56,
+        "estimated_hours": 0.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 26,
-      "total_plays_this_week": 27
+      "total_tracks_this_week": 32,
+      "total_plays_this_week": 37
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "How Much Is Weed?",
-          "artist": "Dominic Fike",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
-          "rank": 1
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 2
-        },
-        {
-          "name": "Back N Forth",
-          "artist": "Jack Murnin",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Jack+Murnin/_/Back+N+Forth",
-          "rank": 3
-        },
-        {
-          "name": "I Had Some Help (feat. Morgan Wallen)",
-          "artist": "Post Malone",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
-          "rank": 4
-        },
-        {
           "name": "Yeah! (feat. Lil Jon & Ludacris)",
           "artist": "Usher",
           "playcount": 2,
           "url": "https://www.last.fm/music/Usher/_/Yeah!+(feat.+Lil+Jon+&+Ludacris)",
+          "rank": 1
+        },
+        {
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 2
+        },
+        {
+          "name": "Rolex",
+          "artist": "Ayo & Teo",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Ayo+&+Teo/_/Rolex",
+          "rank": 3
+        },
+        {
+          "name": "Feel It (From \u201cInvincible\u201d)",
+          "artist": "d4vd",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/d4vd/_/Feel+It+(From+%E2%80%9CInvincible%E2%80%9D)",
+          "rank": 4
+        },
+        {
+          "name": "How Much Is Weed?",
+          "artist": "Dominic Fike",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-27T14:01:20.176185"
+    "fetched_at": "2026-04-28T03:30:42.913656"
   }
 }
