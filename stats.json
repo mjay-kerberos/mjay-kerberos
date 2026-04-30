@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-04-29T14:04:14.390146Z",
+  "collected_at": "2026-04-30T03:29:58.781235Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 34,
-        "estimated_minutes": 119,
-        "estimated_hours": 2.0,
+        "total_scrobbles": 33,
+        "estimated_minutes": 116,
+        "estimated_hours": 1.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 857,
-        "estimated_minutes": 3000,
-        "estimated_hours": 50.0,
+        "total_scrobbles": 812,
+        "estimated_minutes": 2842,
+        "estimated_hours": 47.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 17,
-      "total_plays_this_week": 18
+      "total_tracks_this_week": 25,
+      "total_plays_this_week": 34
     },
     "top_artists": {
       "overall": [
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-04-29T14:04:24.712475"
+    "fetched_at": "2026-04-30T03:30:05.228608"
   }
 }
