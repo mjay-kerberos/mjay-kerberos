@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-03T13:17:06.697594Z",
+  "collected_at": "2026-05-04T03:30:58.834767Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5743,
+      "total_scrobbles": 5782,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5743,
-      "estimated_minutes": 20100,
-      "estimated_hours": 335.0,
-      "estimated_days": 14.0,
+      "total_scrobbles": 5782,
+      "estimated_minutes": 20237,
+      "estimated_hours": 337.3,
+      "estimated_days": 14.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 30,
-        "estimated_minutes": 105,
-        "estimated_hours": 1.8,
+        "total_scrobbles": 58,
+        "estimated_minutes": 203,
+        "estimated_hours": 3.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 659,
-        "estimated_minutes": 2306,
-        "estimated_hours": 38.4,
+        "total_scrobbles": 581,
+        "estimated_minutes": 2034,
+        "estimated_hours": 33.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4506,
-        "estimated_minutes": 15771,
-        "estimated_hours": 262.9,
+        "total_scrobbles": 4531,
+        "estimated_minutes": 15858,
+        "estimated_hours": 264.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 22,
-      "total_plays_this_week": 30
+      "total_tracks_this_week": 23,
+      "total_plays_this_week": 31
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 241,
+          "playcount": 243,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -71,13 +71,13 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 134,
+          "playcount": 139,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 116,
+          "playcount": 117,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -126,21 +126,21 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 25,
+          "playcount": 26,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 3
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 4
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 5
         },
@@ -173,26 +173,26 @@
           "rank": 9
         },
         {
-          "name": "Cheekbones",
-          "artist": "Arrows in Action",
-          "playcount": 19,
-          "url": "https://www.last.fm/music/Arrows+in+Action/_/Cheekbones",
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 20,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 10
         }
       ],
       "week": [
         {
+          "name": "I Wish",
+          "artist": "Skee-Lo",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Skee-Lo/_/I+Wish",
+          "rank": 1
+        },
+        {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 1
-        },
-        {
-          "name": "How Much Is Weed?",
-          "artist": "Dominic Fike",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F",
           "rank": 2
         },
         {
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "Attention",
-          "artist": "Malcolm Todd",
+          "name": "Your Love Is My Drug",
+          "artist": "Kesha",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Attention",
+          "url": "https://www.last.fm/music/+noredirect/Kesha/_/Your+Love+Is+My+Drug",
           "rank": 5
         }
       ]
@@ -237,14 +237,14 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 70,
+          "playcount": 72,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 67,
+          "playcount": 69,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-03T13:17:10.549709"
+    "fetched_at": "2026-05-04T03:31:02.584770"
   }
 }
