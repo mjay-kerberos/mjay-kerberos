@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-05-05T02:56:56.323405Z",
+  "collected_at": "2026-05-06T03:27:38.129162Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 61,
-        "estimated_minutes": 214,
-        "estimated_hours": 3.6,
+        "total_scrobbles": 45,
+        "estimated_minutes": 158,
+        "estimated_hours": 2.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 551,
-        "estimated_minutes": 1928,
-        "estimated_hours": 32.1,
+        "total_scrobbles": 528,
+        "estimated_minutes": 1848,
+        "estimated_hours": 30.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 49,
-      "total_plays_this_week": 62
+      "total_tracks_this_week": 48,
+      "total_plays_this_week": 61
     },
     "top_artists": {
       "overall": [
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 2
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 3
-        },
-        {
-          "name": "Back N Forth",
-          "artist": "Jack Murnin",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Jack+Murnin/_/Back+N+Forth",
-          "rank": 4
-        },
-        {
           "name": "Your Love Is My Drug",
           "artist": "Kesha",
           "playcount": 2,
           "url": "https://www.last.fm/music/+noredirect/Kesha/_/Your+Love+Is+My+Drug",
+          "rank": 2
+        },
+        {
+          "name": "Better Place (From TROLLS Band Together)",
+          "artist": "*NSYNC",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/*NSYNC/_/Better+Place+(From+TROLLS+Band+Together)",
+          "rank": 3
+        },
+        {
+          "name": "California Love - Original Version",
+          "artist": "2Pac",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/2Pac/_/California+Love+-+Original+Version",
+          "rank": 4
+        },
+        {
+          "name": "Caramel",
+          "artist": "5 Seconds of Summer",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Caramel",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-05T02:57:00.560871"
+    "fetched_at": "2026-05-06T03:27:42.003726"
   }
 }
