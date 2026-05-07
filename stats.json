@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-05-07T03:28:16.326329Z",
+  "collected_at": "2026-05-07T14:20:17.418558Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5819,
+      "total_scrobbles": 5824,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5819,
-      "estimated_minutes": 20366,
-      "estimated_hours": 339.4,
-      "estimated_days": 14.1,
+      "total_scrobbles": 5824,
+      "estimated_minutes": 20384,
+      "estimated_hours": 339.7,
+      "estimated_days": 14.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 78,
-        "estimated_minutes": 273,
-        "estimated_hours": 4.5,
+        "total_scrobbles": 83,
+        "estimated_minutes": 290,
+        "estimated_hours": 4.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 521,
-        "estimated_minutes": 1824,
-        "estimated_hours": 30.4,
+        "total_scrobbles": 525,
+        "estimated_minutes": 1838,
+        "estimated_hours": 30.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4562,
-        "estimated_minutes": 15967,
-        "estimated_hours": 266.1,
+        "total_scrobbles": 4567,
+        "estimated_minutes": 15984,
+        "estimated_hours": 266.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 101,
+          "playcount": 102,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
+          "name": "Rocketeer",
+          "artist": "Far East Movement",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Far+East+Movement/_/Rocketeer",
+          "rank": 3
+        },
+        {
           "name": "thank you i guess",
           "artist": "Forrest Nolan",
           "playcount": 2,
           "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Your Love Is My Drug",
           "artist": "Kesha",
           "playcount": 2,
           "url": "https://www.last.fm/music/+noredirect/Kesha/_/Your+Love+Is+My+Drug",
-          "rank": 4
-        },
-        {
-          "name": "Bleachers",
-          "artist": "The Runarounds",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Bleachers",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 82,
+          "playcount": 83,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-07T03:28:20.206898"
+    "fetched_at": "2026-05-07T14:20:21.293050"
   }
 }
