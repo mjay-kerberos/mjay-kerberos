@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-08T13:56:04.900426Z",
+  "collected_at": "2026-05-09T03:23:16.114213Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5867,
+      "total_scrobbles": 5884,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5867,
-      "estimated_minutes": 20534,
-      "estimated_hours": 342.2,
+      "total_scrobbles": 5884,
+      "estimated_minutes": 20594,
+      "estimated_hours": 343.2,
       "estimated_days": 14.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 126,
-        "estimated_minutes": 441,
-        "estimated_hours": 7.3,
+        "total_scrobbles": 141,
+        "estimated_minutes": 494,
+        "estimated_hours": 8.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 522,
-        "estimated_minutes": 1827,
-        "estimated_hours": 30.4,
+        "total_scrobbles": 511,
+        "estimated_minutes": 1788,
+        "estimated_hours": 29.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4595,
-        "estimated_minutes": 16082,
-        "estimated_hours": 268.0,
+        "total_scrobbles": 4608,
+        "estimated_minutes": 16128,
+        "estimated_hours": 268.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 72,
-      "total_plays_this_week": 78
+      "total_tracks_this_week": 112,
+      "total_plays_this_week": 128
     },
     "top_artists": {
       "overall": [
@@ -95,7 +95,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 98,
+          "playcount": 99,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
+          "name": "Runaway Baby",
+          "artist": "Bruno Mars",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby",
+          "rank": 4
+        },
+        {
           "name": "Rocketeer",
           "artist": "Far East Movement",
           "playcount": 2,
           "url": "https://www.last.fm/music/Far+East+Movement/_/Rocketeer",
-          "rank": 4
-        },
-        {
-          "name": "thank you i guess",
-          "artist": "Forrest Nolan",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-08T13:56:09.877409"
+    "fetched_at": "2026-05-09T03:23:19.702055"
   }
 }
