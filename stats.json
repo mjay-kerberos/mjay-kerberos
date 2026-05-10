@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-05-10T03:35:01.987393Z",
+  "collected_at": "2026-05-10T13:24:32.780894Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,9 +19,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 173,
-        "estimated_minutes": 606,
-        "estimated_hours": 10.1,
+        "total_scrobbles": 172,
+        "estimated_minutes": 602,
+        "estimated_hours": 10.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "I Wish",
-          "artist": "Skee-Lo",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Skee-Lo/_/I+Wish",
-          "rank": 1
-        },
-        {
           "name": "Ghosts (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Caramel",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Caramel",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "no more regrets",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 4
+        },
+        {
+          "name": "Runaway Baby",
+          "artist": "Bruno Mars",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-10T03:35:06.355557"
+    "fetched_at": "2026-05-10T13:24:36.934414"
   }
 }
