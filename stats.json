@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-09T13:23:06.370928Z",
+  "collected_at": "2026-05-10T03:35:01.987393Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5884,
+      "total_scrobbles": 5916,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5884,
-      "estimated_minutes": 20594,
-      "estimated_hours": 343.2,
-      "estimated_days": 14.3,
+      "total_scrobbles": 5916,
+      "estimated_minutes": 20706,
+      "estimated_hours": 345.1,
+      "estimated_days": 14.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 141,
-        "estimated_minutes": 494,
-        "estimated_hours": 8.2,
+        "total_scrobbles": 173,
+        "estimated_minutes": 606,
+        "estimated_hours": 10.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 505,
-        "estimated_minutes": 1768,
-        "estimated_hours": 29.5,
+        "total_scrobbles": 512,
+        "estimated_minutes": 1792,
+        "estimated_hours": 29.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4608,
-        "estimated_minutes": 16128,
-        "estimated_hours": 268.8,
+        "total_scrobbles": 4628,
+        "estimated_minutes": 16198,
+        "estimated_hours": 270.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 112,
-      "total_plays_this_week": 128
+      "total_tracks_this_week": 126,
+      "total_plays_this_week": 145
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 247,
+          "playcount": 249,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -65,7 +65,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 140,
+          "playcount": 141,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 4
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 105,
+          "playcount": 106,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -119,7 +119,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 29,
+          "playcount": 30,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "Ghosts (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
+          "rank": 2
+        },
+        {
+          "name": "Caramel",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Caramel",
+          "rank": 3
+        },
+        {
           "name": "no more regrets",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
-          "rank": 2
+          "rank": 4
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 3
-        },
-        {
-          "name": "Runaway Baby",
-          "artist": "Bruno Mars",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby",
-          "rank": 4
-        },
-        {
-          "name": "Rocketeer",
-          "artist": "Far East Movement",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Far+East+Movement/_/Rocketeer",
           "rank": 5
         }
       ]
@@ -223,21 +223,21 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 129,
+          "playcount": 130,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 86,
+          "playcount": 87,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 73,
+          "playcount": 74,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-09T13:23:10.909475"
+    "fetched_at": "2026-05-10T03:35:06.355557"
   }
 }
