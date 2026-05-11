@@ -1,59 +1,59 @@
 {
-  "collected_at": "2026-05-10T13:24:32.780894Z",
+  "collected_at": "2026-05-11T03:49:28.431526Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5916,
+      "total_scrobbles": 5943,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5916,
-      "estimated_minutes": 20706,
-      "estimated_hours": 345.1,
+      "total_scrobbles": 5943,
+      "estimated_minutes": 20800,
+      "estimated_hours": 346.7,
       "estimated_days": 14.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 172,
-        "estimated_minutes": 602,
-        "estimated_hours": 10.0,
+        "total_scrobbles": 161,
+        "estimated_minutes": 564,
+        "estimated_hours": 9.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 512,
-        "estimated_minutes": 1792,
-        "estimated_hours": 29.9,
+        "total_scrobbles": 527,
+        "estimated_minutes": 1844,
+        "estimated_hours": 30.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4628,
-        "estimated_minutes": 16198,
-        "estimated_hours": 270.0,
+        "total_scrobbles": 4652,
+        "estimated_minutes": 16282,
+        "estimated_hours": 271.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 126,
-      "total_plays_this_week": 145
+      "total_tracks_this_week": 153,
+      "total_plays_this_week": 173
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 249,
+          "playcount": 250,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Tate McRae",
-          "playcount": 169,
+          "playcount": 170,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
@@ -83,7 +83,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 112,
+          "playcount": 113,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
@@ -95,13 +95,13 @@
         },
         {
           "name": "Paramore",
-          "playcount": 99,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 82,
+          "playcount": 83,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -159,17 +159,17 @@
           "rank": 7
         },
         {
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 22,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 8
+        },
+        {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 22,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 8
-        },
-        {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 9
         },
         {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
+          "name": "no more regrets",
+          "artist": "Almost Monday",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
+          "rank": 1
+        },
+        {
           "name": "Ghosts (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
-          "rank": 1
-        },
-        {
-          "name": "Caramel",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Caramel",
           "rank": 2
-        },
-        {
-          "name": "no more regrets",
-          "artist": "Almost Monday",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
-          "rank": 3
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 3
+        },
+        {
+          "name": "Rocketeer",
+          "artist": "Far East Movement",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Far+East+Movement/_/Rocketeer",
           "rank": 4
         },
         {
-          "name": "Runaway Baby",
-          "artist": "Bruno Mars",
+          "name": "thank you i guess",
+          "artist": "Forrest Nolan",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby",
+          "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
           "rank": 5
         }
       ]
@@ -249,14 +249,14 @@
           "rank": 4
         },
         {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 57,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "name": "SO CLOSE TO WHAT??? (deluxe)",
+          "artist": "Tate McRae",
+          "playcount": 58,
+          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-05-10T13:24:36.934414"
+    "fetched_at": "2026-05-11T03:49:33.152916"
   }
 }
