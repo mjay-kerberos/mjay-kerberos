@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-05-11T03:49:28.431526Z",
+  "collected_at": "2026-05-11T15:15:42.565703Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 161,
-        "estimated_minutes": 564,
-        "estimated_hours": 9.4,
+        "total_scrobbles": 156,
+        "estimated_minutes": 546,
+        "estimated_hours": 9.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 527,
-        "estimated_minutes": 1844,
-        "estimated_hours": 30.7,
+        "total_scrobbles": 507,
+        "estimated_minutes": 1774,
+        "estimated_hours": 29.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "thank you i guess",
-          "artist": "Forrest Nolan",
+          "name": "think you're someone new",
+          "artist": "Ian Asher",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
+          "url": "https://www.last.fm/music/Ian+Asher/_/think+you%27re+someone+new",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-11T03:49:33.152916"
+    "fetched_at": "2026-05-11T15:15:48.636069"
   }
 }
