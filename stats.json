@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-11T15:15:42.565703Z",
+  "collected_at": "2026-05-12T03:33:02.386946Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5943,
+      "total_scrobbles": 5971,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5943,
-      "estimated_minutes": 20800,
-      "estimated_hours": 346.7,
-      "estimated_days": 14.4,
+      "total_scrobbles": 5971,
+      "estimated_minutes": 20898,
+      "estimated_hours": 348.3,
+      "estimated_days": 14.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 156,
-        "estimated_minutes": 546,
-        "estimated_hours": 9.1,
+        "total_scrobbles": 183,
+        "estimated_minutes": 640,
+        "estimated_hours": 10.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 507,
-        "estimated_minutes": 1774,
-        "estimated_hours": 29.6,
+        "total_scrobbles": 466,
+        "estimated_minutes": 1631,
+        "estimated_hours": 27.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4652,
-        "estimated_minutes": 16282,
-        "estimated_hours": 271.4,
+        "total_scrobbles": 4668,
+        "estimated_minutes": 16338,
+        "estimated_hours": 272.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 153,
-      "total_plays_this_week": 173
+      "total_tracks_this_week": 137,
+      "total_plays_this_week": 157
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 250,
+          "playcount": 251,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -77,13 +77,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 118,
+          "playcount": 120,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
           "name": "Almost Monday",
-          "playcount": 113,
+          "playcount": 114,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
@@ -126,7 +126,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 26,
+          "playcount": 27,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 3
         },
@@ -140,7 +140,7 @@
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 5
         },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
+          "name": "Gemstone",
+          "artist": "Don Toliver",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Don+Toliver/_/Gemstone",
+          "rank": 4
+        },
+        {
           "name": "Rocketeer",
           "artist": "Far East Movement",
           "playcount": 2,
           "url": "https://www.last.fm/music/Far+East+Movement/_/Rocketeer",
-          "rank": 4
-        },
-        {
-          "name": "think you're someone new",
-          "artist": "Ian Asher",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ian+Asher/_/think+you%27re+someone+new",
           "rank": 5
         }
       ]
@@ -237,7 +237,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 74,
+          "playcount": 75,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -249,14 +249,14 @@
           "rank": 4
         },
         {
-          "name": "SO CLOSE TO WHAT??? (deluxe)",
-          "artist": "Tate McRae",
+          "name": "DIVE",
+          "artist": "Almost Monday",
           "playcount": 58,
-          "url": "https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe)",
+          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-05-11T15:15:48.636069"
+    "fetched_at": "2026-05-12T03:33:06.676130"
   }
 }
