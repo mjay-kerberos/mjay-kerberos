@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-12T14:30:48.282546Z",
+  "collected_at": "2026-05-13T03:40:32.740016Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5976,
+      "total_scrobbles": 5979,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5976,
-      "estimated_minutes": 20916,
-      "estimated_hours": 348.6,
+      "total_scrobbles": 5979,
+      "estimated_minutes": 20926,
+      "estimated_hours": 348.8,
       "estimated_days": 14.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 188,
-        "estimated_minutes": 658,
-        "estimated_hours": 11.0,
+        "total_scrobbles": 191,
+        "estimated_minutes": 668,
+        "estimated_hours": 11.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 463,
-        "estimated_minutes": 1620,
-        "estimated_hours": 27.0,
+        "total_scrobbles": 457,
+        "estimated_minutes": 1600,
+        "estimated_hours": 26.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4668,
-        "estimated_minutes": 16338,
-        "estimated_hours": 272.3,
+        "total_scrobbles": 4669,
+        "estimated_minutes": 16342,
+        "estimated_hours": 272.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 137,
-      "total_plays_this_week": 157
+      "total_tracks_this_week": 158,
+      "total_plays_this_week": 185
     },
     "top_artists": {
       "overall": [
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "BMF",
+          "artist": "SZA",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/SZA/_/BMF",
+          "rank": 2
+        },
+        {
           "name": "Ghosts (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Gemstone",
           "artist": "Don Toliver",
           "playcount": 2,
           "url": "https://www.last.fm/music/Don+Toliver/_/Gemstone",
-          "rank": 4
-        },
-        {
-          "name": "Rocketeer",
-          "artist": "Far East Movement",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Far+East+Movement/_/Rocketeer",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-12T14:30:52.396749"
+    "fetched_at": "2026-05-13T03:40:36.714615"
   }
 }
