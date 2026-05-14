@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-13T14:40:39.865152Z",
+  "collected_at": "2026-05-14T03:39:44.185747Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5979,
+      "total_scrobbles": 5999,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5979,
-      "estimated_minutes": 20926,
-      "estimated_hours": 348.8,
-      "estimated_days": 14.5,
+      "total_scrobbles": 5999,
+      "estimated_minutes": 20996,
+      "estimated_hours": 349.9,
+      "estimated_days": 14.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 191,
-        "estimated_minutes": 668,
-        "estimated_hours": 11.1,
+        "total_scrobbles": 180,
+        "estimated_minutes": 630,
+        "estimated_hours": 10.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 455,
-        "estimated_minutes": 1592,
-        "estimated_hours": 26.5,
+        "total_scrobbles": 456,
+        "estimated_minutes": 1596,
+        "estimated_hours": 26.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4669,
-        "estimated_minutes": 16342,
-        "estimated_hours": 272.4,
+        "total_scrobbles": 4679,
+        "estimated_minutes": 16376,
+        "estimated_hours": 272.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 158,
-      "total_plays_this_week": 185
+      "total_tracks_this_week": 165,
+      "total_plays_this_week": 194
     },
     "top_artists": {
       "overall": [
@@ -182,10 +182,10 @@
       ],
       "week": [
         {
-          "name": "no more regrets",
-          "artist": "Almost Monday",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 1
         },
         {
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
+          "name": "Monsters (feat. Demi Lovato and blackbear)",
+          "artist": "All Time Low",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "url": "https://www.last.fm/music/All+Time+Low/_/Monsters+(feat.+Demi+Lovato+and+blackbear)",
           "rank": 4
         },
         {
-          "name": "Gemstone",
-          "artist": "Don Toliver",
+          "name": "no more regrets",
+          "artist": "Almost Monday",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Don+Toliver/_/Gemstone",
+          "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-13T14:40:44.116371"
+    "fetched_at": "2026-05-14T03:39:48.216242"
   }
 }
