@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-05-14T03:39:44.185747Z",
+  "collected_at": "2026-05-14T14:20:58.879555Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,9 +19,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 180,
-        "estimated_minutes": 630,
-        "estimated_hours": 10.5,
+        "total_scrobbles": 175,
+        "estimated_minutes": 612,
+        "estimated_hours": 10.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
-          "name": "Ghosts (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
-          "rank": 3
-        },
-        {
           "name": "Monsters (feat. Demi Lovato and blackbear)",
           "artist": "All Time Low",
           "playcount": 2,
           "url": "https://www.last.fm/music/All+Time+Low/_/Monsters+(feat.+Demi+Lovato+and+blackbear)",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "no more regrets",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
+          "rank": 4
+        },
+        {
+          "name": "Riled Up",
+          "artist": "Jack Murnin",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Jack+Murnin/_/Riled+Up",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-14T03:39:48.216242"
+    "fetched_at": "2026-05-14T14:21:05.327063"
   }
 }
