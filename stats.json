@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-14T14:20:58.879555Z",
+  "collected_at": "2026-05-15T03:43:21.828414Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 5999,
+      "total_scrobbles": 6036,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 5999,
-      "estimated_minutes": 20996,
-      "estimated_hours": 349.9,
-      "estimated_days": 14.6,
+      "total_scrobbles": 6036,
+      "estimated_minutes": 21126,
+      "estimated_hours": 352.1,
+      "estimated_days": 14.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 175,
-        "estimated_minutes": 612,
-        "estimated_hours": 10.2,
+        "total_scrobbles": 165,
+        "estimated_minutes": 578,
+        "estimated_hours": 9.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 456,
-        "estimated_minutes": 1596,
-        "estimated_hours": 26.6,
+        "total_scrobbles": 451,
+        "estimated_minutes": 1578,
+        "estimated_hours": 26.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4679,
-        "estimated_minutes": 16376,
-        "estimated_hours": 272.9,
+        "total_scrobbles": 4693,
+        "estimated_minutes": 16426,
+        "estimated_hours": 273.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 165,
-      "total_plays_this_week": 194
+      "total_tracks_this_week": 156,
+      "total_plays_this_week": 184
     },
     "top_artists": {
       "overall": [
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 120,
+          "playcount": 121,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -133,7 +133,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 25,
+          "playcount": 26,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 4
         },
@@ -173,10 +173,10 @@
           "rank": 9
         },
         {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
+          "name": "E85",
+          "artist": "Don Toliver",
           "playcount": 21,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 10
         }
       ],
@@ -184,15 +184,15 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 1
         },
         {
-          "name": "BMF",
-          "artist": "SZA",
+          "name": "Gemstone",
+          "artist": "Don Toliver",
           "playcount": 3,
-          "url": "https://www.last.fm/music/SZA/_/BMF",
+          "url": "https://www.last.fm/music/Don+Toliver/_/Gemstone",
           "rank": 2
         },
         {
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "no more regrets",
-          "artist": "Almost Monday",
+          "name": "ROLE MODEL",
+          "artist": "Brent Faiyaz",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/no+more+regrets",
+          "url": "https://www.last.fm/music/Brent+Faiyaz/_/ROLE+MODEL",
           "rank": 4
         },
         {
-          "name": "Riled Up",
-          "artist": "Jack Murnin",
+          "name": "Swim",
+          "artist": "Chase Atlantic",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Jack+Murnin/_/Riled+Up",
+          "url": "https://www.last.fm/music/Chase+Atlantic/_/Swim",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-14T14:21:05.327063"
+    "fetched_at": "2026-05-15T03:43:25.493039"
   }
 }
