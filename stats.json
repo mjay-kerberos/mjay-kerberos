@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-15T14:12:14.292628Z",
+  "collected_at": "2026-05-16T03:27:53.007774Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6036,
+      "total_scrobbles": 6071,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6036,
-      "estimated_minutes": 21126,
-      "estimated_hours": 352.1,
-      "estimated_days": 14.7,
+      "total_scrobbles": 6071,
+      "estimated_minutes": 21248,
+      "estimated_hours": 354.1,
+      "estimated_days": 14.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 165,
-        "estimated_minutes": 578,
-        "estimated_hours": 9.6,
+        "total_scrobbles": 183,
+        "estimated_minutes": 640,
+        "estimated_hours": 10.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 451,
-        "estimated_minutes": 1578,
-        "estimated_hours": 26.3,
+        "total_scrobbles": 484,
+        "estimated_minutes": 1694,
+        "estimated_hours": 28.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4693,
-        "estimated_minutes": 16426,
-        "estimated_hours": 273.8,
+        "total_scrobbles": 4711,
+        "estimated_minutes": 16488,
+        "estimated_hours": 274.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 156,
-      "total_plays_this_week": 184
+      "total_tracks_this_week": 146,
+      "total_plays_this_week": 167
     },
     "top_artists": {
       "overall": [
@@ -59,7 +59,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 144,
+          "playcount": 145,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -71,13 +71,13 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 139,
+          "playcount": 141,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 121,
+          "playcount": 123,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 83,
+          "playcount": 84,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -145,38 +145,38 @@
           "rank": 5
         },
         {
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 23,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 6
+        },
+        {
           "name": "Jealous Type",
           "artist": "Doja Cat",
           "playcount": 23,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 23,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 7
+          "rank": 8
         },
         {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
+          "name": "E85",
+          "artist": "Don Toliver",
           "playcount": 22,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 8
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 9
         },
         {
           "name": "ANYTHING BUT LOVE",
           "artist": "Tate McRae",
           "playcount": 22,
           "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
-          "rank": 9
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 21,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 10
         }
       ],
@@ -184,7 +184,7 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 1
         },
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
+          "name": "MOVE YOUR BODY",
+          "artist": "The Kid LAROI",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Kid+LAROI/_/MOVE+YOUR+BODY",
+          "rank": 3
+        },
+        {
           "name": "Monsters (feat. Demi Lovato and blackbear)",
           "artist": "All Time Low",
           "playcount": 2,
           "url": "https://www.last.fm/music/All+Time+Low/_/Monsters+(feat.+Demi+Lovato+and+blackbear)",
-          "rank": 3
-        },
-        {
-          "name": "ROLE MODEL",
-          "artist": "Brent Faiyaz",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Brent+Faiyaz/_/ROLE+MODEL",
           "rank": 4
         },
         {
-          "name": "Swim",
-          "artist": "Chase Atlantic",
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Chase+Atlantic/_/Swim",
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 5
         }
       ]
@@ -244,7 +244,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 69,
+          "playcount": 70,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-15T14:12:17.603684"
+    "fetched_at": "2026-05-16T03:27:56.283832"
   }
 }
