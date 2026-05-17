@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-16T13:37:23.262584Z",
+  "collected_at": "2026-05-17T03:42:19.247238Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6071,
+      "total_scrobbles": 6109,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6071,
-      "estimated_minutes": 21248,
-      "estimated_hours": 354.1,
+      "total_scrobbles": 6109,
+      "estimated_minutes": 21382,
+      "estimated_hours": 356.4,
       "estimated_days": 14.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 183,
-        "estimated_minutes": 640,
-        "estimated_hours": 10.7,
+        "total_scrobbles": 192,
+        "estimated_minutes": 672,
+        "estimated_hours": 11.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 484,
-        "estimated_minutes": 1694,
-        "estimated_hours": 28.2,
+        "total_scrobbles": 454,
+        "estimated_minutes": 1589,
+        "estimated_hours": 26.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4711,
-        "estimated_minutes": 16488,
-        "estimated_hours": 274.8,
+        "total_scrobbles": 4741,
+        "estimated_minutes": 16594,
+        "estimated_hours": 276.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 146,
-      "total_plays_this_week": 167
+      "total_tracks_this_week": 158,
+      "total_plays_this_week": 185
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 251,
+          "playcount": 252,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,19 +59,19 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 145,
+          "playcount": 147,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Bad Bunny",
-          "playcount": 141,
+          "playcount": 143,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 4
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 141,
+          "playcount": 142,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 106,
+          "playcount": 107,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 84,
+          "playcount": 85,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -119,7 +119,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 30,
+          "playcount": 31,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
@@ -147,28 +147,28 @@
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 6
         },
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 7
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
-          "playcount": 23,
+          "playcount": 24,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 8
         },
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 22,
+          "playcount": 23,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 9
         },
@@ -184,36 +184,36 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 8,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 1
         },
         {
-          "name": "Gemstone",
-          "artist": "Don Toliver",
+          "name": "Beat A B!tch Up",
+          "artist": "Alemeda",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Don+Toliver/_/Gemstone",
+          "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
           "rank": 2
-        },
-        {
-          "name": "MOVE YOUR BODY",
-          "artist": "The Kid LAROI",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Kid+LAROI/_/MOVE+YOUR+BODY",
-          "rank": 3
-        },
-        {
-          "name": "Monsters (feat. Demi Lovato and blackbear)",
-          "artist": "All Time Low",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/All+Time+Low/_/Monsters+(feat.+Demi+Lovato+and+blackbear)",
-          "rank": 4
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
-          "playcount": 2,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 3
+        },
+        {
+          "name": "Swim",
+          "artist": "Chase Atlantic",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Chase+Atlantic/_/Swim",
+          "rank": 4
+        },
+        {
+          "name": "Body",
+          "artist": "Don Toliver",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Don+Toliver/_/Body",
           "rank": 5
         }
       ]
@@ -223,14 +223,14 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 130,
+          "playcount": 132,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 87,
+          "playcount": 88,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -249,14 +249,14 @@
           "rank": 4
         },
         {
-          "name": "DIVE",
-          "artist": "Almost Monday",
-          "playcount": 58,
-          "url": "https://www.last.fm/music/Almost+Monday/DIVE",
+          "name": "Octane",
+          "artist": "Don Toliver",
+          "playcount": 59,
+          "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-05-16T13:37:28.592365"
+    "fetched_at": "2026-05-17T03:42:22.132102"
   }
 }
