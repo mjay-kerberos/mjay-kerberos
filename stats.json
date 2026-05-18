@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-17T13:26:17.420381Z",
+  "collected_at": "2026-05-18T03:57:00.772392Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6112,
+      "total_scrobbles": 6154,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6112,
-      "estimated_minutes": 21392,
-      "estimated_hours": 356.5,
-      "estimated_days": 14.9,
+      "total_scrobbles": 6154,
+      "estimated_minutes": 21539,
+      "estimated_hours": 359.0,
+      "estimated_days": 15.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 195,
-        "estimated_minutes": 682,
-        "estimated_hours": 11.4,
+        "total_scrobbles": 208,
+        "estimated_minutes": 728,
+        "estimated_hours": 12.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 456,
-        "estimated_minutes": 1596,
-        "estimated_hours": 26.6,
+        "total_scrobbles": 489,
+        "estimated_minutes": 1712,
+        "estimated_hours": 28.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4744,
-        "estimated_minutes": 16604,
-        "estimated_hours": 276.7,
+        "total_scrobbles": 4770,
+        "estimated_minutes": 16695,
+        "estimated_hours": 278.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 158,
-      "total_plays_this_week": 185
+      "total_tracks_this_week": 152,
+      "total_plays_this_week": 193
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 252,
+          "playcount": 257,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,7 +59,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 147,
+          "playcount": 148,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 107,
+          "playcount": 108,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -126,7 +126,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 3
         },
@@ -189,17 +189,17 @@
           "rank": 1
         },
         {
+          "name": "Richman",
+          "artist": "3OH!3",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/3OH!3/_/Richman",
+          "rank": 2
+        },
+        {
           "name": "Beat A B!tch Up",
           "artist": "Alemeda",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
-          "rank": 2
-        },
-        {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 3
         },
         {
@@ -230,14 +230,14 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 88,
+          "playcount": 89,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 75,
+          "playcount": 78,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-17T13:26:21.731061"
+    "fetched_at": "2026-05-18T03:57:04.468207"
   }
 }
