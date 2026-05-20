@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-05-20T03:51:41.146416Z",
+  "collected_at": "2026-05-20T15:28:13.444437Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6190,
+      "total_scrobbles": 6197,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6190,
-      "estimated_minutes": 21665,
-      "estimated_hours": 361.1,
-      "estimated_days": 15.0,
+      "total_scrobbles": 6197,
+      "estimated_minutes": 21690,
+      "estimated_hours": 361.5,
+      "estimated_days": 15.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 205,
-        "estimated_minutes": 718,
-        "estimated_hours": 12.0,
+        "total_scrobbles": 212,
+        "estimated_minutes": 742,
+        "estimated_hours": 12.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 504,
-        "estimated_minutes": 1764,
-        "estimated_hours": 29.4,
+        "total_scrobbles": 511,
+        "estimated_minutes": 1788,
+        "estimated_hours": 29.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4798,
-        "estimated_minutes": 16793,
-        "estimated_hours": 279.9,
+        "total_scrobbles": 4805,
+        "estimated_minutes": 16818,
+        "estimated_hours": 280.3,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -173,10 +173,10 @@
           "rank": 9
         },
         {
-          "name": "ANYTHING BUT LOVE",
-          "artist": "Tate McRae",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
           "playcount": 22,
-          "url": "https://www.last.fm/music/Tate+McRae/_/ANYTHING+BUT+LOVE",
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-20T03:51:44.966175"
+    "fetched_at": "2026-05-20T15:28:19.405547"
   }
 }
