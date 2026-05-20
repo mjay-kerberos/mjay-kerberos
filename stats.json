@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-19T15:30:21.999771Z",
+  "collected_at": "2026-05-20T03:51:41.146416Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6184,
+      "total_scrobbles": 6190,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6184,
-      "estimated_minutes": 21644,
-      "estimated_hours": 360.7,
+      "total_scrobbles": 6190,
+      "estimated_minutes": 21665,
+      "estimated_hours": 361.1,
       "estimated_days": 15.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 202,
-        "estimated_minutes": 707,
-        "estimated_hours": 11.8,
+        "total_scrobbles": 205,
+        "estimated_minutes": 718,
+        "estimated_hours": 12.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 498,
-        "estimated_minutes": 1743,
-        "estimated_hours": 29.1,
+        "total_scrobbles": 504,
+        "estimated_minutes": 1764,
+        "estimated_hours": 29.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4794,
-        "estimated_minutes": 16779,
-        "estimated_hours": 279.6,
+        "total_scrobbles": 4798,
+        "estimated_minutes": 16793,
+        "estimated_hours": 279.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
       "total_tracks_this_week": 167,
-      "total_plays_this_week": 208
+      "total_plays_this_week": 206
     },
     "top_artists": {
       "overall": [
@@ -191,7 +191,7 @@
         {
           "name": "NOBLE",
           "artist": "F3miii",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-19T15:30:25.649600"
+    "fetched_at": "2026-05-20T03:51:44.966175"
   }
 }
