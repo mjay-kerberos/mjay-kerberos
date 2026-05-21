@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-20T15:28:13.444437Z",
+  "collected_at": "2026-05-21T04:00:29.238966Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6197,
+      "total_scrobbles": 6235,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6197,
-      "estimated_minutes": 21690,
-      "estimated_hours": 361.5,
-      "estimated_days": 15.1,
+      "total_scrobbles": 6235,
+      "estimated_minutes": 21822,
+      "estimated_hours": 363.7,
+      "estimated_days": 15.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 212,
-        "estimated_minutes": 742,
-        "estimated_hours": 12.4,
+        "total_scrobbles": 232,
+        "estimated_minutes": 812,
+        "estimated_hours": 13.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 511,
-        "estimated_minutes": 1788,
-        "estimated_hours": 29.8,
+        "total_scrobbles": 528,
+        "estimated_minutes": 1848,
+        "estimated_hours": 30.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4805,
-        "estimated_minutes": 16818,
-        "estimated_hours": 280.3,
+        "total_scrobbles": 4836,
+        "estimated_minutes": 16926,
+        "estimated_hours": 282.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 167,
-      "total_plays_this_week": 206
+      "total_tracks_this_week": 174,
+      "total_plays_this_week": 213
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 258,
+          "playcount": 259,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,7 +59,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 149,
+          "playcount": 151,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
@@ -89,13 +89,13 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 110,
+          "playcount": 112,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
         {
           "name": "Paramore",
-          "playcount": 100,
+          "playcount": 101,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 38,
+          "playcount": 39,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -159,40 +159,40 @@
           "rank": 7
         },
         {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 24,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 8
+        },
+        {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 24,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 8
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 9
         },
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
-          "playcount": 22,
+          "playcount": 23,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "name": "NOBLE",
+          "artist": "F3miii",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 1
         },
         {
-          "name": "NOBLE",
-          "artist": "F3miii",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 2
         },
         {
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 90,
+          "playcount": 92,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -251,12 +251,12 @@
         {
           "name": "Octane",
           "artist": "Don Toliver",
-          "playcount": 59,
+          "playcount": 62,
           "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-05-20T15:28:19.405547"
+    "fetched_at": "2026-05-21T04:00:33.520039"
   }
 }
