@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-21T15:34:12.595317Z",
+  "collected_at": "2026-05-22T03:56:03.323368Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6235,
+      "total_scrobbles": 6281,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6235,
-      "estimated_minutes": 21822,
-      "estimated_hours": 363.7,
-      "estimated_days": 15.2,
+      "total_scrobbles": 6281,
+      "estimated_minutes": 21984,
+      "estimated_hours": 366.4,
+      "estimated_days": 15.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 232,
-        "estimated_minutes": 812,
-        "estimated_hours": 13.5,
+        "total_scrobbles": 243,
+        "estimated_minutes": 850,
+        "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 528,
-        "estimated_minutes": 1848,
-        "estimated_hours": 30.8,
+        "total_scrobbles": 574,
+        "estimated_minutes": 2009,
+        "estimated_hours": 33.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4836,
-        "estimated_minutes": 16926,
-        "estimated_hours": 282.1,
+        "total_scrobbles": 4863,
+        "estimated_minutes": 17020,
+        "estimated_hours": 283.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 174,
-      "total_plays_this_week": 213
+      "total_tracks_this_week": 184,
+      "total_plays_this_week": 233
     },
     "top_artists": {
       "overall": [
@@ -53,7 +53,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 170,
+          "playcount": 171,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 2
         },
@@ -64,20 +64,20 @@
           "rank": 3
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 143,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Malcolm Todd",
+          "playcount": 144,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 4
         },
         {
-          "name": "Malcolm Todd",
+          "name": "Bad Bunny",
           "playcount": 143,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 128,
+          "playcount": 133,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 112,
+          "playcount": 113,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -133,7 +133,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 4
         },
@@ -184,36 +184,36 @@
         {
           "name": "NOBLE",
           "artist": "F3miii",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 1
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 2
         },
         {
           "name": "Richman",
           "artist": "3OH!3",
           "playcount": 3,
           "url": "https://www.last.fm/music/3OH!3/_/Richman",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Beat A B!tch Up",
           "artist": "Alemeda",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
+          "rank": 3
+        },
+        {
+          "name": "My Favorite Girl Loves Reading",
+          "artist": "Foxtide",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
           "rank": 4
         },
         {
-          "name": "Body",
-          "artist": "Don Toliver",
+          "name": "Pilot Wings",
+          "artist": "Foxtide",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Don+Toliver/_/Body",
+          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 92,
+          "playcount": 93,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -244,7 +244,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 71,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-21T15:34:17.607069"
+    "fetched_at": "2026-05-22T03:56:07.222441"
   }
 }
