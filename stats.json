@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-22T14:44:19.860723Z",
+  "collected_at": "2026-05-23T03:32:20.094531Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6281,
+      "total_scrobbles": 6286,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6281,
-      "estimated_minutes": 21984,
-      "estimated_hours": 366.4,
+      "total_scrobbles": 6286,
+      "estimated_minutes": 22001,
+      "estimated_hours": 366.7,
       "estimated_days": 15.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 243,
-        "estimated_minutes": 850,
-        "estimated_hours": 14.2,
+        "total_scrobbles": 213,
+        "estimated_minutes": 746,
+        "estimated_hours": 12.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 574,
-        "estimated_minutes": 2009,
-        "estimated_hours": 33.5,
+        "total_scrobbles": 578,
+        "estimated_minutes": 2023,
+        "estimated_hours": 33.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4863,
-        "estimated_minutes": 17020,
-        "estimated_hours": 283.7,
+        "total_scrobbles": 4868,
+        "estimated_minutes": 17038,
+        "estimated_hours": 284.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 184,
-      "total_plays_this_week": 233
+      "total_tracks_this_week": 190,
+      "total_plays_this_week": 244
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 144,
+          "playcount": 145,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 4
         },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 133,
+          "playcount": 134,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -124,17 +124,17 @@
           "rank": 2
         },
         {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 3
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 28,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 3
-        },
-        {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 28,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 4
         },
         {
@@ -184,7 +184,7 @@
         {
           "name": "NOBLE",
           "artist": "F3miii",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 1
         },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 4
+        },
+        {
           "name": "My Favorite Girl Loves Reading",
           "artist": "Foxtide",
           "playcount": 3,
           "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
-          "rank": 4
-        },
-        {
-          "name": "Pilot Wings",
-          "artist": "Foxtide",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-22T14:44:23.908786"
+    "fetched_at": "2026-05-23T03:32:23.672293"
   }
 }
