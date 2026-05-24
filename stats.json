@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-23T13:41:34.118396Z",
+  "collected_at": "2026-05-24T03:53:49.625054Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6286,
+      "total_scrobbles": 6330,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6286,
-      "estimated_minutes": 22001,
-      "estimated_hours": 366.7,
-      "estimated_days": 15.3,
+      "total_scrobbles": 6330,
+      "estimated_minutes": 22155,
+      "estimated_hours": 369.2,
+      "estimated_days": 15.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 213,
-        "estimated_minutes": 746,
-        "estimated_hours": 12.4,
+        "total_scrobbles": 220,
+        "estimated_minutes": 770,
+        "estimated_hours": 12.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 578,
-        "estimated_minutes": 2023,
-        "estimated_hours": 33.7,
+        "total_scrobbles": 621,
+        "estimated_minutes": 2174,
+        "estimated_hours": 36.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4868,
-        "estimated_minutes": 17038,
-        "estimated_hours": 284.0,
+        "total_scrobbles": 4884,
+        "estimated_minutes": 17094,
+        "estimated_hours": 284.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 190,
-      "total_plays_this_week": 244
+      "total_tracks_this_week": 168,
+      "total_plays_this_week": 215
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 259,
+          "playcount": 260,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 134,
+          "playcount": 135,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "Richman",
-          "artist": "3OH!3",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/3OH!3/_/Richman",
-          "rank": 2
-        },
-        {
-          "name": "Beat A B!tch Up",
-          "artist": "Alemeda",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
-          "rank": 3
-        },
-        {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 2
+        },
+        {
+          "name": "Pilot Wings",
+          "artist": "Foxtide",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
+          "rank": 3
+        },
+        {
+          "name": "the prom",
+          "artist": "glaive",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/glaive/_/the+prom",
           "rank": 4
         },
         {
-          "name": "My Favorite Girl Loves Reading",
-          "artist": "Foxtide",
+          "name": "Girls",
+          "artist": "The Kid LAROI",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
+          "url": "https://www.last.fm/music/The+Kid+LAROI/_/Girls",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-23T13:41:38.760420"
+    "fetched_at": "2026-05-24T03:53:53.497712"
   }
 }
