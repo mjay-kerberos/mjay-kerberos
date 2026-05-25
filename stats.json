@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-24T13:41:18.396883Z",
+  "collected_at": "2026-05-25T04:05:34.121705Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6343,
+      "total_scrobbles": 6384,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6343,
-      "estimated_minutes": 22200,
-      "estimated_hours": 370.0,
-      "estimated_days": 15.4,
+      "total_scrobbles": 6384,
+      "estimated_minutes": 22344,
+      "estimated_hours": 372.4,
+      "estimated_days": 15.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 230,
-        "estimated_minutes": 805,
+        "total_scrobbles": 229,
+        "estimated_minutes": 802,
         "estimated_hours": 13.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 634,
-        "estimated_minutes": 2219,
-        "estimated_hours": 37.0,
+        "total_scrobbles": 671,
+        "estimated_minutes": 2348,
+        "estimated_hours": 39.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4893,
-        "estimated_minutes": 17126,
-        "estimated_hours": 285.4,
+        "total_scrobbles": 4912,
+        "estimated_minutes": 17192,
+        "estimated_hours": 286.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 168,
-      "total_plays_this_week": 215
+      "total_tracks_this_week": 186,
+      "total_plays_this_week": 234
     },
     "top_artists": {
       "overall": [
@@ -77,20 +77,20 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 135,
+          "playcount": 136,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
+        },
+        {
+          "name": "The Runarounds",
+          "playcount": 116,
+          "url": "https://www.last.fm/music/The+Runarounds",
+          "rank": 7
         },
         {
           "name": "Almost Monday",
           "playcount": 114,
           "url": "https://www.last.fm/music/Almost+Monday",
-          "rank": 7
-        },
-        {
-          "name": "The Runarounds",
-          "playcount": 113,
-          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
         {
@@ -184,7 +184,7 @@
         {
           "name": "NOBLE",
           "artist": "F3miii",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 1
         },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Boyfriend",
-          "artist": "Justin Bieber",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Justin+Bieber/_/Boyfriend",
-          "rank": 4
-        },
-        {
           "name": "Confident",
           "artist": "Justin Bieber",
           "playcount": 3,
           "url": "https://www.last.fm/music/Justin+Bieber/_/Confident",
+          "rank": 4
+        },
+        {
+          "name": "HOW DOES IT FEEL?",
+          "artist": "The Kid LAROI",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Kid+LAROI/_/HOW+DOES+IT+FEEL%3F",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 93,
+          "playcount": 95,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-24T13:41:23.415864"
+    "fetched_at": "2026-05-25T04:05:38.242098"
   }
 }
