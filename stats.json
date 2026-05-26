@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-05-26T03:51:22.692876Z",
+  "collected_at": "2026-05-26T15:39:15.626053Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6385,
+      "total_scrobbles": 6391,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6385,
-      "estimated_minutes": 22348,
-      "estimated_hours": 372.5,
+      "total_scrobbles": 6391,
+      "estimated_minutes": 22368,
+      "estimated_hours": 372.8,
       "estimated_days": 15.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 201,
-        "estimated_minutes": 704,
-        "estimated_hours": 11.7,
+        "total_scrobbles": 207,
+        "estimated_minutes": 724,
+        "estimated_hours": 12.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 672,
-        "estimated_minutes": 2352,
-        "estimated_hours": 39.2,
+        "total_scrobbles": 678,
+        "estimated_minutes": 2373,
+        "estimated_hours": 39.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4912,
-        "estimated_minutes": 17192,
-        "estimated_hours": 286.5,
+        "total_scrobbles": 4916,
+        "estimated_minutes": 17206,
+        "estimated_hours": 286.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
+          "name": "Pilot Wings",
+          "artist": "Foxtide",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
+          "rank": 1
+        },
+        {
           "name": "the prom",
           "artist": "glaive",
           "playcount": 3,
           "url": "https://www.last.fm/music/glaive/_/the+prom",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "she got a thing about her",
           "artist": "Thomas Day",
           "playcount": 3,
           "url": "https://www.last.fm/music/Thomas+Day/_/she+got+a+thing+about+her",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Beat A B!tch Up",
           "artist": "Alemeda",
           "playcount": 2,
           "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Sugar (feat JoJo)",
           "artist": "All Time Low",
           "playcount": 2,
           "url": "https://www.last.fm/music/All+Time+Low/_/Sugar+(feat+JoJo)",
-          "rank": 4
-        },
-        {
-          "name": "Tell My Mama",
-          "artist": "Christina Grimmie",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Christina+Grimmie/_/Tell+My+Mama",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-26T03:51:26.736188"
+    "fetched_at": "2026-05-26T15:39:19.287826"
   }
 }
