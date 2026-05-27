@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-26T15:39:15.626053Z",
+  "collected_at": "2026-05-27T04:05:04.219050Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6391,
+      "total_scrobbles": 6419,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6391,
-      "estimated_minutes": 22368,
-      "estimated_hours": 372.8,
-      "estimated_days": 15.5,
+      "total_scrobbles": 6419,
+      "estimated_minutes": 22466,
+      "estimated_hours": 374.4,
+      "estimated_days": 15.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 207,
-        "estimated_minutes": 724,
-        "estimated_hours": 12.1,
+        "total_scrobbles": 228,
+        "estimated_minutes": 798,
+        "estimated_hours": 13.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 678,
-        "estimated_minutes": 2373,
-        "estimated_hours": 39.5,
+        "total_scrobbles": 695,
+        "estimated_minutes": 2432,
+        "estimated_hours": 40.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4916,
-        "estimated_minutes": 17206,
-        "estimated_hours": 286.8,
+        "total_scrobbles": 4933,
+        "estimated_minutes": 17266,
+        "estimated_hours": 287.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 191,
-      "total_plays_this_week": 230
+      "total_tracks_this_week": 175,
+      "total_plays_this_week": 208
     },
     "top_artists": {
       "overall": [
@@ -77,13 +77,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 136,
+          "playcount": 137,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
           "name": "The Runarounds",
-          "playcount": 116,
+          "playcount": 118,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
@@ -184,36 +184,36 @@
         {
           "name": "Pilot Wings",
           "artist": "Foxtide",
-          "playcount": 3,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
           "rank": 1
         },
         {
           "name": "the prom",
           "artist": "glaive",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/glaive/_/the+prom",
           "rank": 2
+        },
+        {
+          "name": "Blame Brett",
+          "artist": "The Beaches",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Beaches/_/Blame+Brett",
+          "rank": 3
+        },
+        {
+          "name": "Ghosts (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
+          "rank": 4
         },
         {
           "name": "she got a thing about her",
           "artist": "Thomas Day",
           "playcount": 3,
           "url": "https://www.last.fm/music/Thomas+Day/_/she+got+a+thing+about+her",
-          "rank": 3
-        },
-        {
-          "name": "Beat A B!tch Up",
-          "artist": "Alemeda",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
-          "rank": 4
-        },
-        {
-          "name": "Sugar (feat JoJo)",
-          "artist": "All Time Low",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/All+Time+Low/_/Sugar+(feat+JoJo)",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 95,
+          "playcount": 96,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-26T15:39:19.287826"
+    "fetched_at": "2026-05-27T04:05:08.539051"
   }
 }
