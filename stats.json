@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-05-27T04:05:04.219050Z",
+  "collected_at": "2026-05-27T15:51:50.287840Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6419,
+      "total_scrobbles": 6448,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6419,
-      "estimated_minutes": 22466,
-      "estimated_hours": 374.4,
-      "estimated_days": 15.6,
+      "total_scrobbles": 6448,
+      "estimated_minutes": 22568,
+      "estimated_hours": 376.1,
+      "estimated_days": 15.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 228,
-        "estimated_minutes": 798,
-        "estimated_hours": 13.3,
+        "total_scrobbles": 250,
+        "estimated_minutes": 875,
+        "estimated_hours": 14.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 695,
-        "estimated_minutes": 2432,
-        "estimated_hours": 40.5,
+        "total_scrobbles": 724,
+        "estimated_minutes": 2534,
+        "estimated_hours": 42.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4933,
-        "estimated_minutes": 17266,
-        "estimated_hours": 287.8,
+        "total_scrobbles": 4956,
+        "estimated_minutes": 17346,
+        "estimated_hours": 289.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
       "total_tracks_this_week": 175,
-      "total_plays_this_week": 208
+      "total_plays_this_week": 209
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 261,
+          "playcount": 266,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,20 +59,20 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 151,
+          "playcount": 152,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
+        },
+        {
+          "name": "Bad Bunny",
+          "playcount": 151,
+          "url": "https://www.last.fm/music/Bad+Bunny",
+          "rank": 4
         },
         {
           "name": "Malcolm Todd",
           "playcount": 145,
           "url": "https://www.last.fm/music/Malcolm+Todd",
-          "rank": 4
-        },
-        {
-          "name": "Bad Bunny",
-          "playcount": 143,
-          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
         {
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 85,
+          "playcount": 86,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -112,29 +112,29 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 39,
+          "playcount": 40,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 31,
+          "playcount": 34,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
+        },
+        {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 3
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 29,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 3
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 28,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 4
         },
         {
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Ghosts (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
           "playcount": 3,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 4
         },
         {
-          "name": "she got a thing about her",
-          "artist": "Thomas Day",
+          "name": "Girls",
+          "artist": "The Kid LAROI",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Thomas+Day/_/she+got+a+thing+about+her",
+          "url": "https://www.last.fm/music/The+Kid+LAROI/_/Girls",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 132,
+          "playcount": 140,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -237,7 +237,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 78,
+          "playcount": 80,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-27T04:05:08.539051"
+    "fetched_at": "2026-05-27T15:51:56.585972"
   }
 }
