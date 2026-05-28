@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-27T15:51:50.287840Z",
+  "collected_at": "2026-05-28T03:53:40.176376Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6448,
+      "total_scrobbles": 6524,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6448,
-      "estimated_minutes": 22568,
-      "estimated_hours": 376.1,
-      "estimated_days": 15.7,
+      "total_scrobbles": 6524,
+      "estimated_minutes": 22834,
+      "estimated_hours": 380.6,
+      "estimated_days": 15.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 250,
-        "estimated_minutes": 875,
-        "estimated_hours": 14.6,
+        "total_scrobbles": 288,
+        "estimated_minutes": 1008,
+        "estimated_hours": 16.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 724,
-        "estimated_minutes": 2534,
-        "estimated_hours": 42.2,
+        "total_scrobbles": 799,
+        "estimated_minutes": 2796,
+        "estimated_hours": 46.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 4956,
-        "estimated_minutes": 17346,
-        "estimated_hours": 289.1,
+        "total_scrobbles": 5008,
+        "estimated_minutes": 17528,
+        "estimated_hours": 292.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 175,
-      "total_plays_this_week": 209
+      "total_tracks_this_week": 182,
+      "total_plays_this_week": 228
     },
     "top_artists": {
       "overall": [
@@ -58,26 +58,26 @@
           "rank": 2
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 152,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Bad Bunny",
+          "playcount": 154,
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 151,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Fall Out Boy",
+          "playcount": 152,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 145,
+          "playcount": 150,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 137,
+          "playcount": 141,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -112,108 +112,108 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 40,
+          "playcount": 42,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 31,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 3
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 29,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 3
+          "rank": 4
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
+          "name": "E85",
+          "artist": "Don Toliver",
           "playcount": 29,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 4
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 5
         },
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 25,
+          "playcount": 26,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 5
+          "rank": 6
+        },
+        {
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 25,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 7
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 25,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 6
-        },
-        {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 24,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 7
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 24,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 8
+        },
+        {
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 24,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 9
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 24,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 9
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 23,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Pilot Wings",
-          "artist": "Foxtide",
+          "name": "E85",
+          "artist": "Don Toliver",
           "playcount": 5,
-          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 1
-        },
-        {
-          "name": "the prom",
-          "artist": "glaive",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/glaive/_/the+prom",
-          "rank": 2
-        },
-        {
-          "name": "Blame Brett",
-          "artist": "The Beaches",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/The+Beaches/_/Blame+Brett",
-          "rank": 3
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "rank": 2
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 3
+        },
+        {
+          "name": "NOBLE",
+          "artist": "F3miii",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 4
         },
         {
-          "name": "Girls",
-          "artist": "The Kid LAROI",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/The+Kid+LAROI/_/Girls",
+          "name": "Pilot Wings",
+          "artist": "Foxtide",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 140,
+          "playcount": 143,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -244,19 +244,19 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 72,
+          "playcount": 77,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
         {
           "name": "Octane",
           "artist": "Don Toliver",
-          "playcount": 62,
+          "playcount": 67,
           "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-05-27T15:51:56.585972"
+    "fetched_at": "2026-05-28T03:53:44.756757"
   }
 }
