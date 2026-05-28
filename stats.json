@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-05-28T03:53:40.176376Z",
+  "collected_at": "2026-05-28T16:04:35.613481Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6524,
+      "total_scrobbles": 6531,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6524,
-      "estimated_minutes": 22834,
-      "estimated_hours": 380.6,
+      "total_scrobbles": 6531,
+      "estimated_minutes": 22858,
+      "estimated_hours": 381.0,
       "estimated_days": 15.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 288,
-        "estimated_minutes": 1008,
-        "estimated_hours": 16.8,
+        "total_scrobbles": 295,
+        "estimated_minutes": 1032,
+        "estimated_hours": 17.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 799,
-        "estimated_minutes": 2796,
-        "estimated_hours": 46.6,
+        "total_scrobbles": 806,
+        "estimated_minutes": 2821,
+        "estimated_hours": 47.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5008,
-        "estimated_minutes": 17528,
-        "estimated_hours": 292.1,
+        "total_scrobbles": 5013,
+        "estimated_minutes": 17546,
+        "estimated_hours": 292.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 141,
+          "playcount": 142,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -126,7 +126,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 31,
+          "playcount": 32,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 3
         },
@@ -182,31 +182,31 @@
       ],
       "week": [
         {
+          "name": "NOBLE",
+          "artist": "F3miii",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
+          "rank": 1
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 2
+        },
+        {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 5,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 1
+          "rank": 3
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 2
-        },
-        {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 3
-        },
-        {
-          "name": "NOBLE",
-          "artist": "F3miii",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 4
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-28T03:53:44.756757"
+    "fetched_at": "2026-05-28T16:04:40.495301"
   }
 }
