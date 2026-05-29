@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-28T16:04:35.613481Z",
+  "collected_at": "2026-05-29T03:55:14.326767Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6531,
+      "total_scrobbles": 6536,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6531,
-      "estimated_minutes": 22858,
-      "estimated_hours": 381.0,
+      "total_scrobbles": 6536,
+      "estimated_minutes": 22876,
+      "estimated_hours": 381.3,
       "estimated_days": 15.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 295,
-        "estimated_minutes": 1032,
-        "estimated_hours": 17.2,
+        "total_scrobbles": 254,
+        "estimated_minutes": 889,
+        "estimated_hours": 14.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 806,
-        "estimated_minutes": 2821,
-        "estimated_hours": 47.0,
+        "total_scrobbles": 795,
+        "estimated_minutes": 2782,
+        "estimated_hours": 46.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5013,
-        "estimated_minutes": 17546,
-        "estimated_hours": 292.4,
+        "total_scrobbles": 5017,
+        "estimated_minutes": 17560,
+        "estimated_hours": 292.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 182,
-      "total_plays_this_week": 228
+      "total_tracks_this_week": 226,
+      "total_plays_this_week": 296
     },
     "top_artists": {
       "overall": [
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 142,
+          "playcount": 143,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 2
-        },
-        {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 5,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "rank": 3
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 4
         },
         {
-          "name": "Pilot Wings",
-          "artist": "Foxtide",
+          "name": "Blame Brett",
+          "artist": "The Beaches",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
+          "url": "https://www.last.fm/music/The+Beaches/_/Blame+Brett",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-28T16:04:40.495301"
+    "fetched_at": "2026-05-29T03:55:19.409627"
   }
 }
