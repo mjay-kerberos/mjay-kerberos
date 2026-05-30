@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-05-30T03:40:04.225132Z",
+  "collected_at": "2026-05-30T13:44:29.243223Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6553,
+      "total_scrobbles": 6577,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6553,
-      "estimated_minutes": 22936,
-      "estimated_hours": 382.3,
-      "estimated_days": 15.9,
+      "total_scrobbles": 6577,
+      "estimated_minutes": 23020,
+      "estimated_hours": 383.7,
+      "estimated_days": 16.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 265,
-        "estimated_minutes": 928,
-        "estimated_hours": 15.5,
+        "total_scrobbles": 289,
+        "estimated_minutes": 1012,
+        "estimated_hours": 16.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 812,
-        "estimated_minutes": 2842,
-        "estimated_hours": 47.4,
+        "total_scrobbles": 836,
+        "estimated_minutes": 2926,
+        "estimated_hours": 48.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5026,
-        "estimated_minutes": 17591,
-        "estimated_hours": 293.2,
+        "total_scrobbles": 5039,
+        "estimated_minutes": 17636,
+        "estimated_hours": 293.9,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -89,7 +89,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 114,
+          "playcount": 117,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-30T03:40:09.098451"
+    "fetched_at": "2026-05-30T13:44:33.325814"
   }
 }
