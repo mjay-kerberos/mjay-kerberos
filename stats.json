@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-29T15:42:18.726902Z",
+  "collected_at": "2026-05-30T03:40:04.225132Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6536,
+      "total_scrobbles": 6553,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6536,
-      "estimated_minutes": 22876,
-      "estimated_hours": 381.3,
+      "total_scrobbles": 6553,
+      "estimated_minutes": 22936,
+      "estimated_hours": 382.3,
       "estimated_days": 15.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 254,
-        "estimated_minutes": 889,
-        "estimated_hours": 14.8,
+        "total_scrobbles": 265,
+        "estimated_minutes": 928,
+        "estimated_hours": 15.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 795,
-        "estimated_minutes": 2782,
-        "estimated_hours": 46.4,
+        "total_scrobbles": 812,
+        "estimated_minutes": 2842,
+        "estimated_hours": 47.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5017,
-        "estimated_minutes": 17560,
-        "estimated_hours": 292.7,
+        "total_scrobbles": 5026,
+        "estimated_minutes": 17591,
+        "estimated_hours": 293.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 226,
-      "total_plays_this_week": 296
+      "total_tracks_this_week": 201,
+      "total_plays_this_week": 256
     },
     "top_artists": {
       "overall": [
@@ -147,7 +147,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 26,
+          "playcount": 27,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 6
         },
@@ -173,10 +173,10 @@
           "rank": 9
         },
         {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
           "playcount": 24,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
@@ -203,10 +203,10 @@
           "rank": 3
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 4
         },
         {
@@ -251,12 +251,12 @@
         {
           "name": "Octane",
           "artist": "Don Toliver",
-          "playcount": 67,
+          "playcount": 68,
           "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-05-29T15:42:23.309018"
+    "fetched_at": "2026-05-30T03:40:09.098451"
   }
 }
