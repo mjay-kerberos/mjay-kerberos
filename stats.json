@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-05-31T04:06:48.608810Z",
+  "collected_at": "2026-05-31T13:49:29.544072Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6621,
+      "total_scrobbles": 6626,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6621,
-      "estimated_minutes": 23174,
-      "estimated_hours": 386.2,
+      "total_scrobbles": 6626,
+      "estimated_minutes": 23191,
+      "estimated_hours": 386.5,
       "estimated_days": 16.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 290,
-        "estimated_minutes": 1015,
-        "estimated_hours": 16.9,
+        "total_scrobbles": 282,
+        "estimated_minutes": 987,
+        "estimated_hours": 16.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 880,
-        "estimated_minutes": 3080,
-        "estimated_hours": 51.3,
+        "total_scrobbles": 885,
+        "estimated_minutes": 3098,
+        "estimated_hours": 51.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5065,
-        "estimated_minutes": 17728,
-        "estimated_hours": 295.5,
+        "total_scrobbles": 5068,
+        "estimated_minutes": 17738,
+        "estimated_hours": 295.6,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -71,7 +71,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 152,
+          "playcount": 153,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
@@ -131,17 +131,17 @@
           "rank": 3
         },
         {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 30,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 4
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 29,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 4
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 5
         },
         {
@@ -182,23 +182,23 @@
       ],
       "week": [
         {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 1
+        },
+        {
           "name": "NOBLE",
           "artist": "F3miii",
           "playcount": 6,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
-          "rank": 1
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 2
         },
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 5,
+          "playcount": 6,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 3
         },
@@ -244,19 +244,19 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 79,
+          "playcount": 80,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
         {
           "name": "Octane",
           "artist": "Don Toliver",
-          "playcount": 68,
+          "playcount": 69,
           "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-05-31T04:06:52.543829"
+    "fetched_at": "2026-05-31T13:49:33.452680"
   }
 }
