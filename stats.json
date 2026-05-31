@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-30T13:44:29.243223Z",
+  "collected_at": "2026-05-31T04:06:48.608810Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6577,
+      "total_scrobbles": 6621,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6577,
-      "estimated_minutes": 23020,
-      "estimated_hours": 383.7,
-      "estimated_days": 16.0,
+      "total_scrobbles": 6621,
+      "estimated_minutes": 23174,
+      "estimated_hours": 386.2,
+      "estimated_days": 16.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 289,
-        "estimated_minutes": 1012,
+        "total_scrobbles": 290,
+        "estimated_minutes": 1015,
         "estimated_hours": 16.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 836,
-        "estimated_minutes": 2926,
-        "estimated_hours": 48.8,
+        "total_scrobbles": 880,
+        "estimated_minutes": 3080,
+        "estimated_hours": 51.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5039,
-        "estimated_minutes": 17636,
-        "estimated_hours": 293.9,
+        "total_scrobbles": 5065,
+        "estimated_minutes": 17728,
+        "estimated_hours": 295.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 201,
-      "total_plays_this_week": 256
+      "total_tracks_this_week": 210,
+      "total_plays_this_week": 266
     },
     "top_artists": {
       "overall": [
@@ -65,32 +65,32 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 152,
+          "playcount": 153,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 150,
+          "playcount": 152,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 143,
+          "playcount": 145,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
+        },
+        {
+          "name": "Almost Monday",
+          "playcount": 121,
+          "url": "https://www.last.fm/music/Almost+Monday",
+          "rank": 7
         },
         {
           "name": "The Runarounds",
           "playcount": 118,
           "url": "https://www.last.fm/music/The+Runarounds",
-          "rank": 7
-        },
-        {
-          "name": "Almost Monday",
-          "playcount": 117,
-          "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
         {
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 86,
+          "playcount": 87,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 42,
+          "playcount": 43,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -152,24 +152,24 @@
           "rank": 6
         },
         {
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 7
+        },
+        {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 25,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 25,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 8
-        },
-        {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
-          "playcount": 24,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 9
         },
         {
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "rank": 3
+        },
+        {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 3
-        },
-        {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 4
         },
         {
-          "name": "Blame Brett",
-          "artist": "The Beaches",
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
           "playcount": 4,
-          "url": "https://www.last.fm/music/The+Beaches/_/Blame+Brett",
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 5
         }
       ]
@@ -244,7 +244,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 77,
+          "playcount": 79,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-30T13:44:33.325814"
+    "fetched_at": "2026-05-31T04:06:52.543829"
   }
 }
