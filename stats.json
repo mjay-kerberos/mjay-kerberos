@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-05-31T13:49:29.544072Z",
+  "collected_at": "2026-06-01T04:21:06.488971Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6626,
+      "total_scrobbles": 6667,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6626,
-      "estimated_minutes": 23191,
-      "estimated_hours": 386.5,
-      "estimated_days": 16.1,
+      "total_scrobbles": 6667,
+      "estimated_minutes": 23334,
+      "estimated_hours": 388.9,
+      "estimated_days": 16.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 282,
-        "estimated_minutes": 987,
+        "total_scrobbles": 281,
+        "estimated_minutes": 984,
         "estimated_hours": 16.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 885,
-        "estimated_minutes": 3098,
-        "estimated_hours": 51.6,
+        "total_scrobbles": 924,
+        "estimated_minutes": 3234,
+        "estimated_hours": 53.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5068,
-        "estimated_minutes": 17738,
-        "estimated_hours": 295.6,
+        "total_scrobbles": 5092,
+        "estimated_minutes": 17822,
+        "estimated_hours": 297.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 210,
-      "total_plays_this_week": 266
+      "total_tracks_this_week": 213,
+      "total_plays_this_week": 279
     },
     "top_artists": {
       "overall": [
@@ -64,15 +64,15 @@
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 153,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Malcolm Todd",
+          "playcount": 154,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 4
         },
         {
-          "name": "Malcolm Todd",
+          "name": "Fall Out Boy",
           "playcount": 153,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
         {
@@ -89,7 +89,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 118,
+          "playcount": 121,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
@@ -154,14 +154,14 @@
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 26,
+          "playcount": 27,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 7
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
-          "playcount": 25,
+          "playcount": 26,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 8
         },
@@ -175,45 +175,45 @@
         {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
-          "playcount": 24,
+          "playcount": 25,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
       "week": [
         {
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "rank": 1
+        },
+        {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 6,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "NOBLE",
           "artist": "F3miii",
           "playcount": 6,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
-          "rank": 2
+          "rank": 3
         },
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
-          "rank": 3
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 4
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 4,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 4
-        },
-        {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 5
         }
       ]
@@ -230,22 +230,22 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 96,
+          "playcount": 99,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
+        },
+        {
+          "name": "Sweet Boy",
+          "artist": "Malcolm Todd",
+          "playcount": 81,
+          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
+          "rank": 3
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
           "playcount": 80,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
-          "rank": 3
-        },
-        {
-          "name": "Sweet Boy",
-          "artist": "Malcolm Todd",
-          "playcount": 80,
-          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-05-31T13:49:33.452680"
+    "fetched_at": "2026-06-01T04:21:10.940858"
   }
 }
