@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-01T04:21:06.488971Z",
+  "collected_at": "2026-06-01T17:45:56.819938Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6667,
+      "total_scrobbles": 6674,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6667,
-      "estimated_minutes": 23334,
-      "estimated_hours": 388.9,
+      "total_scrobbles": 6674,
+      "estimated_minutes": 23359,
+      "estimated_hours": 389.3,
       "estimated_days": 16.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 281,
-        "estimated_minutes": 984,
-        "estimated_hours": 16.4,
+        "total_scrobbles": 288,
+        "estimated_minutes": 1008,
+        "estimated_hours": 16.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 924,
-        "estimated_minutes": 3234,
-        "estimated_hours": 53.9,
+        "total_scrobbles": 931,
+        "estimated_minutes": 3258,
+        "estimated_hours": 54.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5092,
-        "estimated_minutes": 17822,
-        "estimated_hours": 297.0,
+        "total_scrobbles": 5096,
+        "estimated_minutes": 17836,
+        "estimated_hours": 297.3,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -184,7 +184,7 @@
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-01T04:21:10.940858"
+    "fetched_at": "2026-06-01T17:46:01.548984"
   }
 }
