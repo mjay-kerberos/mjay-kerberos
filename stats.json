@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-03T04:23:54.843462Z",
+  "collected_at": "2026-06-03T16:54:15.320821Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6686,
+      "total_scrobbles": 6711,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6686,
-      "estimated_minutes": 23401,
-      "estimated_hours": 390.0,
+      "total_scrobbles": 6711,
+      "estimated_minutes": 23488,
+      "estimated_hours": 391.5,
       "estimated_days": 16.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 265,
-        "estimated_minutes": 928,
-        "estimated_hours": 15.5,
+        "total_scrobbles": 259,
+        "estimated_minutes": 906,
+        "estimated_hours": 15.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 904,
-        "estimated_minutes": 3164,
-        "estimated_hours": 52.7,
+        "total_scrobbles": 924,
+        "estimated_minutes": 3234,
+        "estimated_hours": 53.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5105,
-        "estimated_minutes": 17868,
-        "estimated_hours": 297.8,
+        "total_scrobbles": 5122,
+        "estimated_minutes": 17927,
+        "estimated_hours": 298.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 267,
+          "playcount": 271,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -64,15 +64,15 @@
           "rank": 3
         },
         {
-          "name": "Malcolm Todd",
+          "name": "Fall Out Boy",
           "playcount": 154,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 153,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Malcolm Todd",
+          "playcount": 154,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
         {
@@ -83,7 +83,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 121,
+          "playcount": 122,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 87,
+          "playcount": 88,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -131,17 +131,17 @@
           "rank": 3
         },
         {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 31,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 4
+        },
+        {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 31,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 4
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 30,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         },
         {
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "WELTiTA",
-          "artist": "Bad Bunny",
+          "name": "White Keys",
+          "artist": "Dominic Fike",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 5
         }
       ]
@@ -237,7 +237,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 81,
+          "playcount": 83,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-03T04:24:00.774875"
+    "fetched_at": "2026-06-03T16:54:20.461652"
   }
 }
