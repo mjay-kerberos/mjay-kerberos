@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-02T16:37:47.077747Z",
+  "collected_at": "2026-06-03T04:23:54.843462Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6683,
+      "total_scrobbles": 6686,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6683,
-      "estimated_minutes": 23390,
-      "estimated_hours": 389.8,
-      "estimated_days": 16.2,
+      "total_scrobbles": 6686,
+      "estimated_minutes": 23401,
+      "estimated_hours": 390.0,
+      "estimated_days": 16.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 290,
-        "estimated_minutes": 1015,
-        "estimated_hours": 16.9,
+        "total_scrobbles": 265,
+        "estimated_minutes": 928,
+        "estimated_hours": 15.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 939,
-        "estimated_minutes": 3286,
-        "estimated_hours": 54.8,
+        "total_scrobbles": 904,
+        "estimated_minutes": 3164,
+        "estimated_hours": 52.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5103,
-        "estimated_minutes": 17860,
-        "estimated_hours": 297.7,
+        "total_scrobbles": 5105,
+        "estimated_minutes": 17868,
+        "estimated_hours": 297.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 214,
-      "total_plays_this_week": 289
+      "total_tracks_this_week": 213,
+      "total_plays_this_week": 291
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 266,
+          "playcount": 267,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -133,14 +133,14 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 30,
+          "playcount": 31,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 4
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 29,
+          "playcount": 30,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         },
@@ -189,17 +189,17 @@
           "rank": 1
         },
         {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 2
+        },
+        {
           "name": "NOBLE",
           "artist": "F3miii",
           "playcount": 7,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
-          "rank": 2
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 3
         },
         {
@@ -235,28 +235,28 @@
           "rank": 2
         },
         {
+          "name": "5SOS5",
+          "artist": "5 Seconds of Summer",
+          "playcount": 81,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
+          "rank": 3
+        },
+        {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
           "playcount": 81,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
-          "rank": 3
-        },
-        {
-          "name": "5SOS5",
-          "artist": "5 Seconds of Summer",
-          "playcount": 80,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
         {
           "name": "Octane",
           "artist": "Don Toliver",
-          "playcount": 69,
+          "playcount": 70,
           "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-06-02T16:37:52.631166"
+    "fetched_at": "2026-06-03T04:24:00.774875"
   }
 }
