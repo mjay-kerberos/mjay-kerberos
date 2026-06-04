@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-06-03T16:54:15.320821Z",
+  "collected_at": "2026-06-04T04:18:40.265746Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6711,
+      "total_scrobbles": 6744,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6711,
-      "estimated_minutes": 23488,
-      "estimated_hours": 391.5,
-      "estimated_days": 16.3,
+      "total_scrobbles": 6744,
+      "estimated_minutes": 23604,
+      "estimated_hours": 393.4,
+      "estimated_days": 16.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 259,
-        "estimated_minutes": 906,
-        "estimated_hours": 15.1,
+        "total_scrobbles": 217,
+        "estimated_minutes": 760,
+        "estimated_hours": 12.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 924,
-        "estimated_minutes": 3234,
-        "estimated_hours": 53.9,
+        "total_scrobbles": 956,
+        "estimated_minutes": 3346,
+        "estimated_hours": 55.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5122,
-        "estimated_minutes": 17927,
-        "estimated_hours": 298.8,
+        "total_scrobbles": 5149,
+        "estimated_minutes": 18022,
+        "estimated_hours": 300.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 213,
-      "total_plays_this_week": 291
+      "total_tracks_this_week": 193,
+      "total_plays_this_week": 268
     },
     "top_artists": {
       "overall": [
@@ -77,20 +77,20 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 146,
+          "playcount": 147,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
-          "name": "Almost Monday",
-          "playcount": 122,
-          "url": "https://www.last.fm/music/Almost+Monday",
+          "name": "The Runarounds",
+          "playcount": 126,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
         {
-          "name": "The Runarounds",
-          "playcount": 121,
-          "url": "https://www.last.fm/music/The+Runarounds",
+          "name": "Almost Monday",
+          "playcount": 123,
+          "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
         {
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 88,
+          "playcount": 89,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -147,36 +147,36 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 27,
+          "playcount": 28,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 6
+        },
+        {
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 27,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 7
         },
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
           "playcount": 27,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
-          "rank": 7
+          "rank": 8
         },
         {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 8
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 27,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 9
         },
         {
           "name": "Doggy (feat. Love Spells and Truly Young)",
           "artist": "Geezer",
           "playcount": 25,
           "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
-          "rank": 9
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 25,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
@@ -184,36 +184,36 @@
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 8,
+          "playcount": 6,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 1
         },
         {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 2
+        },
+        {
+          "name": "Janice STFU",
+          "artist": "Drake",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
+          "rank": 3
         },
         {
           "name": "NOBLE",
           "artist": "F3miii",
-          "playcount": 7,
+          "playcount": 3,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
-          "rank": 3
-        },
-        {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 4
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "name": "wannabe!",
+          "artist": "Kevian Kraemer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 99,
+          "playcount": 103,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-03T16:54:20.461652"
+    "fetched_at": "2026-06-04T04:18:46.075393"
   }
 }
