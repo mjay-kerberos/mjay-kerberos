@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-04T04:18:40.265746Z",
+  "collected_at": "2026-06-04T15:20:54.352747Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6744,
+      "total_scrobbles": 6748,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6744,
-      "estimated_minutes": 23604,
-      "estimated_hours": 393.4,
+      "total_scrobbles": 6748,
+      "estimated_minutes": 23618,
+      "estimated_hours": 393.6,
       "estimated_days": 16.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 217,
-        "estimated_minutes": 760,
-        "estimated_hours": 12.7,
+        "total_scrobbles": 214,
+        "estimated_minutes": 749,
+        "estimated_hours": 12.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 956,
-        "estimated_minutes": 3346,
-        "estimated_hours": 55.8,
+        "total_scrobbles": 960,
+        "estimated_minutes": 3360,
+        "estimated_hours": 56.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5149,
-        "estimated_minutes": 18022,
-        "estimated_hours": 300.4,
+        "total_scrobbles": 5152,
+        "estimated_minutes": 18032,
+        "estimated_hours": 300.5,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -59,7 +59,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 154,
+          "playcount": 155,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 3
         },
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 147,
+          "playcount": 148,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 101,
+          "playcount": 102,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -119,14 +119,14 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 35,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 2
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 33,
+          "playcount": 34,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 3
         },
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "NOBLE",
-          "artist": "F3miii",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
-          "rank": 4
-        },
-        {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 3,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
+          "rank": 4
+        },
+        {
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 143,
+          "playcount": 144,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-04T04:18:46.075393"
+    "fetched_at": "2026-06-04T15:20:58.727113"
   }
 }
