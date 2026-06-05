@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-04T15:20:54.352747Z",
+  "collected_at": "2026-06-05T04:02:12.342765Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6748,
+      "total_scrobbles": 6783,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6748,
-      "estimated_minutes": 23618,
-      "estimated_hours": 393.6,
-      "estimated_days": 16.4,
+      "total_scrobbles": 6783,
+      "estimated_minutes": 23740,
+      "estimated_hours": 395.7,
+      "estimated_days": 16.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 214,
-        "estimated_minutes": 749,
-        "estimated_hours": 12.5,
+        "total_scrobbles": 245,
+        "estimated_minutes": 858,
+        "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 960,
-        "estimated_minutes": 3360,
-        "estimated_hours": 56.0,
+        "total_scrobbles": 995,
+        "estimated_minutes": 3482,
+        "estimated_hours": 58.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5152,
-        "estimated_minutes": 18032,
-        "estimated_hours": 300.5,
+        "total_scrobbles": 5175,
+        "estimated_minutes": 18112,
+        "estimated_hours": 301.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 193,
-      "total_plays_this_week": 268
+      "total_tracks_this_week": 166,
+      "total_plays_this_week": 216
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 271,
+          "playcount": 272,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -58,15 +58,15 @@
           "rank": 2
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 155,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Fall Out Boy",
+          "playcount": 160,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 154,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Bad Bunny",
+          "playcount": 155,
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 4
         },
         {
@@ -77,7 +77,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 148,
+          "playcount": 150,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -95,13 +95,13 @@
         },
         {
           "name": "Paramore",
-          "playcount": 102,
+          "playcount": 107,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 89,
+          "playcount": 90,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 43,
+          "playcount": 44,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
-          "name": "Janice STFU",
-          "artist": "Drake",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
-          "rank": 3
-        },
-        {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 3,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
           "playcount": 3,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 4
+        },
+        {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-04T15:20:58.727113"
+    "fetched_at": "2026-06-05T04:02:18.024015"
   }
 }
