@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-05T14:56:24.240883Z",
+  "collected_at": "2026-06-06T03:44:57.923365Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6783,
+      "total_scrobbles": 6874,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6783,
-      "estimated_minutes": 23740,
-      "estimated_hours": 395.7,
-      "estimated_days": 16.5,
+      "total_scrobbles": 6874,
+      "estimated_minutes": 24059,
+      "estimated_hours": 401.0,
+      "estimated_days": 16.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 245,
-        "estimated_minutes": 858,
-        "estimated_hours": 14.3,
+        "total_scrobbles": 320,
+        "estimated_minutes": 1120,
+        "estimated_hours": 18.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 993,
-        "estimated_minutes": 3476,
-        "estimated_hours": 57.9,
+        "total_scrobbles": 1055,
+        "estimated_minutes": 3692,
+        "estimated_hours": 61.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5175,
-        "estimated_minutes": 18112,
-        "estimated_hours": 301.9,
+        "total_scrobbles": 5197,
+        "estimated_minutes": 18190,
+        "estimated_hours": 303.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 166,
-      "total_plays_this_week": 216
+      "total_tracks_this_week": 195,
+      "total_plays_this_week": 246
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 272,
+          "playcount": 273,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -64,15 +64,15 @@
           "rank": 3
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 155,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Malcolm Todd",
+          "playcount": 156,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 4
         },
         {
-          "name": "Malcolm Todd",
-          "playcount": 154,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "name": "Bad Bunny",
+          "playcount": 155,
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
         {
@@ -89,13 +89,13 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 123,
+          "playcount": 124,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
         {
           "name": "Paramore",
-          "playcount": 107,
+          "playcount": 108,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -138,17 +138,17 @@
           "rank": 4
         },
         {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 31,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 5
+        },
+        {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 31,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 5
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 28,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 6
         },
         {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 1
         },
         {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 2
+        },
+        {
+          "name": "Beat A B!tch Up",
+          "artist": "Alemeda",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
+          "rank": 3
+        },
+        {
+          "name": "Here",
+          "artist": "Alessia Cara",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Alessia+Cara/_/Here",
+          "rank": 4
         },
         {
           "name": "wannabe!",
           "artist": "Kevian Kraemer",
           "playcount": 3,
           "url": "https://www.last.fm/music/Kevian+Kraemer/_/wannabe!",
-          "rank": 3
-        },
-        {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
-          "rank": 4
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         }
       ]
@@ -244,7 +244,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 81,
+          "playcount": 82,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-05T14:56:29.044215"
+    "fetched_at": "2026-06-06T03:45:03.954603"
   }
 }
