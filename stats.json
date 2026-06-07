@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-06-06T13:49:10.334263Z",
+  "collected_at": "2026-06-07T04:12:13.594729Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6874,
+      "total_scrobbles": 6876,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6874,
-      "estimated_minutes": 24059,
-      "estimated_hours": 401.0,
+      "total_scrobbles": 6876,
+      "estimated_minutes": 24066,
+      "estimated_hours": 401.1,
       "estimated_days": 16.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 294,
-        "estimated_minutes": 1029,
-        "estimated_hours": 17.1,
+        "total_scrobbles": 253,
+        "estimated_minutes": 886,
+        "estimated_hours": 14.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1050,
-        "estimated_minutes": 3675,
-        "estimated_hours": 61.2,
+        "total_scrobbles": 1005,
+        "estimated_minutes": 3518,
+        "estimated_hours": 58.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5197,
-        "estimated_minutes": 18190,
+        "total_scrobbles": 5198,
+        "estimated_minutes": 18193,
         "estimated_hours": 303.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 195,
-      "total_plays_this_week": 246
+      "total_tracks_this_week": 268,
+      "total_plays_this_week": 322
     },
     "top_artists": {
       "overall": [
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
-          "rank": 2
-        },
-        {
           "name": "Beat A B!tch Up",
           "artist": "Alemeda",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Here",
           "artist": "Alessia Cara",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alessia+Cara/_/Here",
+          "rank": 3
+        },
+        {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 4
         },
         {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-06T13:49:15.013392"
+    "fetched_at": "2026-06-07T04:12:18.166469"
   }
 }
