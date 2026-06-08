@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-08T04:16:51.102585Z",
+  "collected_at": "2026-06-08T15:57:17.204914Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 244,
-        "estimated_minutes": 854,
-        "estimated_hours": 14.2,
+        "total_scrobbles": 238,
+        "estimated_minutes": 833,
+        "estimated_hours": 13.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1025,
-        "estimated_minutes": 3588,
-        "estimated_hours": 59.8,
+        "total_scrobbles": 1017,
+        "estimated_minutes": 3560,
+        "estimated_hours": 59.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-08T04:16:56.098530"
+    "fetched_at": "2026-06-08T15:57:21.160001"
   }
 }
