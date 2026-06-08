@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-07T13:58:46.504932Z",
+  "collected_at": "2026-06-08T04:16:51.102585Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6876,
+      "total_scrobbles": 6913,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6876,
-      "estimated_minutes": 24066,
-      "estimated_hours": 401.1,
-      "estimated_days": 16.7,
+      "total_scrobbles": 6913,
+      "estimated_minutes": 24196,
+      "estimated_hours": 403.3,
+      "estimated_days": 16.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 249,
-        "estimated_minutes": 872,
-        "estimated_hours": 14.5,
+        "total_scrobbles": 244,
+        "estimated_minutes": 854,
+        "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1005,
-        "estimated_minutes": 3518,
-        "estimated_hours": 58.6,
+        "total_scrobbles": 1025,
+        "estimated_minutes": 3588,
+        "estimated_hours": 59.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5198,
-        "estimated_minutes": 18193,
-        "estimated_hours": 303.2,
+        "total_scrobbles": 5224,
+        "estimated_minutes": 18284,
+        "estimated_hours": 304.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 268,
-      "total_plays_this_week": 322
+      "total_tracks_this_week": 222,
+      "total_plays_this_week": 254
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 273,
+          "playcount": 274,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,13 +59,13 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 160,
+          "playcount": 161,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 156,
+          "playcount": 157,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 4
         },
@@ -82,20 +82,20 @@
           "rank": 6
         },
         {
-          "name": "The Runarounds",
+          "name": "Almost Monday",
           "playcount": 126,
-          "url": "https://www.last.fm/music/The+Runarounds",
+          "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
         {
-          "name": "Almost Monday",
-          "playcount": 124,
-          "url": "https://www.last.fm/music/Almost+Monday",
+          "name": "The Runarounds",
+          "playcount": 126,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 8
         },
         {
           "name": "Paramore",
-          "playcount": 108,
+          "playcount": 109,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -131,17 +131,17 @@
           "rank": 3
         },
         {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 4
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 31,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 4
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 31,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 5
         },
         {
@@ -184,7 +184,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 1
         },
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
-          "name": "Here",
-          "artist": "Alessia Cara",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Alessia+Cara/_/Here",
-          "rank": 3
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 4
-        },
-        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 3
+        },
+        {
+          "name": "KGB",
+          "artist": "AD\u00c9LA",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/AD%C3%89LA/_/KGB",
+          "rank": 4
+        },
+        {
+          "name": "skinny dip",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/skinny+dip",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-07T13:58:51.215410"
+    "fetched_at": "2026-06-08T04:16:56.098530"
   }
 }
