@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-08T15:57:17.204914Z",
+  "collected_at": "2026-06-09T03:47:21.588650Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 6913,
+      "total_scrobbles": 6968,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 6913,
-      "estimated_minutes": 24196,
-      "estimated_hours": 403.3,
-      "estimated_days": 16.8,
+      "total_scrobbles": 6968,
+      "estimated_minutes": 24388,
+      "estimated_hours": 406.5,
+      "estimated_days": 16.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 238,
-        "estimated_minutes": 833,
-        "estimated_hours": 13.9,
+        "total_scrobbles": 284,
+        "estimated_minutes": 994,
+        "estimated_hours": 16.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1017,
-        "estimated_minutes": 3560,
-        "estimated_hours": 59.3,
+        "total_scrobbles": 1051,
+        "estimated_minutes": 3678,
+        "estimated_hours": 61.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5224,
-        "estimated_minutes": 18284,
-        "estimated_hours": 304.7,
+        "total_scrobbles": 5261,
+        "estimated_minutes": 18414,
+        "estimated_hours": 306.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 222,
-      "total_plays_this_week": 254
+      "total_tracks_this_week": 208,
+      "total_plays_this_week": 239
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 274,
+          "playcount": 278,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,13 +59,13 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 161,
+          "playcount": 164,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 157,
+          "playcount": 158,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 4
         },
@@ -83,7 +83,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 126,
+          "playcount": 128,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 109,
+          "playcount": 111,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "name": "skinny dip",
+          "artist": "Almost Monday",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Almost+Monday/_/skinny+dip",
           "rank": 3
         },
         {
-          "name": "KGB",
-          "artist": "AD\u00c9LA",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/AD%C3%89LA/_/KGB",
+          "name": "Bang Bang",
+          "artist": "K'naan",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/K%27naan/_/Bang+Bang",
           "rank": 4
         },
         {
-          "name": "skinny dip",
-          "artist": "Almost Monday",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/skinny+dip",
+          "name": "The Sound",
+          "artist": "The 1975",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+1975/_/The+Sound",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-08T15:57:21.160001"
+    "fetched_at": "2026-06-09T03:47:25.586121"
   }
 }
