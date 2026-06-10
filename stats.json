@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-10T03:59:16.899158Z",
+  "collected_at": "2026-06-10T15:40:43.595206Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7005,
+      "total_scrobbles": 7027,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7005,
-      "estimated_minutes": 24518,
-      "estimated_hours": 408.6,
-      "estimated_days": 17.0,
+      "total_scrobbles": 7027,
+      "estimated_minutes": 24594,
+      "estimated_hours": 409.9,
+      "estimated_days": 17.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 318,
-        "estimated_minutes": 1113,
-        "estimated_hours": 18.6,
+        "total_scrobbles": 315,
+        "estimated_minutes": 1102,
+        "estimated_hours": 18.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1059,
-        "estimated_minutes": 3706,
-        "estimated_hours": 61.8,
+        "total_scrobbles": 1080,
+        "estimated_minutes": 3780,
+        "estimated_hours": 63.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5286,
-        "estimated_minutes": 18501,
-        "estimated_hours": 308.4,
+        "total_scrobbles": 5304,
+        "estimated_minutes": 18564,
+        "estimated_hours": 309.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -53,7 +53,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 176,
+          "playcount": 178,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -71,13 +71,13 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 155,
+          "playcount": 156,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 5
         },
         {
           "name": "Dominic Fike",
-          "playcount": 151,
+          "playcount": 154,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 45,
+          "playcount": 46,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -126,7 +126,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 34,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 3
         },
@@ -138,23 +138,23 @@
           "rank": 4
         },
         {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 5
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 31,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 5
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 31,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 6
         },
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 28,
+          "playcount": 30,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 7
         },
@@ -173,10 +173,10 @@
           "rank": 9
         },
         {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 25,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 26,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 10
         }
       ],
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
-          "name": "skinny dip",
-          "artist": "Almost Monday",
+          "name": "iloveitiloveitiloveit",
+          "artist": "Bella Kay",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Almost+Monday/_/skinny+dip",
+          "url": "https://www.last.fm/music/Bella+Kay/_/iloveitiloveitiloveit",
           "rank": 3
         },
         {
-          "name": "thank you i guess",
-          "artist": "Forrest Nolan",
+          "name": "Babydoll",
+          "artist": "Dominic Fike",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
+          "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
           "rank": 4
         },
         {
-          "name": "Bang Bang",
-          "artist": "K'naan",
+          "name": "White Keys",
+          "artist": "Dominic Fike",
           "playcount": 3,
-          "url": "https://www.last.fm/music/K%27naan/_/Bang+Bang",
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 144,
+          "playcount": 145,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -237,7 +237,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 85,
+          "playcount": 87,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 3
         },
@@ -251,12 +251,12 @@
         {
           "name": "Octane",
           "artist": "Don Toliver",
-          "playcount": 70,
+          "playcount": 71,
           "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-06-10T03:59:20.607889"
+    "fetched_at": "2026-06-10T15:40:51.216834"
   }
 }
