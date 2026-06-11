@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-11T04:13:09.143963Z",
+  "collected_at": "2026-06-11T16:06:59.064895Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7067,
+      "total_scrobbles": 7073,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7067,
-      "estimated_minutes": 24734,
-      "estimated_hours": 412.2,
+      "total_scrobbles": 7073,
+      "estimated_minutes": 24756,
+      "estimated_hours": 412.6,
       "estimated_days": 17.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 321,
-        "estimated_minutes": 1124,
-        "estimated_hours": 18.7,
+        "total_scrobbles": 323,
+        "estimated_minutes": 1130,
+        "estimated_hours": 18.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1089,
-        "estimated_minutes": 3812,
-        "estimated_hours": 63.5,
+        "total_scrobbles": 1091,
+        "estimated_minutes": 3818,
+        "estimated_hours": 63.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5336,
-        "estimated_minutes": 18676,
-        "estimated_hours": 311.3,
+        "total_scrobbles": 5339,
+        "estimated_minutes": 18686,
+        "estimated_hours": 311.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 280,
+          "playcount": 281,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 166,
+          "playcount": 167,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -83,7 +83,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 130,
+          "playcount": 131,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
@@ -244,7 +244,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 84,
+          "playcount": 85,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-11T04:13:13.575522"
+    "fetched_at": "2026-06-11T16:07:04.191810"
   }
 }
