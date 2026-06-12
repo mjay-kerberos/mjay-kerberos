@@ -1,59 +1,59 @@
 {
-  "collected_at": "2026-06-11T16:06:59.064895Z",
+  "collected_at": "2026-06-12T04:14:51.718509Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7073,
+      "total_scrobbles": 7090,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7073,
-      "estimated_minutes": 24756,
-      "estimated_hours": 412.6,
+      "total_scrobbles": 7090,
+      "estimated_minutes": 24815,
+      "estimated_hours": 413.6,
       "estimated_days": 17.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 323,
-        "estimated_minutes": 1130,
-        "estimated_hours": 18.8,
+        "total_scrobbles": 306,
+        "estimated_minutes": 1071,
+        "estimated_hours": 17.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1091,
-        "estimated_minutes": 3818,
-        "estimated_hours": 63.6,
+        "total_scrobbles": 1105,
+        "estimated_minutes": 3868,
+        "estimated_hours": 64.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5339,
-        "estimated_minutes": 18686,
-        "estimated_hours": 311.4,
+        "total_scrobbles": 5350,
+        "estimated_minutes": 18725,
+        "estimated_hours": 312.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 242,
-      "total_plays_this_week": 311
+      "total_tracks_this_week": 249,
+      "total_plays_this_week": 324
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 281,
+          "playcount": 282,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 178,
+          "playcount": 180,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 167,
+          "playcount": 169,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -77,13 +77,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 154,
+          "playcount": 156,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 6
         },
         {
           "name": "Almost Monday",
-          "playcount": 131,
+          "playcount": 132,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
@@ -173,10 +173,10 @@
           "rank": 9
         },
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
           "playcount": 26,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 10
         }
       ],
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "Babydoll",
-          "artist": "Dominic Fike",
+          "name": "Sexy Ladies (feat. UCB)",
+          "artist": "Lizzo",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+          "url": "https://www.last.fm/music/Lizzo/_/Sexy+Ladies+(feat.+UCB)",
           "rank": 5
         }
       ]
@@ -244,19 +244,19 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 85,
+          "playcount": 86,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
         {
           "name": "Octane",
           "artist": "Don Toliver",
-          "playcount": 71,
+          "playcount": 72,
           "url": "https://www.last.fm/music/Don+Toliver/Octane",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-06-11T16:07:04.191810"
+    "fetched_at": "2026-06-12T04:14:57.206392"
   }
 }
