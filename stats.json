@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-12T04:14:51.718509Z",
+  "collected_at": "2026-06-12T15:20:44.747534Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7090,
+      "total_scrobbles": 7097,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7090,
-      "estimated_minutes": 24815,
-      "estimated_hours": 413.6,
+      "total_scrobbles": 7097,
+      "estimated_minutes": 24840,
+      "estimated_hours": 414.0,
       "estimated_days": 17.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 306,
-        "estimated_minutes": 1071,
-        "estimated_hours": 17.9,
+        "total_scrobbles": 313,
+        "estimated_minutes": 1096,
+        "estimated_hours": 18.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1105,
-        "estimated_minutes": 3868,
-        "estimated_hours": 64.5,
+        "total_scrobbles": 1112,
+        "estimated_minutes": 3892,
+        "estimated_hours": 64.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5350,
-        "estimated_minutes": 18725,
-        "estimated_hours": 312.1,
+        "total_scrobbles": 5356,
+        "estimated_minutes": 18746,
+        "estimated_hours": 312.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -53,7 +53,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 180,
+          "playcount": 181,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -70,15 +70,15 @@
           "rank": 4
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 156,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "Dominic Fike",
+          "playcount": 160,
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 5
         },
         {
-          "name": "Dominic Fike",
+          "name": "Bad Bunny",
           "playcount": 156,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 6
         },
         {
@@ -117,17 +117,17 @@
           "rank": 1
         },
         {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 37,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 2
+        },
+        {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 36,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 2
-        },
-        {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 36,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 3
         },
         {
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "Sexy Ladies (feat. UCB)",
-          "artist": "Lizzo",
+          "name": "Babydoll",
+          "artist": "Dominic Fike",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Lizzo/_/Sexy+Ladies+(feat.+UCB)",
+          "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-12T04:14:57.206392"
+    "fetched_at": "2026-06-12T15:20:51.044897"
   }
 }
