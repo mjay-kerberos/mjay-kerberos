@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-13T04:02:52.971969Z",
+  "collected_at": "2026-06-13T14:04:35.864869Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7114,
+      "total_scrobbles": 7122,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7114,
-      "estimated_minutes": 24899,
-      "estimated_hours": 415.0,
+      "total_scrobbles": 7122,
+      "estimated_minutes": 24927,
+      "estimated_hours": 415.4,
       "estimated_days": 17.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 238,
-        "estimated_minutes": 833,
-        "estimated_hours": 13.9,
+        "total_scrobbles": 246,
+        "estimated_minutes": 861,
+        "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1111,
-        "estimated_minutes": 3888,
-        "estimated_hours": 64.8,
+        "total_scrobbles": 1119,
+        "estimated_minutes": 3916,
+        "estimated_hours": 65.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5371,
-        "estimated_minutes": 18798,
-        "estimated_hours": 313.3,
+        "total_scrobbles": 5377,
+        "estimated_minutes": 18820,
+        "estimated_hours": 313.7,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -53,20 +53,20 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 183,
+          "playcount": 187,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
+        },
+        {
+          "name": "Dominic Fike",
+          "playcount": 171,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 3
         },
         {
           "name": "Tate McRae",
           "playcount": 171,
           "url": "https://www.last.fm/music/Tate+McRae",
-          "rank": 3
-        },
-        {
-          "name": "Dominic Fike",
-          "playcount": 170,
-          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 4
         },
         {
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "comfort me",
+          "artist": "Malcolm Todd",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/comfort+me",
+          "rank": 2
+        },
+        {
           "name": "iloveitiloveitiloveit",
           "artist": "Bella Kay",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bella+Kay/_/iloveitiloveitiloveit",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Babydoll",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 4
-        },
-        {
-          "name": "Bleed (feat. Omar Apollo)",
-          "artist": "Malcolm Todd",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Bleed+(feat.+Omar+Apollo)",
           "rank": 5
         }
       ]
@@ -237,7 +237,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 87,
+          "playcount": 88,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-13T04:02:58.012744"
+    "fetched_at": "2026-06-13T14:04:41.502024"
   }
 }
