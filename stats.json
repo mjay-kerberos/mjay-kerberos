@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-06-12T15:20:44.747534Z",
+  "collected_at": "2026-06-13T04:02:52.971969Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7097,
+      "total_scrobbles": 7114,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7097,
-      "estimated_minutes": 24840,
-      "estimated_hours": 414.0,
-      "estimated_days": 17.2,
+      "total_scrobbles": 7114,
+      "estimated_minutes": 24899,
+      "estimated_hours": 415.0,
+      "estimated_days": 17.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 313,
-        "estimated_minutes": 1096,
-        "estimated_hours": 18.3,
+        "total_scrobbles": 238,
+        "estimated_minutes": 833,
+        "estimated_hours": 13.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1112,
-        "estimated_minutes": 3892,
-        "estimated_hours": 64.9,
+        "total_scrobbles": 1111,
+        "estimated_minutes": 3888,
+        "estimated_hours": 64.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5356,
-        "estimated_minutes": 18746,
-        "estimated_hours": 312.4,
+        "total_scrobbles": 5371,
+        "estimated_minutes": 18798,
+        "estimated_hours": 313.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 249,
-      "total_plays_this_week": 324
+      "total_tracks_this_week": 248,
+      "total_plays_this_week": 314
     },
     "top_artists": {
       "overall": [
@@ -53,7 +53,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 181,
+          "playcount": 183,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -64,15 +64,15 @@
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 169,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Dominic Fike",
+          "playcount": 170,
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 4
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 160,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Fall Out Boy",
+          "playcount": 169,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
         {
@@ -166,54 +166,54 @@
           "rank": 8
         },
         {
+          "name": "Doggy (feat. Love Spells and Truly Young)",
+          "artist": "Geezer",
+          "playcount": 27,
+          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
+          "rank": 9
+        },
+        {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 27,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 9
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 26,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Beat A B!tch Up",
-          "artist": "Alemeda",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Alemeda/_/Beat+A+B!tch+Up",
-          "rank": 1
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 2
-        },
-        {
           "name": "thank you i guess",
           "artist": "Forrest Nolan",
           "playcount": 4,
           "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
-          "rank": 3
+          "rank": 1
         },
         {
           "name": "iloveitiloveitiloveit",
           "artist": "Bella Kay",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bella+Kay/_/iloveitiloveitiloveit",
-          "rank": 4
+          "rank": 2
         },
         {
           "name": "Babydoll",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+          "rank": 3
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 4
+        },
+        {
+          "name": "Bleed (feat. Omar Apollo)",
+          "artist": "Malcolm Todd",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Bleed+(feat.+Omar+Apollo)",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-12T15:20:51.044897"
+    "fetched_at": "2026-06-13T04:02:58.012744"
   }
 }
