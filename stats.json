@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-15T04:44:09.227338Z",
+  "collected_at": "2026-06-15T17:17:41.731273Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7124,
+      "total_scrobbles": 7167,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7124,
-      "estimated_minutes": 24934,
-      "estimated_hours": 415.6,
-      "estimated_days": 17.3,
+      "total_scrobbles": 7167,
+      "estimated_minutes": 25084,
+      "estimated_hours": 418.1,
+      "estimated_days": 17.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 210,
-        "estimated_minutes": 735,
-        "estimated_hours": 12.2,
+        "total_scrobbles": 253,
+        "estimated_minutes": 886,
+        "estimated_hours": 14.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1051,
-        "estimated_minutes": 3678,
-        "estimated_hours": 61.3,
+        "total_scrobbles": 1083,
+        "estimated_minutes": 3790,
+        "estimated_hours": 63.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5378,
-        "estimated_minutes": 18823,
-        "estimated_hours": 313.7,
+        "total_scrobbles": 5403,
+        "estimated_minutes": 18910,
+        "estimated_hours": 315.2,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 282,
+          "playcount": 302,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "istillfeelthesame",
+          "artist": "5 Seconds of Summer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
+          "rank": 2
+        },
+        {
           "name": "iloveitiloveitiloveit",
           "artist": "Bella Kay",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bella+Kay/_/iloveitiloveitiloveit",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Babydoll",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 4
-        },
-        {
-          "name": "thank you i guess",
-          "artist": "Forrest Nolan",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
           "rank": 5
         }
       ]
@@ -244,7 +244,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 86,
+          "playcount": 87,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-15T04:44:13.779241"
+    "fetched_at": "2026-06-15T17:17:50.514233"
   }
 }
