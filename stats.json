@@ -1,34 +1,34 @@
 {
-  "collected_at": "2026-06-14T14:08:42.623299Z",
+  "collected_at": "2026-06-15T04:44:09.227338Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7123,
+      "total_scrobbles": 7124,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7123,
-      "estimated_minutes": 24930,
-      "estimated_hours": 415.5,
+      "total_scrobbles": 7124,
+      "estimated_minutes": 24934,
+      "estimated_hours": 415.6,
       "estimated_days": 17.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 246,
-        "estimated_minutes": 861,
-        "estimated_hours": 14.3,
+        "total_scrobbles": 210,
+        "estimated_minutes": 735,
+        "estimated_hours": 12.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1085,
-        "estimated_minutes": 3798,
-        "estimated_hours": 63.3,
+        "total_scrobbles": 1051,
+        "estimated_minutes": 3678,
+        "estimated_hours": 61.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 188,
-      "total_plays_this_week": 243
+      "total_tracks_this_week": 191,
+      "total_plays_this_week": 247
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "thank you i guess",
-          "artist": "Forrest Nolan",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
-          "rank": 1
-        },
-        {
           "name": "comfort me",
           "artist": "Malcolm Todd",
           "playcount": 4,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/comfort+me",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "iloveitiloveitiloveit",
           "artist": "Bella Kay",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bella+Kay/_/iloveitiloveitiloveit",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Babydoll",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 4
+        },
+        {
+          "name": "thank you i guess",
+          "artist": "Forrest Nolan",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Forrest+Nolan/_/thank+you+i+guess",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-14T14:08:46.485187"
+    "fetched_at": "2026-06-15T04:44:13.779241"
   }
 }
