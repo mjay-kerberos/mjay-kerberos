@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-15T17:17:41.731273Z",
+  "collected_at": "2026-06-16T04:28:25.911341Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7167,
+      "total_scrobbles": 7180,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7167,
-      "estimated_minutes": 25084,
-      "estimated_hours": 418.1,
-      "estimated_days": 17.4,
+      "total_scrobbles": 7180,
+      "estimated_minutes": 25130,
+      "estimated_hours": 418.8,
+      "estimated_days": 17.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 253,
-        "estimated_minutes": 886,
-        "estimated_hours": 14.8,
+        "total_scrobbles": 211,
+        "estimated_minutes": 738,
+        "estimated_hours": 12.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1083,
-        "estimated_minutes": 3790,
-        "estimated_hours": 63.2,
+        "total_scrobbles": 1070,
+        "estimated_minutes": 3745,
+        "estimated_hours": 62.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5403,
-        "estimated_minutes": 18910,
-        "estimated_hours": 315.2,
+        "total_scrobbles": 5411,
+        "estimated_minutes": 18938,
+        "estimated_hours": 315.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 191,
-      "total_plays_this_week": 247
+      "total_tracks_this_week": 187,
+      "total_plays_this_week": 236
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 302,
+          "playcount": 312,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
+          "name": "istillfeelthesame",
+          "artist": "5 Seconds of Summer",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
+          "rank": 1
+        },
+        {
           "name": "comfort me",
           "artist": "Malcolm Todd",
           "playcount": 4,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/comfort+me",
-          "rank": 1
-        },
-        {
-          "name": "istillfeelthesame",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
           "rank": 2
         },
         {
-          "name": "iloveitiloveitiloveit",
-          "artist": "Bella Kay",
+          "name": "More",
+          "artist": "5 Seconds of Summer",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Bella+Kay/_/iloveitiloveitiloveit",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/More",
           "rank": 3
         },
         {
-          "name": "Babydoll",
-          "artist": "Dominic Fike",
+          "name": "No. 1 Obsession",
+          "artist": "5 Seconds of Summer",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
           "rank": 4
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
+          "name": "NOT OK",
+          "artist": "5 Seconds of Summer",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/NOT+OK",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-15T17:17:50.514233"
+    "fetched_at": "2026-06-16T04:28:32.169271"
   }
 }
