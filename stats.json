@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-16T16:58:53.827825Z",
+  "collected_at": "2026-06-17T04:22:07.614073Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7180,
+      "total_scrobbles": 7181,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7180,
-      "estimated_minutes": 25130,
-      "estimated_hours": 418.8,
+      "total_scrobbles": 7181,
+      "estimated_minutes": 25134,
+      "estimated_hours": 418.9,
       "estimated_days": 17.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 193,
-        "estimated_minutes": 676,
-        "estimated_hours": 11.3,
+        "total_scrobbles": 176,
+        "estimated_minutes": 616,
+        "estimated_hours": 10.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1056,
-        "estimated_minutes": 3696,
-        "estimated_hours": 61.6,
+        "total_scrobbles": 1026,
+        "estimated_minutes": 3591,
+        "estimated_hours": 59.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5411,
-        "estimated_minutes": 18938,
-        "estimated_hours": 315.6,
+        "total_scrobbles": 5412,
+        "estimated_minutes": 18942,
+        "estimated_hours": 315.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 187,
-      "total_plays_this_week": 236
+      "total_tracks_this_week": 159,
+      "total_plays_this_week": 212
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 312,
+          "playcount": 313,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "comfort me",
-          "artist": "Malcolm Todd",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/comfort+me",
-          "rank": 2
-        },
-        {
           "name": "More",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/More",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "No. 1 Obsession",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "NOT OK",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/NOT+OK",
+          "rank": 4
+        },
+        {
+          "name": "Teeth",
+          "artist": "5 Seconds of Summer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-16T16:58:58.051685"
+    "fetched_at": "2026-06-17T04:22:11.688772"
   }
 }
