@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-17T04:22:07.614073Z",
+  "collected_at": "2026-06-17T15:39:07.083554Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7181,
+      "total_scrobbles": 7188,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7181,
-      "estimated_minutes": 25134,
-      "estimated_hours": 418.9,
+      "total_scrobbles": 7188,
+      "estimated_minutes": 25158,
+      "estimated_hours": 419.3,
       "estimated_days": 17.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 176,
-        "estimated_minutes": 616,
-        "estimated_hours": 10.3,
+        "total_scrobbles": 160,
+        "estimated_minutes": 560,
+        "estimated_hours": 9.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1026,
-        "estimated_minutes": 3591,
-        "estimated_hours": 59.9,
+        "total_scrobbles": 1033,
+        "estimated_minutes": 3616,
+        "estimated_hours": 60.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5412,
-        "estimated_minutes": 18942,
-        "estimated_hours": 315.7,
+        "total_scrobbles": 5417,
+        "estimated_minutes": 18960,
+        "estimated_hours": 316.0,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 313,
+          "playcount": 319,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-17T04:22:11.688772"
+    "fetched_at": "2026-06-17T15:39:11.626791"
   }
 }
