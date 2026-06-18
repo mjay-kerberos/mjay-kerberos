@@ -1,18 +1,18 @@
 {
-  "collected_at": "2026-06-18T04:14:36.835584Z",
+  "collected_at": "2026-06-18T15:30:49.039045Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7201,
+      "total_scrobbles": 7207,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7201,
-      "estimated_minutes": 25204,
-      "estimated_hours": 420.1,
+      "total_scrobbles": 7207,
+      "estimated_minutes": 25224,
+      "estimated_hours": 420.4,
       "estimated_days": 17.5,
       "avg_track_duration_assumed": 3.5
     },
@@ -26,16 +26,16 @@
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1017,
-        "estimated_minutes": 3560,
-        "estimated_hours": 59.3,
+        "total_scrobbles": 1023,
+        "estimated_minutes": 3580,
+        "estimated_hours": 59.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5423,
-        "estimated_minutes": 18980,
-        "estimated_hours": 316.3,
+        "total_scrobbles": 5429,
+        "estimated_minutes": 19002,
+        "estimated_hours": 316.7,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 323,
+          "playcount": 329,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -184,36 +184,36 @@
         {
           "name": "istillfeelthesame",
           "artist": "5 Seconds of Summer",
-          "playcount": 5,
+          "playcount": 6,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
           "rank": 1
         },
         {
-          "name": "Telephone Busy",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
-          "rank": 2
-        },
-        {
           "name": "More",
           "artist": "5 Seconds of Summer",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/More",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "No. 1 Obsession",
           "artist": "5 Seconds of Summer",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "NOT OK",
           "artist": "5 Seconds of Summer",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/NOT+OK",
+          "rank": 4
+        },
+        {
+          "name": "Teeth",
+          "artist": "5 Seconds of Summer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-18T04:14:40.523087"
+    "fetched_at": "2026-06-18T15:30:53.981058"
   }
 }
