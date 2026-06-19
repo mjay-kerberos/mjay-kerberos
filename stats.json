@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-19T04:43:05.439125Z",
+  "collected_at": "2026-06-19T15:25:21.659813Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7286,
+      "total_scrobbles": 7307,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7286,
-      "estimated_minutes": 25501,
-      "estimated_hours": 425.0,
-      "estimated_days": 17.7,
+      "total_scrobbles": 7307,
+      "estimated_minutes": 25574,
+      "estimated_hours": 426.2,
+      "estimated_days": 17.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 195,
-        "estimated_minutes": 682,
-        "estimated_hours": 11.4,
+        "total_scrobbles": 209,
+        "estimated_minutes": 732,
+        "estimated_hours": 12.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1095,
-        "estimated_minutes": 3832,
-        "estimated_hours": 63.9,
+        "total_scrobbles": 1109,
+        "estimated_minutes": 3882,
+        "estimated_hours": 64.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5472,
-        "estimated_minutes": 19152,
-        "estimated_hours": 319.2,
+        "total_scrobbles": 5484,
+        "estimated_minutes": 19194,
+        "estimated_hours": 319.9,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -58,15 +58,15 @@
           "rank": 2
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 172,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Fall Out Boy",
+          "playcount": 173,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
+          "name": "Dominic Fike",
           "playcount": 172,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 4
         },
         {
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 92,
+          "playcount": 94,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-19T04:43:10.611290"
+    "fetched_at": "2026-06-19T15:25:27.137843"
   }
 }
