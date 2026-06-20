@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-20T03:57:00.602363Z",
+  "collected_at": "2026-06-20T14:09:22.990820Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7381,
+      "total_scrobbles": 7399,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7381,
-      "estimated_minutes": 25834,
-      "estimated_hours": 430.6,
-      "estimated_days": 17.9,
+      "total_scrobbles": 7399,
+      "estimated_minutes": 25896,
+      "estimated_hours": 431.6,
+      "estimated_days": 18.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 266,
-        "estimated_minutes": 931,
-        "estimated_hours": 15.5,
+        "total_scrobbles": 276,
+        "estimated_minutes": 966,
+        "estimated_hours": 16.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1145,
-        "estimated_minutes": 4008,
-        "estimated_hours": 66.8,
+        "total_scrobbles": 1163,
+        "estimated_minutes": 4070,
+        "estimated_hours": 67.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5522,
-        "estimated_minutes": 19327,
-        "estimated_hours": 322.1,
+        "total_scrobbles": 5538,
+        "estimated_minutes": 19383,
+        "estimated_hours": 323.1,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 359,
+          "playcount": 372,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,13 +59,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 183,
+          "playcount": 184,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 175,
+          "playcount": 176,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -191,29 +191,29 @@
         {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
           "rank": 2
         },
         {
-          "name": "1 Last Cigarette",
-          "artist": "The Band CAMINO",
+          "name": "Evolve",
+          "artist": "5 Seconds of Summer",
           "playcount": 6,
-          "url": "https://www.last.fm/music/The+Band+CAMINO/_/1+Last+Cigarette",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
           "rank": 3
         },
         {
-          "name": "Evolve",
+          "name": "NOT OK",
           "artist": "5 Seconds of Summer",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/NOT+OK",
           "rank": 4
         },
         {
-          "name": "More",
-          "artist": "5 Seconds of Summer",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/More",
+          "name": "enough",
+          "artist": "Michael Clifford",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
           "rank": 5
         }
       ]
@@ -237,7 +237,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 88,
+          "playcount": 89,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -251,12 +251,12 @@
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 78,
+          "playcount": 81,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-06-20T03:57:05.027413"
+    "fetched_at": "2026-06-20T14:09:27.574218"
   }
 }
