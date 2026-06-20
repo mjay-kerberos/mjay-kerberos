@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-19T15:25:21.659813Z",
+  "collected_at": "2026-06-20T03:57:00.602363Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7307,
+      "total_scrobbles": 7381,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7307,
-      "estimated_minutes": 25574,
-      "estimated_hours": 426.2,
-      "estimated_days": 17.8,
+      "total_scrobbles": 7381,
+      "estimated_minutes": 25834,
+      "estimated_hours": 430.6,
+      "estimated_days": 17.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 209,
-        "estimated_minutes": 732,
-        "estimated_hours": 12.2,
+        "total_scrobbles": 266,
+        "estimated_minutes": 931,
+        "estimated_hours": 15.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1109,
-        "estimated_minutes": 3882,
-        "estimated_hours": 64.7,
+        "total_scrobbles": 1145,
+        "estimated_minutes": 4008,
+        "estimated_hours": 66.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5484,
-        "estimated_minutes": 19194,
-        "estimated_hours": 319.9,
+        "total_scrobbles": 5522,
+        "estimated_minutes": 19327,
+        "estimated_hours": 322.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 90,
-      "total_plays_this_week": 127
+      "total_tracks_this_week": 125,
+      "total_plays_this_week": 189
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 345,
+          "playcount": 359,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -58,15 +58,15 @@
           "rank": 2
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 173,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Dominic Fike",
+          "playcount": 183,
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 172,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Fall Out Boy",
+          "playcount": 175,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
@@ -83,7 +83,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 132,
+          "playcount": 133,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 7
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 94,
+          "playcount": 95,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -119,7 +119,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 2
         },
@@ -184,36 +184,36 @@
         {
           "name": "istillfeelthesame",
           "artist": "5 Seconds of Summer",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
           "rank": 1
         },
         {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
-          "playcount": 5,
+          "playcount": 7,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
           "rank": 2
         },
         {
-          "name": "enough",
-          "artist": "Michael Clifford",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
+          "name": "1 Last Cigarette",
+          "artist": "The Band CAMINO",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/The+Band+CAMINO/_/1+Last+Cigarette",
           "rank": 3
+        },
+        {
+          "name": "Evolve",
+          "artist": "5 Seconds of Summer",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
+          "rank": 4
         },
         {
           "name": "More",
           "artist": "5 Seconds of Summer",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/More",
-          "rank": 4
-        },
-        {
-          "name": "No. 1 Obsession",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
           "rank": 5
         }
       ]
@@ -251,12 +251,12 @@
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 74,
+          "playcount": 78,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-06-19T15:25:27.137843"
+    "fetched_at": "2026-06-20T03:57:05.027413"
   }
 }
