@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-06-21T14:16:42.026994Z",
+  "collected_at": "2026-06-22T04:43:43.983462Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7459,
+      "total_scrobbles": 7460,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7459,
-      "estimated_minutes": 26106,
-      "estimated_hours": 435.1,
+      "total_scrobbles": 7460,
+      "estimated_minutes": 26110,
+      "estimated_hours": 435.2,
       "estimated_days": 18.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 335,
-        "estimated_minutes": 1172,
-        "estimated_hours": 19.5,
+        "total_scrobbles": 336,
+        "estimated_minutes": 1176,
+        "estimated_hours": 19.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1177,
-        "estimated_minutes": 4120,
-        "estimated_hours": 68.7,
+        "total_scrobbles": 1172,
+        "estimated_minutes": 4102,
+        "estimated_hours": 68.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5583,
-        "estimated_minutes": 19540,
+        "total_scrobbles": 5584,
+        "estimated_minutes": 19544,
         "estimated_hours": 325.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 184,
-      "total_plays_this_week": 263
+      "total_tracks_this_week": 211,
+      "total_plays_this_week": 329
     },
     "top_artists": {
       "overall": [
@@ -89,7 +89,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 134,
+          "playcount": 135,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-21T14:16:46.455398"
+    "fetched_at": "2026-06-22T04:43:47.902896"
   }
 }
