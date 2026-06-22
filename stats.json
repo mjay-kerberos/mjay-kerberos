@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-22T04:43:43.983462Z",
+  "collected_at": "2026-06-22T17:01:46.859647Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,9 +19,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 336,
-        "estimated_minutes": 1176,
-        "estimated_hours": 19.6,
+        "total_scrobbles": 292,
+        "estimated_minutes": 1022,
+        "estimated_hours": 17.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "istillfeelthesame",
-          "artist": "5 Seconds of Summer",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
+          "name": "1 Last Cigarette",
+          "artist": "The Band CAMINO",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/The+Band+CAMINO/_/1+Last+Cigarette",
           "rank": 1
         },
         {
-          "name": "1 Last Cigarette",
-          "artist": "The Band CAMINO",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/The+Band+CAMINO/_/1+Last+Cigarette",
+          "name": "Ghost of You",
+          "artist": "5 Seconds of Summer",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Ghost+of+You",
           "rank": 2
+        },
+        {
+          "name": "istillfeelthesame",
+          "artist": "5 Seconds of Summer",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
+          "rank": 3
         },
         {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
-          "playcount": 8,
+          "playcount": 6,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
-          "rank": 3
-        },
-        {
-          "name": "No. 1 Obsession",
-          "artist": "5 Seconds of Summer",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
           "rank": 4
         },
         {
-          "name": "NOT OK",
+          "name": "Evolve",
           "artist": "5 Seconds of Summer",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/NOT+OK",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-22T04:43:47.902896"
+    "fetched_at": "2026-06-22T17:01:52.009994"
   }
 }
