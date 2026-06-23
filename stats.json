@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-22T17:01:46.859647Z",
+  "collected_at": "2026-06-23T03:49:48.506378Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 292,
-        "estimated_minutes": 1022,
-        "estimated_hours": 17.0,
+        "total_scrobbles": 279,
+        "estimated_minutes": 976,
+        "estimated_hours": 16.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1172,
-        "estimated_minutes": 4102,
-        "estimated_hours": 68.4,
+        "total_scrobbles": 1129,
+        "estimated_minutes": 3952,
+        "estimated_hours": 65.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 211,
-      "total_plays_this_week": 329
+      "total_tracks_this_week": 210,
+      "total_plays_this_week": 310
     },
     "top_artists": {
       "overall": [
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
-          "name": "istillfeelthesame",
-          "artist": "5 Seconds of Summer",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
-          "rank": 3
-        },
-        {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
           "playcount": 6,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Evolve",
           "artist": "5 Seconds of Summer",
           "playcount": 5,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
+          "rank": 4
+        },
+        {
+          "name": "I'm Scared I\u2019ll Never Sleep Again",
+          "artist": "5 Seconds of Summer",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/I%27m+Scared+I%E2%80%99ll+Never+Sleep+Again",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-22T17:01:52.009994"
+    "fetched_at": "2026-06-23T03:49:52.900724"
   }
 }
