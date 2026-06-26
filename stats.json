@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-26T03:58:24.505424Z",
+  "collected_at": "2026-06-26T14:30:02.306312Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7529,
+      "total_scrobbles": 7536,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7529,
-      "estimated_minutes": 26352,
-      "estimated_hours": 439.2,
+      "total_scrobbles": 7536,
+      "estimated_minutes": 26376,
+      "estimated_hours": 439.6,
       "estimated_days": 18.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 242,
-        "estimated_minutes": 847,
-        "estimated_hours": 14.1,
+        "total_scrobbles": 235,
+        "estimated_minutes": 822,
+        "estimated_hours": 13.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1108,
-        "estimated_minutes": 3878,
-        "estimated_hours": 64.6,
+        "total_scrobbles": 1099,
+        "estimated_minutes": 3846,
+        "estimated_hours": 64.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5635,
-        "estimated_minutes": 19722,
-        "estimated_hours": 328.7,
+        "total_scrobbles": 5639,
+        "estimated_minutes": 19736,
+        "estimated_hours": 328.9,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 410,
+          "playcount": 412,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -184,7 +184,7 @@
         {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
           "rank": 1
         },
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "1 Last Cigarette",
-          "artist": "The Band CAMINO",
+          "name": "enough",
+          "artist": "Michael Clifford",
           "playcount": 5,
-          "url": "https://www.last.fm/music/The+Band+CAMINO/_/1+Last+Cigarette",
+          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
           "rank": 5
         }
       ]
@@ -237,7 +237,7 @@
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 91,
+          "playcount": 92,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-26T03:58:31.096140"
+    "fetched_at": "2026-06-26T14:30:07.306120"
   }
 }
