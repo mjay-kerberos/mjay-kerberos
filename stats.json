@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-06-25T14:37:31.273802Z",
+  "collected_at": "2026-06-26T03:58:24.505424Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7505,
+      "total_scrobbles": 7529,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7505,
-      "estimated_minutes": 26268,
-      "estimated_hours": 437.8,
-      "estimated_days": 18.2,
+      "total_scrobbles": 7529,
+      "estimated_minutes": 26352,
+      "estimated_hours": 439.2,
+      "estimated_days": 18.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 296,
-        "estimated_minutes": 1036,
-        "estimated_hours": 17.3,
+        "total_scrobbles": 242,
+        "estimated_minutes": 847,
+        "estimated_hours": 14.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1112,
-        "estimated_minutes": 3892,
-        "estimated_hours": 64.9,
+        "total_scrobbles": 1108,
+        "estimated_minutes": 3878,
+        "estimated_hours": 64.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5622,
-        "estimated_minutes": 19677,
-        "estimated_hours": 327.9,
+        "total_scrobbles": 5635,
+        "estimated_minutes": 19722,
+        "estimated_hours": 328.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 214,
-      "total_plays_this_week": 320
+      "total_tracks_this_week": 210,
+      "total_plays_this_week": 305
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 405,
+          "playcount": 410,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 112,
+          "playcount": 113,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "1 Last Cigarette",
-          "artist": "The Band CAMINO",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/The+Band+CAMINO/_/1+Last+Cigarette",
-          "rank": 1
-        },
-        {
-          "name": "Ghost of You",
-          "artist": "5 Seconds of Summer",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Ghost+of+You",
-          "rank": 2
-        },
-        {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
           "playcount": 6,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
-          "rank": 3
+          "rank": 1
         },
         {
           "name": "Evolve",
           "artist": "5 Seconds of Summer",
           "playcount": 5,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
+          "rank": 2
+        },
+        {
+          "name": "Ghost of You",
+          "artist": "5 Seconds of Summer",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Ghost+of+You",
+          "rank": 3
+        },
+        {
+          "name": "cough drops",
+          "artist": "Almost Monday",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
           "rank": 4
         },
         {
-          "name": "I'm Scared I\u2019ll Never Sleep Again",
-          "artist": "5 Seconds of Summer",
+          "name": "1 Last Cigarette",
+          "artist": "The Band CAMINO",
           "playcount": 5,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/I%27m+Scared+I%E2%80%99ll+Never+Sleep+Again",
+          "url": "https://www.last.fm/music/The+Band+CAMINO/_/1+Last+Cigarette",
           "rank": 5
         }
       ]
@@ -235,17 +235,17 @@
           "rank": 2
         },
         {
+          "name": "EVERYONE'S A STAR!",
+          "artist": "5 Seconds of Summer",
+          "playcount": 91,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
+          "rank": 3
+        },
+        {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
           "playcount": 90,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
-          "rank": 3
-        },
-        {
-          "name": "EVERYONE'S A STAR!",
-          "artist": "5 Seconds of Summer",
-          "playcount": 89,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 4
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-25T14:37:38.438279"
+    "fetched_at": "2026-06-26T03:58:31.096140"
   }
 }
