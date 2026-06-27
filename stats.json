@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-27T03:41:09.805122Z",
+  "collected_at": "2026-06-27T13:47:56.550469Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 157,
-        "estimated_minutes": 550,
-        "estimated_hours": 9.2,
+        "total_scrobbles": 143,
+        "estimated_minutes": 500,
+        "estimated_hours": 8.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1012,
-        "estimated_minutes": 3542,
-        "estimated_hours": 59.0,
+        "total_scrobbles": 1005,
+        "estimated_minutes": 3518,
+        "estimated_hours": 58.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -182,31 +182,31 @@
       ],
       "week": [
         {
-          "name": "Telephone Busy",
-          "artist": "5 Seconds of Summer",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
-          "rank": 1
-        },
-        {
           "name": "cough drops",
           "artist": "Almost Monday",
           "playcount": 5,
           "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
-          "rank": 2
-        },
-        {
-          "name": "enough",
-          "artist": "Michael Clifford",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
-          "rank": 3
+          "rank": 1
         },
         {
           "name": "No. 1 Obsession",
           "artist": "5 Seconds of Summer",
           "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
+          "rank": 2
+        },
+        {
+          "name": "Telephone Busy",
+          "artist": "5 Seconds of Summer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
+          "rank": 3
+        },
+        {
+          "name": "enough",
+          "artist": "Michael Clifford",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
           "rank": 4
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-27T03:41:13.998414"
+    "fetched_at": "2026-06-27T13:48:00.515309"
   }
 }
