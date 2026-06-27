@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-06-26T14:30:02.306312Z",
+  "collected_at": "2026-06-27T03:41:09.805122Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7536,
+      "total_scrobbles": 7539,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7536,
-      "estimated_minutes": 26376,
-      "estimated_hours": 439.6,
+      "total_scrobbles": 7539,
+      "estimated_minutes": 26386,
+      "estimated_hours": 439.8,
       "estimated_days": 18.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 235,
-        "estimated_minutes": 822,
-        "estimated_hours": 13.7,
+        "total_scrobbles": 157,
+        "estimated_minutes": 550,
+        "estimated_hours": 9.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1099,
-        "estimated_minutes": 3846,
-        "estimated_hours": 64.1,
+        "total_scrobbles": 1012,
+        "estimated_minutes": 3542,
+        "estimated_hours": 59.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5639,
-        "estimated_minutes": 19736,
-        "estimated_hours": 328.9,
+        "total_scrobbles": 5640,
+        "estimated_minutes": 19740,
+        "estimated_hours": 329.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 210,
-      "total_plays_this_week": 305
+      "total_tracks_this_week": 169,
+      "total_plays_this_week": 247
     },
     "top_artists": {
       "overall": [
@@ -53,7 +53,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 194,
+          "playcount": 195,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 95,
+          "playcount": 96,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -154,7 +154,7 @@
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 30,
+          "playcount": 31,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 7
         },
@@ -184,36 +184,36 @@
         {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
-          "playcount": 7,
+          "playcount": 5,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
           "rank": 1
-        },
-        {
-          "name": "Evolve",
-          "artist": "5 Seconds of Summer",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Evolve",
-          "rank": 2
-        },
-        {
-          "name": "Ghost of You",
-          "artist": "5 Seconds of Summer",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Ghost+of+You",
-          "rank": 3
         },
         {
           "name": "cough drops",
           "artist": "Almost Monday",
           "playcount": 5,
           "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
-          "rank": 4
+          "rank": 2
         },
         {
           "name": "enough",
           "artist": "Michael Clifford",
           "playcount": 5,
           "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
+          "rank": 3
+        },
+        {
+          "name": "No. 1 Obsession",
+          "artist": "5 Seconds of Summer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
+          "rank": 4
+        },
+        {
+          "name": "Senior Year (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Senior+Year+(From+The+Runarounds+Original+Series)",
           "rank": 5
         }
       ]
@@ -251,12 +251,12 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 88,
+          "playcount": 89,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-06-26T14:30:07.306120"
+    "fetched_at": "2026-06-27T03:41:13.998414"
   }
 }
