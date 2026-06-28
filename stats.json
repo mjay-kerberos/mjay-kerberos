@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-06-27T13:47:56.550469Z",
+  "collected_at": "2026-06-28T04:04:57.942613Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7539,
+      "total_scrobbles": 7548,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7539,
-      "estimated_minutes": 26386,
-      "estimated_hours": 439.8,
+      "total_scrobbles": 7548,
+      "estimated_minutes": 26418,
+      "estimated_hours": 440.3,
       "estimated_days": 18.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 143,
-        "estimated_minutes": 500,
-        "estimated_hours": 8.3,
+        "total_scrobbles": 95,
+        "estimated_minutes": 332,
+        "estimated_hours": 5.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1005,
-        "estimated_minutes": 3518,
-        "estimated_hours": 58.6,
+        "total_scrobbles": 1010,
+        "estimated_minutes": 3535,
+        "estimated_hours": 58.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5640,
-        "estimated_minutes": 19740,
-        "estimated_hours": 329.0,
+        "total_scrobbles": 5647,
+        "estimated_minutes": 19764,
+        "estimated_hours": 329.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 169,
-      "total_plays_this_week": 247
+      "total_tracks_this_week": 99,
+      "total_plays_this_week": 158
     },
     "top_artists": {
       "overall": [
@@ -83,7 +83,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 146,
+          "playcount": 147,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
@@ -161,7 +161,7 @@
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
-          "playcount": 29,
+          "playcount": 30,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
           "rank": 8
         },
@@ -182,24 +182,24 @@
       ],
       "week": [
         {
-          "name": "cough drops",
-          "artist": "Almost Monday",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
-          "rank": 1
-        },
-        {
-          "name": "No. 1 Obsession",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/No.+1+Obsession",
-          "rank": 2
-        },
-        {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
           "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
+          "rank": 1
+        },
+        {
+          "name": "cough drops",
+          "artist": "Almost Monday",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Almost+Monday/_/cough+drops",
+          "rank": 2
+        },
+        {
+          "name": "Pyramids",
+          "artist": "Frank Ocean",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Frank+Ocean/_/Pyramids",
           "rank": 3
         },
         {
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 117,
+          "playcount": 118,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-27T13:48:00.515309"
+    "fetched_at": "2026-06-28T04:05:02.877525"
   }
 }
