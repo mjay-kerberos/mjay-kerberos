@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-06-28T04:04:57.942613Z",
+  "collected_at": "2026-06-28T13:52:00.645096Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7548,
+      "total_scrobbles": 7553,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7548,
-      "estimated_minutes": 26418,
-      "estimated_hours": 440.3,
-      "estimated_days": 18.3,
+      "total_scrobbles": 7553,
+      "estimated_minutes": 26436,
+      "estimated_hours": 440.6,
+      "estimated_days": 18.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 95,
-        "estimated_minutes": 332,
+        "total_scrobbles": 94,
+        "estimated_minutes": 329,
         "estimated_hours": 5.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1010,
-        "estimated_minutes": 3535,
-        "estimated_hours": 58.9,
+        "total_scrobbles": 1015,
+        "estimated_minutes": 3552,
+        "estimated_hours": 59.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5647,
-        "estimated_minutes": 19764,
-        "estimated_hours": 329.4,
+        "total_scrobbles": 5650,
+        "estimated_minutes": 19775,
+        "estimated_hours": 329.6,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 412,
+          "playcount": 413,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 138,
+          "playcount": 139,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -237,7 +237,7 @@
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 92,
+          "playcount": 93,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-28T04:05:02.877525"
+    "fetched_at": "2026-06-28T13:52:16.130944"
   }
 }
