@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-06-30T03:54:17.743819Z",
+  "collected_at": "2026-06-30T14:23:51.352926Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7568,
+      "total_scrobbles": 7577,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7568,
-      "estimated_minutes": 26488,
-      "estimated_hours": 441.5,
+      "total_scrobbles": 7577,
+      "estimated_minutes": 26520,
+      "estimated_hours": 442.0,
       "estimated_days": 18.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 106,
-        "estimated_minutes": 371,
-        "estimated_hours": 6.2,
+        "total_scrobbles": 115,
+        "estimated_minutes": 402,
+        "estimated_hours": 6.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 945,
-        "estimated_minutes": 3308,
-        "estimated_hours": 55.1,
+        "total_scrobbles": 950,
+        "estimated_minutes": 3325,
+        "estimated_hours": 55.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5663,
-        "estimated_minutes": 19820,
-        "estimated_hours": 330.3,
+        "total_scrobbles": 5669,
+        "estimated_minutes": 19842,
+        "estimated_hours": 330.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 84,
-      "total_plays_this_week": 108
+      "total_tracks_this_week": 85,
+      "total_plays_this_week": 109
     },
     "top_artists": {
       "overall": [
@@ -59,7 +59,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 188,
+          "playcount": 192,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
@@ -119,7 +119,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 38,
+          "playcount": 40,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-30T03:54:22.146384"
+    "fetched_at": "2026-06-30T14:23:55.067939"
   }
 }
