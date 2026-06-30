@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-29T15:51:11.794502Z",
+  "collected_at": "2026-06-30T03:54:17.743819Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 108,
-        "estimated_minutes": 378,
-        "estimated_hours": 6.3,
+        "total_scrobbles": 106,
+        "estimated_minutes": 371,
+        "estimated_hours": 6.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 957,
-        "estimated_minutes": 3350,
-        "estimated_hours": 55.8,
+        "total_scrobbles": 945,
+        "estimated_minutes": 3308,
+        "estimated_hours": 55.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 67,
-      "total_plays_this_week": 96
+      "total_tracks_this_week": 84,
+      "total_plays_this_week": 108
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Telephone Busy",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
-          "rank": 1
-        },
-        {
           "name": "Pyramids",
           "artist": "Frank Ocean",
           "playcount": 4,
           "url": "https://www.last.fm/music/Frank+Ocean/_/Pyramids",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "enough",
           "artist": "Michael Clifford",
           "playcount": 4,
           "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Senior Year (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 4,
           "url": "https://www.last.fm/music/The+Runarounds/_/Senior+Year+(From+The+Runarounds+Original+Series)",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Chest",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Chest",
+          "rank": 4
+        },
+        {
+          "name": "Telephone Busy",
+          "artist": "5 Seconds of Summer",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-29T15:51:16.124658"
+    "fetched_at": "2026-06-30T03:54:22.146384"
   }
 }
