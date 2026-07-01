@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-30T14:23:51.352926Z",
+  "collected_at": "2026-07-01T04:08:41.896985Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 115,
-        "estimated_minutes": 402,
-        "estimated_hours": 6.7,
+        "total_scrobbles": 75,
+        "estimated_minutes": 262,
+        "estimated_hours": 4.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 950,
-        "estimated_minutes": 3325,
-        "estimated_hours": 55.4,
+        "total_scrobbles": 908,
+        "estimated_minutes": 3178,
+        "estimated_hours": 53.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 85,
-      "total_plays_this_week": 109
+      "total_tracks_this_week": 84,
+      "total_plays_this_week": 107
     },
     "top_artists": {
       "overall": [
@@ -189,30 +189,30 @@
           "rank": 1
         },
         {
-          "name": "enough",
-          "artist": "Michael Clifford",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
-          "rank": 2
-        },
-        {
-          "name": "Senior Year (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Senior+Year+(From+The+Runarounds+Original+Series)",
-          "rank": 3
-        },
-        {
           "name": "Chest",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Chest",
+          "rank": 2
+        },
+        {
+          "name": "Lost",
+          "artist": "Frank Ocean",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Frank+Ocean/_/Lost",
+          "rank": 3
+        },
+        {
+          "name": "enough",
+          "artist": "Michael Clifford",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
           "rank": 4
         },
         {
           "name": "Telephone Busy",
           "artist": "5 Seconds of Summer",
-          "playcount": 3,
+          "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
           "rank": 5
         }
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-06-30T14:23:55.067939"
+    "fetched_at": "2026-07-01T04:08:45.877364"
   }
 }
