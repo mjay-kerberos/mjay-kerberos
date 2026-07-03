@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-03T03:31:12.098388Z",
+  "collected_at": "2026-07-03T14:11:07.382388Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 80,
-        "estimated_minutes": 280,
-        "estimated_hours": 4.7,
+        "total_scrobbles": 75,
+        "estimated_minutes": 262,
+        "estimated_hours": 4.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 924,
-        "estimated_minutes": 3234,
-        "estimated_hours": 53.9,
+        "total_scrobbles": 907,
+        "estimated_minutes": 3174,
+        "estimated_hours": 52.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
-          "name": "Pyramids",
-          "artist": "Frank Ocean",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Frank+Ocean/_/Pyramids",
-          "rank": 2
-        },
-        {
           "name": "can't slow down",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/can%27t+slow+down",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Love Songs",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Love+Songs",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 2,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 4
+        },
+        {
+          "name": "Pyramids",
+          "artist": "Frank Ocean",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Frank+Ocean/_/Pyramids",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-03T03:31:16.109764"
+    "fetched_at": "2026-07-03T14:11:11.771180"
   }
 }
