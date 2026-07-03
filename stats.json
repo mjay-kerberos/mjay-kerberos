@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-07-02T14:06:47.746547Z",
+  "collected_at": "2026-07-03T03:31:12.098388Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7592,
+      "total_scrobbles": 7611,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7592,
-      "estimated_minutes": 26572,
-      "estimated_hours": 442.9,
+      "total_scrobbles": 7611,
+      "estimated_minutes": 26638,
+      "estimated_hours": 444.0,
       "estimated_days": 18.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 86,
-        "estimated_minutes": 301,
-        "estimated_hours": 5.0,
+        "total_scrobbles": 80,
+        "estimated_minutes": 280,
+        "estimated_hours": 4.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 908,
-        "estimated_minutes": 3178,
-        "estimated_hours": 53.0,
+        "total_scrobbles": 924,
+        "estimated_minutes": 3234,
+        "estimated_hours": 53.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5677,
-        "estimated_minutes": 19870,
-        "estimated_hours": 331.2,
+        "total_scrobbles": 5694,
+        "estimated_minutes": 19929,
+        "estimated_hours": 332.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 61,
-      "total_plays_this_week": 76
+      "total_tracks_this_week": 73,
+      "total_plays_this_week": 88
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 413,
+          "playcount": 421,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -83,13 +83,13 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 147,
+          "playcount": 148,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
         {
           "name": "Almost Monday",
-          "playcount": 141,
+          "playcount": 142,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -166,54 +166,54 @@
           "rank": 8
         },
         {
+          "name": "Ghosts (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 28,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
+          "rank": 9
+        },
+        {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 28,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 9
-        },
-        {
-          "name": "Doggy (feat. Love Spells and Truly Young)",
-          "artist": "Geezer",
-          "playcount": 27,
-          "url": "https://www.last.fm/music/Geezer/_/Doggy+(feat.+Love+Spells+and+Truly+Young)",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Pyramids",
-          "artist": "Frank Ocean",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Frank+Ocean/_/Pyramids",
+          "name": "NOBLE (with The Kid LAROI)",
+          "artist": "F3miii",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
           "rank": 1
         },
         {
-          "name": "Chest",
-          "artist": "5 Seconds of Summer",
+          "name": "Pyramids",
+          "artist": "Frank Ocean",
           "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Chest",
+          "url": "https://www.last.fm/music/Frank+Ocean/_/Pyramids",
           "rank": 2
         },
         {
-          "name": "Lost",
-          "artist": "Frank Ocean",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Frank+Ocean/_/Lost",
+          "name": "can't slow down",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/can%27t+slow+down",
           "rank": 3
         },
         {
-          "name": "enough",
-          "artist": "Michael Clifford",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Michael+Clifford/_/enough",
+          "name": "Love Songs",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Love+Songs",
           "rank": 4
         },
         {
-          "name": "Telephone Busy",
-          "artist": "5 Seconds of Summer",
+          "name": "White Keys",
+          "artist": "Dominic Fike",
           "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Telephone+Busy",
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 5
         }
       ]
@@ -230,14 +230,14 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 118,
+          "playcount": 119,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 93,
+          "playcount": 96,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-02T14:06:51.646341"
+    "fetched_at": "2026-07-03T03:31:16.109764"
   }
 }
