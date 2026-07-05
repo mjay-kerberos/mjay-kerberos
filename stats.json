@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-05T03:40:18.557370Z",
+  "collected_at": "2026-07-05T13:44:46.782294Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,9 +19,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 80,
-        "estimated_minutes": 280,
-        "estimated_hours": 4.7,
+        "total_scrobbles": 77,
+        "estimated_minutes": 270,
+        "estimated_hours": 4.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-05T03:40:22.301680"
+    "fetched_at": "2026-07-05T13:44:50.295132"
   }
 }
