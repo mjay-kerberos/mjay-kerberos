@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-04T13:38:19.075176Z",
+  "collected_at": "2026-07-05T03:40:18.557370Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7611,
+      "total_scrobbles": 7629,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7611,
-      "estimated_minutes": 26638,
-      "estimated_hours": 444.0,
+      "total_scrobbles": 7629,
+      "estimated_minutes": 26702,
+      "estimated_hours": 445.0,
       "estimated_days": 18.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 71,
-        "estimated_minutes": 248,
-        "estimated_hours": 4.1,
+        "total_scrobbles": 80,
+        "estimated_minutes": 280,
+        "estimated_hours": 4.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 861,
-        "estimated_minutes": 3014,
-        "estimated_hours": 50.2,
+        "total_scrobbles": 845,
+        "estimated_minutes": 2958,
+        "estimated_hours": 49.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5694,
-        "estimated_minutes": 19929,
-        "estimated_hours": 332.1,
+        "total_scrobbles": 5710,
+        "estimated_minutes": 19985,
+        "estimated_hours": 333.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 69,
-      "total_plays_this_week": 77
+      "total_tracks_this_week": 65,
+      "total_plays_this_week": 73
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 176,
+          "playcount": 178,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Paramore",
-          "playcount": 113,
+          "playcount": 114,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 47,
+          "playcount": 48,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -147,7 +147,7 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 32,
+          "playcount": 33,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 6
         },
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "What You Know",
+          "artist": "Two Door Cinema Club",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
+          "rank": 2
+        },
+        {
           "name": "can't slow down",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/can%27t+slow+down",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Love Songs",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Love+Songs",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 2,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 4
-        },
-        {
-          "name": "Pyramids",
-          "artist": "Frank Ocean",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Frank+Ocean/_/Pyramids",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-04T13:38:23.206119"
+    "fetched_at": "2026-07-05T03:40:22.301680"
   }
 }
