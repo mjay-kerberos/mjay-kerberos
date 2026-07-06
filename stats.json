@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-05T13:44:46.782294Z",
+  "collected_at": "2026-07-06T03:49:12.582234Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7629,
+      "total_scrobbles": 7638,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7629,
-      "estimated_minutes": 26702,
-      "estimated_hours": 445.0,
-      "estimated_days": 18.5,
+      "total_scrobbles": 7638,
+      "estimated_minutes": 26733,
+      "estimated_hours": 445.6,
+      "estimated_days": 18.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 77,
-        "estimated_minutes": 270,
-        "estimated_hours": 4.5,
+        "total_scrobbles": 69,
+        "estimated_minutes": 242,
+        "estimated_hours": 4.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 845,
-        "estimated_minutes": 2958,
-        "estimated_hours": 49.3,
+        "total_scrobbles": 762,
+        "estimated_minutes": 2667,
+        "estimated_hours": 44.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5710,
-        "estimated_minutes": 19985,
-        "estimated_hours": 333.1,
+        "total_scrobbles": 5716,
+        "estimated_minutes": 20006,
+        "estimated_hours": 333.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 65,
-      "total_plays_this_week": 73
+      "total_tracks_this_week": 74,
+      "total_plays_this_week": 81
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 178,
+          "playcount": 179,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "NOBLE (with The Kid LAROI)",
-          "artist": "F3miii",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
-          "rank": 1
-        },
-        {
-          "name": "What You Know",
-          "artist": "Two Door Cinema Club",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
-          "rank": 2
-        },
-        {
-          "name": "can't slow down",
-          "artist": "Almost Monday",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Almost+Monday/_/can%27t+slow+down",
-          "rank": 3
-        },
-        {
-          "name": "Love Songs",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Love+Songs",
-          "rank": 4
-        },
-        {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 2,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 1
+        },
+        {
+          "name": "NOBLE (with The Kid LAROI)",
+          "artist": "F3miii",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
+          "rank": 2
+        },
+        {
+          "name": "Fourth of July",
+          "artist": "Fall Out Boy",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
+          "rank": 3
+        },
+        {
+          "name": "Rock That Body - House Remix",
+          "artist": "PureMiND",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/PureMiND/_/Rock+That+Body+-+House+Remix",
+          "rank": 4
+        },
+        {
+          "name": "What You Know",
+          "artist": "Two Door Cinema Club",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-05T13:44:50.295132"
+    "fetched_at": "2026-07-06T03:49:16.773274"
   }
 }
