@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-07T03:39:03.491372Z",
+  "collected_at": "2026-07-07T14:40:43.333412Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7638,
+      "total_scrobbles": 7642,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7638,
-      "estimated_minutes": 26733,
-      "estimated_hours": 445.6,
+      "total_scrobbles": 7642,
+      "estimated_minutes": 26747,
+      "estimated_hours": 445.8,
       "estimated_days": 18.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 69,
-        "estimated_minutes": 242,
-        "estimated_hours": 4.0,
+        "total_scrobbles": 64,
+        "estimated_minutes": 224,
+        "estimated_hours": 3.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 761,
-        "estimated_minutes": 2664,
-        "estimated_hours": 44.4,
+        "total_scrobbles": 765,
+        "estimated_minutes": 2678,
+        "estimated_hours": 44.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5716,
-        "estimated_minutes": 20006,
-        "estimated_hours": 333.4,
+        "total_scrobbles": 5720,
+        "estimated_minutes": 20020,
+        "estimated_hours": 333.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 64,
-      "total_plays_this_week": 69
+      "total_tracks_this_week": 65,
+      "total_plays_this_week": 71
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 179,
+          "playcount": 181,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 1
-        },
-        {
-          "name": "NOBLE (with The Kid LAROI)",
-          "artist": "F3miii",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
-          "rank": 2
-        },
-        {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
-          "playcount": 2,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 3
+          "rank": 1
         },
         {
           "name": "Rock That Body - House Remix",
           "artist": "PureMiND",
           "playcount": 2,
           "url": "https://www.last.fm/music/PureMiND/_/Rock+That+Body+-+House+Remix",
-          "rank": 4
+          "rank": 2
         },
         {
           "name": "What You Know",
           "artist": "Two Door Cinema Club",
           "playcount": 2,
           "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
+          "rank": 3
+        },
+        {
+          "name": "Easier - Live from The Vault",
+          "artist": "5 Seconds of Summer",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Easier+-+Live+from+The+Vault",
+          "rank": 4
+        },
+        {
+          "name": "istillfeelthesame",
+          "artist": "5 Seconds of Summer",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-07T03:39:07.119350"
+    "fetched_at": "2026-07-07T14:40:48.423148"
   }
 }
