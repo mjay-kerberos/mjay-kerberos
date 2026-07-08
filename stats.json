@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-07-07T14:40:43.333412Z",
+  "collected_at": "2026-07-08T02:53:59.075796Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7642,
+      "total_scrobbles": 7654,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7642,
-      "estimated_minutes": 26747,
-      "estimated_hours": 445.8,
+      "total_scrobbles": 7654,
+      "estimated_minutes": 26789,
+      "estimated_hours": 446.5,
       "estimated_days": 18.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 64,
-        "estimated_minutes": 224,
-        "estimated_hours": 3.7,
+        "total_scrobbles": 76,
+        "estimated_minutes": 266,
+        "estimated_hours": 4.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 765,
-        "estimated_minutes": 2678,
-        "estimated_hours": 44.6,
+        "total_scrobbles": 740,
+        "estimated_minutes": 2590,
+        "estimated_hours": 43.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5720,
-        "estimated_minutes": 20020,
-        "estimated_hours": 333.7,
+        "total_scrobbles": 5732,
+        "estimated_minutes": 20062,
+        "estimated_hours": 334.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -59,7 +59,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 193,
+          "playcount": 194,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
@@ -83,7 +83,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 148,
+          "playcount": 155,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
@@ -119,7 +119,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 40,
+          "playcount": 41,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 2
         },
@@ -168,14 +168,14 @@
         {
           "name": "Ghosts (From The Runarounds Original Series)",
           "artist": "The Runarounds",
-          "playcount": 28,
+          "playcount": 29,
           "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
           "rank": 9
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
-          "playcount": 28,
+          "playcount": 29,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 10
         }
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
+          "name": "Ghosts (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
+          "rank": 3
+        },
+        {
+          "name": "Minivan (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Minivan+(From+The+Runarounds+Original+Series)",
+          "rank": 4
+        },
+        {
           "name": "What You Know",
           "artist": "Two Door Cinema Club",
           "playcount": 2,
           "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
-          "rank": 3
-        },
-        {
-          "name": "Easier - Live from The Vault",
-          "artist": "5 Seconds of Summer",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Easier+-+Live+from+The+Vault",
-          "rank": 4
-        },
-        {
-          "name": "istillfeelthesame",
-          "artist": "5 Seconds of Summer",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/istillfeelthesame",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 119,
+          "playcount": 125,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-07T14:40:48.423148"
+    "fetched_at": "2026-07-08T02:54:03.006658"
   }
 }
