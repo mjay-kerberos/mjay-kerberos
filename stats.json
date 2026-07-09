@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-09T03:32:33.184379Z",
+  "collected_at": "2026-07-09T15:14:37.574536Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 81,
-        "estimated_minutes": 284,
-        "estimated_hours": 4.7,
+        "total_scrobbles": 78,
+        "estimated_minutes": 273,
+        "estimated_hours": 4.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 706,
-        "estimated_minutes": 2471,
-        "estimated_hours": 41.2,
+        "total_scrobbles": 700,
+        "estimated_minutes": 2450,
+        "estimated_hours": 40.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Ghosts (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
-          "rank": 4
-        },
-        {
           "name": "Minivan (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 2,
           "url": "https://www.last.fm/music/The+Runarounds/_/Minivan+(From+The+Runarounds+Original+Series)",
+          "rank": 4
+        },
+        {
+          "name": "What You Know",
+          "artist": "Two Door Cinema Club",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-09T03:32:36.405228"
+    "fetched_at": "2026-07-09T15:14:42.479569"
   }
 }
