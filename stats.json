@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-08T14:18:49.575946Z",
+  "collected_at": "2026-07-09T03:32:33.184379Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7663,
+      "total_scrobbles": 7675,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7663,
-      "estimated_minutes": 26820,
-      "estimated_hours": 447.0,
-      "estimated_days": 18.6,
+      "total_scrobbles": 7675,
+      "estimated_minutes": 26862,
+      "estimated_hours": 447.7,
+      "estimated_days": 18.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 85,
-        "estimated_minutes": 298,
-        "estimated_hours": 5.0,
+        "total_scrobbles": 81,
+        "estimated_minutes": 284,
+        "estimated_hours": 4.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 749,
-        "estimated_minutes": 2622,
-        "estimated_hours": 43.7,
+        "total_scrobbles": 706,
+        "estimated_minutes": 2471,
+        "estimated_hours": 41.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5740,
-        "estimated_minutes": 20090,
-        "estimated_hours": 334.8,
+        "total_scrobbles": 5748,
+        "estimated_minutes": 20118,
+        "estimated_hours": 335.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 65,
-      "total_plays_this_week": 71
+      "total_tracks_this_week": 70,
+      "total_plays_this_week": 77
     },
     "top_artists": {
       "overall": [
@@ -53,13 +53,13 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 197,
+          "playcount": 198,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
         {
           "name": "Dominic Fike",
-          "playcount": 195,
+          "playcount": 196,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 142,
+          "playcount": 144,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -189,10 +189,10 @@
           "rank": 1
         },
         {
-          "name": "Sunscreen",
-          "artist": "Ax and the Hatchetmen",
+          "name": "Papercuts",
+          "artist": "Landon Conrath",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Sunscreen",
+          "url": "https://www.last.fm/music/Landon+Conrath/_/Papercuts",
           "rank": 2
         },
         {
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-08T14:18:54.515409"
+    "fetched_at": "2026-07-09T03:32:36.405228"
   }
 }
