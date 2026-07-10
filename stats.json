@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-07-09T15:14:37.574536Z",
+  "collected_at": "2026-07-10T03:34:25.370633Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7675,
+      "total_scrobbles": 7702,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7675,
-      "estimated_minutes": 26862,
-      "estimated_hours": 447.7,
+      "total_scrobbles": 7702,
+      "estimated_minutes": 26957,
+      "estimated_hours": 449.3,
       "estimated_days": 18.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 78,
-        "estimated_minutes": 273,
-        "estimated_hours": 4.5,
+        "total_scrobbles": 89,
+        "estimated_minutes": 312,
+        "estimated_hours": 5.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 700,
-        "estimated_minutes": 2450,
-        "estimated_hours": 40.8,
+        "total_scrobbles": 697,
+        "estimated_minutes": 2440,
+        "estimated_hours": 40.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5748,
-        "estimated_minutes": 20118,
-        "estimated_hours": 335.3,
+        "total_scrobbles": 5769,
+        "estimated_minutes": 20192,
+        "estimated_hours": 336.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 70,
-      "total_plays_this_week": 77
+      "total_tracks_this_week": 74,
+      "total_plays_this_week": 82
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 421,
+          "playcount": 422,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 181,
+          "playcount": 182,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 144,
+          "playcount": 145,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "over",
+          "artist": "Kairo",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Kairo/_/over",
+          "rank": 2
+        },
+        {
           "name": "Papercuts",
           "artist": "Landon Conrath",
           "playcount": 2,
           "url": "https://www.last.fm/music/Landon+Conrath/_/Papercuts",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Rock That Body - House Remix",
           "artist": "PureMiND",
           "playcount": 2,
           "url": "https://www.last.fm/music/PureMiND/_/Rock+That+Body+-+House+Remix",
-          "rank": 3
-        },
-        {
-          "name": "Minivan (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Minivan+(From+The+Runarounds+Original+Series)",
           "rank": 4
         },
         {
-          "name": "What You Know",
-          "artist": "Two Door Cinema Club",
+          "name": "Cinderella",
+          "artist": "Remi Wolf",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
+          "url": "https://www.last.fm/music/Remi+Wolf/_/Cinderella",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-09T15:14:42.479569"
+    "fetched_at": "2026-07-10T03:34:29.393424"
   }
 }
