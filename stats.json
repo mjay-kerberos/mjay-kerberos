@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-10T14:31:56.579742Z",
+  "collected_at": "2026-07-11T02:49:42.930861Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7726,
+      "total_scrobbles": 7759,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7726,
-      "estimated_minutes": 27041,
-      "estimated_hours": 450.7,
-      "estimated_days": 18.8,
+      "total_scrobbles": 7759,
+      "estimated_minutes": 27156,
+      "estimated_hours": 452.6,
+      "estimated_days": 18.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 113,
-        "estimated_minutes": 396,
-        "estimated_hours": 6.6,
+        "total_scrobbles": 146,
+        "estimated_minutes": 511,
+        "estimated_hours": 8.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 705,
-        "estimated_minutes": 2468,
-        "estimated_hours": 41.1,
+        "total_scrobbles": 691,
+        "estimated_minutes": 2418,
+        "estimated_hours": 40.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5769,
-        "estimated_minutes": 20192,
-        "estimated_hours": 336.5,
+        "total_scrobbles": 5793,
+        "estimated_minutes": 20276,
+        "estimated_hours": 337.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 74,
-      "total_plays_this_week": 82
+      "total_tracks_this_week": 87,
+      "total_plays_this_week": 95
     },
     "top_artists": {
       "overall": [
@@ -53,31 +53,31 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 199,
+          "playcount": 200,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
         {
           "name": "Dominic Fike",
-          "playcount": 196,
+          "playcount": 197,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 182,
+          "playcount": 183,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Tate McRae",
-          "playcount": 171,
+          "playcount": 172,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
         {
           "name": "The Runarounds",
-          "playcount": 158,
+          "playcount": 159,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 145,
+          "playcount": 147,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 96,
+          "playcount": 97,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "Minivan (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Minivan+(From+The+Runarounds+Original+Series)",
+          "rank": 2
+        },
+        {
+          "name": "only wanna dance",
+          "artist": "Almost Monday",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Almost+Monday/_/only+wanna+dance",
+          "rank": 3
+        },
+        {
+          "name": "Now It's Over",
+          "artist": "Dogpark",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Dogpark/_/Now+It%27s+Over",
+          "rank": 4
+        },
+        {
           "name": "over",
           "artist": "Kairo",
           "playcount": 2,
           "url": "https://www.last.fm/music/Kairo/_/over",
-          "rank": 2
-        },
-        {
-          "name": "Papercuts",
-          "artist": "Landon Conrath",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Landon+Conrath/_/Papercuts",
-          "rank": 3
-        },
-        {
-          "name": "Rock That Body - House Remix",
-          "artist": "PureMiND",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/PureMiND/_/Rock+That+Body+-+House+Remix",
-          "rank": 4
-        },
-        {
-          "name": "Cinderella",
-          "artist": "Remi Wolf",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Remi+Wolf/_/Cinderella",
           "rank": 5
         }
       ]
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 128,
+          "playcount": 129,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-10T14:32:00.516960"
+    "fetched_at": "2026-07-11T02:49:46.650210"
   }
 }
