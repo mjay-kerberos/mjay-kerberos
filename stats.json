@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-11T13:24:14.345026Z",
+  "collected_at": "2026-07-12T03:14:00.552009Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7759,
+      "total_scrobbles": 7763,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7759,
-      "estimated_minutes": 27156,
-      "estimated_hours": 452.6,
+      "total_scrobbles": 7763,
+      "estimated_minutes": 27170,
+      "estimated_hours": 452.8,
       "estimated_days": 18.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 146,
-        "estimated_minutes": 511,
-        "estimated_hours": 8.5,
+        "total_scrobbles": 132,
+        "estimated_minutes": 462,
+        "estimated_hours": 7.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 685,
-        "estimated_minutes": 2398,
-        "estimated_hours": 40.0,
+        "total_scrobbles": 672,
+        "estimated_minutes": 2352,
+        "estimated_hours": 39.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5793,
-        "estimated_minutes": 20276,
-        "estimated_hours": 337.9,
+        "total_scrobbles": 5794,
+        "estimated_minutes": 20279,
+        "estimated_hours": 338.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 87,
-      "total_plays_this_week": 95
+      "total_tracks_this_week": 132,
+      "total_plays_this_week": 146
     },
     "top_artists": {
       "overall": [
@@ -77,7 +77,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 159,
+          "playcount": 160,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -166,47 +166,47 @@
           "rank": 8
         },
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 30,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 9
+        },
+        {
           "name": "Ghosts (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 29,
           "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
-          "rank": 9
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 29,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Fourth of July",
-          "artist": "Fall Out Boy",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 1
-        },
-        {
           "name": "Minivan (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 3,
           "url": "https://www.last.fm/music/The+Runarounds/_/Minivan+(From+The+Runarounds+Original+Series)",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "only wanna dance",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/only+wanna+dance",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Now It's Over",
           "artist": "Dogpark",
           "playcount": 2,
           "url": "https://www.last.fm/music/Dogpark/_/Now+It%27s+Over",
+          "rank": 3
+        },
+        {
+          "name": "Fourth of July",
+          "artist": "Fall Out Boy",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
           "rank": 4
         },
         {
@@ -230,7 +230,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 129,
+          "playcount": 130,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-11T13:24:19.305587"
+    "fetched_at": "2026-07-12T03:14:03.947578"
   }
 }
