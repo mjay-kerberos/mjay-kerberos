@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-12T13:24:57.051340Z",
+  "collected_at": "2026-07-13T03:16:50.798394Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 132,
-        "estimated_minutes": 462,
-        "estimated_hours": 7.7,
+        "total_scrobbles": 123,
+        "estimated_minutes": 430,
+        "estimated_hours": 7.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 665,
-        "estimated_minutes": 2328,
-        "estimated_hours": 38.8,
+        "total_scrobbles": 648,
+        "estimated_minutes": 2268,
+        "estimated_hours": 37.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 132,
-      "total_plays_this_week": 146
+      "total_tracks_this_week": 121,
+      "total_plays_this_week": 132
     },
     "top_artists": {
       "overall": [
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Fourth of July",
-          "artist": "Fall Out Boy",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 4
-        },
-        {
           "name": "over",
           "artist": "Kairo",
           "playcount": 2,
           "url": "https://www.last.fm/music/Kairo/_/over",
+          "rank": 4
+        },
+        {
+          "name": "Papercuts",
+          "artist": "Landon Conrath",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Landon+Conrath/_/Papercuts",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-12T13:25:01.368345"
+    "fetched_at": "2026-07-13T03:16:56.399197"
   }
 }
