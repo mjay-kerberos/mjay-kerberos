@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-07-14T13:49:02.484692Z",
+  "collected_at": "2026-07-15T02:39:50.313536Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7765,
+      "total_scrobbles": 7800,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7765,
-      "estimated_minutes": 27178,
-      "estimated_hours": 453.0,
-      "estimated_days": 18.9,
+      "total_scrobbles": 7800,
+      "estimated_minutes": 27300,
+      "estimated_hours": 455.0,
+      "estimated_days": 19.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 125,
-        "estimated_minutes": 438,
-        "estimated_hours": 7.3,
+        "total_scrobbles": 145,
+        "estimated_minutes": 508,
+        "estimated_hours": 8.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 641,
-        "estimated_minutes": 2244,
-        "estimated_hours": 37.4,
+        "total_scrobbles": 676,
+        "estimated_minutes": 2366,
+        "estimated_hours": 39.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5795,
-        "estimated_minutes": 20282,
-        "estimated_hours": 338.0,
+        "total_scrobbles": 5825,
+        "estimated_minutes": 20388,
+        "estimated_hours": 339.8,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -47,7 +47,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 422,
+          "playcount": 424,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,13 +59,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 197,
+          "playcount": 198,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 183,
+          "playcount": 185,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Panic! at the Disco",
-          "playcount": 97,
+          "playcount": 98,
           "url": "https://www.last.fm/music/Panic!+at+the+Disco",
           "rank": 10
         }
@@ -112,7 +112,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 48,
+          "playcount": 49,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Minivan (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
+          "name": "Richman",
+          "artist": "3OH!3",
           "playcount": 3,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Minivan+(From+The+Runarounds+Original+Series)",
+          "url": "https://www.last.fm/music/3OH!3/_/Richman",
           "rank": 1
+        },
+        {
+          "name": "Now It's Over",
+          "artist": "Dogpark",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Dogpark/_/Now+It%27s+Over",
+          "rank": 2
+        },
+        {
+          "name": "Don't Stop",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Don%27t+Stop",
+          "rank": 3
         },
         {
           "name": "only wanna dance",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/only+wanna+dance",
-          "rank": 2
-        },
-        {
-          "name": "Now It's Over",
-          "artist": "Dogpark",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dogpark/_/Now+It%27s+Over",
-          "rank": 3
-        },
-        {
-          "name": "over",
-          "artist": "Kairo",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Kairo/_/over",
           "rank": 4
         },
         {
-          "name": "Papercuts",
-          "artist": "Landon Conrath",
+          "name": "Life Was Easier When I Only Cared About Me",
+          "artist": "Bad Suns",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Landon+Conrath/_/Papercuts",
+          "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
           "rank": 5
         }
       ]
@@ -244,7 +244,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 90,
+          "playcount": 91,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-14T13:49:06.439703"
+    "fetched_at": "2026-07-15T02:39:53.578881"
   }
 }
