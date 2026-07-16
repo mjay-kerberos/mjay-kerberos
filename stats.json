@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-15T13:47:26.456061Z",
+  "collected_at": "2026-07-16T02:46:53.392831Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7800,
+      "total_scrobbles": 7808,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7800,
-      "estimated_minutes": 27300,
-      "estimated_hours": 455.0,
+      "total_scrobbles": 7808,
+      "estimated_minutes": 27328,
+      "estimated_hours": 455.5,
       "estimated_days": 19.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 137,
-        "estimated_minutes": 480,
-        "estimated_hours": 8.0,
+        "total_scrobbles": 132,
+        "estimated_minutes": 462,
+        "estimated_hours": 7.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 636,
-        "estimated_minutes": 2226,
-        "estimated_hours": 37.1,
+        "total_scrobbles": 627,
+        "estimated_minutes": 2194,
+        "estimated_hours": 36.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5825,
-        "estimated_minutes": 20388,
-        "estimated_hours": 339.8,
+        "total_scrobbles": 5833,
+        "estimated_minutes": 20416,
+        "estimated_hours": 340.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 116,
-      "total_plays_this_week": 125
+      "total_tracks_this_week": 124,
+      "total_plays_this_week": 145
     },
     "top_artists": {
       "overall": [
@@ -65,7 +65,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 185,
+          "playcount": 186,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -131,17 +131,17 @@
           "rank": 3
         },
         {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 35,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 4
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 33,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 4
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 33,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 5
         },
         {
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "Savior",
+          "artist": "Daniel Seavey",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Daniel+Seavey/_/Savior",
+          "rank": 2
+        },
+        {
           "name": "Now It's Over",
           "artist": "Dogpark",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dogpark/_/Now+It%27s+Over",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Don't Stop",
           "artist": "5 Seconds of Summer",
           "playcount": 2,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Don%27t+Stop",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "only wanna dance",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/only+wanna+dance",
-          "rank": 4
-        },
-        {
-          "name": "Life Was Easier When I Only Cared About Me",
-          "artist": "Bad Suns",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-15T13:47:32.207524"
+    "fetched_at": "2026-07-16T02:46:57.836379"
   }
 }
