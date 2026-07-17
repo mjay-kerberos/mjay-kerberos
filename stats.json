@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-16T13:58:06.995900Z",
+  "collected_at": "2026-07-17T02:49:10.700395Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 132,
-        "estimated_minutes": 462,
-        "estimated_hours": 7.7,
+        "total_scrobbles": 106,
+        "estimated_minutes": 371,
+        "estimated_hours": 6.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 627,
-        "estimated_minutes": 2194,
-        "estimated_hours": 36.6,
+        "total_scrobbles": 626,
+        "estimated_minutes": 2191,
+        "estimated_hours": 36.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 124,
-      "total_plays_this_week": 145
+      "total_tracks_this_week": 112,
+      "total_plays_this_week": 132
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Richman",
-          "artist": "3OH!3",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/3OH!3/_/Richman",
-          "rank": 1
-        },
-        {
-          "name": "Savior",
-          "artist": "Daniel Seavey",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Daniel+Seavey/_/Savior",
-          "rank": 2
-        },
-        {
           "name": "Now It's Over",
           "artist": "Dogpark",
           "playcount": 3,
           "url": "https://www.last.fm/music/Dogpark/_/Now+It%27s+Over",
-          "rank": 3
+          "rank": 1
         },
         {
-          "name": "Don't Stop",
-          "artist": "5 Seconds of Summer",
+          "name": "Richman",
+          "artist": "3OH!3",
           "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Don%27t+Stop",
-          "rank": 4
+          "url": "https://www.last.fm/music/3OH!3/_/Richman",
+          "rank": 2
         },
         {
           "name": "only wanna dance",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/only+wanna+dance",
+          "rank": 3
+        },
+        {
+          "name": "Life Was Easier When I Only Cared About Me",
+          "artist": "Bad Suns",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
+          "rank": 4
+        },
+        {
+          "name": "Savior",
+          "artist": "Daniel Seavey",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Daniel+Seavey/_/Savior",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-16T13:58:11.980937"
+    "fetched_at": "2026-07-17T02:49:14.066447"
   }
 }
