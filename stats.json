@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-07-17T02:49:10.700395Z",
+  "collected_at": "2026-07-17T13:43:06.370327Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7808,
+      "total_scrobbles": 7837,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7808,
-      "estimated_minutes": 27328,
-      "estimated_hours": 455.5,
+      "total_scrobbles": 7837,
+      "estimated_minutes": 27430,
+      "estimated_hours": 457.2,
       "estimated_days": 19.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 106,
-        "estimated_minutes": 371,
-        "estimated_hours": 6.2,
+        "total_scrobbles": 124,
+        "estimated_minutes": 434,
+        "estimated_hours": 7.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 626,
-        "estimated_minutes": 2191,
-        "estimated_hours": 36.5,
+        "total_scrobbles": 655,
+        "estimated_minutes": 2292,
+        "estimated_hours": 38.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5833,
-        "estimated_minutes": 20416,
-        "estimated_hours": 340.3,
+        "total_scrobbles": 5835,
+        "estimated_minutes": 20422,
+        "estimated_hours": 340.4,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -52,15 +52,15 @@
           "rank": 1
         },
         {
-          "name": "Malcolm Todd",
-          "playcount": 200,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "name": "Dominic Fike",
+          "playcount": 201,
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 2
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 198,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Malcolm Todd",
+          "playcount": 200,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 3
         },
         {
@@ -189,31 +189,31 @@
           "rank": 1
         },
         {
+          "name": "Meltdown",
+          "artist": "Kid Travis",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Kid+Travis/_/Meltdown",
+          "rank": 2
+        },
+        {
           "name": "Richman",
           "artist": "3OH!3",
           "playcount": 2,
           "url": "https://www.last.fm/music/3OH!3/_/Richman",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "only wanna dance",
           "artist": "Almost Monday",
           "playcount": 2,
           "url": "https://www.last.fm/music/Almost+Monday/_/only+wanna+dance",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Life Was Easier When I Only Cared About Me",
           "artist": "Bad Suns",
           "playcount": 2,
           "url": "https://www.last.fm/music/Bad+Suns/_/Life+Was+Easier+When+I+Only+Cared+About+Me",
-          "rank": 4
-        },
-        {
-          "name": "Savior",
-          "artist": "Daniel Seavey",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Daniel+Seavey/_/Savior",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-17T02:49:14.066447"
+    "fetched_at": "2026-07-17T13:43:10.663852"
   }
 }
