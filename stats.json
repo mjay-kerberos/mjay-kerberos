@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-18T13:20:16.629709Z",
+  "collected_at": "2026-07-19T02:55:42.029756Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7872,
+      "total_scrobbles": 7893,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7872,
-      "estimated_minutes": 27552,
-      "estimated_hours": 459.2,
-      "estimated_days": 19.1,
+      "total_scrobbles": 7893,
+      "estimated_minutes": 27626,
+      "estimated_hours": 460.4,
+      "estimated_days": 19.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 113,
-        "estimated_minutes": 396,
-        "estimated_hours": 6.6,
+        "total_scrobbles": 129,
+        "estimated_minutes": 452,
+        "estimated_hours": 7.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 668,
-        "estimated_minutes": 2338,
-        "estimated_hours": 39.0,
+        "total_scrobbles": 615,
+        "estimated_minutes": 2152,
+        "estimated_hours": 35.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5852,
-        "estimated_minutes": 20482,
-        "estimated_hours": 341.4,
+        "total_scrobbles": 5865,
+        "estimated_minutes": 20528,
+        "estimated_hours": 342.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 109,
-      "total_plays_this_week": 122
+      "total_tracks_this_week": 108,
+      "total_plays_this_week": 116
     },
     "top_artists": {
       "overall": [
@@ -59,7 +59,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 201,
+          "playcount": 202,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 3
         },
@@ -154,7 +154,7 @@
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 32,
+          "playcount": 33,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 7
         },
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
+          "name": "Janice STFU",
+          "artist": "Drake",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
+          "rank": 1
+        },
+        {
           "name": "Richman",
           "artist": "3OH!3",
           "playcount": 2,
           "url": "https://www.last.fm/music/3OH!3/_/Richman",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "Savior",
           "artist": "Daniel Seavey",
           "playcount": 2,
           "url": "https://www.last.fm/music/Daniel+Seavey/_/Savior",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
           "playcount": 2,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
           "playcount": 2,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
-          "rank": 4
-        },
-        {
-          "name": "Janice STFU",
-          "artist": "Drake",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
           "rank": 5
         }
       ]
@@ -251,12 +251,12 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 90,
+          "playcount": 91,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-07-18T13:20:21.314549"
+    "fetched_at": "2026-07-19T02:55:47.106600"
   }
 }
