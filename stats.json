@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-07-19T13:21:38.520903Z",
+  "collected_at": "2026-07-20T03:53:28.059000Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7893,
+      "total_scrobbles": 7934,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7893,
-      "estimated_minutes": 27626,
-      "estimated_hours": 460.4,
-      "estimated_days": 19.2,
+      "total_scrobbles": 7934,
+      "estimated_minutes": 27769,
+      "estimated_hours": 462.8,
+      "estimated_days": 19.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 129,
-        "estimated_minutes": 452,
-        "estimated_hours": 7.5,
+        "total_scrobbles": 169,
+        "estimated_minutes": 592,
+        "estimated_hours": 9.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 606,
-        "estimated_minutes": 2121,
-        "estimated_hours": 35.4,
+        "total_scrobbles": 552,
+        "estimated_minutes": 1932,
+        "estimated_hours": 32.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5865,
-        "estimated_minutes": 20528,
-        "estimated_hours": 342.1,
+        "total_scrobbles": 5889,
+        "estimated_minutes": 20612,
+        "estimated_hours": 343.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 108,
-      "total_plays_this_week": 116
+      "total_tracks_this_week": 117,
+      "total_plays_this_week": 133
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 424,
+          "playcount": 425,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -59,7 +59,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 202,
+          "playcount": 204,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 3
         },
@@ -83,7 +83,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 156,
+          "playcount": 157,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 7
         },
@@ -126,7 +126,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 3
         },
@@ -140,22 +140,22 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 5
+        },
+        {
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 35,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 6
         },
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 33,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 6
-        },
-        {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
-          "playcount": 33,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 7
         },
         {
@@ -184,36 +184,36 @@
         {
           "name": "Janice STFU",
           "artist": "Drake",
-          "playcount": 3,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
           "rank": 1
         },
         {
-          "name": "Richman",
-          "artist": "3OH!3",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/3OH!3/_/Richman",
+          "name": "NOBLE (with The Kid LAROI)",
+          "artist": "F3miii",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
           "rank": 2
         },
         {
-          "name": "Savior",
-          "artist": "Daniel Seavey",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Daniel+Seavey/_/Savior",
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 3
         },
         {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "name": "Richman",
+          "artist": "3OH!3",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/3OH!3/_/Richman",
           "rank": 4
         },
         {
-          "name": "White Keys",
-          "artist": "Dominic Fike",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "name": "MORNING DEW (DONK)",
+          "artist": "Beyonc\u00e9",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Beyonc%C3%A9/_/MORNING+DEW+(DONK)",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 145,
+          "playcount": 146,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -237,26 +237,26 @@
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 96,
+          "playcount": 97,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
+        },
+        {
+          "name": "Sweet Boy",
+          "artist": "Malcolm Todd",
+          "playcount": 93,
+          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
+          "rank": 4
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
           "playcount": 91,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
-          "rank": 4
-        },
-        {
-          "name": "Sweet Boy",
-          "artist": "Malcolm Todd",
-          "playcount": 91,
-          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-07-19T13:21:42.158012"
+    "fetched_at": "2026-07-20T03:53:32.466807"
   }
 }
