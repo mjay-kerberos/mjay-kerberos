@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-07-20T03:53:28.059000Z",
+  "collected_at": "2026-07-20T14:10:09.546261Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7934,
+      "total_scrobbles": 7946,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7934,
-      "estimated_minutes": 27769,
-      "estimated_hours": 462.8,
+      "total_scrobbles": 7946,
+      "estimated_minutes": 27811,
+      "estimated_hours": 463.5,
       "estimated_days": 19.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 169,
-        "estimated_minutes": 592,
-        "estimated_hours": 9.9,
+        "total_scrobbles": 181,
+        "estimated_minutes": 634,
+        "estimated_hours": 10.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 552,
-        "estimated_minutes": 1932,
-        "estimated_hours": 32.2,
+        "total_scrobbles": 547,
+        "estimated_minutes": 1914,
+        "estimated_hours": 31.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5889,
-        "estimated_minutes": 20612,
-        "estimated_hours": 343.5,
+        "total_scrobbles": 5891,
+        "estimated_minutes": 20618,
+        "estimated_hours": 343.6,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -184,7 +184,7 @@
         {
           "name": "Janice STFU",
           "artist": "Drake",
-          "playcount": 6,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-20T03:53:32.466807"
+    "fetched_at": "2026-07-20T14:10:15.163803"
   }
 }
