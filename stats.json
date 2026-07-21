@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-20T14:10:09.546261Z",
+  "collected_at": "2026-07-21T02:52:03.703614Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7946,
+      "total_scrobbles": 7967,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7946,
-      "estimated_minutes": 27811,
-      "estimated_hours": 463.5,
-      "estimated_days": 19.3,
+      "total_scrobbles": 7967,
+      "estimated_minutes": 27884,
+      "estimated_hours": 464.7,
+      "estimated_days": 19.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 181,
-        "estimated_minutes": 634,
-        "estimated_hours": 10.6,
+        "total_scrobbles": 202,
+        "estimated_minutes": 707,
+        "estimated_hours": 11.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 547,
-        "estimated_minutes": 1914,
-        "estimated_hours": 31.9,
+        "total_scrobbles": 514,
+        "estimated_minutes": 1799,
+        "estimated_hours": 30.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5891,
-        "estimated_minutes": 20618,
-        "estimated_hours": 343.6,
+        "total_scrobbles": 5892,
+        "estimated_minutes": 20622,
+        "estimated_hours": 343.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 117,
-      "total_plays_this_week": 133
+      "total_tracks_this_week": 143,
+      "total_plays_this_week": 182
     },
     "top_artists": {
       "overall": [
@@ -196,24 +196,24 @@
           "rank": 2
         },
         {
+          "name": "DIFFERENT",
+          "artist": "LE SSERAFIM",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/LE+SSERAFIM/_/DIFFERENT",
+          "rank": 3
+        },
+        {
           "name": "Earrings",
           "artist": "Malcolm Todd",
           "playcount": 4,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Richman",
           "artist": "3OH!3",
           "playcount": 3,
           "url": "https://www.last.fm/music/3OH!3/_/Richman",
-          "rank": 4
-        },
-        {
-          "name": "MORNING DEW (DONK)",
-          "artist": "Beyonc\u00e9",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Beyonc%C3%A9/_/MORNING+DEW+(DONK)",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-20T14:10:15.163803"
+    "fetched_at": "2026-07-21T02:52:07.396940"
   }
 }
