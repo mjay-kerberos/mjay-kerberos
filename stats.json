@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-21T13:56:45.905638Z",
+  "collected_at": "2026-07-22T02:49:48.544505Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 7973,
+      "total_scrobbles": 8000,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 7973,
-      "estimated_minutes": 27906,
-      "estimated_hours": 465.1,
+      "total_scrobbles": 8000,
+      "estimated_minutes": 28000,
+      "estimated_hours": 466.7,
       "estimated_days": 19.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 208,
-        "estimated_minutes": 728,
-        "estimated_hours": 12.1,
+        "total_scrobbles": 200,
+        "estimated_minutes": 700,
+        "estimated_hours": 11.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 514,
-        "estimated_minutes": 1799,
-        "estimated_hours": 30.0,
+        "total_scrobbles": 540,
+        "estimated_minutes": 1890,
+        "estimated_hours": 31.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5892,
-        "estimated_minutes": 20622,
-        "estimated_hours": 343.7,
+        "total_scrobbles": 5898,
+        "estimated_minutes": 20643,
+        "estimated_hours": 344.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 143,
-      "total_plays_this_week": 182
+      "total_tracks_this_week": 165,
+      "total_plays_this_week": 209
     },
     "top_artists": {
       "overall": [
@@ -83,7 +83,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 157,
+          "playcount": 159,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 7
         },
@@ -126,7 +126,7 @@
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
           "rank": 3
         },
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "Richman",
-          "artist": "3OH!3",
+          "name": "capaz (merengueton)",
+          "artist": "Alleh",
           "playcount": 3,
-          "url": "https://www.last.fm/music/3OH!3/_/Richman",
+          "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 146,
+          "playcount": 148,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-21T13:56:50.792577"
+    "fetched_at": "2026-07-22T02:49:53.234883"
   }
 }
