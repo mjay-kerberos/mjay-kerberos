@@ -1,53 +1,53 @@
 {
-  "collected_at": "2026-07-22T14:00:48.676161Z",
+  "collected_at": "2026-07-23T02:56:12.544379Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8000,
+      "total_scrobbles": 8059,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8000,
-      "estimated_minutes": 28000,
-      "estimated_hours": 466.7,
-      "estimated_days": 19.4,
+      "total_scrobbles": 8059,
+      "estimated_minutes": 28206,
+      "estimated_hours": 470.1,
+      "estimated_days": 19.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 200,
-        "estimated_minutes": 700,
-        "estimated_hours": 11.7,
+        "total_scrobbles": 251,
+        "estimated_minutes": 878,
+        "estimated_hours": 14.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 540,
-        "estimated_minutes": 1890,
-        "estimated_hours": 31.5,
+        "total_scrobbles": 597,
+        "estimated_minutes": 2090,
+        "estimated_hours": 34.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5898,
-        "estimated_minutes": 20643,
-        "estimated_hours": 344.1,
+        "total_scrobbles": 5937,
+        "estimated_minutes": 20780,
+        "estimated_hours": 346.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 165,
-      "total_plays_this_week": 209
+      "total_tracks_this_week": 158,
+      "total_plays_this_week": 200
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 425,
+          "playcount": 439,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -76,15 +76,15 @@
           "rank": 5
         },
         {
-          "name": "The Runarounds",
+          "name": "Bad Bunny",
           "playcount": 160,
-          "url": "https://www.last.fm/music/The+Runarounds",
+          "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 6
         },
         {
-          "name": "Bad Bunny",
-          "playcount": 159,
-          "url": "https://www.last.fm/music/Bad+Bunny",
+          "name": "The Runarounds",
+          "playcount": 160,
+          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
         {
@@ -133,7 +133,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 35,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 4
         },
@@ -184,36 +184,36 @@
         {
           "name": "Janice STFU",
           "artist": "Drake",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
           "rank": 1
+        },
+        {
+          "name": "capaz (merengueton)",
+          "artist": "Alleh",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
+          "rank": 2
         },
         {
           "name": "NOBLE (with The Kid LAROI)",
           "artist": "F3miii",
           "playcount": 5,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "DIFFERENT",
           "artist": "LE SSERAFIM",
           "playcount": 4,
           "url": "https://www.last.fm/music/LE+SSERAFIM/_/DIFFERENT",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
           "playcount": 4,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
-          "rank": 4
-        },
-        {
-          "name": "capaz (merengueton)",
-          "artist": "Alleh",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 5
         }
       ]
@@ -223,7 +223,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 148,
+          "playcount": 149,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -237,7 +237,7 @@
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 97,
+          "playcount": 101,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
         },
@@ -251,12 +251,12 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 91,
+          "playcount": 92,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-07-22T14:00:52.009110"
+    "fetched_at": "2026-07-23T02:56:15.869990"
   }
 }
