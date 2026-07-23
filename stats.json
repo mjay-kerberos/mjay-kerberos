@@ -1,41 +1,41 @@
 {
-  "collected_at": "2026-07-23T02:56:12.544379Z",
+  "collected_at": "2026-07-23T14:05:49.851524Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8059,
+      "total_scrobbles": 8064,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8059,
-      "estimated_minutes": 28206,
-      "estimated_hours": 470.1,
+      "total_scrobbles": 8064,
+      "estimated_minutes": 28224,
+      "estimated_hours": 470.4,
       "estimated_days": 19.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 251,
-        "estimated_minutes": 878,
-        "estimated_hours": 14.6,
+        "total_scrobbles": 256,
+        "estimated_minutes": 896,
+        "estimated_hours": 14.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 597,
-        "estimated_minutes": 2090,
-        "estimated_hours": 34.8,
+        "total_scrobbles": 602,
+        "estimated_minutes": 2107,
+        "estimated_hours": 35.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5937,
-        "estimated_minutes": 20780,
-        "estimated_hours": 346.3,
+        "total_scrobbles": 5941,
+        "estimated_minutes": 20794,
+        "estimated_hours": 346.6,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -100,9 +100,9 @@
           "rank": 9
         },
         {
-          "name": "Panic! at the Disco",
+          "name": "Don Toliver",
           "playcount": 98,
-          "url": "https://www.last.fm/music/Panic!+at+the+Disco",
+          "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 10
         }
       ]
@@ -184,7 +184,7 @@
         {
           "name": "Janice STFU",
           "artist": "Drake",
-          "playcount": 8,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
           "rank": 1
         },
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
+          "name": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-23T02:56:15.869990"
+    "fetched_at": "2026-07-23T14:05:54.949587"
   }
 }
