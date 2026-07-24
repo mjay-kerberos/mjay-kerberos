@@ -1,47 +1,47 @@
 {
-  "collected_at": "2026-07-23T14:05:49.851524Z",
+  "collected_at": "2026-07-24T02:50:24.537331Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8064,
+      "total_scrobbles": 8095,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8064,
-      "estimated_minutes": 28224,
-      "estimated_hours": 470.4,
-      "estimated_days": 19.6,
+      "total_scrobbles": 8095,
+      "estimated_minutes": 28332,
+      "estimated_hours": 472.2,
+      "estimated_days": 19.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 256,
-        "estimated_minutes": 896,
-        "estimated_hours": 14.9,
+        "total_scrobbles": 286,
+        "estimated_minutes": 1001,
+        "estimated_hours": 16.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 602,
-        "estimated_minutes": 2107,
-        "estimated_hours": 35.1,
+        "total_scrobbles": 593,
+        "estimated_minutes": 2076,
+        "estimated_hours": 34.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5941,
-        "estimated_minutes": 20794,
-        "estimated_hours": 346.6,
+        "total_scrobbles": 5956,
+        "estimated_minutes": 20846,
+        "estimated_hours": 347.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 158,
-      "total_plays_this_week": 200
+      "total_tracks_this_week": 199,
+      "total_plays_this_week": 252
     },
     "top_artists": {
       "overall": [
@@ -53,13 +53,13 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 204,
+          "playcount": 205,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 2
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 204,
+          "playcount": 205,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 3
         },
@@ -89,7 +89,7 @@
         },
         {
           "name": "Almost Monday",
-          "playcount": 148,
+          "playcount": 149,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 98,
+          "playcount": 99,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 10
         }
@@ -244,7 +244,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 93,
+          "playcount": 94,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-23T14:05:54.949587"
+    "fetched_at": "2026-07-24T02:50:28.695453"
   }
 }
