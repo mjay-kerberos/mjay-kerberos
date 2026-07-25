@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-24T13:48:46.581634Z",
+  "collected_at": "2026-07-25T02:49:46.217507Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 256,
-        "estimated_minutes": 896,
-        "estimated_hours": 14.9,
+        "total_scrobbles": 218,
+        "estimated_minutes": 763,
+        "estimated_hours": 12.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 593,
-        "estimated_minutes": 2076,
-        "estimated_hours": 34.6,
+        "total_scrobbles": 589,
+        "estimated_minutes": 2062,
+        "estimated_hours": 34.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 199,
-      "total_plays_this_week": 252
+      "total_tracks_this_week": 202,
+      "total_plays_this_week": 265
     },
     "top_artists": {
       "overall": [
@@ -184,7 +184,7 @@
         {
           "name": "Janice STFU",
           "artist": "Drake",
-          "playcount": 9,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
           "rank": 1
         },
@@ -198,7 +198,7 @@
         {
           "name": "NOBLE (with The Kid LAROI)",
           "artist": "F3miii",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
           "rank": 3
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-24T13:48:50.624826"
+    "fetched_at": "2026-07-25T02:49:49.719200"
   }
 }
