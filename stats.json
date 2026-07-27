@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27T03:24:20.190426Z",
+  "collected_at": "2026-07-27T14:39:50.781120Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,9 +19,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 166,
-        "estimated_minutes": 581,
-        "estimated_hours": 9.7,
+        "total_scrobbles": 148,
+        "estimated_minutes": 518,
+        "estimated_hours": 8.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "DIFFERENT",
-          "artist": "LE SSERAFIM",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/LE+SSERAFIM/_/DIFFERENT",
-          "rank": 1
-        },
-        {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
+          "rank": 1
+        },
+        {
+          "name": "la culpa (track 11)",
+          "artist": "Alleh",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Alleh/_/la+culpa+(track+11)",
           "rank": 2
+        },
+        {
+          "name": "Janice STFU",
+          "artist": "Drake",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
+          "rank": 3
         },
         {
           "name": "Matsuri",
           "artist": "Fujii Kaze",
-          "playcount": 3,
+          "playcount": 2,
           "url": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri",
-          "rank": 3
-        },
-        {
-          "name": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
           "rank": 4
         },
         {
-          "name": "LOST IN PARADISE",
-          "artist": "Ali",
+          "name": "Meltdown",
+          "artist": "Kid Travis",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Ali/_/LOST+IN+PARADISE",
+          "url": "https://www.last.fm/music/Kid+Travis/_/Meltdown",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-27T03:24:24.303599"
+    "fetched_at": "2026-07-27T14:39:55.586453"
   }
 }
