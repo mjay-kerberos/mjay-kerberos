@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-26T13:27:01.471822Z",
+  "collected_at": "2026-07-27T03:24:20.190426Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 198,
-        "estimated_minutes": 693,
-        "estimated_hours": 11.6,
+        "total_scrobbles": 166,
+        "estimated_minutes": 581,
+        "estimated_hours": 9.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 560,
-        "estimated_minutes": 1960,
-        "estimated_hours": 32.7,
+        "total_scrobbles": 555,
+        "estimated_minutes": 1942,
+        "estimated_hours": 32.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 175,
-      "total_plays_this_week": 218
+      "total_tracks_this_week": 165,
+      "total_plays_this_week": 198
     },
     "top_artists": {
       "overall": [
@@ -182,38 +182,38 @@
       ],
       "week": [
         {
-          "name": "Janice STFU",
-          "artist": "Drake",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Drake/_/Janice+STFU",
+          "name": "DIFFERENT",
+          "artist": "LE SSERAFIM",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/LE+SSERAFIM/_/DIFFERENT",
           "rank": 1
         },
         {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
-          "playcount": 5,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 2
         },
         {
-          "name": "DIFFERENT",
-          "artist": "LE SSERAFIM",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/LE+SSERAFIM/_/DIFFERENT",
+          "name": "Matsuri",
+          "artist": "Fujii Kaze",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri",
           "rank": 3
         },
         {
           "name": "Cinderella (feat. Ty Dolla $ign)",
           "artist": "Mac Miller",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
           "rank": 4
         },
         {
-          "name": "NOBLE (with The Kid LAROI)",
-          "artist": "F3miii",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/F3miii/_/NOBLE+(with+The+Kid+LAROI)",
+          "name": "LOST IN PARADISE",
+          "artist": "Ali",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Ali/_/LOST+IN+PARADISE",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-26T13:27:05.034874"
+    "fetched_at": "2026-07-27T03:24:24.303599"
   }
 }
