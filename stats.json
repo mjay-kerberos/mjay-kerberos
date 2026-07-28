@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27T14:39:50.781120Z",
+  "collected_at": "2026-07-28T02:41:57.598545Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 148,
-        "estimated_minutes": 518,
-        "estimated_hours": 8.6,
+        "total_scrobbles": 129,
+        "estimated_minutes": 452,
+        "estimated_hours": 7.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 555,
-        "estimated_minutes": 1942,
-        "estimated_hours": 32.4,
+        "total_scrobbles": 546,
+        "estimated_minutes": 1911,
+        "estimated_hours": 31.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 165,
-      "total_plays_this_week": 198
+      "total_tracks_this_week": 139,
+      "total_plays_this_week": 148
     },
     "top_artists": {
       "overall": [
@@ -203,17 +203,17 @@
           "rank": 3
         },
         {
-          "name": "Matsuri",
-          "artist": "Fujii Kaze",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri",
-          "rank": 4
-        },
-        {
           "name": "Meltdown",
           "artist": "Kid Travis",
           "playcount": 2,
           "url": "https://www.last.fm/music/Kid+Travis/_/Meltdown",
+          "rank": 4
+        },
+        {
+          "name": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-27T14:39:55.586453"
+    "fetched_at": "2026-07-28T02:42:02.059695"
   }
 }
