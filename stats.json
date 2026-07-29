@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-28T14:11:51.409758Z",
+  "collected_at": "2026-07-29T02:49:14.999909Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 121,
-        "estimated_minutes": 424,
-        "estimated_hours": 7.1,
+        "total_scrobbles": 95,
+        "estimated_minutes": 332,
+        "estimated_hours": 5.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 542,
-        "estimated_minutes": 1897,
-        "estimated_hours": 31.6,
+        "total_scrobbles": 526,
+        "estimated_minutes": 1841,
+        "estimated_hours": 30.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 139,
-      "total_plays_this_week": 148
+      "total_tracks_this_week": 115,
+      "total_plays_this_week": 121
     },
     "top_artists": {
       "overall": [
@@ -184,7 +184,7 @@
         {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
-          "playcount": 3,
+          "playcount": 2,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 1
         },
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-28T14:11:56.347852"
+    "fetched_at": "2026-07-29T02:49:18.657032"
   }
 }
