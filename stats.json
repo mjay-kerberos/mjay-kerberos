@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-30T02:33:54.982849Z",
+  "collected_at": "2026-07-30T14:07:05.206485Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,16 +19,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 38,
-        "estimated_minutes": 133,
-        "estimated_hours": 2.2,
+        "total_scrobbles": 30,
+        "estimated_minutes": 105,
+        "estimated_hours": 1.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 526,
-        "estimated_minutes": 1841,
-        "estimated_hours": 30.7,
+        "total_scrobbles": 518,
+        "estimated_minutes": 1813,
+        "estimated_hours": 30.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -210,10 +210,10 @@
           "rank": 4
         },
         {
-          "name": "Daft Pretty Boys",
-          "artist": "Bad Suns",
+          "name": "my type",
+          "artist": "brb.",
           "playcount": 1,
-          "url": "https://www.last.fm/music/Bad+Suns/_/Daft+Pretty+Boys",
+          "url": "https://www.last.fm/music/brb./_/my+type",
           "rank": 5
         }
       ]
@@ -257,6 +257,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-30T02:33:59.079606"
+    "fetched_at": "2026-07-30T14:07:08.501726"
   }
 }
