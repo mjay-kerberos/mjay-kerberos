@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-30T14:07:05.206485Z",
+  "collected_at": "2026-07-31T03:15:00.201998Z",
   "lastfm": {
     "user": {
       "username": "julie-xandria",
@@ -19,15 +19,15 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 30,
-        "estimated_minutes": 105,
-        "estimated_hours": 1.8,
+        "total_scrobbles": 0,
+        "estimated_minutes": 0,
+        "estimated_hours": 0.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 518,
-        "estimated_minutes": 1813,
+        "total_scrobbles": 517,
+        "estimated_minutes": 1810,
         "estimated_hours": 30.2,
         "avg_track_duration_assumed": 3.5
       },
@@ -40,8 +40,8 @@
       }
     },
     "weekly_stats": {
-      "total_tracks_this_week": 90,
-      "total_plays_this_week": 95
+      "total_tracks_this_week": 35,
+      "total_plays_this_week": 35
     },
     "top_artists": {
       "overall": [
@@ -180,43 +180,7 @@
           "rank": 10
         }
       ],
-      "week": [
-        {
-          "name": "Richman",
-          "artist": "3OH!3",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/3OH!3/_/Richman",
-          "rank": 1
-        },
-        {
-          "name": "only wanna dance",
-          "artist": "Almost Monday",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Almost+Monday/_/only+wanna+dance",
-          "rank": 2
-        },
-        {
-          "name": "I Jusswon",
-          "artist": "Anthony Russo",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Anthony+Russo/_/I+Jusswon",
-          "rank": 3
-        },
-        {
-          "name": "Hands On You",
-          "artist": "Austin George",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/Austin+George/_/Hands+On+You",
-          "rank": 4
-        },
-        {
-          "name": "my type",
-          "artist": "brb.",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/brb./_/my+type",
-          "rank": 5
-        }
-      ]
+      "week": []
     },
     "top_albums": {
       "overall": [
@@ -257,6 +221,6 @@
         }
       ]
     },
-    "fetched_at": "2026-07-30T14:07:08.501726"
+    "fetched_at": "2026-07-31T03:15:05.311078"
   }
 }
