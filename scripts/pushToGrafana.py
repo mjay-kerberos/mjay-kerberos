@@ -99,27 +99,45 @@ def collect_ctf_stats() -> dict:
         return {}
 
 
+def load_previous_stats() -> dict:
+    """Last committed stats.json (repo root), used as a fallback when a source fails."""
+    for path in ("../stats.json", "stats.json"):
+        try:
+            with open(path) as f:
+                return json.load(f)
+        except Exception:  # noqa: BLE001
+            continue
+    return {}
+
+
 def main():
     print("Starting stats collection...")
 
+    previous = load_previous_stats()
     stats = {
         "collected_at": datetime.utcnow().isoformat() + "Z"
     }
+    errors = []
 
-    # --- GitHub ---
-    gh_stats = collect_github_stats()
-    if gh_stats:
-        stats["github"] = gh_stats
+    # A source that fails keeps its previous values instead of disappearing
+    # from stats.json (which made Grafana panels show "No data").
+    for key, collect, required in (
+        ("github", collect_github_stats, True),
+        ("lastfm", collect_lastfm_stats, True),
+        ("ctf", collect_ctf_stats, False),
+    ):
+        result = collect()
+        if result:
+            stats[key] = result
+        else:
+            if required:
+                errors.append(f"{key} collection failed")
+            if key in previous:
+                print(f"{key}: using previous values from last run")
+                stats[key] = previous[key]
 
-    # --- Last.fm ---
-    lf_stats = collect_lastfm_stats()
-    if lf_stats:
-        stats["lastfm"] = lf_stats
-
-    # --- CTF ---
-    ctf_stats = collect_ctf_stats()
-    if ctf_stats:
-        stats["ctf"] = ctf_stats
+    if errors:
+        stats["errors"] = errors
 
     # Write stats.json in the current working directory (scripts/)
     output_path = "stats.json"
