@@ -1,41 +1,70 @@
 {
-  "collected_at": "2026-10-01T18:06:42.862814Z",
+  "collected_at": "2026-10-01T18:11:35.980637Z",
+  "github": {
+    "username": "mjay-kerberos",
+    "name": "Juliet Meza",
+    "total_commits_this_year": 329,
+    "public_commits": 66,
+    "private_commits": 263,
+    "commits_this_month": 4,
+    "total_prs": 0,
+    "total_issues": 0,
+    "total_contributions": 333,
+    "repos_owned": 62,
+    "repos_contributed_to": 3,
+    "organizations": 1,
+    "year": 2026,
+    "fetched_at": "2026-10-01T18:11:36.705155",
+    "all_time": {
+      "username": "mjay-kerberos",
+      "account_created": "2019-09-27T16:09:42Z",
+      "total_repos": 62,
+      "public_repos": 27,
+      "private_repos": 35,
+      "repos_contributed_to": 3,
+      "total_prs_all_time": 36,
+      "total_issues_all_time": 0,
+      "total_stars_received": 282,
+      "total_forks_received": 44,
+      "fetched_at": "2026-10-01T18:11:38.266775"
+    }
+  },
   "lastfm": {
     "user": {
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8145,
+      "total_scrobbles": 8147,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8145,
-      "estimated_minutes": 28508,
-      "estimated_hours": 475.1,
+      "total_scrobbles": 8147,
+      "estimated_minutes": 28514,
+      "estimated_hours": 475.2,
       "estimated_days": 19.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 50,
-        "estimated_minutes": 175,
-        "estimated_hours": 2.9,
+        "total_scrobbles": 52,
+        "estimated_minutes": 182,
+        "estimated_hours": 3.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 50,
-        "estimated_minutes": 175,
-        "estimated_hours": 2.9,
+        "total_scrobbles": 52,
+        "estimated_minutes": 182,
+        "estimated_hours": 3.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5979,
-        "estimated_minutes": 20926,
-        "estimated_hours": 348.8,
+        "total_scrobbles": 5981,
+        "estimated_minutes": 20934,
+        "estimated_hours": 348.9,
         "avg_track_duration_assumed": 3.5
       }
     },
@@ -71,7 +100,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 173,
+          "playcount": 174,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -257,9 +286,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-01T18:06:50.261114"
-  },
-  "errors": [
-    "github collection failed"
-  ]
+    "fetched_at": "2026-10-01T18:11:41.910824"
+  }
 }
