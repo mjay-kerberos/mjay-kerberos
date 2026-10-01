@@ -1,3 +1,265 @@
 {
-  "collected_at": "2026-10-01T18:05:22.263650Z"
+  "collected_at": "2026-10-01T18:06:42.862814Z",
+  "lastfm": {
+    "user": {
+      "username": "julie-xandria",
+      "real_name": "",
+      "country": "None",
+      "total_scrobbles": 8145,
+      "registered": 1765297888,
+      "profile_url": "https://www.last.fm/user/julie-xandria"
+    },
+    "listening_time": {
+      "total_scrobbles": 8145,
+      "estimated_minutes": 28508,
+      "estimated_hours": 475.1,
+      "estimated_days": 19.8,
+      "avg_track_duration_assumed": 3.5
+    },
+    "listening_time_periods": {
+      "7day": {
+        "period": "7day",
+        "total_scrobbles": 50,
+        "estimated_minutes": 175,
+        "estimated_hours": 2.9,
+        "avg_track_duration_assumed": 3.5
+      },
+      "1month": {
+        "period": "1month",
+        "total_scrobbles": 50,
+        "estimated_minutes": 175,
+        "estimated_hours": 2.9,
+        "avg_track_duration_assumed": 3.5
+      },
+      "12month": {
+        "period": "12month",
+        "total_scrobbles": 5979,
+        "estimated_minutes": 20926,
+        "estimated_hours": 348.8,
+        "avg_track_duration_assumed": 3.5
+      }
+    },
+    "weekly_stats": {
+      "total_tracks_this_week": 11,
+      "total_plays_this_week": 12
+    },
+    "top_artists": {
+      "overall": [
+        {
+          "name": "5 Seconds of Summer",
+          "playcount": 440,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer",
+          "rank": 1
+        },
+        {
+          "name": "Dominic Fike",
+          "playcount": 205,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 2
+        },
+        {
+          "name": "Malcolm Todd",
+          "playcount": 205,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "rank": 3
+        },
+        {
+          "name": "Fall Out Boy",
+          "playcount": 187,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "rank": 4
+        },
+        {
+          "name": "Tate McRae",
+          "playcount": 173,
+          "url": "https://www.last.fm/music/Tate+McRae",
+          "rank": 5
+        },
+        {
+          "name": "Bad Bunny",
+          "playcount": 160,
+          "url": "https://www.last.fm/music/Bad+Bunny",
+          "rank": 6
+        },
+        {
+          "name": "The Runarounds",
+          "playcount": 160,
+          "url": "https://www.last.fm/music/The+Runarounds",
+          "rank": 7
+        },
+        {
+          "name": "Almost Monday",
+          "playcount": 149,
+          "url": "https://www.last.fm/music/Almost+Monday",
+          "rank": 8
+        },
+        {
+          "name": "Paramore",
+          "playcount": 114,
+          "url": "https://www.last.fm/music/Paramore",
+          "rank": 9
+        },
+        {
+          "name": "Don Toliver",
+          "playcount": 109,
+          "url": "https://www.last.fm/music/Don+Toliver",
+          "rank": 10
+        }
+      ]
+    },
+    "top_tracks": {
+      "overall": [
+        {
+          "name": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress",
+          "playcount": 49,
+          "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+          "rank": 1
+        },
+        {
+          "name": "White Keys",
+          "artist": "Dominic Fike",
+          "playcount": 43,
+          "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
+          "rank": 2
+        },
+        {
+          "name": "WELTiTA",
+          "artist": "Bad Bunny",
+          "playcount": 38,
+          "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
+          "rank": 3
+        },
+        {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 37,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 4
+        },
+        {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 35,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 5
+        },
+        {
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 35,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 6
+        },
+        {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 33,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 7
+        },
+        {
+          "name": "Hotel Room",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 30,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "rank": 8
+        },
+        {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 30,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 9
+        },
+        {
+          "name": "Ghosts (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 29,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
+          "rank": 10
+        }
+      ],
+      "week": [
+        {
+          "name": "Secondhand (feat. Rema)",
+          "artist": "Don Toliver",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Don+Toliver/_/Secondhand+(feat.+Rema)",
+          "rank": 1
+        },
+        {
+          "name": "LES",
+          "artist": "Childish Gambino",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/+noredirect/Childish+Gambino/_/LES",
+          "rank": 2
+        },
+        {
+          "name": "Options (feat. JID)",
+          "artist": "Doja Cat",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Options+(feat.+JID)",
+          "rank": 3
+        },
+        {
+          "name": "Tiramisu",
+          "artist": "Don Toliver",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Don+Toliver/_/Tiramisu",
+          "rank": 4
+        },
+        {
+          "name": "If Walls Could Talk",
+          "artist": "5 Seconds of Summer",
+          "playcount": 1,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/If+Walls+Could+Talk",
+          "rank": 5
+        }
+      ]
+    },
+    "top_albums": {
+      "overall": [
+        {
+          "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+          "artist": "Bad Bunny",
+          "playcount": 149,
+          "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
+          "rank": 1
+        },
+        {
+          "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+          "artist": "The Runarounds",
+          "playcount": 130,
+          "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
+          "rank": 2
+        },
+        {
+          "name": "EVERYONE'S A STAR!",
+          "artist": "5 Seconds of Summer",
+          "playcount": 101,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
+          "rank": 3
+        },
+        {
+          "name": "Sweet Boy",
+          "artist": "Malcolm Todd",
+          "playcount": 94,
+          "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
+          "rank": 4
+        },
+        {
+          "name": "5SOS5",
+          "artist": "5 Seconds of Summer",
+          "playcount": 92,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
+          "rank": 5
+        }
+      ]
+    },
+    "fetched_at": "2026-10-01T18:06:50.261114"
+  },
+  "errors": [
+    "github collection failed"
+  ]
 }
