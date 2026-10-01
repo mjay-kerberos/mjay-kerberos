@@ -6,8 +6,9 @@ Fetches listening statistics from Last.fm API
 
 import os
 import json
+import time
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from typing import List
 
 LASTFM_API_URL = "https://ws.audioscrobbler.com/2.0/"
@@ -29,9 +30,21 @@ class LastFMClient:
             "format": "json"
         })
 
-        resp = requests.get(LASTFM_API_URL, params=params)
-        resp.raise_for_status()
-        return resp.json()
+        # Last.fm intermittently returns 5xx / error 8 / error 29 (rate limit).
+        # Retry a few times instead of letting one bad response blank the dashboard.
+        last_err = None
+        for attempt in range(4):
+            try:
+                resp = requests.get(LASTFM_API_URL, params=params, timeout=30)
+                resp.raise_for_status()
+                data = resp.json()
+                if "error" in data:
+                    raise RuntimeError(f"Last.fm error {data['error']}: {data.get('message')}")
+                return data
+            except Exception as e:  # noqa: BLE001
+                last_err = e
+                time.sleep(2 * (attempt + 1))
+        raise RuntimeError(f"Last.fm {method} failed after retries: {last_err}")
 
     def get_user_info(self) -> dict:
         """Get user profile information including total scrobbles."""
@@ -113,25 +126,41 @@ class LastFMClient:
             "avg_track_duration_assumed": avg_track_duration_minutes,
         }
 
+    def count_scrobbles_since(self, days: int) -> int:
+        """Exact number of scrobbles in the last `days` days (uses @attr.total)."""
+        since = int((datetime.now(timezone.utc) - timedelta(days=days)).timestamp())
+        data = self._make_request("user.getrecenttracks", limit=1, **{"from": since})
+        return int(data.get("recenttracks", {}).get("@attr", {}).get("total", 0))
+
+    def get_last_scrobble(self) -> dict:
+        """Most recent scrobble, so the dashboard can show when data last arrived."""
+        data = self._make_request("user.getrecenttracks", limit=1)
+        tracks = data.get("recenttracks", {}).get("track", [])
+        if isinstance(tracks, dict):
+            tracks = [tracks]
+        for t in tracks:
+            if t.get("@attr", {}).get("nowplaying") == "true":
+                return {"name": t["name"], "artist": t["artist"]["#text"],
+                        "uts": int(time.time()), "now_playing": True}
+            if "date" in t:
+                return {"name": t["name"], "artist": t["artist"]["#text"],
+                        "uts": int(t["date"]["uts"]), "now_playing": False}
+        return {}
+
     def estimate_period_listening_time(
         self,
         period: str,
         avg_track_duration_minutes: float = 3.5,
-        limit: int = 1000,
     ) -> dict:
         """
-        Estimate listening time for a given Last.fm period using top tracks.
+        Estimate listening time for a period using the exact scrobble count
+        from user.getrecenttracks (previously this summed the top 1000 tracks,
+        which undercounts).
 
-        period values:
-          - "7day"   -> last 7 days
-          - "1month" -> last month
-          - "12month"-> last 12 months
-
-        This sums playcount for the top tracks in that period and multiplies
-        by an average track length.
+        period values: "7day", "1month" (30 days), "12month" (365 days)
         """
-        tracks = self.get_top_tracks(period=period, limit=limit)
-        total_scrobbles = sum(t["playcount"] for t in tracks)
+        days = {"7day": 7, "1month": 30, "12month": 365}[period]
+        total_scrobbles = self.count_scrobbles_since(days)
 
         total_minutes = total_scrobbles * avg_track_duration_minutes
         total_hours = total_minutes / 60
@@ -172,6 +201,14 @@ def get_all_lastfm_stats(api_key: str, username: str) -> dict:
     listening_time_1month = client.estimate_period_listening_time("1month")
     listening_time_12month = client.estimate_period_listening_time("12month")
 
+    last_scrobble = client.get_last_scrobble()
+    if last_scrobble:
+        age_days = (datetime.now(timezone.utc).timestamp() - last_scrobble["uts"]) / 86400
+        last_scrobble["days_ago"] = round(age_days, 1)
+        if age_days > 3:
+            print(f"WARNING: last Last.fm scrobble was {age_days:.0f} days ago - "
+                  "check that Spotify is still connected to Last.fm.")
+
     return {
         "user": user_info,
         "listening_time": listening_time,
@@ -180,6 +217,7 @@ def get_all_lastfm_stats(api_key: str, username: str) -> dict:
             "1month": listening_time_1month,
             "12month": listening_time_12month,
         },
+        "last_scrobble": last_scrobble,
         "weekly_stats": weekly_stats,
         "top_artists": {
             "overall": top_artists_overall,
