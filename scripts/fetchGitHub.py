@@ -87,8 +87,14 @@ def get_github_stats(token: str, username: str = None) -> dict:
     response = requests.post(
         GITHUB_GRAPHQL_URL,
         headers=headers,
-        json={"query": query, "variables": variables}
+        json={"query": query, "variables": variables},
+        timeout=30,
     )
+    if response.status_code == 401:
+        raise RuntimeError(
+            "GitHub returned 401 Bad credentials - the GH_PAT secret is expired or "
+            "revoked. Create a new token and update the GH_PAT repo secret."
+        )
     response.raise_for_status()
 
     data = response.json()
