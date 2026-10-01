@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-01T18:11:35.980637Z",
+  "collected_at": "2026-10-01T18:12:06.015576Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-01T18:11:36.705155",
+    "fetched_at": "2026-10-01T18:12:06.964377",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-01T18:11:38.266775"
+      "fetched_at": "2026-10-01T18:12:08.617149"
     }
   },
   "lastfm": {
@@ -62,11 +62,18 @@
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 5981,
-        "estimated_minutes": 20934,
-        "estimated_hours": 348.9,
+        "total_scrobbles": 8147,
+        "estimated_minutes": 28514,
+        "estimated_hours": 475.2,
         "avg_track_duration_assumed": 3.5
       }
+    },
+    "last_scrobble": {
+      "name": "Dreamin",
+      "artist": "PARTYNEXTDOOR",
+      "uts": 1790878330,
+      "now_playing": true,
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 11,
@@ -286,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-01T18:11:41.910824"
+    "fetched_at": "2026-10-01T18:12:10.520615"
   }
 }
