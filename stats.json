@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-02T04:40:55.458054Z",
+  "collected_at": "2026-10-02T17:37:06.137749Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-02T04:40:55.914387",
+    "fetched_at": "2026-10-02T17:37:06.712850",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-02T04:40:56.976916"
+      "fetched_at": "2026-10-02T17:37:07.968716"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8177,
+      "total_scrobbles": 8185,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8177,
-      "estimated_minutes": 28620,
-      "estimated_hours": 477.0,
+      "total_scrobbles": 8185,
+      "estimated_minutes": 28648,
+      "estimated_hours": 477.5,
       "estimated_days": 19.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 82,
-        "estimated_minutes": 287,
-        "estimated_hours": 4.8,
+        "total_scrobbles": 90,
+        "estimated_minutes": 315,
+        "estimated_hours": 5.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 82,
-        "estimated_minutes": 287,
-        "estimated_hours": 4.8,
+        "total_scrobbles": 90,
+        "estimated_minutes": 315,
+        "estimated_hours": 5.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8177,
-        "estimated_minutes": 28620,
-        "estimated_hours": 477.0,
+        "total_scrobbles": 8185,
+        "estimated_minutes": 28648,
+        "estimated_hours": 477.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "You (feat. UMI)",
-      "artist": "Fujii Kaze",
-      "uts": 1790900701,
+      "name": "Skin",
+      "artist": "Mac Miller",
+      "uts": 1790959141,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 33,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-02T04:40:59.096112"
+    "fetched_at": "2026-10-02T17:37:10.619538"
   }
 }
