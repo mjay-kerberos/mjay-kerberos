@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-10-01T18:12:06.015576Z",
+  "collected_at": "2026-10-02T04:40:55.458054Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 329,
-    "public_commits": 66,
+    "total_commits_this_year": 330,
+    "public_commits": 67,
     "private_commits": 263,
-    "commits_this_month": 4,
+    "commits_this_month": 5,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 333,
+    "total_contributions": 334,
     "repos_owned": 62,
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-01T18:12:06.964377",
+    "fetched_at": "2026-10-02T04:40:55.914387",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-01T18:12:08.617149"
+      "fetched_at": "2026-10-02T04:40:56.976916"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8147,
+      "total_scrobbles": 8177,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8147,
-      "estimated_minutes": 28514,
-      "estimated_hours": 475.2,
-      "estimated_days": 19.8,
+      "total_scrobbles": 8177,
+      "estimated_minutes": 28620,
+      "estimated_hours": 477.0,
+      "estimated_days": 19.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 52,
-        "estimated_minutes": 182,
-        "estimated_hours": 3.0,
+        "total_scrobbles": 82,
+        "estimated_minutes": 287,
+        "estimated_hours": 4.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 52,
-        "estimated_minutes": 182,
-        "estimated_hours": 3.0,
+        "total_scrobbles": 82,
+        "estimated_minutes": 287,
+        "estimated_hours": 4.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8147,
-        "estimated_minutes": 28514,
-        "estimated_hours": 475.2,
+        "total_scrobbles": 8177,
+        "estimated_minutes": 28620,
+        "estimated_hours": 477.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Dreamin",
-      "artist": "PARTYNEXTDOOR",
-      "uts": 1790878330,
-      "now_playing": true,
-      "days_ago": 0.0
+      "name": "You (feat. UMI)",
+      "artist": "Fujii Kaze",
+      "uts": 1790900701,
+      "now_playing": false,
+      "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 11,
-      "total_plays_this_week": 12
+      "total_tracks_this_week": 33,
+      "total_plays_this_week": 35
     },
     "top_artists": {
       "overall": [
@@ -107,7 +107,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 174,
+          "playcount": 175,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -137,7 +137,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 109,
+          "playcount": 111,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 10
         }
@@ -148,7 +148,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 49,
+          "playcount": 50,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -176,7 +176,7 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 35,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 5
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-01T18:12:10.520615"
+    "fetched_at": "2026-10-02T04:40:59.096112"
   }
 }
