@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-03T15:54:54.406943Z",
+  "collected_at": "2026-10-04T04:54:31.000660Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-03T15:54:55.014129",
+    "fetched_at": "2026-10-04T04:54:31.679620",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-03T15:54:56.377507"
+      "fetched_at": "2026-10-04T04:54:32.842814"
     }
   },
   "lastfm": {
@@ -34,98 +34,98 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8194,
+      "total_scrobbles": 8368,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8194,
-      "estimated_minutes": 28679,
-      "estimated_hours": 478.0,
-      "estimated_days": 19.9,
+      "total_scrobbles": 8368,
+      "estimated_minutes": 29288,
+      "estimated_hours": 488.1,
+      "estimated_days": 20.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 99,
-        "estimated_minutes": 346,
-        "estimated_hours": 5.8,
+        "total_scrobbles": 273,
+        "estimated_minutes": 956,
+        "estimated_hours": 15.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 99,
-        "estimated_minutes": 346,
-        "estimated_hours": 5.8,
+        "total_scrobbles": 273,
+        "estimated_minutes": 956,
+        "estimated_hours": 15.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8194,
-        "estimated_minutes": 28679,
-        "estimated_hours": 478.0,
+        "total_scrobbles": 8368,
+        "estimated_minutes": 29288,
+        "estimated_hours": 488.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "EMERALD EYES",
-      "artist": "Alex Warren",
-      "uts": 1790970700,
+      "name": "Leave Me Alone",
+      "artist": "Rene\u00e9 Rapp",
+      "uts": 1791085909,
       "now_playing": false,
-      "days_ago": 0.8
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 77,
-      "total_plays_this_week": 83
+      "total_tracks_this_week": 94,
+      "total_plays_this_week": 100
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 440,
+          "playcount": 446,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
+        },
+        {
+          "name": "Malcolm Todd",
+          "playcount": 206,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "rank": 2
         },
         {
           "name": "Dominic Fike",
           "playcount": 205,
           "url": "https://www.last.fm/music/Dominic+Fike",
-          "rank": 2
-        },
-        {
-          "name": "Malcolm Todd",
-          "playcount": 205,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 187,
+          "playcount": 197,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Tate McRae",
-          "playcount": 175,
+          "playcount": 184,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
+        },
+        {
+          "name": "The Runarounds",
+          "playcount": 161,
+          "url": "https://www.last.fm/music/The+Runarounds",
+          "rank": 6
         },
         {
           "name": "Bad Bunny",
           "playcount": 160,
           "url": "https://www.last.fm/music/Bad+Bunny",
-          "rank": 6
-        },
-        {
-          "name": "The Runarounds",
-          "playcount": 160,
-          "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 7
         },
         {
           "name": "Almost Monday",
-          "playcount": 149,
+          "playcount": 153,
           "url": "https://www.last.fm/music/Almost+Monday",
           "rank": 8
         },
@@ -169,7 +169,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 4
         },
@@ -183,7 +183,7 @@
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 35,
+          "playcount": 36,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 6
         },
@@ -195,17 +195,17 @@
           "rank": 7
         },
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 31,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 8
+        },
+        {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 30,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 8
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 30,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 9
         },
         {
@@ -225,31 +225,31 @@
           "rank": 1
         },
         {
-          "name": "LES",
-          "artist": "Childish Gambino",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/+noredirect/Childish+Gambino/_/LES",
+          "name": "Superscar",
+          "artist": "AD\u00c9LA",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
           "rank": 2
         },
         {
-          "name": "Options (feat. JID)",
-          "artist": "Doja Cat",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Options+(feat.+JID)",
+          "name": "sequoia",
+          "artist": "Almost Monday",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Almost+Monday/_/sequoia",
           "rank": 3
         },
         {
-          "name": "Tiramisu",
-          "artist": "Don Toliver",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Don+Toliver/_/Tiramisu",
+          "name": "Young Volcanoes",
+          "artist": "Fall Out Boy",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Young+Volcanoes",
           "rank": 4
         },
         {
-          "name": "If Walls Could Talk",
-          "artist": "5 Seconds of Summer",
-          "playcount": 1,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/If+Walls+Could+Talk",
+          "name": "Vowels (and the Importance of Being Me)",
+          "artist": "HUNNY",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/HUNNY/_/Vowels+(and+the+Importance+of+Being+Me)",
           "rank": 5
         }
       ]
@@ -266,33 +266,33 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 130,
+          "playcount": 131,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 101,
+          "playcount": 105,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
         },
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 94,
+          "playcount": 95,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 92,
+          "playcount": 93,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-10-03T15:54:58.943402"
+    "fetched_at": "2026-10-04T04:54:35.707159"
   }
 }
