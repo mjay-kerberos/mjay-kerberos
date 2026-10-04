@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T04:54:31.000660Z",
+  "collected_at": "2026-10-04T16:37:05.635627Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-04T04:54:31.679620",
+    "fetched_at": "2026-10-04T16:37:06.077527",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-04T04:54:32.842814"
+      "fetched_at": "2026-10-04T16:37:07.064514"
     }
   },
   "lastfm": {
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8368,
+      "total_scrobbles": 8410,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8368,
-      "estimated_minutes": 29288,
-      "estimated_hours": 488.1,
-      "estimated_days": 20.3,
+      "total_scrobbles": 8410,
+      "estimated_minutes": 29435,
+      "estimated_hours": 490.6,
+      "estimated_days": 20.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 273,
-        "estimated_minutes": 956,
-        "estimated_hours": 15.9,
+        "total_scrobbles": 315,
+        "estimated_minutes": 1102,
+        "estimated_hours": 18.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 273,
-        "estimated_minutes": 956,
-        "estimated_hours": 15.9,
+        "total_scrobbles": 315,
+        "estimated_minutes": 1102,
+        "estimated_hours": 18.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8368,
-        "estimated_minutes": 29288,
-        "estimated_hours": 488.1,
+        "total_scrobbles": 8410,
+        "estimated_minutes": 29435,
+        "estimated_hours": 490.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Leave Me Alone",
-      "artist": "Rene\u00e9 Rapp",
-      "uts": 1791085909,
+      "name": "I got it bad",
+      "artist": "Addison Rae",
+      "uts": 1791127626,
       "now_playing": false,
       "days_ago": 0.0
     },
@@ -88,15 +88,15 @@
           "rank": 1
         },
         {
-          "name": "Malcolm Todd",
+          "name": "Dominic Fike",
           "playcount": 206,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 2
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 205,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Malcolm Todd",
+          "playcount": 206,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 3
         },
         {
@@ -107,7 +107,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 184,
+          "playcount": 187,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -131,13 +131,13 @@
         },
         {
           "name": "Paramore",
-          "playcount": 114,
+          "playcount": 115,
           "url": "https://www.last.fm/music/Paramore",
           "rank": 9
         },
         {
           "name": "Don Toliver",
-          "playcount": 111,
+          "playcount": 112,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 10
         }
@@ -155,22 +155,22 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 43,
+          "playcount": 44,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 2
+        },
+        {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 39,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 3
         },
         {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 38,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 3
-        },
-        {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 38,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 4
         },
         {
@@ -209,10 +209,10 @@
           "rank": 9
         },
         {
-          "name": "Ghosts (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
           "playcount": 29,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Ghosts+(From+The+Runarounds+Original+Series)",
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 10
         }
       ],
@@ -239,17 +239,17 @@
           "rank": 3
         },
         {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 4
+        },
+        {
           "name": "Young Volcanoes",
           "artist": "Fall Out Boy",
           "playcount": 3,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Young+Volcanoes",
-          "rank": 4
-        },
-        {
-          "name": "Vowels (and the Importance of Being Me)",
-          "artist": "HUNNY",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/HUNNY/_/Vowels+(and+the+Importance+of+Being+Me)",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-04T04:54:35.707159"
+    "fetched_at": "2026-10-04T16:37:10.396419"
   }
 }
