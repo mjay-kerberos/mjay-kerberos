@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T16:37:05.635627Z",
+  "collected_at": "2026-10-05T04:41:48.591814Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-04T16:37:06.077527",
+    "fetched_at": "2026-10-05T04:41:49.337957",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-04T16:37:07.064514"
+      "fetched_at": "2026-10-05T04:41:50.489927"
     }
   },
   "lastfm": {
@@ -73,11 +73,11 @@
       "artist": "Addison Rae",
       "uts": 1791127626,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.6
     },
     "weekly_stats": {
-      "total_tracks_this_week": 94,
-      "total_plays_this_week": 100
+      "total_tracks_this_week": 226,
+      "total_plays_this_week": 274
     },
     "top_artists": {
       "overall": [
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-04T16:37:10.396419"
+    "fetched_at": "2026-10-05T04:41:53.160910"
   }
 }
