@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-05T04:41:48.591814Z",
+  "collected_at": "2026-10-06T05:28:15.465847Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-05T04:41:49.337957",
+    "fetched_at": "2026-10-06T05:28:16.209306",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-05T04:41:50.489927"
+      "fetched_at": "2026-10-06T05:28:17.825263"
     }
   },
   "lastfm": {
@@ -34,62 +34,62 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8410,
+      "total_scrobbles": 8445,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8410,
-      "estimated_minutes": 29435,
-      "estimated_hours": 490.6,
-      "estimated_days": 20.4,
+      "total_scrobbles": 8445,
+      "estimated_minutes": 29558,
+      "estimated_hours": 492.6,
+      "estimated_days": 20.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 315,
-        "estimated_minutes": 1102,
-        "estimated_hours": 18.4,
+        "total_scrobbles": 344,
+        "estimated_minutes": 1204,
+        "estimated_hours": 20.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 315,
-        "estimated_minutes": 1102,
-        "estimated_hours": 18.4,
+        "total_scrobbles": 350,
+        "estimated_minutes": 1225,
+        "estimated_hours": 20.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8410,
-        "estimated_minutes": 29435,
-        "estimated_hours": 490.6,
+        "total_scrobbles": 8445,
+        "estimated_minutes": 29558,
+        "estimated_hours": 492.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "I got it bad",
-      "artist": "Addison Rae",
-      "uts": 1791127626,
+      "name": "No More Monsters (Reprise)",
+      "artist": "Benjamin Pajak",
+      "uts": 1791242438,
       "now_playing": false,
-      "days_ago": 0.6
+      "days_ago": 0.3
     },
     "weekly_stats": {
-      "total_tracks_this_week": 226,
-      "total_plays_this_week": 274
+      "total_tracks_this_week": 258,
+      "total_plays_this_week": 317
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 446,
+          "playcount": 448,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Dominic Fike",
-          "playcount": 206,
+          "playcount": 207,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 2
         },
@@ -107,7 +107,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 187,
+          "playcount": 189,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -162,7 +162,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 39,
+          "playcount": 40,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 3
         },
@@ -209,47 +209,47 @@
           "rank": 9
         },
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
           "playcount": 29,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "Secondhand (feat. Rema)",
-          "artist": "Don Toliver",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Don+Toliver/_/Secondhand+(feat.+Rema)",
-          "rank": 1
-        },
-        {
           "name": "Superscar",
           "artist": "AD\u00c9LA",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
-          "rank": 2
-        },
-        {
-          "name": "sequoia",
-          "artist": "Almost Monday",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Almost+Monday/_/sequoia",
-          "rank": 3
+          "rank": 1
         },
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 2
+        },
+        {
+          "name": "Secondhand (feat. Rema)",
+          "artist": "Don Toliver",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Don+Toliver/_/Secondhand+(feat.+Rema)",
+          "rank": 3
+        },
+        {
+          "name": "Wyw my sweetie #JerseyClub - Slowed",
+          "artist": "Nissi",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
           "rank": 4
         },
         {
-          "name": "Young Volcanoes",
-          "artist": "Fall Out Boy",
+          "name": "You Can't Stop This",
+          "artist": "Alex Warren",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Young+Volcanoes",
+          "url": "https://www.last.fm/music/Alex+Warren/_/You+Can%27t+Stop+This",
           "rank": 5
         }
       ]
@@ -287,12 +287,12 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 93,
+          "playcount": 94,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-10-05T04:41:53.160910"
+    "fetched_at": "2026-10-06T05:28:21.186747"
   }
 }
