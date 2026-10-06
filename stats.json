@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-06T05:28:15.465847Z",
+  "collected_at": "2026-10-06T18:04:13.273604Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-06T05:28:16.209306",
+    "fetched_at": "2026-10-06T18:04:13.788974",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-06T05:28:17.825263"
+      "fetched_at": "2026-10-06T18:04:15.430621"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8445,
+      "total_scrobbles": 8457,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8445,
-      "estimated_minutes": 29558,
-      "estimated_hours": 492.6,
-      "estimated_days": 20.5,
+      "total_scrobbles": 8457,
+      "estimated_minutes": 29600,
+      "estimated_hours": 493.3,
+      "estimated_days": 20.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 344,
-        "estimated_minutes": 1204,
-        "estimated_hours": 20.1,
+        "total_scrobbles": 353,
+        "estimated_minutes": 1236,
+        "estimated_hours": 20.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 350,
-        "estimated_minutes": 1225,
-        "estimated_hours": 20.4,
+        "total_scrobbles": 362,
+        "estimated_minutes": 1267,
+        "estimated_hours": 21.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8445,
-        "estimated_minutes": 29558,
-        "estimated_hours": 492.6,
+        "total_scrobbles": 8457,
+        "estimated_minutes": 29600,
+        "estimated_hours": 493.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "No More Monsters (Reprise)",
-      "artist": "Benjamin Pajak",
-      "uts": 1791242438,
+      "name": "Roommates",
+      "artist": "Malcolm Todd",
+      "uts": 1791309490,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 258,
@@ -95,7 +95,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 206,
+          "playcount": 207,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 3
         },
@@ -113,7 +113,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 161,
+          "playcount": 162,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -266,7 +266,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 131,
+          "playcount": 132,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -280,7 +280,7 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 95,
+          "playcount": 96,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 4
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-06T05:28:21.186747"
+    "fetched_at": "2026-10-06T18:04:20.011212"
   }
 }
