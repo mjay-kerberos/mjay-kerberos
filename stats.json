@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-07T04:57:34.374820Z",
+  "collected_at": "2026-10-07T18:37:07.820652Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-07T04:57:35.016337",
+    "fetched_at": "2026-10-07T18:37:08.390895",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-07T04:57:36.583797"
+      "fetched_at": "2026-10-07T18:37:09.863832"
     }
   },
   "lastfm": {
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8508,
+      "total_scrobbles": 8526,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8508,
-      "estimated_minutes": 29778,
-      "estimated_hours": 496.3,
+      "total_scrobbles": 8526,
+      "estimated_minutes": 29841,
+      "estimated_hours": 497.4,
       "estimated_days": 20.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 401,
-        "estimated_minutes": 1404,
-        "estimated_hours": 23.4,
+        "total_scrobbles": 416,
+        "estimated_minutes": 1456,
+        "estimated_hours": 24.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 413,
-        "estimated_minutes": 1446,
-        "estimated_hours": 24.1,
+        "total_scrobbles": 431,
+        "estimated_minutes": 1508,
+        "estimated_hours": 25.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8508,
-        "estimated_minutes": 29778,
-        "estimated_hours": 496.3,
+        "total_scrobbles": 8526,
+        "estimated_minutes": 29841,
+        "estimated_hours": 497.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Persuasive (with SZA)",
-      "artist": "Doechii",
-      "uts": 1791337238,
+      "name": "Teeth",
+      "artist": "5 Seconds of Summer",
+      "uts": 1791392112,
       "now_playing": false,
       "days_ago": 0.1
     },
@@ -83,7 +83,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 452,
+          "playcount": 458,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 197,
+          "playcount": 198,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -130,15 +130,15 @@
           "rank": 8
         },
         {
-          "name": "Paramore",
+          "name": "Don Toliver",
           "playcount": 115,
-          "url": "https://www.last.fm/music/Paramore",
+          "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
         {
-          "name": "Don Toliver",
-          "playcount": 114,
-          "url": "https://www.last.fm/music/Don+Toliver",
+          "name": "Paramore",
+          "playcount": 115,
+          "url": "https://www.last.fm/music/Paramore",
           "rank": 10
         }
       ]
@@ -190,7 +190,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 7
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "Superscar",
-          "artist": "AD\u00c9LA",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
-          "rank": 1
-        },
-        {
           "name": "Jealous Type",
           "artist": "Doja Cat",
           "playcount": 4,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Secondhand (feat. Rema)",
           "artist": "Don Toliver",
           "playcount": 4,
           "url": "https://www.last.fm/music/Don+Toliver/_/Secondhand+(feat.+Rema)",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Wyw my sweetie #JerseyClub - Slowed",
           "artist": "Nissi",
           "playcount": 4,
           "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "BLENDER",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
+          "rank": 4
+        },
+        {
+          "name": "Superscar",
+          "artist": "AD\u00c9LA",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
           "rank": 5
         }
       ]
@@ -280,7 +280,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 98,
+          "playcount": 102,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-07T04:57:39.098900"
+    "fetched_at": "2026-10-07T18:37:19.298015"
   }
 }
