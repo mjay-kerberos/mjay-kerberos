@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-08T05:08:04.060936Z",
+  "collected_at": "2026-10-08T18:35:42.923964Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-08T05:08:04.708344",
+    "fetched_at": "2026-10-08T18:35:43.663680",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-08T05:08:05.967560"
+      "fetched_at": "2026-10-08T18:35:45.204529"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 459,
-        "estimated_minutes": 1606,
-        "estimated_hours": 26.8,
+        "total_scrobbles": 414,
+        "estimated_minutes": 1449,
+        "estimated_hours": 24.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Dominic Fike",
       "uts": 1791419616,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.8
     },
     "weekly_stats": {
       "total_tracks_this_week": 299,
@@ -225,31 +225,31 @@
           "rank": 1
         },
         {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 2
-        },
-        {
-          "name": "Secondhand (feat. Rema)",
-          "artist": "Don Toliver",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Don+Toliver/_/Secondhand+(feat.+Rema)",
-          "rank": 3
-        },
-        {
           "name": "Wyw my sweetie #JerseyClub - Slowed",
           "artist": "Nissi",
           "playcount": 4,
           "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
-          "rank": 4
+          "rank": 2
         },
         {
           "name": "BLENDER",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
+          "rank": 3
+        },
+        {
+          "name": "Superscar",
+          "artist": "AD\u00c9LA",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
+          "rank": 4
+        },
+        {
+          "name": "You Can't Stop This",
+          "artist": "Alex Warren",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Alex+Warren/_/You+Can%27t+Stop+This",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-08T05:08:08.009800"
+    "fetched_at": "2026-10-08T18:35:49.816064"
   }
 }
