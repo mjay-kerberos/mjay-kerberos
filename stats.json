@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-07T18:37:07.820652Z",
+  "collected_at": "2026-10-08T05:08:04.060936Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-07T18:37:08.390895",
+    "fetched_at": "2026-10-08T05:08:04.708344",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-07T18:37:09.863832"
+      "fetched_at": "2026-10-08T05:08:05.967560"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8526,
+      "total_scrobbles": 8570,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8526,
-      "estimated_minutes": 29841,
-      "estimated_hours": 497.4,
-      "estimated_days": 20.7,
+      "total_scrobbles": 8570,
+      "estimated_minutes": 29995,
+      "estimated_hours": 499.9,
+      "estimated_days": 20.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 416,
-        "estimated_minutes": 1456,
-        "estimated_hours": 24.3,
+        "total_scrobbles": 459,
+        "estimated_minutes": 1606,
+        "estimated_hours": 26.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 431,
-        "estimated_minutes": 1508,
-        "estimated_hours": 25.1,
+        "total_scrobbles": 475,
+        "estimated_minutes": 1662,
+        "estimated_hours": 27.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8526,
-        "estimated_minutes": 29841,
-        "estimated_hours": 497.4,
+        "total_scrobbles": 8570,
+        "estimated_minutes": 29995,
+        "estimated_hours": 499.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Teeth",
-      "artist": "5 Seconds of Summer",
-      "uts": 1791392112,
+      "name": "Wallflower",
+      "artist": "Dominic Fike",
+      "uts": 1791419616,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 274,
-      "total_plays_this_week": 350
+      "total_tracks_this_week": 299,
+      "total_plays_this_week": 403
     },
     "top_artists": {
       "overall": [
@@ -95,7 +95,7 @@
         },
         {
           "name": "Dominic Fike",
-          "playcount": 207,
+          "playcount": 208,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
@@ -113,7 +113,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 162,
+          "playcount": 163,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 115,
+          "playcount": 117,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
@@ -195,61 +195,61 @@
           "rank": 7
         },
         {
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "rank": 8
+        },
+        {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 31,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Hotel Room",
           "artist": "Ax and the Hatchetmen",
           "playcount": 30,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
-          "rank": 9
-        },
-        {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 30,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 10
         }
       ],
       "week": [
         {
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "rank": 1
+        },
+        {
           "name": "Jealous Type",
           "artist": "Doja Cat",
           "playcount": 4,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 1
+          "rank": 2
         },
         {
           "name": "Secondhand (feat. Rema)",
           "artist": "Don Toliver",
           "playcount": 4,
           "url": "https://www.last.fm/music/Don+Toliver/_/Secondhand+(feat.+Rema)",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Wyw my sweetie #JerseyClub - Slowed",
           "artist": "Nissi",
           "playcount": 4,
           "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "BLENDER",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
-          "rank": 4
-        },
-        {
-          "name": "Superscar",
-          "artist": "AD\u00c9LA",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
           "rank": 5
         }
       ]
@@ -266,7 +266,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 132,
+          "playcount": 133,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-07T18:37:19.298015"
+    "fetched_at": "2026-10-08T05:08:08.009800"
   }
 }
