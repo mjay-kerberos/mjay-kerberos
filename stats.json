@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-09T05:11:04.237766Z",
+  "collected_at": "2026-10-09T18:06:47.410474Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-09T05:11:05.019243",
+    "fetched_at": "2026-10-09T18:06:48.242635",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-09T05:11:06.471055"
+      "fetched_at": "2026-10-09T18:06:49.513114"
     }
   },
   "lastfm": {
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8599,
+      "total_scrobbles": 8616,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8599,
-      "estimated_minutes": 30096,
-      "estimated_hours": 501.6,
+      "total_scrobbles": 8616,
+      "estimated_minutes": 30156,
+      "estimated_hours": 502.6,
       "estimated_days": 20.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 421,
-        "estimated_minutes": 1474,
-        "estimated_hours": 24.6,
+        "total_scrobbles": 430,
+        "estimated_minutes": 1505,
+        "estimated_hours": 25.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 504,
-        "estimated_minutes": 1764,
-        "estimated_hours": 29.4,
+        "total_scrobbles": 521,
+        "estimated_minutes": 1824,
+        "estimated_hours": 30.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8599,
-        "estimated_minutes": 30096,
-        "estimated_hours": 501.6,
+        "total_scrobbles": 8616,
+        "estimated_minutes": 30156,
+        "estimated_hours": 502.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Turn Me On (feat. Nicki Minaj)",
-      "artist": "David Guetta",
-      "uts": 1791514546,
+      "name": "Photo ID (with Dominic Fike)",
+      "artist": "Remi Wolf",
+      "uts": 1791556298,
       "now_playing": false,
       "days_ago": 0.1
     },
@@ -83,7 +83,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 462,
+          "playcount": 463,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -107,7 +107,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 190,
+          "playcount": 191,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -162,7 +162,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 40,
+          "playcount": 41,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 3
         },
@@ -239,17 +239,17 @@
           "rank": 3
         },
         {
+          "name": "Jealous Type",
+          "artist": "Doja Cat",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "rank": 4
+        },
+        {
           "name": "ANGEL",
           "artist": "Dutch Melrose",
           "playcount": 4,
           "url": "https://www.last.fm/music/Dutch+Melrose/_/ANGEL",
-          "rank": 4
-        },
-        {
-          "name": "Superscar",
-          "artist": "AD\u00c9LA",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-09T05:11:09.099750"
+    "fetched_at": "2026-10-09T18:06:53.176792"
   }
 }
