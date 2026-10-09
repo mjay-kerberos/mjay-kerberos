@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-10-08T18:35:42.923964Z",
+  "collected_at": "2026-10-09T05:11:04.237766Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 330,
+    "total_commits_this_year": 334,
     "public_commits": 67,
-    "private_commits": 263,
-    "commits_this_month": 5,
+    "private_commits": 267,
+    "commits_this_month": 9,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 334,
+    "total_contributions": 338,
     "repos_owned": 62,
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-08T18:35:43.663680",
+    "fetched_at": "2026-10-09T05:11:05.019243",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-08T18:35:45.204529"
+      "fetched_at": "2026-10-09T05:11:06.471055"
     }
   },
   "lastfm": {
@@ -34,74 +34,74 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8570,
+      "total_scrobbles": 8599,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8570,
-      "estimated_minutes": 29995,
-      "estimated_hours": 499.9,
-      "estimated_days": 20.8,
+      "total_scrobbles": 8599,
+      "estimated_minutes": 30096,
+      "estimated_hours": 501.6,
+      "estimated_days": 20.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 414,
-        "estimated_minutes": 1449,
-        "estimated_hours": 24.1,
+        "total_scrobbles": 421,
+        "estimated_minutes": 1474,
+        "estimated_hours": 24.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 475,
-        "estimated_minutes": 1662,
-        "estimated_hours": 27.7,
+        "total_scrobbles": 504,
+        "estimated_minutes": 1764,
+        "estimated_hours": 29.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8570,
-        "estimated_minutes": 29995,
-        "estimated_hours": 499.9,
+        "total_scrobbles": 8599,
+        "estimated_minutes": 30096,
+        "estimated_hours": 501.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Wallflower",
-      "artist": "Dominic Fike",
-      "uts": 1791419616,
+      "name": "Turn Me On (feat. Nicki Minaj)",
+      "artist": "David Guetta",
+      "uts": 1791514546,
       "now_playing": false,
-      "days_ago": 0.8
+      "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 299,
-      "total_plays_this_week": 403
+      "total_tracks_this_week": 334,
+      "total_plays_this_week": 441
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 458,
+          "playcount": 462,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
+        },
+        {
+          "name": "Dominic Fike",
+          "playcount": 209,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 2
         },
         {
           "name": "Malcolm Todd",
           "playcount": 209,
           "url": "https://www.last.fm/music/Malcolm+Todd",
-          "rank": 2
-        },
-        {
-          "name": "Dominic Fike",
-          "playcount": 208,
-          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 198,
+          "playcount": 200,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -113,7 +113,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 163,
+          "playcount": 164,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -204,7 +204,7 @@
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
-          "playcount": 31,
+          "playcount": 32,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 9
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
+          "name": "Wyw my sweetie #JerseyClub - Slowed",
+          "artist": "Nissi",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
+          "rank": 1
+        },
+        {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
           "playcount": 5,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
-          "rank": 1
-        },
-        {
-          "name": "Wyw my sweetie #JerseyClub - Slowed",
-          "artist": "Nissi",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
           "rank": 2
         },
         {
           "name": "BLENDER",
           "artist": "5 Seconds of Summer",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
           "rank": 3
+        },
+        {
+          "name": "ANGEL",
+          "artist": "Dutch Melrose",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Dutch+Melrose/_/ANGEL",
+          "rank": 4
         },
         {
           "name": "Superscar",
           "artist": "AD\u00c9LA",
           "playcount": 3,
           "url": "https://www.last.fm/music/AD%C3%89LA/_/Superscar",
-          "rank": 4
-        },
-        {
-          "name": "You Can't Stop This",
-          "artist": "Alex Warren",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Alex+Warren/_/You+Can%27t+Stop+This",
           "rank": 5
         }
       ]
@@ -266,21 +266,21 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 133,
+          "playcount": 134,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "EVERYONE'S A STAR!",
           "artist": "5 Seconds of Summer",
-          "playcount": 105,
+          "playcount": 106,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/EVERYONE%27S+A+STAR!",
           "rank": 3
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 102,
+          "playcount": 103,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-08T18:35:49.816064"
+    "fetched_at": "2026-10-09T05:11:09.099750"
   }
 }
