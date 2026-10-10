@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-10T04:56:21.553864Z",
+  "collected_at": "2026-10-10T17:06:02.345821Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-10T04:56:22.153895",
+    "fetched_at": "2026-10-10T17:06:02.993048",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 3,
       "total_prs_all_time": 36,
       "total_issues_all_time": 0,
-      "total_stars_received": 282,
+      "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-10T04:56:23.549274"
+      "fetched_at": "2026-10-10T17:06:04.343624"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 425,
-        "estimated_minutes": 1488,
-        "estimated_hours": 24.8,
+        "total_scrobbles": 423,
+        "estimated_minutes": 1480,
+        "estimated_hours": 24.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Why Don't We",
       "uts": 1791600009,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.6
     },
     "weekly_stats": {
       "total_tracks_this_week": 317,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-10T04:56:26.327001"
+    "fetched_at": "2026-10-10T17:06:07.598652"
   }
 }
