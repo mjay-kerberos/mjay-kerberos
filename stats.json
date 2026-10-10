@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-09T18:06:47.410474Z",
+  "collected_at": "2026-10-10T04:56:21.553864Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-09T18:06:48.242635",
+    "fetched_at": "2026-10-10T04:56:22.153895",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 282,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-09T18:06:49.513114"
+      "fetched_at": "2026-10-10T04:56:23.549274"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8616,
+      "total_scrobbles": 8620,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8616,
-      "estimated_minutes": 30156,
-      "estimated_hours": 502.6,
-      "estimated_days": 20.9,
+      "total_scrobbles": 8620,
+      "estimated_minutes": 30170,
+      "estimated_hours": 502.8,
+      "estimated_days": 21.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 430,
-        "estimated_minutes": 1505,
-        "estimated_hours": 25.1,
+        "total_scrobbles": 425,
+        "estimated_minutes": 1488,
+        "estimated_hours": 24.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 521,
-        "estimated_minutes": 1824,
-        "estimated_hours": 30.4,
+        "total_scrobbles": 525,
+        "estimated_minutes": 1838,
+        "estimated_hours": 30.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8616,
-        "estimated_minutes": 30156,
-        "estimated_hours": 502.6,
+        "total_scrobbles": 8620,
+        "estimated_minutes": 30170,
+        "estimated_hours": 502.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Photo ID (with Dominic Fike)",
-      "artist": "Remi Wolf",
-      "uts": 1791556298,
+      "name": "Talk",
+      "artist": "Why Don't We",
+      "uts": 1791600009,
       "now_playing": false,
       "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 334,
-      "total_plays_this_week": 441
+      "total_tracks_this_week": 317,
+      "total_plays_this_week": 422
     },
     "top_artists": {
       "overall": [
@@ -101,7 +101,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 200,
+          "playcount": 201,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-09T18:06:53.176792"
+    "fetched_at": "2026-10-10T04:56:26.327001"
   }
 }
