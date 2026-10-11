@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-11T04:43:54.758876Z",
+  "collected_at": "2026-10-11T17:29:22.476929Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-11T04:43:55.577054",
+    "fetched_at": "2026-10-11T17:29:23.245369",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-11T04:43:56.885829"
+      "fetched_at": "2026-10-11T17:29:24.351010"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 275,
-        "estimated_minutes": 962,
-        "estimated_hours": 16.0,
+        "total_scrobbles": 234,
+        "estimated_minutes": 819,
+        "estimated_hours": 13.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "The Weeknd",
       "uts": 1791688804,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.6
     },
     "weekly_stats": {
       "total_tracks_this_week": 304,
@@ -225,31 +225,31 @@
           "rank": 1
         },
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
-          "rank": 2
-        },
-        {
-          "name": "I got it bad",
-          "artist": "Addison Rae",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Addison+Rae/_/I+got+it+bad",
-          "rank": 3
-        },
-        {
           "name": "Been Like This",
           "artist": "Doja Cat",
           "playcount": 3,
           "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
+          "rank": 2
+        },
+        {
+          "name": "You (feat. Travis Scott)",
+          "artist": "Don Toliver",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Don+Toliver/_/You+(feat.+Travis+Scott)",
+          "rank": 3
+        },
+        {
+          "name": "Mess To Clean",
+          "artist": "Edwin",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Edwin/_/Mess+To+Clean",
           "rank": 4
         },
         {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
+          "name": "NOBLE",
+          "artist": "F3miii",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-11T04:43:59.090191"
+    "fetched_at": "2026-10-11T17:29:26.503552"
   }
 }
