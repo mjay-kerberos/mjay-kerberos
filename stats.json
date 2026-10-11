@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-10T17:06:02.345821Z",
+  "collected_at": "2026-10-11T04:43:54.758876Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-10T17:06:02.993048",
+    "fetched_at": "2026-10-11T04:43:55.577054",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-10T17:06:04.343624"
+      "fetched_at": "2026-10-11T04:43:56.885829"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8620,
+      "total_scrobbles": 8644,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8620,
-      "estimated_minutes": 30170,
-      "estimated_hours": 502.8,
+      "total_scrobbles": 8644,
+      "estimated_minutes": 30254,
+      "estimated_hours": 504.2,
       "estimated_days": 21.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 423,
-        "estimated_minutes": 1480,
-        "estimated_hours": 24.7,
+        "total_scrobbles": 275,
+        "estimated_minutes": 962,
+        "estimated_hours": 16.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 525,
-        "estimated_minutes": 1838,
-        "estimated_hours": 30.6,
+        "total_scrobbles": 549,
+        "estimated_minutes": 1922,
+        "estimated_hours": 32.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8620,
-        "estimated_minutes": 30170,
-        "estimated_hours": 502.8,
+        "total_scrobbles": 8644,
+        "estimated_minutes": 30254,
+        "estimated_hours": 504.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Talk",
-      "artist": "Why Don't We",
-      "uts": 1791600009,
+      "name": "Reminder",
+      "artist": "The Weeknd",
+      "uts": 1791688804,
       "now_playing": false,
-      "days_ago": 0.6
+      "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 317,
-      "total_plays_this_week": 422
+      "total_tracks_this_week": 304,
+      "total_plays_this_week": 428
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 463,
+          "playcount": 464,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -107,7 +107,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 191,
+          "playcount": 193,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 117,
+          "playcount": 119,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
@@ -148,7 +148,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 50,
+          "playcount": 51,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "Wyw my sweetie #JerseyClub - Slowed",
-          "artist": "Nissi",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
+          "name": "BLENDER",
+          "artist": "5 Seconds of Summer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
           "rank": 1
         },
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 2
         },
         {
-          "name": "BLENDER",
-          "artist": "5 Seconds of Summer",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
+          "name": "I got it bad",
+          "artist": "Addison Rae",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Addison+Rae/_/I+got+it+bad",
           "rank": 3
+        },
+        {
+          "name": "Been Like This",
+          "artist": "Doja Cat",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
+          "rank": 4
         },
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
-          "rank": 4
-        },
-        {
-          "name": "ANGEL",
-          "artist": "Dutch Melrose",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Dutch+Melrose/_/ANGEL",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-10T17:06:07.598652"
+    "fetched_at": "2026-10-11T04:43:59.090191"
   }
 }
