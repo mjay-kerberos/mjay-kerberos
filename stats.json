@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-12T04:59:09.339021Z",
+  "collected_at": "2026-10-12T21:02:29.635083Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-12T04:59:09.936244",
+    "fetched_at": "2026-10-12T21:02:30.360834",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-12T04:59:11.105212"
+      "fetched_at": "2026-10-12T21:02:31.870102"
     }
   },
   "lastfm": {
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8660,
+      "total_scrobbles": 8665,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8660,
-      "estimated_minutes": 30310,
-      "estimated_hours": 505.2,
-      "estimated_days": 21.0,
+      "total_scrobbles": 8665,
+      "estimated_minutes": 30328,
+      "estimated_hours": 505.5,
+      "estimated_days": 21.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 248,
-        "estimated_minutes": 868,
-        "estimated_hours": 14.5,
+        "total_scrobbles": 250,
+        "estimated_minutes": 875,
+        "estimated_hours": 14.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 565,
-        "estimated_minutes": 1978,
-        "estimated_hours": 33.0,
+        "total_scrobbles": 570,
+        "estimated_minutes": 1995,
+        "estimated_hours": 33.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8660,
-        "estimated_minutes": 30310,
-        "estimated_hours": 505.2,
+        "total_scrobbles": 8665,
+        "estimated_minutes": 30328,
+        "estimated_hours": 505.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "LoveGame",
-      "artist": "Lady Gaga",
-      "uts": 1791776243,
+      "name": "Just Us (feat. Doja Cat)",
+      "artist": "Jack Harlow",
+      "uts": 1791827878,
       "now_playing": false,
       "days_ago": 0.1
     },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-12T04:59:14.234510"
+    "fetched_at": "2026-10-12T21:02:34.791153"
   }
 }
