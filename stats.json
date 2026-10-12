@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-11T17:29:22.476929Z",
+  "collected_at": "2026-10-12T04:59:09.339021Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-11T17:29:23.245369",
+    "fetched_at": "2026-10-12T04:59:09.936244",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-11T17:29:24.351010"
+      "fetched_at": "2026-10-12T04:59:11.105212"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8644,
+      "total_scrobbles": 8660,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8644,
-      "estimated_minutes": 30254,
-      "estimated_hours": 504.2,
+      "total_scrobbles": 8660,
+      "estimated_minutes": 30310,
+      "estimated_hours": 505.2,
       "estimated_days": 21.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 234,
-        "estimated_minutes": 819,
-        "estimated_hours": 13.7,
+        "total_scrobbles": 248,
+        "estimated_minutes": 868,
+        "estimated_hours": 14.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 549,
-        "estimated_minutes": 1922,
-        "estimated_hours": 32.0,
+        "total_scrobbles": 565,
+        "estimated_minutes": 1978,
+        "estimated_hours": 33.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8644,
-        "estimated_minutes": 30254,
-        "estimated_hours": 504.2,
+        "total_scrobbles": 8660,
+        "estimated_minutes": 30310,
+        "estimated_hours": 505.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Reminder",
-      "artist": "The Weeknd",
-      "uts": 1791688804,
+      "name": "LoveGame",
+      "artist": "Lady Gaga",
+      "uts": 1791776243,
       "now_playing": false,
-      "days_ago": 0.6
+      "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 304,
-      "total_plays_this_week": 428
+      "total_tracks_this_week": 225,
+      "total_plays_this_week": 276
     },
     "top_artists": {
       "overall": [
@@ -107,7 +107,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 193,
+          "playcount": 194,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -239,17 +239,17 @@
           "rank": 3
         },
         {
-          "name": "Mess To Clean",
-          "artist": "Edwin",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Edwin/_/Mess+To+Clean",
-          "rank": 4
-        },
-        {
           "name": "NOBLE",
           "artist": "F3miii",
           "playcount": 3,
           "url": "https://www.last.fm/music/F3miii/_/NOBLE",
+          "rank": 4
+        },
+        {
+          "name": "Escapism.",
+          "artist": "RAYE",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/RAYE/_/Escapism.",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-11T17:29:26.503552"
+    "fetched_at": "2026-10-12T04:59:14.234510"
   }
 }
