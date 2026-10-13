@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-13T05:59:45.142894Z",
+  "collected_at": "2026-10-13T19:00:57.784349Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-13T05:59:46.117766",
+    "fetched_at": "2026-10-13T19:00:58.477168",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-13T05:59:47.809247"
+      "fetched_at": "2026-10-13T19:00:59.900507"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8738,
+      "total_scrobbles": 8779,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8738,
-      "estimated_minutes": 30583,
-      "estimated_hours": 509.7,
-      "estimated_days": 21.2,
+      "total_scrobbles": 8779,
+      "estimated_minutes": 30726,
+      "estimated_hours": 512.1,
+      "estimated_days": 21.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 291,
-        "estimated_minutes": 1018,
-        "estimated_hours": 17.0,
+        "total_scrobbles": 321,
+        "estimated_minutes": 1124,
+        "estimated_hours": 18.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 643,
-        "estimated_minutes": 2250,
-        "estimated_hours": 37.5,
+        "total_scrobbles": 684,
+        "estimated_minutes": 2394,
+        "estimated_hours": 39.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8738,
-        "estimated_minutes": 30583,
-        "estimated_hours": 509.7,
+        "total_scrobbles": 8779,
+        "estimated_minutes": 30726,
+        "estimated_hours": 512.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "anytime soon (with Kid Travis)",
-      "artist": "Dylan Reese",
-      "uts": 1791859142,
-      "now_playing": false,
-      "days_ago": 0.1
+      "name": "Starting Line",
+      "artist": "Luke Hemmings",
+      "uts": 1791918064,
+      "now_playing": true,
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 212,
@@ -88,15 +88,15 @@
           "rank": 1
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 209,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Malcolm Todd",
+          "playcount": 212,
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
         {
-          "name": "Malcolm Todd",
-          "playcount": 209,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "name": "Dominic Fike",
+          "playcount": 210,
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 3
         },
         {
@@ -176,7 +176,7 @@
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 5
         },
@@ -239,17 +239,17 @@
           "rank": 3
         },
         {
-          "name": "NOBLE",
-          "artist": "F3miii",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/F3miii/_/NOBLE",
-          "rank": 4
-        },
-        {
           "name": "Escapism.",
           "artist": "RAYE",
           "playcount": 3,
           "url": "https://www.last.fm/music/RAYE/_/Escapism.",
+          "rank": 4
+        },
+        {
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 5
         }
       ]
@@ -287,12 +287,12 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 97,
+          "playcount": 99,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-10-13T05:59:50.433863"
+    "fetched_at": "2026-10-13T19:01:04.532888"
   }
 }
