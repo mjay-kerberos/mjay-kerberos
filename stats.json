@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-12T21:02:29.635083Z",
+  "collected_at": "2026-10-13T05:59:45.142894Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-12T21:02:30.360834",
+    "fetched_at": "2026-10-13T05:59:46.117766",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-12T21:02:31.870102"
+      "fetched_at": "2026-10-13T05:59:47.809247"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8665,
+      "total_scrobbles": 8738,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8665,
-      "estimated_minutes": 30328,
-      "estimated_hours": 505.5,
-      "estimated_days": 21.1,
+      "total_scrobbles": 8738,
+      "estimated_minutes": 30583,
+      "estimated_hours": 509.7,
+      "estimated_days": 21.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 250,
-        "estimated_minutes": 875,
-        "estimated_hours": 14.6,
+        "total_scrobbles": 291,
+        "estimated_minutes": 1018,
+        "estimated_hours": 17.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 570,
-        "estimated_minutes": 1995,
-        "estimated_hours": 33.2,
+        "total_scrobbles": 643,
+        "estimated_minutes": 2250,
+        "estimated_hours": 37.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8665,
-        "estimated_minutes": 30328,
-        "estimated_hours": 505.5,
+        "total_scrobbles": 8738,
+        "estimated_minutes": 30583,
+        "estimated_hours": 509.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Just Us (feat. Doja Cat)",
-      "artist": "Jack Harlow",
-      "uts": 1791827878,
+      "name": "anytime soon (with Kid Travis)",
+      "artist": "Dylan Reese",
+      "uts": 1791859142,
       "now_playing": false,
       "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 225,
-      "total_plays_this_week": 276
+      "total_tracks_this_week": 212,
+      "total_plays_this_week": 249
     },
     "top_artists": {
       "overall": [
@@ -220,7 +220,7 @@
         {
           "name": "BLENDER",
           "artist": "5 Seconds of Summer",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
           "rank": 1
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-12T21:02:34.791153"
+    "fetched_at": "2026-10-13T05:59:50.433863"
   }
 }
