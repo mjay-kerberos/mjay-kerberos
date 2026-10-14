@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-14T04:02:49.616021Z",
+  "collected_at": "2026-10-14T16:46:06.444103Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-14T04:02:50.158761",
+    "fetched_at": "2026-10-14T16:46:07.434382",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-14T04:02:51.256284"
+      "fetched_at": "2026-10-14T16:46:09.128066"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 307,
-        "estimated_minutes": 1074,
-        "estimated_hours": 17.9,
+        "total_scrobbles": 293,
+        "estimated_minutes": 1026,
+        "estimated_hours": 17.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Maria Wirries",
       "uts": 1791938380,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.7
     },
     "weekly_stats": {
       "total_tracks_this_week": 261,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-14T04:02:53.786890"
+    "fetched_at": "2026-10-14T16:46:17.439428"
   }
 }
