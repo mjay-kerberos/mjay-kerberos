@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-13T19:00:57.784349Z",
+  "collected_at": "2026-10-14T04:02:49.616021Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-13T19:00:58.477168",
+    "fetched_at": "2026-10-14T04:02:50.158761",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-13T19:00:59.900507"
+      "fetched_at": "2026-10-14T04:02:51.256284"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8779,
+      "total_scrobbles": 8817,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8779,
-      "estimated_minutes": 30726,
-      "estimated_hours": 512.1,
-      "estimated_days": 21.3,
+      "total_scrobbles": 8817,
+      "estimated_minutes": 30860,
+      "estimated_hours": 514.3,
+      "estimated_days": 21.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 321,
-        "estimated_minutes": 1124,
-        "estimated_hours": 18.7,
+        "total_scrobbles": 307,
+        "estimated_minutes": 1074,
+        "estimated_hours": 17.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 684,
-        "estimated_minutes": 2394,
-        "estimated_hours": 39.9,
+        "total_scrobbles": 722,
+        "estimated_minutes": 2527,
+        "estimated_hours": 42.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8779,
-        "estimated_minutes": 30726,
-        "estimated_hours": 512.1,
+        "total_scrobbles": 8817,
+        "estimated_minutes": 30860,
+        "estimated_hours": 514.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Starting Line",
-      "artist": "Luke Hemmings",
-      "uts": 1791918064,
-      "now_playing": true,
-      "days_ago": 0.0
+      "name": "war",
+      "artist": "Maria Wirries",
+      "uts": 1791938380,
+      "now_playing": false,
+      "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 212,
-      "total_plays_this_week": 249
+      "total_tracks_this_week": 261,
+      "total_plays_this_week": 287
     },
     "top_artists": {
       "overall": [
@@ -89,7 +89,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 212,
+          "playcount": 213,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -101,19 +101,19 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 201,
+          "playcount": 202,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Tate McRae",
-          "playcount": 194,
+          "playcount": 195,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
         {
           "name": "The Runarounds",
-          "playcount": 164,
+          "playcount": 165,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -162,7 +162,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 41,
+          "playcount": 42,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 3
         },
@@ -197,7 +197,7 @@
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 32,
+          "playcount": 34,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 8
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "BLENDER",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/BLENDER",
+          "name": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 1
         },
         {
-          "name": "Been Like This",
-          "artist": "Doja Cat",
+          "name": "Wait a Minute!",
+          "artist": "Willow",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
+          "url": "https://www.last.fm/music/Willow/_/Wait+a+Minute!",
           "rank": 2
         },
         {
-          "name": "You (feat. Travis Scott)",
-          "artist": "Don Toliver",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Don+Toliver/_/You+(feat.+Travis+Scott)",
+          "name": "Teeth",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth",
           "rank": 3
         },
         {
-          "name": "Escapism.",
-          "artist": "RAYE",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/RAYE/_/Escapism.",
+          "name": "Knee Socks",
+          "artist": "Arctic Monkeys",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks",
           "rank": 4
         },
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "name": "Stay // Honestly",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Stay+%2F%2F+Honestly",
           "rank": 5
         }
       ]
@@ -266,7 +266,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 134,
+          "playcount": 135,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -287,12 +287,12 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 99,
+          "playcount": 100,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-10-13T19:01:04.532888"
+    "fetched_at": "2026-10-14T04:02:53.786890"
   }
 }
