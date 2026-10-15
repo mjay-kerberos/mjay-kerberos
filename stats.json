@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15T03:45:04.513111Z",
+  "collected_at": "2026-10-15T16:31:48.145340Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-15T03:45:05.287377",
+    "fetched_at": "2026-10-15T16:31:48.823132",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-15T03:45:06.850754"
+      "fetched_at": "2026-10-15T16:31:50.480154"
     }
   },
   "lastfm": {
@@ -73,7 +73,7 @@
       "artist": "Thekidtrippz",
       "uts": 1792016663,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.8
     },
     "weekly_stats": {
       "total_tracks_this_week": 276,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-15T03:45:10.038958"
+    "fetched_at": "2026-10-15T16:31:53.234234"
   }
 }
