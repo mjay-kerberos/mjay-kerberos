@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15T16:31:48.145340Z",
+  "collected_at": "2026-10-16T03:41:09.596730Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-15T16:31:48.823132",
+    "fetched_at": "2026-10-16T03:41:10.290127",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 283,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-15T16:31:50.480154"
+      "fetched_at": "2026-10-16T03:41:12.013090"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8830,
+      "total_scrobbles": 8840,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8830,
-      "estimated_minutes": 30905,
-      "estimated_hours": 515.1,
+      "total_scrobbles": 8840,
+      "estimated_minutes": 30940,
+      "estimated_hours": 515.7,
       "estimated_days": 21.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 259,
-        "estimated_minutes": 906,
-        "estimated_hours": 15.1,
+        "total_scrobbles": 238,
+        "estimated_minutes": 833,
+        "estimated_hours": 13.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 735,
-        "estimated_minutes": 2572,
-        "estimated_hours": 42.9,
+        "total_scrobbles": 745,
+        "estimated_minutes": 2608,
+        "estimated_hours": 43.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8830,
-        "estimated_minutes": 30905,
-        "estimated_hours": 515.1,
+        "total_scrobbles": 8840,
+        "estimated_minutes": 30940,
+        "estimated_hours": 515.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "LOVING YOU",
-      "artist": "Thekidtrippz",
-      "uts": 1792016663,
+      "name": "I Wanna Get Better",
+      "artist": "Bleachers",
+      "uts": 1792092568,
       "now_playing": false,
-      "days_ago": 0.8
+      "days_ago": 0.3
     },
     "weekly_stats": {
-      "total_tracks_this_week": 276,
-      "total_plays_this_week": 308
+      "total_tracks_this_week": 234,
+      "total_plays_this_week": 260
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 464,
+          "playcount": 465,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -101,13 +101,13 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 202,
+          "playcount": 203,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Tate McRae",
-          "playcount": 195,
+          "playcount": 196,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 5
         },
@@ -232,24 +232,24 @@
           "rank": 2
         },
         {
+          "name": "Don't Stop",
+          "artist": "5 Seconds of Summer",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Don%27t+Stop",
+          "rank": 3
+        },
+        {
           "name": "Knee Socks",
           "artist": "Arctic Monkeys",
           "playcount": 2,
           "url": "https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Stay // Honestly",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Stay+%2F%2F+Honestly",
-          "rank": 4
-        },
-        {
-          "name": "Done for Me (feat. Kehlani)",
-          "artist": "Charlie Puth",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Charlie+Puth/_/Done+for+Me+(feat.+Kehlani)",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-15T16:31:53.234234"
+    "fetched_at": "2026-10-16T03:41:18.141064"
   }
 }
