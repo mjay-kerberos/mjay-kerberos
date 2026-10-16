@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-16T03:41:09.596730Z",
+  "collected_at": "2026-10-16T16:16:56.819614Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-16T03:41:10.290127",
+    "fetched_at": "2026-10-16T16:16:57.562945",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 3,
       "total_prs_all_time": 36,
       "total_issues_all_time": 0,
-      "total_stars_received": 283,
+      "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-16T03:41:12.013090"
+      "fetched_at": "2026-10-16T16:16:58.758044"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 238,
-        "estimated_minutes": 833,
-        "estimated_hours": 13.9,
+        "total_scrobbles": 221,
+        "estimated_minutes": 774,
+        "estimated_hours": 12.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Bleachers",
       "uts": 1792092568,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.9
     },
     "weekly_stats": {
       "total_tracks_this_week": 234,
@@ -232,24 +232,24 @@
           "rank": 2
         },
         {
-          "name": "Don't Stop",
-          "artist": "5 Seconds of Summer",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Don%27t+Stop",
-          "rank": 3
-        },
-        {
           "name": "Knee Socks",
           "artist": "Arctic Monkeys",
           "playcount": 2,
           "url": "https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Stay // Honestly",
           "artist": "Ax and the Hatchetmen",
           "playcount": 2,
           "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Stay+%2F%2F+Honestly",
+          "rank": 4
+        },
+        {
+          "name": "Better With Me",
+          "artist": "chikoruss",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/chikoruss/_/Better+With+Me",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-16T03:41:18.141064"
+    "fetched_at": "2026-10-16T16:17:01.429316"
   }
 }
