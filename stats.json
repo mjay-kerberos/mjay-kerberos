@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-17T03:30:36.508988Z",
+  "collected_at": "2026-10-17T15:11:53.272604Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-17T03:30:37.037687",
+    "fetched_at": "2026-10-17T15:11:53.891657",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-17T03:30:38.169442"
+      "fetched_at": "2026-10-17T15:11:54.798358"
     }
   },
   "lastfm": {
@@ -73,7 +73,7 @@
       "artist": "Bleachers",
       "uts": 1792092568,
       "now_playing": false,
-      "days_ago": 1.3
+      "days_ago": 1.8
     },
     "weekly_stats": {
       "total_tracks_this_week": 210,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-17T03:30:42.633366"
+    "fetched_at": "2026-10-17T15:11:57.307443"
   }
 }
