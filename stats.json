@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-17T15:11:53.272604Z",
+  "collected_at": "2026-10-18T03:38:04.127132Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-17T15:11:53.891657",
+    "fetched_at": "2026-10-18T03:38:04.670550",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-17T15:11:54.798358"
+      "fetched_at": "2026-10-18T03:38:05.714882"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 217,
-        "estimated_minutes": 760,
-        "estimated_hours": 12.7,
+        "total_scrobbles": 195,
+        "estimated_minutes": 682,
+        "estimated_hours": 11.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,11 +73,11 @@
       "artist": "Bleachers",
       "uts": 1792092568,
       "now_playing": false,
-      "days_ago": 1.8
+      "days_ago": 2.3
     },
     "weekly_stats": {
-      "total_tracks_this_week": 210,
-      "total_plays_this_week": 238
+      "total_tracks_this_week": 197,
+      "total_plays_this_week": 217
     },
     "top_artists": {
       "overall": [
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-17T15:11:57.307443"
+    "fetched_at": "2026-10-18T03:38:09.816304"
   }
 }
