@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-18T15:33:16.058140Z",
+  "collected_at": "2026-10-19T03:47:47.805959Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-18T15:33:16.642259",
+    "fetched_at": "2026-10-19T03:47:48.392735",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-18T15:33:17.946622"
+      "fetched_at": "2026-10-19T03:47:49.312232"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8840,
+      "total_scrobbles": 8893,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8840,
-      "estimated_minutes": 30940,
-      "estimated_hours": 515.7,
-      "estimated_days": 21.5,
+      "total_scrobbles": 8893,
+      "estimated_minutes": 31126,
+      "estimated_hours": 518.8,
+      "estimated_days": 21.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 195,
-        "estimated_minutes": 682,
-        "estimated_hours": 11.4,
+        "total_scrobbles": 232,
+        "estimated_minutes": 812,
+        "estimated_hours": 13.5,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 745,
-        "estimated_minutes": 2608,
-        "estimated_hours": 43.5,
+        "total_scrobbles": 798,
+        "estimated_minutes": 2793,
+        "estimated_hours": 46.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8840,
-        "estimated_minutes": 30940,
-        "estimated_hours": 515.7,
+        "total_scrobbles": 8893,
+        "estimated_minutes": 31126,
+        "estimated_hours": 518.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "I Wanna Get Better",
-      "artist": "Bleachers",
-      "uts": 1792092568,
+      "name": "expectations (feat. Chappell Roan)",
+      "artist": "Olivia Rodrigo",
+      "uts": 1792378827,
       "now_playing": false,
-      "days_ago": 2.8
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 197,
-      "total_plays_this_week": 217
+      "total_tracks_this_week": 179,
+      "total_plays_this_week": 199
     },
     "top_artists": {
       "overall": [
@@ -100,15 +100,15 @@
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 203,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Tate McRae",
+          "playcount": 204,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
         {
-          "name": "Tate McRae",
-          "playcount": 196,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "name": "Fall Out Boy",
+          "playcount": 203,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
         {
@@ -148,7 +148,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 51,
+          "playcount": 52,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -162,7 +162,7 @@
         {
           "name": "Jealous Type",
           "artist": "Doja Cat",
-          "playcount": 42,
+          "playcount": 43,
           "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
           "rank": 3
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "BMF",
-          "artist": "SZA",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/SZA/_/BMF",
+          "name": "Housewife",
+          "artist": "Tate McRae",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Tate+McRae/_/Housewife",
           "rank": 1
+        },
+        {
+          "name": "LOVING YOU",
+          "artist": "Thekidtrippz",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Thekidtrippz/_/LOVING+YOU",
+          "rank": 2
         },
         {
           "name": "Wait a Minute!",
           "artist": "Willow",
-          "playcount": 3,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Willow/_/Wait+a+Minute!",
-          "rank": 2
-        },
-        {
-          "name": "Knee Socks",
-          "artist": "Arctic Monkeys",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks",
           "rank": 3
         },
         {
-          "name": "Stay // Honestly",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Stay+%2F%2F+Honestly",
+          "name": "Leak It",
+          "artist": "FLO",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/FLO/_/Leak+It",
           "rank": 4
         },
         {
-          "name": "Better With Me",
-          "artist": "chikoruss",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/chikoruss/_/Better+With+Me",
+          "name": "Do You Think Of Me?",
+          "artist": "Kid Travis",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Kid+Travis/_/Do+You+Think+Of+Me%3F",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-18T15:33:20.344217"
+    "fetched_at": "2026-10-19T03:47:51.374010"
   }
 }
