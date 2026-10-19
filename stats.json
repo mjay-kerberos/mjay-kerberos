@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19T03:47:47.805959Z",
+  "collected_at": "2026-10-19T18:28:54.842493Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-19T03:47:48.392735",
+    "fetched_at": "2026-10-19T18:28:55.588231",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-19T03:47:49.312232"
+      "fetched_at": "2026-10-19T18:28:56.830438"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 232,
-        "estimated_minutes": 812,
-        "estimated_hours": 13.5,
+        "total_scrobbles": 228,
+        "estimated_minutes": 798,
+        "estimated_hours": 13.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Olivia Rodrigo",
       "uts": 1792378827,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.6
     },
     "weekly_stats": {
       "total_tracks_this_week": 179,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-19T03:47:51.374010"
+    "fetched_at": "2026-10-19T18:29:00.753698"
   }
 }
