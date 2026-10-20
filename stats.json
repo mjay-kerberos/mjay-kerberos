@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-20T03:59:10.283469Z",
+  "collected_at": "2026-10-20T16:31:44.044410Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-20T03:59:10.831810",
+    "fetched_at": "2026-10-20T16:31:44.933888",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-20T03:59:12.144461"
+      "fetched_at": "2026-10-20T16:31:46.456669"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 179,
-        "estimated_minutes": 626,
-        "estimated_hours": 10.4,
+        "total_scrobbles": 167,
+        "estimated_minutes": 584,
+        "estimated_hours": 9.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Alex Warren",
       "uts": 1792453169,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.7
     },
     "weekly_stats": {
       "total_tracks_this_week": 201,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-20T03:59:14.943829"
+    "fetched_at": "2026-10-20T16:32:08.766357"
   }
 }
