@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19T18:28:54.842493Z",
+  "collected_at": "2026-10-20T03:59:10.283469Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-19T18:28:55.588231",
+    "fetched_at": "2026-10-20T03:59:10.831810",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-19T18:28:56.830438"
+      "fetched_at": "2026-10-20T03:59:12.144461"
     }
   },
   "lastfm": {
@@ -34,62 +34,62 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8893,
+      "total_scrobbles": 8917,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8893,
-      "estimated_minutes": 31126,
-      "estimated_hours": 518.8,
-      "estimated_days": 21.6,
+      "total_scrobbles": 8917,
+      "estimated_minutes": 31210,
+      "estimated_hours": 520.2,
+      "estimated_days": 21.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 228,
-        "estimated_minutes": 798,
-        "estimated_hours": 13.3,
+        "total_scrobbles": 179,
+        "estimated_minutes": 626,
+        "estimated_hours": 10.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 798,
-        "estimated_minutes": 2793,
-        "estimated_hours": 46.5,
+        "total_scrobbles": 822,
+        "estimated_minutes": 2877,
+        "estimated_hours": 48.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8893,
-        "estimated_minutes": 31126,
-        "estimated_hours": 518.8,
+        "total_scrobbles": 8917,
+        "estimated_minutes": 31210,
+        "estimated_hours": 520.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "expectations (feat. Chappell Roan)",
-      "artist": "Olivia Rodrigo",
-      "uts": 1792378827,
+      "name": "Fever Dream",
+      "artist": "Alex Warren",
+      "uts": 1792453169,
       "now_playing": false,
-      "days_ago": 0.6
+      "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 179,
-      "total_plays_this_week": 199
+      "total_tracks_this_week": 201,
+      "total_plays_this_week": 233
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 465,
+          "playcount": 466,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 213,
+          "playcount": 214,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 204,
+          "playcount": 205,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
@@ -167,17 +167,17 @@
           "rank": 3
         },
         {
+          "name": "Earrings",
+          "artist": "Malcolm Todd",
+          "playcount": 39,
+          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+          "rank": 4
+        },
+        {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 38,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 4
-        },
-        {
-          "name": "Earrings",
-          "artist": "Malcolm Todd",
-          "playcount": 38,
-          "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 5
         },
         {
@@ -220,7 +220,7 @@
         {
           "name": "Housewife",
           "artist": "Tate McRae",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Tate+McRae/_/Housewife",
           "rank": 1
         },
@@ -246,10 +246,10 @@
           "rank": 4
         },
         {
-          "name": "Do You Think Of Me?",
-          "artist": "Kid Travis",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Kid+Travis/_/Do+You+Think+Of+Me%3F",
+          "name": "Fever Dream",
+          "artist": "Alex Warren",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Alex+Warren/_/Fever+Dream",
           "rank": 5
         }
       ]
@@ -287,12 +287,12 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 100,
+          "playcount": 101,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-10-19T18:29:00.753698"
+    "fetched_at": "2026-10-20T03:59:14.943829"
   }
 }
