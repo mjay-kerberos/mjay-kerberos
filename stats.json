@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-21T03:48:45.999954Z",
+  "collected_at": "2026-10-21T16:49:11.968954Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-21T03:48:46.756871",
+    "fetched_at": "2026-10-21T16:49:12.671575",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 44,
-      "fetched_at": "2026-10-21T03:48:48.290214"
+      "fetched_at": "2026-10-21T16:49:14.333868"
     }
   },
   "lastfm": {
@@ -73,7 +73,7 @@
       "artist": "Dane Amar",
       "uts": 1792537405,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.7
     },
     "weekly_stats": {
       "total_tracks_this_week": 149,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-21T03:48:50.908348"
+    "fetched_at": "2026-10-21T16:49:25.429249"
   }
 }
