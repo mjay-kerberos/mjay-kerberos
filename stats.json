@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-22T03:48:24.508635Z",
+  "collected_at": "2026-10-22T16:49:22.296442Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-22T03:48:25.063370",
+    "fetched_at": "2026-10-22T16:49:22.964123",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-22T03:48:26.132869"
+      "fetched_at": "2026-10-22T16:49:24.228307"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8947,
+      "total_scrobbles": 8953,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8947,
-      "estimated_minutes": 31314,
-      "estimated_hours": 521.9,
-      "estimated_days": 21.7,
+      "total_scrobbles": 8953,
+      "estimated_minutes": 31336,
+      "estimated_hours": 522.3,
+      "estimated_days": 21.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 113,
-        "estimated_minutes": 396,
-        "estimated_hours": 6.6,
+        "total_scrobbles": 119,
+        "estimated_minutes": 416,
+        "estimated_hours": 6.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 852,
-        "estimated_minutes": 2982,
-        "estimated_hours": 49.7,
+        "total_scrobbles": 858,
+        "estimated_minutes": 3003,
+        "estimated_hours": 50.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8947,
-        "estimated_minutes": 31314,
-        "estimated_hours": 521.9,
+        "total_scrobbles": 8953,
+        "estimated_minutes": 31336,
+        "estimated_hours": 522.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Wyw my sweetie #JerseyClub - Slowed",
-      "artist": "Nissi",
-      "uts": 1792624798,
+      "name": "BLENDER",
+      "artist": "5 Seconds of Summer",
+      "uts": 1792685203,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 96,
@@ -83,7 +83,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 466,
+          "playcount": 467,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -246,10 +246,10 @@
           "rank": 4
         },
         {
-          "name": "Fantasize",
-          "artist": "AJ Vitanza",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/AJ+Vitanza/_/Fantasize",
+          "name": "Wyw my sweetie #JerseyClub - Slowed",
+          "artist": "Nissi",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
           "rank": 5
         }
       ]
@@ -280,7 +280,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 103,
+          "playcount": 104,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-22T03:48:28.529896"
+    "fetched_at": "2026-10-22T16:49:28.461187"
   }
 }
