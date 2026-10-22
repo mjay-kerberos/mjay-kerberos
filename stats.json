@@ -1,20 +1,20 @@
 {
-  "collected_at": "2026-10-21T16:49:11.968954Z",
+  "collected_at": "2026-10-22T03:48:24.508635Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 334,
+    "total_commits_this_year": 344,
     "public_commits": 67,
-    "private_commits": 267,
-    "commits_this_month": 9,
+    "private_commits": 277,
+    "commits_this_month": 19,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 338,
+    "total_contributions": 348,
     "repos_owned": 62,
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-21T16:49:12.671575",
+    "fetched_at": "2026-10-22T03:48:25.063370",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -25,8 +25,8 @@
       "total_prs_all_time": 36,
       "total_issues_all_time": 0,
       "total_stars_received": 284,
-      "total_forks_received": 44,
-      "fetched_at": "2026-10-21T16:49:14.333868"
+      "total_forks_received": 45,
+      "fetched_at": "2026-10-22T03:48:26.132869"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8930,
+      "total_scrobbles": 8947,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8930,
-      "estimated_minutes": 31255,
-      "estimated_hours": 520.9,
+      "total_scrobbles": 8947,
+      "estimated_minutes": 31314,
+      "estimated_hours": 521.9,
       "estimated_days": 21.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 112,
-        "estimated_minutes": 392,
-        "estimated_hours": 6.5,
+        "total_scrobbles": 113,
+        "estimated_minutes": 396,
+        "estimated_hours": 6.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 835,
-        "estimated_minutes": 2922,
-        "estimated_hours": 48.7,
+        "total_scrobbles": 852,
+        "estimated_minutes": 2982,
+        "estimated_hours": 49.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8930,
-        "estimated_minutes": 31255,
-        "estimated_hours": 520.9,
+        "total_scrobbles": 8947,
+        "estimated_minutes": 31314,
+        "estimated_hours": 521.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Fallin' 4 U",
-      "artist": "Dane Amar",
-      "uts": 1792537405,
+      "name": "Wyw my sweetie #JerseyClub - Slowed",
+      "artist": "Nissi",
+      "uts": 1792624798,
       "now_playing": false,
-      "days_ago": 0.7
+      "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 149,
-      "total_plays_this_week": 179
+      "total_tracks_this_week": 96,
+      "total_plays_this_week": 112
     },
     "top_artists": {
       "overall": [
@@ -101,13 +101,13 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 205,
+          "playcount": 206,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 203,
+          "playcount": 204,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
@@ -197,7 +197,7 @@
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 34,
+          "playcount": 35,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 8
         },
@@ -225,31 +225,31 @@
           "rank": 1
         },
         {
-          "name": "LOVING YOU",
-          "artist": "Thekidtrippz",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Thekidtrippz/_/LOVING+YOU",
+          "name": "Blood Brothers",
+          "artist": "Bleachers",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Bleachers/_/Blood+Brothers",
           "rank": 2
         },
         {
-          "name": "Blood Brothers",
-          "artist": "Bleachers",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Bleachers/_/Blood+Brothers",
+          "name": "High All The Time (feat. G-Eazy)",
+          "artist": "Henry Morris",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Henry+Morris/_/High+All+The+Time+(feat.+G-Eazy)",
           "rank": 3
         },
         {
-          "name": "Been Like This",
-          "artist": "Doja Cat",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
+          "name": "Do You Think Of Me?",
+          "artist": "Kid Travis",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Kid+Travis/_/Do+You+Think+Of+Me%3F",
           "rank": 4
         },
         {
-          "name": "Leak It",
-          "artist": "FLO",
+          "name": "Fantasize",
+          "artist": "AJ Vitanza",
           "playcount": 2,
-          "url": "https://www.last.fm/music/FLO/_/Leak+It",
+          "url": "https://www.last.fm/music/AJ+Vitanza/_/Fantasize",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-21T16:49:25.429249"
+    "fetched_at": "2026-10-22T03:48:28.529896"
   }
 }
