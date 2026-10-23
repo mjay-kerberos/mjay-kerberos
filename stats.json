@@ -1,32 +1,32 @@
 {
-  "collected_at": "2026-10-22T16:49:22.296442Z",
+  "collected_at": "2026-10-23T03:52:42.492996Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
-    "total_commits_this_year": 344,
+    "total_commits_this_year": 353,
     "public_commits": 67,
-    "private_commits": 277,
-    "commits_this_month": 19,
+    "private_commits": 286,
+    "commits_this_month": 28,
     "total_prs": 0,
     "total_issues": 0,
-    "total_contributions": 348,
-    "repos_owned": 62,
+    "total_contributions": 357,
+    "repos_owned": 63,
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-22T16:49:22.964123",
+    "fetched_at": "2026-10-23T03:52:43.096972",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
-      "total_repos": 62,
+      "total_repos": 63,
       "public_repos": 27,
-      "private_repos": 35,
+      "private_repos": 36,
       "repos_contributed_to": 3,
       "total_prs_all_time": 36,
       "total_issues_all_time": 0,
       "total_stars_received": 284,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-22T16:49:24.228307"
+      "fetched_at": "2026-10-23T03:52:44.616315"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 8953,
+      "total_scrobbles": 9031,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 8953,
-      "estimated_minutes": 31336,
-      "estimated_hours": 522.3,
-      "estimated_days": 21.8,
+      "total_scrobbles": 9031,
+      "estimated_minutes": 31608,
+      "estimated_hours": 526.8,
+      "estimated_days": 22.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 119,
-        "estimated_minutes": 416,
-        "estimated_hours": 6.9,
+        "total_scrobbles": 187,
+        "estimated_minutes": 654,
+        "estimated_hours": 10.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 858,
-        "estimated_minutes": 3003,
-        "estimated_hours": 50.0,
+        "total_scrobbles": 936,
+        "estimated_minutes": 3276,
+        "estimated_hours": 54.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 8953,
-        "estimated_minutes": 31336,
-        "estimated_hours": 522.3,
+        "total_scrobbles": 9031,
+        "estimated_minutes": 31608,
+        "estimated_hours": 526.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "BLENDER",
-      "artist": "5 Seconds of Summer",
-      "uts": 1792685203,
+      "name": "Finally",
+      "artist": "Jonas Blue",
+      "uts": 1792720173,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 96,
-      "total_plays_this_week": 112
+      "total_tracks_this_week": 99,
+      "total_plays_this_week": 114
     },
     "top_artists": {
       "overall": [
@@ -94,15 +94,15 @@
           "rank": 2
         },
         {
-          "name": "Dominic Fike",
-          "playcount": 210,
-          "url": "https://www.last.fm/music/Dominic+Fike",
+          "name": "Tate McRae",
+          "playcount": 213,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 3
         },
         {
-          "name": "Tate McRae",
-          "playcount": 206,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "name": "Dominic Fike",
+          "playcount": 210,
+          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 4
         },
         {
@@ -148,7 +148,7 @@
         {
           "name": "Stateside + Zara Larsson",
           "artist": "PinkPantheress",
-          "playcount": 52,
+          "playcount": 53,
           "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
           "rank": 1
         },
@@ -220,36 +220,36 @@
         {
           "name": "Housewife",
           "artist": "Tate McRae",
-          "playcount": 5,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Tate+McRae/_/Housewife",
           "rank": 1
+        },
+        {
+          "name": "Can't Tame Her",
+          "artist": "Zara Larsson",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Zara+Larsson/_/Can%27t+Tame+Her",
+          "rank": 2
         },
         {
           "name": "Blood Brothers",
           "artist": "Bleachers",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bleachers/_/Blood+Brothers",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "High All The Time (feat. G-Eazy)",
           "artist": "Henry Morris",
           "playcount": 3,
           "url": "https://www.last.fm/music/Henry+Morris/_/High+All+The+Time+(feat.+G-Eazy)",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Do You Think Of Me?",
           "artist": "Kid Travis",
           "playcount": 3,
           "url": "https://www.last.fm/music/Kid+Travis/_/Do+You+Think+Of+Me%3F",
-          "rank": 4
-        },
-        {
-          "name": "Wyw my sweetie #JerseyClub - Slowed",
-          "artist": "Nissi",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Nissi/_/Wyw+my+sweetie+%23JerseyClub+-+Slowed",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-22T16:49:28.461187"
+    "fetched_at": "2026-10-23T03:52:46.788601"
   }
 }
