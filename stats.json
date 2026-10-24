@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-24T03:47:05.977868Z",
+  "collected_at": "2026-10-24T15:34:30.701922Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-24T03:47:06.681754",
+    "fetched_at": "2026-10-24T15:34:31.326292",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 285,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-24T03:47:07.928957"
+      "fetched_at": "2026-10-24T15:34:32.437712"
     }
   },
   "lastfm": {
@@ -73,7 +73,7 @@
       "artist": "Dominic Fike",
       "uts": 1792804757,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.6
     },
     "weekly_stats": {
       "total_tracks_this_week": 165,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-24T03:47:09.842864"
+    "fetched_at": "2026-10-24T15:34:34.935397"
   }
 }
