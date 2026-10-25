@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-25T03:45:44.817671Z",
+  "collected_at": "2026-10-25T15:44:51.969512Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-25T03:45:45.428010",
+    "fetched_at": "2026-10-25T15:44:52.817586",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-25T03:45:46.500014"
+      "fetched_at": "2026-10-25T15:44:53.882676"
     }
   },
   "lastfm": {
@@ -73,7 +73,7 @@
       "artist": "Katy Perry",
       "uts": 1792884598,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.7
     },
     "weekly_stats": {
       "total_tracks_this_week": 180,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-25T03:45:49.190848"
+    "fetched_at": "2026-10-25T15:44:57.027978"
   }
 }
