@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26T03:49:27.093024Z",
+  "collected_at": "2026-10-26T18:25:31.234566Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-26T03:49:27.600608",
+    "fetched_at": "2026-10-26T18:25:32.352276",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-26T03:49:28.937601"
+      "fetched_at": "2026-10-26T18:25:33.856367"
     }
   },
   "lastfm": {
@@ -73,7 +73,7 @@
       "artist": "Alessia Cara",
       "uts": 1792968035,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.8
     },
     "weekly_stats": {
       "total_tracks_this_week": 218,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-26T03:49:30.861568"
+    "fetched_at": "2026-10-26T18:25:36.823333"
   }
 }
