@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-25T15:44:51.969512Z",
+  "collected_at": "2026-10-26T03:49:27.093024Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-25T15:44:52.817586",
+    "fetched_at": "2026-10-26T03:49:27.600608",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-25T15:44:53.882676"
+      "fetched_at": "2026-10-26T03:49:28.937601"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9113,
+      "total_scrobbles": 9146,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9113,
-      "estimated_minutes": 31896,
-      "estimated_hours": 531.6,
-      "estimated_days": 22.1,
+      "total_scrobbles": 9146,
+      "estimated_minutes": 32011,
+      "estimated_hours": 533.5,
+      "estimated_days": 22.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 269,
-        "estimated_minutes": 942,
-        "estimated_hours": 15.7,
+        "total_scrobbles": 252,
+        "estimated_minutes": 882,
+        "estimated_hours": 14.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1018,
-        "estimated_minutes": 3563,
-        "estimated_hours": 59.4,
+        "total_scrobbles": 1051,
+        "estimated_minutes": 3678,
+        "estimated_hours": 61.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9113,
-        "estimated_minutes": 31896,
-        "estimated_hours": 531.6,
+        "total_scrobbles": 9146,
+        "estimated_minutes": 32011,
+        "estimated_hours": 533.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "California Gurls",
-      "artist": "Katy Perry",
-      "uts": 1792884598,
+      "name": "Here",
+      "artist": "Alessia Cara",
+      "uts": 1792968035,
       "now_playing": false,
-      "days_ago": 0.7
+      "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 180,
-      "total_plays_this_week": 212
+      "total_tracks_this_week": 218,
+      "total_plays_this_week": 270
     },
     "top_artists": {
       "overall": [
@@ -107,7 +107,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 204,
+          "playcount": 206,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 120,
+          "playcount": 121,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "Housewife",
-          "artist": "Tate McRae",
-          "playcount": 8,
-          "url": "https://www.last.fm/music/Tate+McRae/_/Housewife",
-          "rank": 1
-        },
-        {
           "name": "Can't Tame Her",
           "artist": "Zara Larsson",
           "playcount": 6,
           "url": "https://www.last.fm/music/Zara+Larsson/_/Can%27t+Tame+Her",
+          "rank": 1
+        },
+        {
+          "name": "Housewife",
+          "artist": "Tate McRae",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Tate+McRae/_/Housewife",
           "rank": 2
+        },
+        {
+          "name": "Fantasize",
+          "artist": "AJ Vitanza",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/AJ+Vitanza/_/Fantasize",
+          "rank": 3
         },
         {
           "name": "Blood Brothers",
           "artist": "Bleachers",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Bleachers/_/Blood+Brothers",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "High All The Time (feat. G-Eazy)",
           "artist": "Henry Morris",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Henry+Morris/_/High+All+The+Time+(feat.+G-Eazy)",
-          "rank": 4
-        },
-        {
-          "name": "Do You Think Of Me?",
-          "artist": "Kid Travis",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Kid+Travis/_/Do+You+Think+Of+Me%3F",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-25T15:44:57.027978"
+    "fetched_at": "2026-10-26T03:49:30.861568"
   }
 }
