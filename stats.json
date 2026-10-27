@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26T18:25:31.234566Z",
+  "collected_at": "2026-10-27T04:11:44.620167Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-26T18:25:32.352276",
+    "fetched_at": "2026-10-27T04:11:46.293081",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-26T18:25:33.856367"
+      "fetched_at": "2026-10-27T04:11:47.585620"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9146,
+      "total_scrobbles": 9181,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9146,
-      "estimated_minutes": 32011,
-      "estimated_hours": 533.5,
-      "estimated_days": 22.2,
+      "total_scrobbles": 9181,
+      "estimated_minutes": 32134,
+      "estimated_hours": 535.6,
+      "estimated_days": 22.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 252,
-        "estimated_minutes": 882,
-        "estimated_hours": 14.7,
+        "total_scrobbles": 264,
+        "estimated_minutes": 924,
+        "estimated_hours": 15.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1051,
-        "estimated_minutes": 3678,
-        "estimated_hours": 61.3,
+        "total_scrobbles": 1086,
+        "estimated_minutes": 3801,
+        "estimated_hours": 63.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9146,
-        "estimated_minutes": 32011,
-        "estimated_hours": 533.5,
+        "total_scrobbles": 9181,
+        "estimated_minutes": 32134,
+        "estimated_hours": 535.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Here",
-      "artist": "Alessia Cara",
-      "uts": 1792968035,
+      "name": "Daddy Issues",
+      "artist": "The Neighbourhood",
+      "uts": 1793057221,
       "now_playing": false,
-      "days_ago": 0.8
+      "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 218,
-      "total_plays_this_week": 270
+      "total_tracks_this_week": 216,
+      "total_plays_this_week": 253
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 467,
+          "playcount": 468,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -107,13 +107,13 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 206,
+          "playcount": 208,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
         {
           "name": "The Runarounds",
-          "playcount": 165,
+          "playcount": 166,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -181,17 +181,17 @@
           "rank": 5
         },
         {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 36,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 6
+        },
+        {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 36,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 6
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 35,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 7
         },
         {
@@ -225,31 +225,31 @@
           "rank": 1
         },
         {
-          "name": "Housewife",
-          "artist": "Tate McRae",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Tate+McRae/_/Housewife",
-          "rank": 2
-        },
-        {
           "name": "Fantasize",
           "artist": "AJ Vitanza",
           "playcount": 3,
           "url": "https://www.last.fm/music/AJ+Vitanza/_/Fantasize",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Blood Brothers",
           "artist": "Bleachers",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bleachers/_/Blood+Brothers",
+          "rank": 3
+        },
+        {
+          "name": "Fourth of July",
+          "artist": "Fall Out Boy",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
           "rank": 4
         },
         {
-          "name": "High All The Time (feat. G-Eazy)",
-          "artist": "Henry Morris",
+          "name": "Pilot Wings",
+          "artist": "Foxtide",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Henry+Morris/_/High+All+The+Time+(feat.+G-Eazy)",
+          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
           "rank": 5
         }
       ]
@@ -266,7 +266,7 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 135,
+          "playcount": 136,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
@@ -280,7 +280,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 104,
+          "playcount": 105,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 4
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-26T18:25:36.823333"
+    "fetched_at": "2026-10-27T04:11:50.071760"
   }
 }
