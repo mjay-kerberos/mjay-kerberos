@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-27T04:11:44.620167Z",
+  "collected_at": "2026-10-27T17:40:45.865854Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-27T04:11:46.293081",
+    "fetched_at": "2026-10-27T17:40:46.681583",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-27T04:11:47.585620"
+      "fetched_at": "2026-10-27T17:40:48.402311"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9181,
+      "total_scrobbles": 9196,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9181,
-      "estimated_minutes": 32134,
-      "estimated_hours": 535.6,
-      "estimated_days": 22.3,
+      "total_scrobbles": 9196,
+      "estimated_minutes": 32186,
+      "estimated_hours": 536.4,
+      "estimated_days": 22.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 264,
-        "estimated_minutes": 924,
-        "estimated_hours": 15.4,
+        "total_scrobbles": 278,
+        "estimated_minutes": 973,
+        "estimated_hours": 16.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1086,
-        "estimated_minutes": 3801,
-        "estimated_hours": 63.4,
+        "total_scrobbles": 1101,
+        "estimated_minutes": 3854,
+        "estimated_hours": 64.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9181,
-        "estimated_minutes": 32134,
-        "estimated_hours": 535.6,
+        "total_scrobbles": 9196,
+        "estimated_minutes": 32186,
+        "estimated_hours": 536.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Daddy Issues",
-      "artist": "The Neighbourhood",
-      "uts": 1793057221,
+      "name": "TBH",
+      "artist": "PARTYNEXTDOOR",
+      "uts": 1793120869,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 216,
-      "total_plays_this_week": 253
+      "total_plays_this_week": 254
     },
     "top_artists": {
       "overall": [
@@ -131,14 +131,14 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 121,
+          "playcount": 122,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
         {
-          "name": "Paramore",
-          "playcount": 115,
-          "url": "https://www.last.fm/music/Paramore",
+          "name": "Doja Cat",
+          "playcount": 118,
+          "url": "https://www.last.fm/music/Doja+Cat",
           "rank": 10
         }
       ]
@@ -181,17 +181,17 @@
           "rank": 5
         },
         {
+          "name": "E85",
+          "artist": "Don Toliver",
+          "playcount": 37,
+          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+          "rank": 6
+        },
+        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 36,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 6
-        },
-        {
-          "name": "E85",
-          "artist": "Don Toliver",
-          "playcount": 36,
-          "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 7
         },
         {
@@ -232,24 +232,24 @@
           "rank": 2
         },
         {
+          "name": "Here",
+          "artist": "Alessia Cara",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Alessia+Cara/_/Here",
+          "rank": 3
+        },
+        {
           "name": "Blood Brothers",
           "artist": "Bleachers",
           "playcount": 3,
           "url": "https://www.last.fm/music/Bleachers/_/Blood+Brothers",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 3,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
-          "rank": 4
-        },
-        {
-          "name": "Pilot Wings",
-          "artist": "Foxtide",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Foxtide/_/Pilot+Wings",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-27T04:11:50.071760"
+    "fetched_at": "2026-10-27T17:40:50.970758"
   }
 }
