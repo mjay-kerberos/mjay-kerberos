@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-28T18:01:50.641258Z",
+  "collected_at": "2026-10-29T04:53:38.946628Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-28T18:01:51.175175",
+    "fetched_at": "2026-10-29T04:53:39.605995",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-28T18:01:52.543404"
+      "fetched_at": "2026-10-29T04:53:40.722518"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 292,
-        "estimated_minutes": 1022,
-        "estimated_hours": 17.0,
+        "total_scrobbles": 282,
+        "estimated_minutes": 987,
+        "estimated_hours": 16.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1135,
-        "estimated_minutes": 3972,
-        "estimated_hours": 66.2,
+        "total_scrobbles": 1129,
+        "estimated_minutes": 3952,
+        "estimated_hours": 65.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -73,11 +73,11 @@
       "artist": "Kali Uchis",
       "uts": 1793204559,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.5
     },
     "weekly_stats": {
-      "total_tracks_this_week": 227,
-      "total_plays_this_week": 266
+      "total_tracks_this_week": 238,
+      "total_plays_this_week": 270
     },
     "top_artists": {
       "overall": [
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-28T18:01:54.500580"
+    "fetched_at": "2026-10-29T04:53:44.255317"
   }
 }
