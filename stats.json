@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-30T04:53:19.489001Z",
+  "collected_at": "2026-10-30T17:49:24.968384Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-30T04:53:20.110906",
+    "fetched_at": "2026-10-30T17:49:25.875773",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-30T04:53:21.360314"
+      "fetched_at": "2026-10-30T17:49:27.606900"
     }
   },
   "lastfm": {
@@ -55,9 +55,9 @@
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1158,
-        "estimated_minutes": 4053,
-        "estimated_hours": 67.5,
+        "total_scrobbles": 1155,
+        "estimated_minutes": 4042,
+        "estimated_hours": 67.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -73,7 +73,7 @@
       "artist": "Justin Timberlake",
       "uts": 1793321792,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.7
     },
     "weekly_stats": {
       "total_tracks_this_week": 262,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-30T04:53:23.566710"
+    "fetched_at": "2026-10-30T17:49:30.241677"
   }
 }
