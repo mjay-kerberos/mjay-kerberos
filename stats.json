@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-29T18:10:49.131479Z",
+  "collected_at": "2026-10-30T04:53:19.489001Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-29T18:10:49.736456",
+    "fetched_at": "2026-10-30T04:53:20.110906",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-29T18:10:51.915837"
+      "fetched_at": "2026-10-30T04:53:21.360314"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9239,
+      "total_scrobbles": 9265,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9239,
-      "estimated_minutes": 32336,
-      "estimated_hours": 538.9,
+      "total_scrobbles": 9265,
+      "estimated_minutes": 32428,
+      "estimated_hours": 540.5,
       "estimated_days": 22.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 272,
-        "estimated_minutes": 952,
-        "estimated_hours": 15.9,
+        "total_scrobbles": 233,
+        "estimated_minutes": 816,
+        "estimated_hours": 13.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1135,
-        "estimated_minutes": 3972,
-        "estimated_hours": 66.2,
+        "total_scrobbles": 1158,
+        "estimated_minutes": 4053,
+        "estimated_hours": 67.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9239,
-        "estimated_minutes": 32336,
-        "estimated_hours": 538.9,
+        "total_scrobbles": 9265,
+        "estimated_minutes": 32428,
+        "estimated_hours": 540.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Some of Your Love",
-      "artist": "PARTYNEXTDOOR",
-      "uts": 1793275850,
+      "name": "My Love (feat. T.I.)",
+      "artist": "Justin Timberlake",
+      "uts": 1793321792,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 238,
-      "total_plays_this_week": 270
+      "total_tracks_this_week": 262,
+      "total_plays_this_week": 287
     },
     "top_artists": {
       "overall": [
@@ -218,24 +218,24 @@
       ],
       "week": [
         {
-          "name": "Can't Tame Her",
-          "artist": "Zara Larsson",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Zara+Larsson/_/Can%27t+Tame+Her",
-          "rank": 1
-        },
-        {
           "name": "Here",
           "artist": "Alessia Cara",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alessia+Cara/_/Here",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Fourth of July",
           "artist": "Fall Out Boy",
           "playcount": 3,
           "url": "https://www.last.fm/music/Fall+Out+Boy/_/Fourth+of+July",
+          "rank": 2
+        },
+        {
+          "name": "Long Way 2 Go",
+          "artist": "Cassie",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Cassie/_/Long+Way+2+Go",
           "rank": 3
         },
         {
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-29T18:10:55.294392"
+    "fetched_at": "2026-10-30T04:53:23.566710"
   }
 }
