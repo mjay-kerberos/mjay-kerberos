@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-31T04:39:07.859735Z",
+  "collected_at": "2026-10-31T16:58:33.507162Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-31T04:39:08.352518",
+    "fetched_at": "2026-10-31T16:58:34.227506",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-31T04:39:09.426412"
+      "fetched_at": "2026-10-31T16:58:35.402912"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9275,
+      "total_scrobbles": 9304,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9275,
-      "estimated_minutes": 32462,
-      "estimated_hours": 541.0,
-      "estimated_days": 22.5,
+      "total_scrobbles": 9304,
+      "estimated_minutes": 32564,
+      "estimated_hours": 542.7,
+      "estimated_days": 22.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 220,
-        "estimated_minutes": 770,
-        "estimated_hours": 12.8,
+        "total_scrobbles": 246,
+        "estimated_minutes": 861,
+        "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1164,
-        "estimated_minutes": 4074,
-        "estimated_hours": 67.9,
+        "total_scrobbles": 1172,
+        "estimated_minutes": 4102,
+        "estimated_hours": 68.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9275,
-        "estimated_minutes": 32462,
-        "estimated_hours": 541.0,
+        "total_scrobbles": 9304,
+        "estimated_minutes": 32564,
+        "estimated_hours": 542.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "She's My Collar (feat. Kali Uchis)",
-      "artist": "Gorillaz",
-      "uts": 1793421551,
-      "now_playing": true,
-      "days_ago": 0.0
+      "name": "Teenage Dirtbag",
+      "artist": "Wheatus",
+      "uts": 1793451270,
+      "now_playing": false,
+      "days_ago": 0.2
     },
     "weekly_stats": {
       "total_tracks_this_week": 216,
@@ -89,7 +89,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 217,
+          "playcount": 218,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -137,7 +137,7 @@
         },
         {
           "name": "Doja Cat",
-          "playcount": 118,
+          "playcount": 119,
           "url": "https://www.last.fm/music/Doja+Cat",
           "rank": 10
         }
@@ -169,7 +169,7 @@
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 39,
+          "playcount": 40,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 4
         },
@@ -287,12 +287,12 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 102,
+          "playcount": 103,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-10-31T04:39:11.902265"
+    "fetched_at": "2026-10-31T16:58:38.028144"
   }
 }
