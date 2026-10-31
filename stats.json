@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-30T17:49:24.968384Z",
+  "collected_at": "2026-10-31T04:39:07.859735Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-30T17:49:25.875773",
+    "fetched_at": "2026-10-31T04:39:08.352518",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-30T17:49:27.606900"
+      "fetched_at": "2026-10-31T04:39:09.426412"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9265,
+      "total_scrobbles": 9275,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9265,
-      "estimated_minutes": 32428,
-      "estimated_hours": 540.5,
+      "total_scrobbles": 9275,
+      "estimated_minutes": 32462,
+      "estimated_hours": 541.0,
       "estimated_days": 22.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 233,
-        "estimated_minutes": 816,
-        "estimated_hours": 13.6,
+        "total_scrobbles": 220,
+        "estimated_minutes": 770,
+        "estimated_hours": 12.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1155,
-        "estimated_minutes": 4042,
-        "estimated_hours": 67.4,
+        "total_scrobbles": 1164,
+        "estimated_minutes": 4074,
+        "estimated_hours": 67.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9265,
-        "estimated_minutes": 32428,
-        "estimated_hours": 540.5,
+        "total_scrobbles": 9275,
+        "estimated_minutes": 32462,
+        "estimated_hours": 541.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "My Love (feat. T.I.)",
-      "artist": "Justin Timberlake",
-      "uts": 1793321792,
-      "now_playing": false,
-      "days_ago": 0.7
+      "name": "She's My Collar (feat. Kali Uchis)",
+      "artist": "Gorillaz",
+      "uts": 1793421551,
+      "now_playing": true,
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 262,
-      "total_plays_this_week": 287
+      "total_tracks_this_week": 216,
+      "total_plays_this_week": 234
     },
     "top_artists": {
       "overall": [
@@ -246,10 +246,10 @@
           "rank": 4
         },
         {
-          "name": "Jealous Type",
-          "artist": "Doja Cat",
+          "name": "My Favorite Girl Loves Reading",
+          "artist": "Foxtide",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Jealous+Type",
+          "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-30T17:49:30.241677"
+    "fetched_at": "2026-10-31T04:39:11.902265"
   }
 }
