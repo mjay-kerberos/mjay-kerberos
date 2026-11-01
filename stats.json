@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-10-31T16:58:33.507162Z",
+  "collected_at": "2026-11-01T04:59:06.209296Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
     "total_commits_this_year": 367,
     "public_commits": 67,
     "private_commits": 300,
-    "commits_this_month": 42,
+    "commits_this_month": 0,
     "total_prs": 0,
     "total_issues": 0,
     "total_contributions": 371,
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-10-31T16:58:34.227506",
+    "fetched_at": "2026-11-01T04:59:06.671949",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-10-31T16:58:35.402912"
+      "fetched_at": "2026-11-01T04:59:07.706832"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9304,
+      "total_scrobbles": 9330,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9304,
-      "estimated_minutes": 32564,
-      "estimated_hours": 542.7,
-      "estimated_days": 22.6,
+      "total_scrobbles": 9330,
+      "estimated_minutes": 32655,
+      "estimated_hours": 544.2,
+      "estimated_days": 22.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 246,
-        "estimated_minutes": 861,
-        "estimated_hours": 14.3,
+        "total_scrobbles": 216,
+        "estimated_minutes": 756,
+        "estimated_hours": 12.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1172,
-        "estimated_minutes": 4102,
-        "estimated_hours": 68.4,
+        "total_scrobbles": 1152,
+        "estimated_minutes": 4032,
+        "estimated_hours": 67.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9304,
-        "estimated_minutes": 32564,
-        "estimated_hours": 542.7,
+        "total_scrobbles": 9330,
+        "estimated_minutes": 32655,
+        "estimated_hours": 544.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Teenage Dirtbag",
-      "artist": "Wheatus",
-      "uts": 1793451270,
+      "name": "After Dark",
+      "artist": "Mr.Kitty",
+      "uts": 1793503282,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 216,
-      "total_plays_this_week": 234
+      "total_tracks_this_week": 222,
+      "total_plays_this_week": 238
     },
     "top_artists": {
       "overall": [
@@ -89,7 +89,7 @@
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 218,
+          "playcount": 219,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 2
         },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 122,
+          "playcount": 123,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
@@ -232,24 +232,24 @@
           "rank": 2
         },
         {
+          "name": "Witchy (feat. Childish Gambino)",
+          "artist": "KAYTRANADA",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/KAYTRANADA/_/Witchy+(feat.+Childish+Gambino)",
+          "rank": 3
+        },
+        {
           "name": "Long Way 2 Go",
           "artist": "Cassie",
           "playcount": 2,
           "url": "https://www.last.fm/music/Cassie/_/Long+Way+2+Go",
-          "rank": 3
-        },
-        {
-          "name": "Been Like This",
-          "artist": "Doja Cat",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Doja+Cat/_/Been+Like+This",
           "rank": 4
         },
         {
-          "name": "My Favorite Girl Loves Reading",
-          "artist": "Foxtide",
+          "name": "Good Girls (from the \"Ghostbusters\" Original Motion Picture Soundtrack)",
+          "artist": "Elle King",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Foxtide/_/My+Favorite+Girl+Loves+Reading",
+          "url": "https://www.last.fm/music/Elle+King/_/Good+Girls+(from+the+%22Ghostbusters%22+Original+Motion+Picture+Soundtrack)",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-10-31T16:58:38.028144"
+    "fetched_at": "2026-11-01T04:59:09.754924"
   }
 }
