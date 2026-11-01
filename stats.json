@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-01T04:59:06.209296Z",
+  "collected_at": "2026-11-01T17:44:36.698199Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-01T04:59:06.671949",
+    "fetched_at": "2026-11-01T17:44:37.200129",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-01T04:59:07.706832"
+      "fetched_at": "2026-11-01T17:44:38.185742"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 216,
-        "estimated_minutes": 756,
-        "estimated_hours": 12.6,
+        "total_scrobbles": 208,
+        "estimated_minutes": 728,
+        "estimated_hours": 12.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1152,
-        "estimated_minutes": 4032,
-        "estimated_hours": 67.2,
+        "total_scrobbles": 1144,
+        "estimated_minutes": 4004,
+        "estimated_hours": 66.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -73,7 +73,7 @@
       "artist": "Mr.Kitty",
       "uts": 1793503282,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.6
     },
     "weekly_stats": {
       "total_tracks_this_week": 222,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-01T04:59:09.754924"
+    "fetched_at": "2026-11-01T17:44:40.140853"
   }
 }
