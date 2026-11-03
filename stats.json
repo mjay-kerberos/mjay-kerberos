@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-02T21:30:01.193686Z",
+  "collected_at": "2026-11-03T05:48:32.438417Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-02T21:30:02.098468",
+    "fetched_at": "2026-11-03T05:48:33.163923",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-02T21:30:03.541503"
+      "fetched_at": "2026-11-03T05:48:34.222514"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 175,
-        "estimated_minutes": 612,
-        "estimated_hours": 10.2,
+        "total_scrobbles": 147,
+        "estimated_minutes": 514,
+        "estimated_hours": 8.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1067,
-        "estimated_minutes": 3734,
-        "estimated_hours": 62.2,
+        "total_scrobbles": 961,
+        "estimated_minutes": 3364,
+        "estimated_hours": 56.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -73,11 +73,11 @@
       "artist": "Mr.Kitty",
       "uts": 1793503282,
       "now_playing": false,
-      "days_ago": 1.8
+      "days_ago": 2.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 199,
-      "total_plays_this_week": 216
+      "total_tracks_this_week": 171,
+      "total_plays_this_week": 182
     },
     "top_artists": {
       "overall": [
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "Long Way 2 Go",
-          "artist": "Cassie",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Cassie/_/Long+Way+2+Go",
-          "rank": 1
-        },
-        {
           "name": "Good Girls (from the \"Ghostbusters\" Original Motion Picture Soundtrack)",
           "artist": "Elle King",
           "playcount": 2,
           "url": "https://www.last.fm/music/Elle+King/_/Good+Girls+(from+the+%22Ghostbusters%22+Original+Motion+Picture+Soundtrack)",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "Babooshka - 2018 Remaster",
           "artist": "Kate Bush",
           "playcount": 2,
           "url": "https://www.last.fm/music/Kate+Bush/_/Babooshka+-+2018+Remaster",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "Witchy (feat. Childish Gambino)",
           "artist": "KAYTRANADA",
           "playcount": 2,
           "url": "https://www.last.fm/music/KAYTRANADA/_/Witchy+(feat.+Childish+Gambino)",
+          "rank": 3
+        },
+        {
+          "name": "Swimming Pools (Drank)",
+          "artist": "Kendrick Lamar",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/Kendrick+Lamar/_/Swimming+Pools+(Drank)",
           "rank": 4
         },
         {
-          "name": "All the Stars (with SZA) - From \"Black Panther: The Album\"",
-          "artist": "Kendrick Lamar",
+          "name": "Abracadabra",
+          "artist": "Lady Gaga",
           "playcount": 2,
-          "url": "https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA)+-+From+%22Black+Panther:+The+Album%22",
+          "url": "https://www.last.fm/music/Lady+Gaga/_/Abracadabra",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-02T21:30:07.458042"
+    "fetched_at": "2026-11-03T05:48:36.405330"
   }
 }
