@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-04T05:23:29.863434Z",
+  "collected_at": "2026-11-04T19:29:53.532678Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-04T05:23:30.620671",
+    "fetched_at": "2026-11-04T19:29:54.234046",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-04T05:23:31.685028"
+      "fetched_at": "2026-11-04T19:29:55.606784"
     }
   },
   "lastfm": {
@@ -34,23 +34,23 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9331,
+      "total_scrobbles": 9333,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9331,
-      "estimated_minutes": 32658,
-      "estimated_hours": 544.3,
+      "total_scrobbles": 9333,
+      "estimated_minutes": 32666,
+      "estimated_hours": 544.4,
       "estimated_days": 22.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 130,
-        "estimated_minutes": 455,
-        "estimated_hours": 7.6,
+        "total_scrobbles": 101,
+        "estimated_minutes": 354,
+        "estimated_hours": 5.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -62,18 +62,18 @@
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9331,
-        "estimated_minutes": 32658,
-        "estimated_hours": 544.3,
+        "total_scrobbles": 9333,
+        "estimated_minutes": 32666,
+        "estimated_hours": 544.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Breakfast",
-      "artist": "Dove Cameron",
-      "uts": 1793732420,
+      "name": "One Sided",
+      "artist": "Myles Lloyd",
+      "uts": 1793804809,
       "now_playing": false,
-      "days_ago": 0.4
+      "days_ago": 0.2
     },
     "weekly_stats": {
       "total_tracks_this_week": 138,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-04T05:23:34.221994"
+    "fetched_at": "2026-11-04T19:30:02.933819"
   }
 }
