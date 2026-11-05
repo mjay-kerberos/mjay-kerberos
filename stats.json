@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-05T05:43:12.894076Z",
+  "collected_at": "2026-11-05T19:39:37.577034Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-05T05:43:13.477480",
+    "fetched_at": "2026-11-05T19:39:38.236027",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-05T05:43:14.689204"
+      "fetched_at": "2026-11-05T19:39:40.068074"
     }
   },
   "lastfm": {
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9338,
+      "total_scrobbles": 9355,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9338,
-      "estimated_minutes": 32683,
-      "estimated_hours": 544.7,
+      "total_scrobbles": 9355,
+      "estimated_minutes": 32742,
+      "estimated_hours": 545.7,
       "estimated_days": 22.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 106,
-        "estimated_minutes": 371,
-        "estimated_hours": 6.2,
+        "total_scrobbles": 109,
+        "estimated_minutes": 382,
+        "estimated_hours": 6.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 891,
-        "estimated_minutes": 3118,
-        "estimated_hours": 52.0,
+        "total_scrobbles": 897,
+        "estimated_minutes": 3140,
+        "estimated_hours": 52.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9338,
-        "estimated_minutes": 32683,
-        "estimated_hours": 544.7,
+        "total_scrobbles": 9355,
+        "estimated_minutes": 32742,
+        "estimated_hours": 545.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Blow",
-      "artist": "Kesha",
-      "uts": 1793848667,
+      "name": "When It's Raining",
+      "artist": "Borderline",
+      "uts": 1793898532,
       "now_playing": false,
       "days_ago": 0.1
     },
@@ -88,26 +88,26 @@
           "rank": 1
         },
         {
+          "name": "Dominic Fike",
+          "playcount": 222,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 2
+        },
+        {
           "name": "Malcolm Todd",
           "playcount": 219,
           "url": "https://www.last.fm/music/Malcolm+Todd",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Tate McRae",
           "playcount": 215,
           "url": "https://www.last.fm/music/Tate+McRae",
-          "rank": 3
-        },
-        {
-          "name": "Dominic Fike",
-          "playcount": 213,
-          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 4
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 208,
+          "playcount": 209,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
@@ -162,7 +162,7 @@
         {
           "name": "White Keys",
           "artist": "Dominic Fike",
-          "playcount": 44,
+          "playcount": 45,
           "url": "https://www.last.fm/music/Dominic+Fike/_/White+Keys",
           "rank": 3
         },
@@ -225,31 +225,31 @@
           "rank": 1
         },
         {
+          "name": "FROM YOUR EYES",
+          "artist": "F3miii",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
+          "rank": 2
+        },
+        {
           "name": "Babooshka - 2018 Remaster",
           "artist": "Kate Bush",
           "playcount": 2,
           "url": "https://www.last.fm/music/Kate+Bush/_/Babooshka+-+2018+Remaster",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Witchy (feat. Childish Gambino)",
           "artist": "KAYTRANADA",
           "playcount": 2,
           "url": "https://www.last.fm/music/KAYTRANADA/_/Witchy+(feat.+Childish+Gambino)",
-          "rank": 3
+          "rank": 4
         },
         {
           "name": "Swimming Pools (Drank)",
           "artist": "Kendrick Lamar",
           "playcount": 2,
           "url": "https://www.last.fm/music/Kendrick+Lamar/_/Swimming+Pools+(Drank)",
-          "rank": 4
-        },
-        {
-          "name": "Abracadabra",
-          "artist": "Lady Gaga",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Lady+Gaga/_/Abracadabra",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-05T05:43:16.894216"
+    "fetched_at": "2026-11-05T19:39:43.570940"
   }
 }
