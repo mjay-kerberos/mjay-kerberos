@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-05T19:39:37.577034Z",
+  "collected_at": "2026-11-06T05:39:55.185278Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-05T19:39:38.236027",
+    "fetched_at": "2026-11-06T05:39:55.872001",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-05T19:39:40.068074"
+      "fetched_at": "2026-11-06T05:39:56.972791"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9355,
+      "total_scrobbles": 9435,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9355,
-      "estimated_minutes": 32742,
-      "estimated_hours": 545.7,
-      "estimated_days": 22.7,
+      "total_scrobbles": 9435,
+      "estimated_minutes": 33022,
+      "estimated_hours": 550.4,
+      "estimated_days": 22.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 109,
-        "estimated_minutes": 382,
-        "estimated_hours": 6.4,
+        "total_scrobbles": 169,
+        "estimated_minutes": 592,
+        "estimated_hours": 9.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 897,
-        "estimated_minutes": 3140,
-        "estimated_hours": 52.3,
+        "total_scrobbles": 925,
+        "estimated_minutes": 3238,
+        "estimated_hours": 54.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9355,
-        "estimated_minutes": 32742,
-        "estimated_hours": 545.7,
+        "total_scrobbles": 9435,
+        "estimated_minutes": 33022,
+        "estimated_hours": 550.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "When It's Raining",
+      "name": "Jealous",
       "artist": "Borderline",
-      "uts": 1793898532,
+      "uts": 1793940265,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 122,
-      "total_plays_this_week": 131
+      "total_tracks_this_week": 95,
+      "total_plays_this_week": 107
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 468,
+          "playcount": 470,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 123,
+          "playcount": 124,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
@@ -183,7 +183,7 @@
         {
           "name": "E85",
           "artist": "Don Toliver",
-          "playcount": 37,
+          "playcount": 38,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
           "rank": 6
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "Good Girls (from the \"Ghostbusters\" Original Motion Picture Soundtrack)",
-          "artist": "Elle King",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Elle+King/_/Good+Girls+(from+the+%22Ghostbusters%22+Original+Motion+Picture+Soundtrack)",
+          "name": "When It's Raining",
+          "artist": "Borderline",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 1
+        },
+        {
+          "name": "Persuasive (with SZA)",
+          "artist": "Doechii",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Doechii/_/Persuasive+(with+SZA)",
+          "rank": 2
         },
         {
           "name": "FROM YOUR EYES",
           "artist": "F3miii",
-          "playcount": 2,
+          "playcount": 3,
           "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
-          "rank": 2
-        },
-        {
-          "name": "Babooshka - 2018 Remaster",
-          "artist": "Kate Bush",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Kate+Bush/_/Babooshka+-+2018+Remaster",
           "rank": 3
         },
         {
-          "name": "Witchy (feat. Childish Gambino)",
-          "artist": "KAYTRANADA",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/KAYTRANADA/_/Witchy+(feat.+Childish+Gambino)",
+          "name": "One Sided",
+          "artist": "Myles Lloyd",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Myles+Lloyd/_/One+Sided",
           "rank": 4
         },
         {
-          "name": "Swimming Pools (Drank)",
-          "artist": "Kendrick Lamar",
-          "playcount": 2,
-          "url": "https://www.last.fm/music/Kendrick+Lamar/_/Swimming+Pools+(Drank)",
+          "name": "PHONE!",
+          "artist": "Never Ending Fall",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-05T19:39:43.570940"
+    "fetched_at": "2026-11-06T05:39:59.309370"
   }
 }
