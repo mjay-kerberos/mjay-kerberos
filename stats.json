@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-06T05:39:55.185278Z",
+  "collected_at": "2026-11-06T19:01:21.879574Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-06T05:39:55.872001",
+    "fetched_at": "2026-11-06T19:01:22.599935",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 286,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-06T05:39:56.972791"
+      "fetched_at": "2026-11-06T19:01:23.858157"
     }
   },
   "lastfm": {
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9435,
+      "total_scrobbles": 9447,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9435,
-      "estimated_minutes": 33022,
-      "estimated_hours": 550.4,
-      "estimated_days": 22.9,
+      "total_scrobbles": 9447,
+      "estimated_minutes": 33064,
+      "estimated_hours": 551.1,
+      "estimated_days": 23.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 169,
-        "estimated_minutes": 592,
-        "estimated_hours": 9.9,
+        "total_scrobbles": 181,
+        "estimated_minutes": 634,
+        "estimated_hours": 10.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 925,
-        "estimated_minutes": 3238,
-        "estimated_hours": 54.0,
+        "total_scrobbles": 920,
+        "estimated_minutes": 3220,
+        "estimated_hours": 53.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9435,
-        "estimated_minutes": 33022,
-        "estimated_hours": 550.4,
+        "total_scrobbles": 9447,
+        "estimated_minutes": 33064,
+        "estimated_hours": 551.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Jealous",
-      "artist": "Borderline",
-      "uts": 1793940265,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "uts": 1793987824,
       "now_playing": false,
       "days_ago": 0.0
     },
@@ -220,36 +220,36 @@
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 4,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 1
+        },
+        {
+          "name": "PHONE!",
+          "artist": "Never Ending Fall",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
+          "rank": 2
+        },
+        {
+          "name": "OVER IT",
+          "artist": "Citizen",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
+          "rank": 3
         },
         {
           "name": "Persuasive (with SZA)",
           "artist": "Doechii",
           "playcount": 3,
           "url": "https://www.last.fm/music/Doechii/_/Persuasive+(with+SZA)",
-          "rank": 2
+          "rank": 4
         },
         {
           "name": "FROM YOUR EYES",
           "artist": "F3miii",
           "playcount": 3,
           "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
-          "rank": 3
-        },
-        {
-          "name": "One Sided",
-          "artist": "Myles Lloyd",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Myles+Lloyd/_/One+Sided",
-          "rank": 4
-        },
-        {
-          "name": "PHONE!",
-          "artist": "Never Ending Fall",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-06T05:39:59.309370"
+    "fetched_at": "2026-11-06T19:01:39.087972"
   }
 }
