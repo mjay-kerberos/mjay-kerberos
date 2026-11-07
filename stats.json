@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-06T19:01:21.879574Z",
+  "collected_at": "2026-11-07T05:09:22.830561Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-06T19:01:22.599935",
+    "fetched_at": "2026-11-07T05:09:23.606349",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 3,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 286,
+      "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-06T19:01:23.858157"
+      "fetched_at": "2026-11-07T05:09:24.790221"
     }
   },
   "lastfm": {
@@ -34,62 +34,62 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9447,
+      "total_scrobbles": 9500,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9447,
-      "estimated_minutes": 33064,
-      "estimated_hours": 551.1,
-      "estimated_days": 23.0,
+      "total_scrobbles": 9500,
+      "estimated_minutes": 33250,
+      "estimated_hours": 554.2,
+      "estimated_days": 23.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 181,
-        "estimated_minutes": 634,
-        "estimated_hours": 10.6,
+        "total_scrobbles": 218,
+        "estimated_minutes": 763,
+        "estimated_hours": 12.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 920,
-        "estimated_minutes": 3220,
-        "estimated_hours": 53.7,
+        "total_scrobbles": 929,
+        "estimated_minutes": 3252,
+        "estimated_hours": 54.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9447,
-        "estimated_minutes": 33064,
-        "estimated_hours": 551.1,
+        "total_scrobbles": 9500,
+        "estimated_minutes": 33250,
+        "estimated_hours": 554.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "artist": "Mac Miller",
-      "uts": 1793987824,
+      "name": "Face Card - The Kid LAROI Remix",
+      "artist": "Nate Sib",
+      "uts": 1794027647,
       "now_playing": false,
       "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 95,
-      "total_plays_this_week": 107
+      "total_tracks_this_week": 132,
+      "total_plays_this_week": 170
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 470,
+          "playcount": 471,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Dominic Fike",
-          "playcount": 222,
+          "playcount": 223,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 2
         },
@@ -220,7 +220,7 @@
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 5,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 1
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-06T19:01:39.087972"
+    "fetched_at": "2026-11-07T05:09:26.819231"
   }
 }
