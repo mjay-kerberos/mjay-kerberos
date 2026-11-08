@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-08T05:03:37.077529Z",
+  "collected_at": "2026-11-08T17:45:05.121397Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-08T05:03:37.619011",
+    "fetched_at": "2026-11-08T17:45:05.713086",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-08T05:03:38.607482"
+      "fetched_at": "2026-11-08T17:45:06.861041"
     }
   },
   "lastfm": {
@@ -34,13 +34,13 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9538,
+      "total_scrobbles": 9539,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9538,
-      "estimated_minutes": 33383,
+      "total_scrobbles": 9539,
+      "estimated_minutes": 33386,
       "estimated_hours": 556.4,
       "estimated_days": 23.2,
       "avg_track_duration_assumed": 3.5
@@ -48,32 +48,32 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 208,
-        "estimated_minutes": 728,
-        "estimated_hours": 12.1,
+        "total_scrobbles": 209,
+        "estimated_minutes": 732,
+        "estimated_hours": 12.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 936,
-        "estimated_minutes": 3276,
-        "estimated_hours": 54.6,
+        "total_scrobbles": 920,
+        "estimated_minutes": 3220,
+        "estimated_hours": 53.7,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9538,
-        "estimated_minutes": 33383,
+        "total_scrobbles": 9539,
+        "estimated_minutes": 33386,
         "estimated_hours": 556.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Bloodlines",
-      "artist": "Leap",
-      "uts": 1794107868,
+      "name": "I'M IN THE BAND",
+      "artist": "Max Rickun",
+      "uts": 1794108059,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.6
     },
     "weekly_stats": {
       "total_tracks_this_week": 155,
@@ -232,17 +232,17 @@
           "rank": 2
         },
         {
+          "name": "I'M IN THE BAND",
+          "artist": "Max Rickun",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
+          "rank": 3
+        },
+        {
           "name": "Bloodlines",
           "artist": "Leap",
           "playcount": 5,
           "url": "https://www.last.fm/music/Leap/_/Bloodlines",
-          "rank": 3
-        },
-        {
-          "name": "I'M IN THE BAND",
-          "artist": "Max Rickun",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 4
         },
         {
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-08T05:03:41.168145"
+    "fetched_at": "2026-11-08T17:45:09.652836"
   }
 }
