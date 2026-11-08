@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-07T17:34:44.990509Z",
+  "collected_at": "2026-11-08T05:03:37.077529Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-07T17:34:45.534658",
+    "fetched_at": "2026-11-08T05:03:37.619011",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 287,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-07T17:34:46.716724"
+      "fetched_at": "2026-11-08T05:03:38.607482"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9510,
+      "total_scrobbles": 9538,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9510,
-      "estimated_minutes": 33285,
-      "estimated_hours": 554.8,
-      "estimated_days": 23.1,
+      "total_scrobbles": 9538,
+      "estimated_minutes": 33383,
+      "estimated_hours": 556.4,
+      "estimated_days": 23.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 206,
-        "estimated_minutes": 721,
-        "estimated_hours": 12.0,
+        "total_scrobbles": 208,
+        "estimated_minutes": 728,
+        "estimated_hours": 12.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 939,
-        "estimated_minutes": 3286,
-        "estimated_hours": 54.8,
+        "total_scrobbles": 936,
+        "estimated_minutes": 3276,
+        "estimated_hours": 54.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9510,
-        "estimated_minutes": 33285,
-        "estimated_hours": 554.8,
+        "total_scrobbles": 9538,
+        "estimated_minutes": 33383,
+        "estimated_hours": 556.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "bite marks",
-      "artist": "Logan Levi",
-      "uts": 1794064803,
+      "name": "Bloodlines",
+      "artist": "Leap",
+      "uts": 1794107868,
       "now_playing": false,
       "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 132,
-      "total_plays_this_week": 170
+      "total_tracks_this_week": 155,
+      "total_plays_this_week": 206
     },
     "top_artists": {
       "overall": [
@@ -131,7 +131,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 124,
+          "playcount": 125,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
@@ -220,36 +220,36 @@
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 7,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 1
         },
         {
           "name": "PHONE!",
           "artist": "Never Ending Fall",
-          "playcount": 4,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
           "rank": 2
         },
         {
-          "name": "OVER IT",
-          "artist": "Citizen",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
+          "name": "Bloodlines",
+          "artist": "Leap",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Leap/_/Bloodlines",
           "rank": 3
         },
         {
-          "name": "Persuasive (with SZA)",
-          "artist": "Doechii",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Doechii/_/Persuasive+(with+SZA)",
+          "name": "I'M IN THE BAND",
+          "artist": "Max Rickun",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 4
         },
         {
-          "name": "FROM YOUR EYES",
-          "artist": "F3miii",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
+          "name": "Paranoia",
+          "artist": "Porch Light",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Porch+Light/_/Paranoia",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-07T17:34:49.442686"
+    "fetched_at": "2026-11-08T05:03:41.168145"
   }
 }
