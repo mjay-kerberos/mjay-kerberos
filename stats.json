@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-09T05:15:02.442199Z",
+  "collected_at": "2026-11-09T22:02:45.903910Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-09T05:15:03.075290",
+    "fetched_at": "2026-11-09T22:02:47.496934",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 3,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 287,
+      "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-09T05:15:04.266711"
+      "fetched_at": "2026-11-09T22:02:48.667219"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9549,
+      "total_scrobbles": 9551,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9549,
-      "estimated_minutes": 33422,
-      "estimated_hours": 557.0,
+      "total_scrobbles": 9551,
+      "estimated_minutes": 33428,
+      "estimated_hours": 557.1,
       "estimated_days": 23.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 219,
-        "estimated_minutes": 766,
-        "estimated_hours": 12.8,
+        "total_scrobbles": 221,
+        "estimated_minutes": 774,
+        "estimated_hours": 12.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 926,
-        "estimated_minutes": 3241,
-        "estimated_hours": 54.0,
+        "total_scrobbles": 928,
+        "estimated_minutes": 3248,
+        "estimated_hours": 54.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9549,
-        "estimated_minutes": 33422,
-        "estimated_hours": 557.0,
+        "total_scrobbles": 9551,
+        "estimated_minutes": 33428,
+        "estimated_hours": 557.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "OVER IT",
-      "artist": "Citizen",
-      "uts": 1794194580,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "uts": 1794194726,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.8
     },
     "weekly_stats": {
       "total_tracks_this_week": 135,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-09T05:15:07.452735"
+    "fetched_at": "2026-11-09T22:03:12.113504"
   }
 }
