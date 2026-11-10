@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-10T06:28:39.118139Z",
+  "collected_at": "2026-11-10T19:26:55.599834Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-10T06:28:39.630906",
+    "fetched_at": "2026-11-10T19:26:56.366310",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-10T06:28:40.626764"
+      "fetched_at": "2026-11-10T19:26:57.585116"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9551,
+      "total_scrobbles": 9573,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9551,
-      "estimated_minutes": 33428,
-      "estimated_hours": 557.1,
-      "estimated_days": 23.2,
+      "total_scrobbles": 9573,
+      "estimated_minutes": 33506,
+      "estimated_hours": 558.4,
+      "estimated_days": 23.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 221,
-        "estimated_minutes": 774,
-        "estimated_hours": 12.9,
+        "total_scrobbles": 242,
+        "estimated_minutes": 847,
+        "estimated_hours": 14.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 906,
-        "estimated_minutes": 3171,
-        "estimated_hours": 52.9,
+        "total_scrobbles": 928,
+        "estimated_minutes": 3248,
+        "estimated_hours": 54.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9551,
-        "estimated_minutes": 33428,
-        "estimated_hours": 557.1,
+        "total_scrobbles": 9573,
+        "estimated_minutes": 33506,
+        "estimated_hours": 558.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "artist": "Mac Miller",
-      "uts": 1794194726,
+      "name": "BS",
+      "artist": "Max Rickun",
+      "uts": 1794329582,
       "now_playing": false,
-      "days_ago": 1.1
+      "days_ago": 0.1
     },
     "weekly_stats": {
       "total_tracks_this_week": 135,
@@ -220,36 +220,36 @@
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 11,
+          "playcount": 12,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 1
         },
         {
           "name": "I'M IN THE BAND",
           "artist": "Max Rickun",
-          "playcount": 9,
+          "playcount": 12,
           "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 2
         },
         {
           "name": "PHONE!",
           "artist": "Never Ending Fall",
-          "playcount": 8,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
           "rank": 3
         },
         {
-          "name": "OVER IT",
-          "artist": "Citizen",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
+          "name": "Bloodlines",
+          "artist": "Leap",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Leap/_/Bloodlines",
           "rank": 4
         },
         {
-          "name": "Bloodlines",
-          "artist": "Leap",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Leap/_/Bloodlines",
+          "name": "OVER IT",
+          "artist": "Citizen",
+          "playcount": 7,
+          "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-10T06:28:42.726843"
+    "fetched_at": "2026-11-10T19:26:59.597937"
   }
 }
