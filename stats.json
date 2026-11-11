@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11T05:14:55.931940Z",
+  "collected_at": "2026-11-11T19:21:55.933177Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-11T05:14:56.554938",
+    "fetched_at": "2026-11-11T19:21:56.566101",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-11T05:14:57.745136"
+      "fetched_at": "2026-11-11T19:21:57.664499"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9604,
+      "total_scrobbles": 9622,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9604,
-      "estimated_minutes": 33614,
-      "estimated_hours": 560.2,
-      "estimated_days": 23.3,
+      "total_scrobbles": 9622,
+      "estimated_minutes": 33677,
+      "estimated_hours": 561.3,
+      "estimated_days": 23.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 272,
-        "estimated_minutes": 952,
-        "estimated_hours": 15.9,
+        "total_scrobbles": 288,
+        "estimated_minutes": 1008,
+        "estimated_hours": 16.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 943,
-        "estimated_minutes": 3300,
-        "estimated_hours": 55.0,
+        "total_scrobbles": 957,
+        "estimated_minutes": 3350,
+        "estimated_hours": 55.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9604,
-        "estimated_minutes": 33614,
-        "estimated_hours": 560.2,
+        "total_scrobbles": 9622,
+        "estimated_minutes": 33677,
+        "estimated_hours": 561.3,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "I'M IN THE BAND",
-      "artist": "Max Rickun",
-      "uts": 1794369143,
+      "name": "NOBLE (with The Kid LAROI)",
+      "artist": "F3miii",
+      "uts": 1794424221,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 135,
@@ -239,17 +239,17 @@
           "rank": 3
         },
         {
+          "name": "OVER IT",
+          "artist": "Citizen",
+          "playcount": 8,
+          "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
+          "rank": 4
+        },
+        {
           "name": "Bloodlines",
           "artist": "Leap",
           "playcount": 8,
           "url": "https://www.last.fm/music/Leap/_/Bloodlines",
-          "rank": 4
-        },
-        {
-          "name": "OVER IT",
-          "artist": "Citizen",
-          "playcount": 7,
-          "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-11T05:15:00.517735"
+    "fetched_at": "2026-11-11T19:22:03.166673"
   }
 }
