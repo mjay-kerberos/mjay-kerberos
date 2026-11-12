@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12T06:18:57.303946Z",
+  "collected_at": "2026-11-12T19:40:02.018689Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-12T06:18:57.928247",
+    "fetched_at": "2026-11-12T19:40:02.760743",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 3,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 288,
+      "total_stars_received": 289,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-12T06:18:59.260261"
+      "fetched_at": "2026-11-12T19:40:03.975188"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9634,
+      "total_scrobbles": 9669,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9634,
-      "estimated_minutes": 33719,
-      "estimated_hours": 562.0,
-      "estimated_days": 23.4,
+      "total_scrobbles": 9669,
+      "estimated_minutes": 33842,
+      "estimated_hours": 564.0,
+      "estimated_days": 23.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 295,
-        "estimated_minutes": 1032,
-        "estimated_hours": 17.2,
+        "total_scrobbles": 313,
+        "estimated_minutes": 1096,
+        "estimated_hours": 18.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 896,
-        "estimated_minutes": 3136,
-        "estimated_hours": 52.3,
+        "total_scrobbles": 879,
+        "estimated_minutes": 3076,
+        "estimated_hours": 51.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9634,
-        "estimated_minutes": 33719,
-        "estimated_hours": 562.0,
+        "total_scrobbles": 9669,
+        "estimated_minutes": 33842,
+        "estimated_hours": 564.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Swear On My Sex Life",
-      "artist": "Mckayla Twiggs",
-      "uts": 1794438438,
+      "name": "No. 1 Obsession",
+      "artist": "5 Seconds of Summer",
+      "uts": 1794512138,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 162,
@@ -83,7 +83,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 472,
+          "playcount": 474,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -101,13 +101,13 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 216,
+          "playcount": 217,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 212,
+          "playcount": 214,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
@@ -209,10 +209,10 @@
           "rank": 9
         },
         {
-          "name": "Hotel Room",
-          "artist": "Ax and the Hatchetmen",
-          "playcount": 30,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 31,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
@@ -227,7 +227,7 @@
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 12,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 2
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-12T06:19:04.701143"
+    "fetched_at": "2026-11-12T19:40:07.165740"
   }
 }
