@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11T19:21:55.933177Z",
+  "collected_at": "2026-11-12T06:18:57.303946Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-11T19:21:56.566101",
+    "fetched_at": "2026-11-12T06:18:57.928247",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-11T19:21:57.664499"
+      "fetched_at": "2026-11-12T06:18:59.260261"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9622,
+      "total_scrobbles": 9634,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9622,
-      "estimated_minutes": 33677,
-      "estimated_hours": 561.3,
+      "total_scrobbles": 9634,
+      "estimated_minutes": 33719,
+      "estimated_hours": 562.0,
       "estimated_days": 23.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 288,
-        "estimated_minutes": 1008,
-        "estimated_hours": 16.8,
+        "total_scrobbles": 295,
+        "estimated_minutes": 1032,
+        "estimated_hours": 17.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 957,
-        "estimated_minutes": 3350,
-        "estimated_hours": 55.8,
+        "total_scrobbles": 896,
+        "estimated_minutes": 3136,
+        "estimated_hours": 52.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9622,
-        "estimated_minutes": 33677,
-        "estimated_hours": 561.3,
+        "total_scrobbles": 9634,
+        "estimated_minutes": 33719,
+        "estimated_hours": 562.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "NOBLE (with The Kid LAROI)",
-      "artist": "F3miii",
-      "uts": 1794424221,
+      "name": "Swear On My Sex Life",
+      "artist": "Mckayla Twiggs",
+      "uts": 1794438438,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.3
     },
     "weekly_stats": {
-      "total_tracks_this_week": 135,
-      "total_plays_this_week": 233
+      "total_tracks_this_week": 162,
+      "total_plays_this_week": 273
     },
     "top_artists": {
       "overall": [
@@ -101,7 +101,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 215,
+          "playcount": 216,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-11T19:22:03.166673"
+    "fetched_at": "2026-11-12T06:19:04.701143"
   }
 }
