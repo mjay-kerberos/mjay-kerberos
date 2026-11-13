@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12T19:40:02.018689Z",
+  "collected_at": "2026-11-13T05:40:23.555887Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-12T19:40:02.760743",
+    "fetched_at": "2026-11-13T05:40:24.208021",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 289,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-12T19:40:03.975188"
+      "fetched_at": "2026-11-13T05:40:25.442417"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 313,
-        "estimated_minutes": 1096,
-        "estimated_hours": 18.3,
+        "total_scrobbles": 233,
+        "estimated_minutes": 816,
+        "estimated_hours": 13.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 879,
-        "estimated_minutes": 3076,
-        "estimated_hours": 51.3,
+        "total_scrobbles": 851,
+        "estimated_minutes": 2978,
+        "estimated_hours": 49.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -73,11 +73,11 @@
       "artist": "5 Seconds of Summer",
       "uts": 1794512138,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.4
     },
     "weekly_stats": {
-      "total_tracks_this_week": 162,
-      "total_plays_this_week": 273
+      "total_tracks_this_week": 166,
+      "total_plays_this_week": 293
     },
     "top_artists": {
       "overall": [
@@ -220,36 +220,36 @@
         {
           "name": "I'M IN THE BAND",
           "artist": "Max Rickun",
-          "playcount": 13,
+          "playcount": 11,
           "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 1
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 11,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 2
         },
         {
-          "name": "PHONE!",
-          "artist": "Never Ending Fall",
-          "playcount": 9,
-          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
-          "rank": 3
-        },
-        {
           "name": "OVER IT",
           "artist": "Citizen",
-          "playcount": 8,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "Bloodlines",
           "artist": "Leap",
-          "playcount": 8,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Leap/_/Bloodlines",
+          "rank": 4
+        },
+        {
+          "name": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller",
+          "playcount": 6,
+          "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-12T19:40:07.165740"
+    "fetched_at": "2026-11-13T05:40:29.690532"
   }
 }
