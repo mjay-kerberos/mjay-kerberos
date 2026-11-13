@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-13T05:40:23.555887Z",
+  "collected_at": "2026-11-13T19:21:20.372316Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-13T05:40:24.208021",
+    "fetched_at": "2026-11-13T19:21:21.374833",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -24,9 +24,9 @@
       "repos_contributed_to": 3,
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
-      "total_stars_received": 289,
+      "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-13T05:40:25.442417"
+      "fetched_at": "2026-11-13T19:21:22.875029"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9669,
+      "total_scrobbles": 9671,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9669,
-      "estimated_minutes": 33842,
-      "estimated_hours": 564.0,
+      "total_scrobbles": 9671,
+      "estimated_minutes": 33848,
+      "estimated_hours": 564.1,
       "estimated_days": 23.5,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 233,
-        "estimated_minutes": 816,
-        "estimated_hours": 13.6,
+        "total_scrobbles": 223,
+        "estimated_minutes": 780,
+        "estimated_hours": 13.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 851,
-        "estimated_minutes": 2978,
-        "estimated_hours": 49.6,
+        "total_scrobbles": 853,
+        "estimated_minutes": 2986,
+        "estimated_hours": 49.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9669,
-        "estimated_minutes": 33842,
-        "estimated_hours": 564.0,
+        "total_scrobbles": 9671,
+        "estimated_minutes": 33848,
+        "estimated_hours": 564.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "No. 1 Obsession",
-      "artist": "5 Seconds of Summer",
-      "uts": 1794512138,
+      "name": "brand new chanel$",
+      "artist": "Slayyyter",
+      "uts": 1794573247,
       "now_playing": false,
-      "days_ago": 0.4
+      "days_ago": 0.3
     },
     "weekly_stats": {
       "total_tracks_this_week": 166,
@@ -220,35 +220,35 @@
         {
           "name": "I'M IN THE BAND",
           "artist": "Max Rickun",
-          "playcount": 11,
+          "playcount": 10,
           "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 1
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 8,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 2
         },
         {
           "name": "OVER IT",
           "artist": "Citizen",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
           "rank": 3
         },
         {
           "name": "Bloodlines",
           "artist": "Leap",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Leap/_/Bloodlines",
           "rank": 4
         },
         {
           "name": "Cinderella (feat. Ty Dolla $ign)",
           "artist": "Mac Miller",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
           "rank": 5
         }
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-13T05:40:29.690532"
+    "fetched_at": "2026-11-13T19:21:28.591085"
   }
 }
