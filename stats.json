@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-14T05:29:48.936538Z",
+  "collected_at": "2026-11-14T17:45:46.591747Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-14T05:29:49.542218",
+    "fetched_at": "2026-11-14T17:45:47.301990",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-14T05:29:50.844226"
+      "fetched_at": "2026-11-14T17:45:48.519956"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 222,
-        "estimated_minutes": 777,
-        "estimated_hours": 12.9,
+        "total_scrobbles": 210,
+        "estimated_minutes": 735,
+        "estimated_hours": 12.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Alleh",
       "uts": 1794630083,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.6
     },
     "weekly_stats": {
       "total_tracks_this_week": 152,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-14T05:29:53.050332"
+    "fetched_at": "2026-11-14T17:45:50.747834"
   }
 }
