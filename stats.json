@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-13T19:21:20.372316Z",
+  "collected_at": "2026-11-14T05:29:48.936538Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-13T19:21:21.374833",
+    "fetched_at": "2026-11-14T05:29:49.542218",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-13T19:21:22.875029"
+      "fetched_at": "2026-11-14T05:29:50.844226"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9671,
+      "total_scrobbles": 9722,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9671,
-      "estimated_minutes": 33848,
-      "estimated_hours": 564.1,
-      "estimated_days": 23.5,
+      "total_scrobbles": 9722,
+      "estimated_minutes": 34027,
+      "estimated_hours": 567.1,
+      "estimated_days": 23.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 223,
-        "estimated_minutes": 780,
-        "estimated_hours": 13.0,
+        "total_scrobbles": 222,
+        "estimated_minutes": 777,
+        "estimated_hours": 12.9,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 853,
-        "estimated_minutes": 2986,
-        "estimated_hours": 49.8,
+        "total_scrobbles": 888,
+        "estimated_minutes": 3108,
+        "estimated_hours": 51.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9671,
-        "estimated_minutes": 33848,
-        "estimated_hours": 564.1,
+        "total_scrobbles": 9722,
+        "estimated_minutes": 34027,
+        "estimated_hours": 567.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "brand new chanel$",
-      "artist": "Slayyyter",
-      "uts": 1794573247,
+      "name": "carita linda ;)",
+      "artist": "Alleh",
+      "uts": 1794630083,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 166,
-      "total_plays_this_week": 293
+      "total_tracks_this_week": 152,
+      "total_plays_this_week": 234
     },
     "top_artists": {
       "overall": [
@@ -101,7 +101,7 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 217,
+          "playcount": 219,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
@@ -131,13 +131,13 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 125,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
         {
           "name": "Doja Cat",
-          "playcount": 119,
+          "playcount": 123,
           "url": "https://www.last.fm/music/Doja+Cat",
           "rank": 10
         }
@@ -227,7 +227,7 @@
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 7,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 2
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-13T19:21:28.591085"
+    "fetched_at": "2026-11-14T05:29:53.050332"
   }
 }
