@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-15T05:28:05.336524Z",
+  "collected_at": "2026-11-15T18:36:21.866886Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-15T05:28:06.034352",
+    "fetched_at": "2026-11-15T18:36:22.527028",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-15T05:28:07.107663"
+      "fetched_at": "2026-11-15T18:36:23.704904"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9767,
+      "total_scrobbles": 9772,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9767,
-      "estimated_minutes": 34184,
-      "estimated_hours": 569.7,
-      "estimated_days": 23.7,
+      "total_scrobbles": 9772,
+      "estimated_minutes": 34202,
+      "estimated_hours": 570.0,
+      "estimated_days": 23.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 228,
-        "estimated_minutes": 798,
-        "estimated_hours": 13.3,
+        "total_scrobbles": 233,
+        "estimated_minutes": 816,
+        "estimated_hours": 13.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 923,
-        "estimated_minutes": 3230,
-        "estimated_hours": 53.8,
+        "total_scrobbles": 928,
+        "estimated_minutes": 3248,
+        "estimated_hours": 54.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9767,
-        "estimated_minutes": 34184,
-        "estimated_hours": 569.7,
+        "total_scrobbles": 9772,
+        "estimated_minutes": 34202,
+        "estimated_hours": 570.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Secondhand (feat. Rema)",
-      "artist": "Don Toliver",
-      "uts": 1794719919,
+      "name": "I'M IN THE BAND",
+      "artist": "Max Rickun",
+      "uts": 1794754351,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.2
     },
     "weekly_stats": {
       "total_tracks_this_week": 154,
@@ -220,14 +220,14 @@
         {
           "name": "I'M IN THE BAND",
           "artist": "Max Rickun",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 1
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 4,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 2
         },
@@ -246,10 +246,10 @@
           "rank": 4
         },
         {
-          "name": "brand new chanel$",
-          "artist": "Slayyyter",
+          "name": "PHONE!",
+          "artist": "Never Ending Fall",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
+          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-15T05:28:10.197795"
+    "fetched_at": "2026-11-15T18:36:25.746373"
   }
 }
