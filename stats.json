@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-14T17:45:46.591747Z",
+  "collected_at": "2026-11-15T05:28:05.336524Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-14T17:45:47.301990",
+    "fetched_at": "2026-11-15T05:28:06.034352",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-14T17:45:48.519956"
+      "fetched_at": "2026-11-15T05:28:07.107663"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9722,
+      "total_scrobbles": 9767,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9722,
-      "estimated_minutes": 34027,
-      "estimated_hours": 567.1,
-      "estimated_days": 23.6,
+      "total_scrobbles": 9767,
+      "estimated_minutes": 34184,
+      "estimated_hours": 569.7,
+      "estimated_days": 23.7,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 210,
-        "estimated_minutes": 735,
-        "estimated_hours": 12.2,
+        "total_scrobbles": 228,
+        "estimated_minutes": 798,
+        "estimated_hours": 13.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 888,
-        "estimated_minutes": 3108,
-        "estimated_hours": 51.8,
+        "total_scrobbles": 923,
+        "estimated_minutes": 3230,
+        "estimated_hours": 53.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9722,
-        "estimated_minutes": 34027,
-        "estimated_hours": 567.1,
+        "total_scrobbles": 9767,
+        "estimated_minutes": 34184,
+        "estimated_hours": 569.7,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "carita linda ;)",
-      "artist": "Alleh",
-      "uts": 1794630083,
+      "name": "Secondhand (feat. Rema)",
+      "artist": "Don Toliver",
+      "uts": 1794719919,
       "now_playing": false,
-      "days_ago": 0.6
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 152,
-      "total_plays_this_week": 234
+      "total_tracks_this_week": 154,
+      "total_plays_this_week": 226
     },
     "top_artists": {
       "overall": [
@@ -94,15 +94,15 @@
           "rank": 2
         },
         {
-          "name": "Malcolm Todd",
-          "playcount": 219,
-          "url": "https://www.last.fm/music/Malcolm+Todd",
+          "name": "Tate McRae",
+          "playcount": 220,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 3
         },
         {
-          "name": "Tate McRae",
+          "name": "Malcolm Todd",
           "playcount": 219,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 4
         },
         {
@@ -131,13 +131,13 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 126,
+          "playcount": 127,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
         {
           "name": "Doja Cat",
-          "playcount": 123,
+          "playcount": 124,
           "url": "https://www.last.fm/music/Doja+Cat",
           "rank": 10
         }
@@ -220,36 +220,36 @@
         {
           "name": "I'M IN THE BAND",
           "artist": "Max Rickun",
-          "playcount": 10,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 1
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 6,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 2
         },
         {
           "name": "OVER IT",
           "artist": "Citizen",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
           "rank": 3
         },
         {
-          "name": "Bloodlines",
-          "artist": "Leap",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Leap/_/Bloodlines",
+          "name": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
           "rank": 4
         },
         {
-          "name": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
+          "name": "brand new chanel$",
+          "artist": "Slayyyter",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-14T17:45:50.747834"
+    "fetched_at": "2026-11-15T05:28:10.197795"
   }
 }
