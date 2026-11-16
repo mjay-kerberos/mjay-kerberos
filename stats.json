@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-15T18:36:21.866886Z",
+  "collected_at": "2026-11-16T05:26:27.482789Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-15T18:36:22.527028",
+    "fetched_at": "2026-11-16T05:26:28.080567",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-15T18:36:23.704904"
+      "fetched_at": "2026-11-16T05:26:29.293240"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9772,
+      "total_scrobbles": 9813,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9772,
-      "estimated_minutes": 34202,
-      "estimated_hours": 570.0,
-      "estimated_days": 23.8,
+      "total_scrobbles": 9813,
+      "estimated_minutes": 34346,
+      "estimated_hours": 572.4,
+      "estimated_days": 23.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 233,
-        "estimated_minutes": 816,
-        "estimated_hours": 13.6,
+        "total_scrobbles": 262,
+        "estimated_minutes": 917,
+        "estimated_hours": 15.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 928,
-        "estimated_minutes": 3248,
-        "estimated_hours": 54.1,
+        "total_scrobbles": 969,
+        "estimated_minutes": 3392,
+        "estimated_hours": 56.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9772,
-        "estimated_minutes": 34202,
-        "estimated_hours": 570.0,
+        "total_scrobbles": 9813,
+        "estimated_minutes": 34346,
+        "estimated_hours": 572.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "I'M IN THE BAND",
-      "artist": "Max Rickun",
-      "uts": 1794754351,
+      "name": "OVER IT",
+      "artist": "Citizen",
+      "uts": 1794791472,
       "now_playing": false,
       "days_ago": 0.2
     },
     "weekly_stats": {
-      "total_tracks_this_week": 154,
-      "total_plays_this_week": 226
+      "total_tracks_this_week": 173,
+      "total_plays_this_week": 229
     },
     "top_artists": {
       "overall": [
@@ -107,7 +107,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 214,
+          "playcount": 218,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Don Toliver",
-          "playcount": 127,
+          "playcount": 128,
           "url": "https://www.last.fm/music/Don+Toliver",
           "rank": 9
         },
@@ -220,29 +220,29 @@
         {
           "name": "I'M IN THE BAND",
           "artist": "Max Rickun",
-          "playcount": 8,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 1
         },
         {
-          "name": "When It's Raining",
-          "artist": "Borderline",
+          "name": "brand new chanel$",
+          "artist": "Slayyyter",
           "playcount": 6,
-          "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
+          "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 2
         },
         {
-          "name": "OVER IT",
-          "artist": "Citizen",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Citizen/_/OVER+IT",
+          "name": "When It's Raining",
+          "artist": "Borderline",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
           "rank": 3
         },
         {
-          "name": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller",
+          "name": "FROM YOUR EYES",
+          "artist": "F3miii",
           "playcount": 4,
-          "url": "https://www.last.fm/music/Mac+Miller/_/Cinderella+(feat.+Ty+Dolla+$ign)",
+          "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
           "rank": 4
         },
         {
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-15T18:36:25.746373"
+    "fetched_at": "2026-11-16T05:26:32.018947"
   }
 }
