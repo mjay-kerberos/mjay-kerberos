@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16T05:26:27.482789Z",
+  "collected_at": "2026-11-16T21:45:10.682697Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-16T05:26:28.080567",
+    "fetched_at": "2026-11-16T21:45:11.272571",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-16T05:26:29.293240"
+      "fetched_at": "2026-11-16T21:45:13.160448"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 262,
-        "estimated_minutes": 917,
-        "estimated_hours": 15.3,
+        "total_scrobbles": 261,
+        "estimated_minutes": 914,
+        "estimated_hours": 15.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Citizen",
       "uts": 1794791472,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.9
     },
     "weekly_stats": {
       "total_tracks_this_week": 173,
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-16T05:26:32.018947"
+    "fetched_at": "2026-11-16T21:45:15.175443"
   }
 }
