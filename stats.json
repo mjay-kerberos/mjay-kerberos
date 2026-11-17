@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16T21:45:10.682697Z",
+  "collected_at": "2026-11-17T07:03:58.254479Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-16T21:45:11.272571",
+    "fetched_at": "2026-11-17T07:03:58.825997",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-16T21:45:13.160448"
+      "fetched_at": "2026-11-17T07:04:00.113041"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9813,
+      "total_scrobbles": 9849,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9813,
-      "estimated_minutes": 34346,
-      "estimated_hours": 572.4,
+      "total_scrobbles": 9849,
+      "estimated_minutes": 34472,
+      "estimated_hours": 574.5,
       "estimated_days": 23.9,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 261,
-        "estimated_minutes": 914,
-        "estimated_hours": 15.2,
+        "total_scrobbles": 286,
+        "estimated_minutes": 1001,
+        "estimated_hours": 16.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 969,
-        "estimated_minutes": 3392,
-        "estimated_hours": 56.5,
+        "total_scrobbles": 1005,
+        "estimated_minutes": 3518,
+        "estimated_hours": 58.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9813,
-        "estimated_minutes": 34346,
-        "estimated_hours": 572.4,
+        "total_scrobbles": 9849,
+        "estimated_minutes": 34472,
+        "estimated_hours": 574.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "OVER IT",
-      "artist": "Citizen",
-      "uts": 1794791472,
+      "name": "brand new chanel$",
+      "artist": "Slayyyter",
+      "uts": 1794875525,
       "now_playing": false,
-      "days_ago": 0.9
+      "days_ago": 0.3
     },
     "weekly_stats": {
-      "total_tracks_this_week": 173,
-      "total_plays_this_week": 229
+      "total_tracks_this_week": 190,
+      "total_plays_this_week": 264
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 474,
+          "playcount": 475,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -218,38 +218,38 @@
       ],
       "week": [
         {
-          "name": "I'M IN THE BAND",
-          "artist": "Max Rickun",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
-          "rank": 1
-        },
-        {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
-          "playcount": 6,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
-          "rank": 2
+          "rank": 1
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
-          "rank": 3
+          "rank": 2
         },
         {
           "name": "FROM YOUR EYES",
           "artist": "F3miii",
           "playcount": 4,
           "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
+          "rank": 3
+        },
+        {
+          "name": "I'M IN THE BAND",
+          "artist": "Max Rickun",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 4
         },
         {
-          "name": "PHONE!",
-          "artist": "Never Ending Fall",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
+          "name": "capaz (merengueton)",
+          "artist": "Alleh",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-16T21:45:15.175443"
+    "fetched_at": "2026-11-17T07:04:03.312223"
   }
 }
