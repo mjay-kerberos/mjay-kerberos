@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-17T07:03:58.254479Z",
+  "collected_at": "2026-11-17T20:36:07.704891Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-17T07:03:58.825997",
+    "fetched_at": "2026-11-17T20:36:08.473720",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-17T07:04:00.113041"
+      "fetched_at": "2026-11-17T20:36:09.575496"
     }
   },
   "lastfm": {
@@ -48,9 +48,9 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 286,
-        "estimated_minutes": 1001,
-        "estimated_hours": 16.7,
+        "total_scrobbles": 275,
+        "estimated_minutes": 962,
+        "estimated_hours": 16.0,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
@@ -73,7 +73,7 @@
       "artist": "Slayyyter",
       "uts": 1794875525,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.8
     },
     "weekly_stats": {
       "total_tracks_this_week": 190,
@@ -239,17 +239,17 @@
           "rank": 3
         },
         {
-          "name": "I'M IN THE BAND",
-          "artist": "Max Rickun",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
-          "rank": 4
-        },
-        {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
           "playcount": 3,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
+          "rank": 4
+        },
+        {
+          "name": "Stick & Poke",
+          "artist": "Ax and the Hatchetmen",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Stick+&+Poke",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-17T07:04:03.312223"
+    "fetched_at": "2026-11-17T20:36:12.548977"
   }
 }
