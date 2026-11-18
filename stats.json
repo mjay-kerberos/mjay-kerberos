@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T06:28:18.195687Z",
+  "collected_at": "2026-11-18T20:08:20.781760Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-18T06:28:19.035118",
+    "fetched_at": "2026-11-18T20:08:21.338038",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-18T06:28:20.262659"
+      "fetched_at": "2026-11-18T20:08:22.765055"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9858,
+      "total_scrobbles": 9867,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9858,
-      "estimated_minutes": 34503,
-      "estimated_hours": 575.0,
+      "total_scrobbles": 9867,
+      "estimated_minutes": 34534,
+      "estimated_hours": 575.6,
       "estimated_days": 24.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 253,
-        "estimated_minutes": 886,
-        "estimated_hours": 14.8,
+        "total_scrobbles": 243,
+        "estimated_minutes": 850,
+        "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 964,
-        "estimated_minutes": 3374,
-        "estimated_hours": 56.2,
+        "total_scrobbles": 973,
+        "estimated_minutes": 3406,
+        "estimated_hours": 56.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9858,
-        "estimated_minutes": 34503,
-        "estimated_hours": 575.0,
+        "total_scrobbles": 9867,
+        "estimated_minutes": 34534,
+        "estimated_hours": 575.6,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Are You Gonna Be My Girl",
-      "artist": "Jet",
-      "uts": 1794952003,
+      "name": "WASSUP",
+      "artist": "Young Miko",
+      "uts": 1795005900,
       "now_playing": false,
-      "days_ago": 0.4
+      "days_ago": 0.3
     },
     "weekly_stats": {
       "total_tracks_this_week": 212,
@@ -119,7 +119,7 @@
         },
         {
           "name": "Bad Bunny",
-          "playcount": 162,
+          "playcount": 163,
           "url": "https://www.last.fm/music/Bad+Bunny",
           "rank": 7
         },
@@ -246,10 +246,10 @@
           "rank": 4
         },
         {
-          "name": "Stick & Poke",
-          "artist": "Ax and the Hatchetmen",
+          "name": "PHONE!",
+          "artist": "Never Ending Fall",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Stick+&+Poke",
+          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
           "rank": 5
         }
       ]
@@ -259,7 +259,7 @@
         {
           "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
           "artist": "Bad Bunny",
-          "playcount": 149,
+          "playcount": 150,
           "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
           "rank": 1
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-18T06:28:22.367687"
+    "fetched_at": "2026-11-18T20:08:25.378603"
   }
 }
