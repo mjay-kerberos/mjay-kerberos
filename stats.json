@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-17T20:36:07.704891Z",
+  "collected_at": "2026-11-18T06:28:18.195687Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-17T20:36:08.473720",
+    "fetched_at": "2026-11-18T06:28:19.035118",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-17T20:36:09.575496"
+      "fetched_at": "2026-11-18T06:28:20.262659"
     }
   },
   "lastfm": {
@@ -34,50 +34,50 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9849,
+      "total_scrobbles": 9858,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9849,
-      "estimated_minutes": 34472,
-      "estimated_hours": 574.5,
-      "estimated_days": 23.9,
+      "total_scrobbles": 9858,
+      "estimated_minutes": 34503,
+      "estimated_hours": 575.0,
+      "estimated_days": 24.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 275,
-        "estimated_minutes": 962,
-        "estimated_hours": 16.0,
+        "total_scrobbles": 253,
+        "estimated_minutes": 886,
+        "estimated_hours": 14.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1005,
-        "estimated_minutes": 3518,
-        "estimated_hours": 58.6,
+        "total_scrobbles": 964,
+        "estimated_minutes": 3374,
+        "estimated_hours": 56.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9849,
-        "estimated_minutes": 34472,
-        "estimated_hours": 574.5,
+        "total_scrobbles": 9858,
+        "estimated_minutes": 34503,
+        "estimated_hours": 575.0,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "brand new chanel$",
-      "artist": "Slayyyter",
-      "uts": 1794875525,
+      "name": "Are You Gonna Be My Girl",
+      "artist": "Jet",
+      "uts": 1794952003,
       "now_playing": false,
-      "days_ago": 0.8
+      "days_ago": 0.4
     },
     "weekly_stats": {
-      "total_tracks_this_week": 190,
-      "total_plays_this_week": 264
+      "total_tracks_this_week": 212,
+      "total_plays_this_week": 287
     },
     "top_artists": {
       "overall": [
@@ -95,20 +95,20 @@
         },
         {
           "name": "Tate McRae",
-          "playcount": 220,
+          "playcount": 221,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 3
+        },
+        {
+          "name": "Fall Out Boy",
+          "playcount": 219,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "rank": 4
         },
         {
           "name": "Malcolm Todd",
           "playcount": 219,
           "url": "https://www.last.fm/music/Malcolm+Todd",
-          "rank": 4
-        },
-        {
-          "name": "Fall Out Boy",
-          "playcount": 218,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 5
         },
         {
@@ -197,22 +197,22 @@
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 35,
+          "playcount": 36,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 8
+        },
+        {
+          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
+          "artist": "Mark Ronson",
+          "playcount": 32,
+          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
+          "rank": 9
         },
         {
           "name": "Shoelaces (From The Runarounds Original Series)",
           "artist": "The Runarounds",
           "playcount": 32,
           "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
-          "rank": 9
-        },
-        {
-          "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
-          "artist": "Mark Ronson",
-          "playcount": 31,
-          "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
           "rank": 10
         }
       ],
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-17T20:36:12.548977"
+    "fetched_at": "2026-11-18T06:28:22.367687"
   }
 }
