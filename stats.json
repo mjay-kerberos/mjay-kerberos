@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-19T06:30:18.072920Z",
+  "collected_at": "2026-11-19T20:09:31.096504Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-19T06:30:18.837908",
+    "fetched_at": "2026-11-19T20:09:31.886148",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-19T06:30:19.927917"
+      "fetched_at": "2026-11-19T20:09:33.265855"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9876,
+      "total_scrobbles": 9906,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9876,
-      "estimated_minutes": 34566,
-      "estimated_hours": 576.1,
-      "estimated_days": 24.0,
+      "total_scrobbles": 9906,
+      "estimated_minutes": 34671,
+      "estimated_hours": 577.9,
+      "estimated_days": 24.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 241,
-        "estimated_minutes": 844,
-        "estimated_hours": 14.1,
+        "total_scrobbles": 237,
+        "estimated_minutes": 830,
+        "estimated_hours": 13.8,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 959,
-        "estimated_minutes": 3356,
-        "estimated_hours": 55.9,
+        "total_scrobbles": 981,
+        "estimated_minutes": 3434,
+        "estimated_hours": 57.2,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9876,
-        "estimated_minutes": 34566,
-        "estimated_hours": 576.1,
+        "total_scrobbles": 9906,
+        "estimated_minutes": 34671,
+        "estimated_hours": 577.9,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Don't Forget You Love Me",
-      "artist": "Calum Hood",
-      "uts": 1795037302,
-      "now_playing": false,
-      "days_ago": 0.4
+      "name": "Girl Like Me",
+      "artist": "PinkPantheress",
+      "uts": 1795118979,
+      "now_playing": true,
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 194,
@@ -220,29 +220,29 @@
         {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
-          "playcount": 7,
+          "playcount": 8,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 1
+        },
+        {
+          "name": "capaz (merengueton)",
+          "artist": "Alleh",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
+          "rank": 2
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
           "playcount": 4,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "FROM YOUR EYES",
           "artist": "F3miii",
           "playcount": 4,
           "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
-          "rank": 3
-        },
-        {
-          "name": "capaz (merengueton)",
-          "artist": "Alleh",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 4
         },
         {
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-19T06:30:23.378693"
+    "fetched_at": "2026-11-19T20:09:39.434503"
   }
 }
