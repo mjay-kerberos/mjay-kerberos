@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T20:08:20.781760Z",
+  "collected_at": "2026-11-19T06:30:18.072920Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-18T20:08:21.338038",
+    "fetched_at": "2026-11-19T06:30:18.837908",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-18T20:08:22.765055"
+      "fetched_at": "2026-11-19T06:30:19.927917"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9867,
+      "total_scrobbles": 9876,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9867,
-      "estimated_minutes": 34534,
-      "estimated_hours": 575.6,
+      "total_scrobbles": 9876,
+      "estimated_minutes": 34566,
+      "estimated_hours": 576.1,
       "estimated_days": 24.0,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 243,
-        "estimated_minutes": 850,
-        "estimated_hours": 14.2,
+        "total_scrobbles": 241,
+        "estimated_minutes": 844,
+        "estimated_hours": 14.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 973,
-        "estimated_minutes": 3406,
-        "estimated_hours": 56.8,
+        "total_scrobbles": 959,
+        "estimated_minutes": 3356,
+        "estimated_hours": 55.9,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9867,
-        "estimated_minutes": 34534,
-        "estimated_hours": 575.6,
+        "total_scrobbles": 9876,
+        "estimated_minutes": 34566,
+        "estimated_hours": 576.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "WASSUP",
-      "artist": "Young Miko",
-      "uts": 1795005900,
+      "name": "Don't Forget You Love Me",
+      "artist": "Calum Hood",
+      "uts": 1795037302,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.4
     },
     "weekly_stats": {
-      "total_tracks_this_week": 212,
-      "total_plays_this_week": 287
+      "total_tracks_this_week": 194,
+      "total_plays_this_week": 254
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 475,
+          "playcount": 476,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 219,
+          "playcount": 220,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -190,7 +190,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 7
         },
@@ -220,7 +220,7 @@
         {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
-          "playcount": 8,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 1
         },
@@ -273,7 +273,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 106,
+          "playcount": 107,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-18T20:08:25.378603"
+    "fetched_at": "2026-11-19T06:30:23.378693"
   }
 }
