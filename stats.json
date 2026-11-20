@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20T06:17:34.792016Z",
+  "collected_at": "2026-11-20T19:44:20.081175Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-20T06:17:35.404480",
+    "fetched_at": "2026-11-20T19:44:20.678979",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-20T06:17:36.675361"
+      "fetched_at": "2026-11-20T19:44:21.617395"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 246,
-        "estimated_minutes": 861,
+        "total_scrobbles": 245,
+        "estimated_minutes": 858,
         "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 986,
-        "estimated_minutes": 3451,
-        "estimated_hours": 57.5,
+        "total_scrobbles": 978,
+        "estimated_minutes": 3423,
+        "estimated_hours": 57.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -73,7 +73,7 @@
       "artist": "Zoe Clark",
       "uts": 1795127912,
       "now_playing": false,
-      "days_ago": 0.3
+      "days_ago": 0.9
     },
     "weekly_stats": {
       "total_tracks_this_week": 198,
@@ -220,7 +220,7 @@
         {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
-          "playcount": 8,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 1
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-20T06:17:39.663842"
+    "fetched_at": "2026-11-20T19:44:23.657468"
   }
 }
