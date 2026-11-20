@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-19T20:09:31.096504Z",
+  "collected_at": "2026-11-20T06:17:34.792016Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-19T20:09:31.886148",
+    "fetched_at": "2026-11-20T06:17:35.404480",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-19T20:09:33.265855"
+      "fetched_at": "2026-11-20T06:17:36.675361"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9906,
+      "total_scrobbles": 9916,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9906,
-      "estimated_minutes": 34671,
-      "estimated_hours": 577.9,
+      "total_scrobbles": 9916,
+      "estimated_minutes": 34706,
+      "estimated_hours": 578.4,
       "estimated_days": 24.1,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 237,
-        "estimated_minutes": 830,
-        "estimated_hours": 13.8,
+        "total_scrobbles": 246,
+        "estimated_minutes": 861,
+        "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 981,
-        "estimated_minutes": 3434,
-        "estimated_hours": 57.2,
+        "total_scrobbles": 986,
+        "estimated_minutes": 3451,
+        "estimated_hours": 57.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9906,
-        "estimated_minutes": 34671,
-        "estimated_hours": 577.9,
+        "total_scrobbles": 9916,
+        "estimated_minutes": 34706,
+        "estimated_hours": 578.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Girl Like Me",
-      "artist": "PinkPantheress",
-      "uts": 1795118979,
-      "now_playing": true,
-      "days_ago": 0.0
+      "name": "Not to be Dramatic",
+      "artist": "Zoe Clark",
+      "uts": 1795127912,
+      "now_playing": false,
+      "days_ago": 0.3
     },
     "weekly_stats": {
-      "total_tracks_this_week": 194,
-      "total_plays_this_week": 254
+      "total_tracks_this_week": 198,
+      "total_plays_this_week": 245
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 476,
+          "playcount": 477,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -273,7 +273,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 107,
+          "playcount": 108,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-19T20:09:39.434503"
+    "fetched_at": "2026-11-20T06:17:39.663842"
   }
 }
