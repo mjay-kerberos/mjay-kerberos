@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20T19:44:20.081175Z",
+  "collected_at": "2026-11-21T06:07:07.005895Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-20T19:44:20.678979",
+    "fetched_at": "2026-11-21T06:07:07.530519",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-20T19:44:21.617395"
+      "fetched_at": "2026-11-21T06:07:08.651046"
     }
   },
   "lastfm": {
@@ -34,80 +34,80 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9916,
+      "total_scrobbles": 9969,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9916,
-      "estimated_minutes": 34706,
-      "estimated_hours": 578.4,
-      "estimated_days": 24.1,
+      "total_scrobbles": 9969,
+      "estimated_minutes": 34892,
+      "estimated_hours": 581.5,
+      "estimated_days": 24.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 245,
-        "estimated_minutes": 858,
-        "estimated_hours": 14.3,
+        "total_scrobbles": 243,
+        "estimated_minutes": 850,
+        "estimated_hours": 14.2,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 978,
-        "estimated_minutes": 3423,
-        "estimated_hours": 57.0,
+        "total_scrobbles": 1021,
+        "estimated_minutes": 3574,
+        "estimated_hours": 59.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9916,
-        "estimated_minutes": 34706,
-        "estimated_hours": 578.4,
+        "total_scrobbles": 9969,
+        "estimated_minutes": 34892,
+        "estimated_hours": 581.5,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Not to be Dramatic",
-      "artist": "Zoe Clark",
-      "uts": 1795127912,
+      "name": "The Last of the Real Ones",
+      "artist": "Fall Out Boy",
+      "uts": 1795234756,
       "now_playing": false,
-      "days_ago": 0.9
+      "days_ago": 0.1
     },
     "weekly_stats": {
-      "total_tracks_this_week": 198,
-      "total_plays_this_week": 245
+      "total_tracks_this_week": 192,
+      "total_plays_this_week": 246
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 477,
+          "playcount": 478,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
         {
           "name": "Dominic Fike",
-          "playcount": 223,
+          "playcount": 224,
           "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 2
         },
         {
           "name": "Tate McRae",
-          "playcount": 221,
+          "playcount": 222,
           "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 3
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 220,
+          "playcount": 221,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
           "name": "Malcolm Todd",
-          "playcount": 219,
+          "playcount": 220,
           "url": "https://www.last.fm/music/Malcolm+Todd",
           "rank": 5
         },
@@ -169,7 +169,7 @@
         {
           "name": "Earrings",
           "artist": "Malcolm Todd",
-          "playcount": 40,
+          "playcount": 41,
           "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
           "rank": 4
         },
@@ -197,7 +197,7 @@
         {
           "name": "WHERE IS MY HUSBAND!",
           "artist": "RAYE",
-          "playcount": 36,
+          "playcount": 37,
           "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
           "rank": 8
         },
@@ -220,36 +220,36 @@
         {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
-          "playcount": 7,
+          "playcount": 9,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 1
         },
         {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
-          "playcount": 5,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 2
+        },
+        {
+          "name": "FROM YOUR EYES",
+          "artist": "F3miii",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
+          "rank": 3
+        },
+        {
+          "name": "PHONE!",
+          "artist": "Never Ending Fall",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
+          "rank": 4
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
           "playcount": 4,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
-          "rank": 3
-        },
-        {
-          "name": "FROM YOUR EYES",
-          "artist": "F3miii",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
-          "rank": 4
-        },
-        {
-          "name": "PHONE!",
-          "artist": "Never Ending Fall",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
           "rank": 5
         }
       ]
@@ -287,12 +287,12 @@
         {
           "name": "Sweet Boy",
           "artist": "Malcolm Todd",
-          "playcount": 103,
+          "playcount": 104,
           "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy",
           "rank": 5
         }
       ]
     },
-    "fetched_at": "2026-11-20T19:44:23.657468"
+    "fetched_at": "2026-11-21T06:07:10.806273"
   }
 }
