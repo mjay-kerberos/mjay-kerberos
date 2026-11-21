@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21T06:07:07.005895Z",
+  "collected_at": "2026-11-21T18:50:03.581179Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-21T06:07:07.530519",
+    "fetched_at": "2026-11-21T18:50:04.263601",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-21T06:07:08.651046"
+      "fetched_at": "2026-11-21T18:50:05.529653"
     }
   },
   "lastfm": {
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9969,
+      "total_scrobbles": 9973,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9969,
-      "estimated_minutes": 34892,
-      "estimated_hours": 581.5,
+      "total_scrobbles": 9973,
+      "estimated_minutes": 34906,
+      "estimated_hours": 581.8,
       "estimated_days": 24.2,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 243,
-        "estimated_minutes": 850,
-        "estimated_hours": 14.2,
+        "total_scrobbles": 246,
+        "estimated_minutes": 861,
+        "estimated_hours": 14.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 1021,
-        "estimated_minutes": 3574,
-        "estimated_hours": 59.6,
+        "total_scrobbles": 994,
+        "estimated_minutes": 3479,
+        "estimated_hours": 58.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9969,
-        "estimated_minutes": 34892,
-        "estimated_hours": 581.5,
+        "total_scrobbles": 9973,
+        "estimated_minutes": 34906,
+        "estimated_hours": 581.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "The Last of the Real Ones",
-      "artist": "Fall Out Boy",
-      "uts": 1795234756,
+      "name": "Disturbia",
+      "artist": "Rihanna",
+      "uts": 1795278916,
       "now_playing": false,
       "days_ago": 0.1
     },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-21T06:07:10.806273"
+    "fetched_at": "2026-11-21T18:50:08.228159"
   }
 }
