@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22T05:42:10.171551Z",
+  "collected_at": "2026-11-22T19:12:13.756683Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-22T05:42:10.798930",
+    "fetched_at": "2026-11-22T19:12:14.207947",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-22T05:42:11.784564"
+      "fetched_at": "2026-11-22T19:12:15.161951"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9998,
+      "total_scrobbles": 10014,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9998,
-      "estimated_minutes": 34993,
-      "estimated_hours": 583.2,
+      "total_scrobbles": 10014,
+      "estimated_minutes": 35049,
+      "estimated_hours": 584.1,
       "estimated_days": 24.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 230,
-        "estimated_minutes": 805,
-        "estimated_hours": 13.4,
+        "total_scrobbles": 241,
+        "estimated_minutes": 844,
+        "estimated_hours": 14.1,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 966,
-        "estimated_minutes": 3381,
-        "estimated_hours": 56.4,
+        "total_scrobbles": 982,
+        "estimated_minutes": 3437,
+        "estimated_hours": 57.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9998,
-        "estimated_minutes": 34993,
-        "estimated_hours": 583.2,
+        "total_scrobbles": 10014,
+        "estimated_minutes": 35049,
+        "estimated_hours": 584.1,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "What Are You So Afraid Of?",
-      "artist": "THE BAND LIGHT",
-      "uts": 1795322509,
+      "name": "Equally Lost (feat. Doja Cat)",
+      "artist": "Tove Lo",
+      "uts": 1795359011,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.2
     },
     "weekly_stats": {
       "total_tracks_this_week": 190,
@@ -88,21 +88,21 @@
           "rank": 1
         },
         {
+          "name": "Tate McRae",
+          "playcount": 225,
+          "url": "https://www.last.fm/music/Tate+McRae",
+          "rank": 2
+        },
+        {
           "name": "Dominic Fike",
           "playcount": 224,
           "url": "https://www.last.fm/music/Dominic+Fike",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Fall Out Boy",
           "playcount": 223,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
-          "rank": 3
-        },
-        {
-          "name": "Tate McRae",
-          "playcount": 223,
-          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
         {
@@ -137,7 +137,7 @@
         },
         {
           "name": "Doja Cat",
-          "playcount": 124,
+          "playcount": 126,
           "url": "https://www.last.fm/music/Doja+Cat",
           "rank": 10
         }
@@ -227,29 +227,29 @@
         {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
-          "playcount": 5,
+          "playcount": 6,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 2
-        },
-        {
-          "name": "PHONE!",
-          "artist": "Never Ending Fall",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
-          "rank": 3
-        },
-        {
-          "name": "When It's Raining",
-          "artist": "Borderline",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
-          "rank": 4
         },
         {
           "name": "FROM YOUR EYES",
           "artist": "F3miii",
           "playcount": 3,
           "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
+          "rank": 3
+        },
+        {
+          "name": "PHONE!",
+          "artist": "Never Ending Fall",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
+          "rank": 4
+        },
+        {
+          "name": "Richman",
+          "artist": "3OH!3",
+          "playcount": 2,
+          "url": "https://www.last.fm/music/3OH!3/_/Richman",
           "rank": 5
         }
       ]
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-22T05:42:14.249144"
+    "fetched_at": "2026-11-22T19:12:17.679317"
   }
 }
