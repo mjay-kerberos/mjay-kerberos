@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21T18:50:03.581179Z",
+  "collected_at": "2026-11-22T05:42:10.171551Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-21T18:50:04.263601",
+    "fetched_at": "2026-11-22T05:42:10.798930",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-21T18:50:05.529653"
+      "fetched_at": "2026-11-22T05:42:11.784564"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 9973,
+      "total_scrobbles": 9998,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 9973,
-      "estimated_minutes": 34906,
-      "estimated_hours": 581.8,
-      "estimated_days": 24.2,
+      "total_scrobbles": 9998,
+      "estimated_minutes": 34993,
+      "estimated_hours": 583.2,
+      "estimated_days": 24.3,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 246,
-        "estimated_minutes": 861,
-        "estimated_hours": 14.3,
+        "total_scrobbles": 230,
+        "estimated_minutes": 805,
+        "estimated_hours": 13.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 994,
-        "estimated_minutes": 3479,
-        "estimated_hours": 58.0,
+        "total_scrobbles": 966,
+        "estimated_minutes": 3381,
+        "estimated_hours": 56.4,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 9973,
-        "estimated_minutes": 34906,
-        "estimated_hours": 581.8,
+        "total_scrobbles": 9998,
+        "estimated_minutes": 34993,
+        "estimated_hours": 583.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Disturbia",
-      "artist": "Rihanna",
-      "uts": 1795278916,
+      "name": "What Are You So Afraid Of?",
+      "artist": "THE BAND LIGHT",
+      "uts": 1795322509,
       "now_playing": false,
-      "days_ago": 0.1
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 192,
-      "total_plays_this_week": 246
+      "total_tracks_this_week": 190,
+      "total_plays_this_week": 244
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 478,
+          "playcount": 479,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -94,15 +94,15 @@
           "rank": 2
         },
         {
-          "name": "Tate McRae",
-          "playcount": 222,
-          "url": "https://www.last.fm/music/Tate+McRae",
+          "name": "Fall Out Boy",
+          "playcount": 223,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 3
         },
         {
-          "name": "Fall Out Boy",
-          "playcount": 221,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "name": "Tate McRae",
+          "playcount": 223,
+          "url": "https://www.last.fm/music/Tate+McRae",
           "rank": 4
         },
         {
@@ -174,24 +174,24 @@
           "rank": 4
         },
         {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 38,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 5
+        },
+        {
           "name": "WELTiTA",
           "artist": "Bad Bunny",
           "playcount": 38,
           "url": "https://www.last.fm/music/Bad+Bunny/_/WELTiTA",
-          "rank": 5
+          "rank": 6
         },
         {
           "name": "E85",
           "artist": "Don Toliver",
           "playcount": 38,
           "url": "https://www.last.fm/music/Don+Toliver/_/E85",
-          "rank": 6
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 37,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 7
         },
         {
@@ -220,36 +220,36 @@
         {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
-          "playcount": 9,
+          "playcount": 7,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 1
         },
         {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
-          "playcount": 6,
+          "playcount": 5,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
           "rank": 2
-        },
-        {
-          "name": "FROM YOUR EYES",
-          "artist": "F3miii",
-          "playcount": 5,
-          "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
-          "rank": 3
         },
         {
           "name": "PHONE!",
           "artist": "Never Ending Fall",
           "playcount": 5,
           "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
-          "rank": 4
+          "rank": 3
         },
         {
           "name": "When It's Raining",
           "artist": "Borderline",
-          "playcount": 4,
+          "playcount": 3,
           "url": "https://www.last.fm/music/Borderline/_/When+It%27s+Raining",
+          "rank": 4
+        },
+        {
+          "name": "FROM YOUR EYES",
+          "artist": "F3miii",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/F3miii/_/FROM+YOUR+EYES",
           "rank": 5
         }
       ]
@@ -273,7 +273,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 108,
+          "playcount": 109,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-21T18:50:08.228159"
+    "fetched_at": "2026-11-22T05:42:14.249144"
   }
 }
