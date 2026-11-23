@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-23T06:26:43.823578Z",
+  "collected_at": "2026-11-23T23:33:10.419212Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-23T06:26:44.408545",
+    "fetched_at": "2026-11-23T23:33:11.173654",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 45,
-      "fetched_at": "2026-11-23T06:26:45.410441"
+      "fetched_at": "2026-11-23T23:33:12.301348"
     }
   },
   "lastfm": {
@@ -34,56 +34,56 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 10035,
+      "total_scrobbles": 10049,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 10035,
-      "estimated_minutes": 35122,
-      "estimated_hours": 585.4,
+      "total_scrobbles": 10049,
+      "estimated_minutes": 35172,
+      "estimated_hours": 586.2,
       "estimated_days": 24.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 221,
-        "estimated_minutes": 774,
-        "estimated_hours": 12.9,
+        "total_scrobbles": 217,
+        "estimated_minutes": 760,
+        "estimated_hours": 12.7,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 979,
-        "estimated_minutes": 3426,
-        "estimated_hours": 57.1,
+        "total_scrobbles": 936,
+        "estimated_minutes": 3276,
+        "estimated_hours": 54.6,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 10035,
-        "estimated_minutes": 35122,
-        "estimated_hours": 585.4,
+        "total_scrobbles": 10049,
+        "estimated_minutes": 35172,
+        "estimated_hours": 586.2,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Not to be Dramatic",
-      "artist": "Zoe Clark",
-      "uts": 1795395178,
+      "name": "Paint A Picture",
+      "artist": "Trueblood",
+      "uts": 1795475198,
       "now_playing": false,
-      "days_ago": 0.2
+      "days_ago": 0.0
     },
     "weekly_stats": {
       "total_tracks_this_week": 191,
-      "total_plays_this_week": 234
+      "total_plays_this_week": 235
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 479,
+          "playcount": 480,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -101,7 +101,7 @@
         },
         {
           "name": "Fall Out Boy",
-          "playcount": 223,
+          "playcount": 224,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
@@ -113,7 +113,7 @@
         },
         {
           "name": "The Runarounds",
-          "playcount": 166,
+          "playcount": 167,
           "url": "https://www.last.fm/music/The+Runarounds",
           "rank": 6
         },
@@ -176,7 +176,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 38,
+          "playcount": 39,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         },
@@ -202,33 +202,33 @@
           "rank": 8
         },
         {
+          "name": "Shoelaces (From The Runarounds Original Series)",
+          "artist": "The Runarounds",
+          "playcount": 33,
+          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
+          "rank": 9
+        },
+        {
           "name": "Valerie (Feat. Amy Winehouse) - Version Revisited",
           "artist": "Mark Ronson",
           "playcount": 32,
           "url": "https://www.last.fm/music/Mark+Ronson/_/Valerie+(Feat.+Amy+Winehouse)+-+Version+Revisited",
-          "rank": 9
-        },
-        {
-          "name": "Shoelaces (From The Runarounds Original Series)",
-          "artist": "The Runarounds",
-          "playcount": 32,
-          "url": "https://www.last.fm/music/The+Runarounds/_/Shoelaces+(From+The+Runarounds+Original+Series)",
           "rank": 10
         }
       ],
       "week": [
         {
-          "name": "brand new chanel$",
-          "artist": "Slayyyter",
-          "playcount": 6,
-          "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
-          "rank": 1
-        },
-        {
           "name": "capaz (merengueton)",
           "artist": "Alleh",
           "playcount": 5,
           "url": "https://www.last.fm/music/Alleh/_/capaz+(merengueton)",
+          "rank": 1
+        },
+        {
+          "name": "brand new chanel$",
+          "artist": "Slayyyter",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 2
         },
         {
@@ -239,17 +239,17 @@
           "rank": 3
         },
         {
-          "name": "PHONE!",
-          "artist": "Never Ending Fall",
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
           "playcount": 3,
-          "url": "https://www.last.fm/music/Never+Ending+Fall/_/PHONE!",
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 4
         },
         {
-          "name": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE",
+          "name": "I'M IN THE BAND",
+          "artist": "Max Rickun",
           "playcount": 3,
-          "url": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 5
         }
       ]
@@ -266,14 +266,14 @@
         {
           "name": "The Runarounds (Prime Video Original Series Soundtrack)",
           "artist": "The Runarounds",
-          "playcount": 136,
+          "playcount": 137,
           "url": "https://www.last.fm/music/The+Runarounds/The+Runarounds+(Prime+Video+Original+Series+Soundtrack)",
           "rank": 2
         },
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 109,
+          "playcount": 110,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-23T06:26:47.526531"
+    "fetched_at": "2026-11-23T23:33:15.037762"
   }
 }
