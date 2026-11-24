@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-24T08:57:39.765383Z",
+  "collected_at": "2026-11-24T22:02:35.754890Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -34,44 +34,44 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 10049,
+      "total_scrobbles": 10052,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 10049,
-      "estimated_minutes": 35172,
-      "estimated_hours": 586.2,
+      "total_scrobbles": 10052,
+      "estimated_minutes": 35182,
+      "estimated_hours": 586.4,
       "estimated_days": 24.4,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 199,
-        "estimated_minutes": 696,
-        "estimated_hours": 11.6,
+        "total_scrobbles": 193,
+        "estimated_minutes": 676,
+        "estimated_hours": 11.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 935,
-        "estimated_minutes": 3272,
-        "estimated_hours": 54.5,
+        "total_scrobbles": 911,
+        "estimated_minutes": 3188,
+        "estimated_hours": 53.1,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 10049,
-        "estimated_minutes": 35172,
-        "estimated_hours": 586.2,
+        "total_scrobbles": 10052,
+        "estimated_minutes": 35182,
+        "estimated_hours": 586.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Paint A Picture",
-      "artist": "Trueblood",
-      "uts": 1795475198,
+      "name": "Flatline",
+      "artist": "5 Seconds of Summer",
+      "uts": 1795525783,
       "now_playing": false,
       "days_ago": 0.4
     },
@@ -83,7 +83,7 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 480,
+          "playcount": 481,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
         },
@@ -176,7 +176,7 @@
         {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
-          "playcount": 39,
+          "playcount": 40,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
           "rank": 5
         },
@@ -225,31 +225,31 @@
           "rank": 1
         },
         {
+          "name": "I'M IN THE BAND",
+          "artist": "Max Rickun",
+          "playcount": 5,
+          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
+          "rank": 2
+        },
+        {
+          "name": "Flatline",
+          "artist": "5 Seconds of Summer",
+          "playcount": 4,
+          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 3
+        },
+        {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
           "playcount": 4,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
-          "rank": 2
+          "rank": 4
         },
         {
           "name": "Not to be Dramatic",
           "artist": "Zoe Clark",
           "playcount": 4,
           "url": "https://www.last.fm/music/Zoe+Clark/_/Not+to+be+Dramatic",
-          "rank": 3
-        },
-        {
-          "name": "Flatline",
-          "artist": "5 Seconds of Summer",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
-          "rank": 4
-        },
-        {
-          "name": "I'M IN THE BAND",
-          "artist": "Max Rickun",
-          "playcount": 3,
-          "url": "https://www.last.fm/music/Max+Rickun/_/I%27M+IN+THE+BAND",
           "rank": 5
         }
       ]
@@ -273,7 +273,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 110,
+          "playcount": 111,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -293,6 +293,9 @@
         }
       ]
     },
-    "fetched_at": "2026-11-24T08:57:43.582026"
-  }
+    "fetched_at": "2026-11-24T22:02:39.482069"
+  },
+  "errors": [
+    "github collection failed"
+  ]
 }
