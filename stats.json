@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-23T23:33:10.419212Z",
+  "collected_at": "2026-11-24T08:57:39.765383Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-23T23:33:11.173654",
+    "fetched_at": "2026-11-24T08:57:40.261945",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -25,8 +25,8 @@
       "total_prs_all_time": 38,
       "total_issues_all_time": 0,
       "total_stars_received": 288,
-      "total_forks_received": 45,
-      "fetched_at": "2026-11-23T23:33:12.301348"
+      "total_forks_received": 46,
+      "fetched_at": "2026-11-24T08:57:41.375303"
     }
   },
   "lastfm": {
@@ -48,16 +48,16 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 217,
-        "estimated_minutes": 760,
-        "estimated_hours": 12.7,
+        "total_scrobbles": 199,
+        "estimated_minutes": 696,
+        "estimated_hours": 11.6,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 936,
-        "estimated_minutes": 3276,
-        "estimated_hours": 54.6,
+        "total_scrobbles": 935,
+        "estimated_minutes": 3272,
+        "estimated_hours": 54.5,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
@@ -73,11 +73,11 @@
       "artist": "Trueblood",
       "uts": 1795475198,
       "now_playing": false,
-      "days_ago": 0.0
+      "days_ago": 0.4
     },
     "weekly_stats": {
-      "total_tracks_this_week": 191,
-      "total_plays_this_week": 235
+      "total_tracks_this_week": 187,
+      "total_plays_this_week": 222
     },
     "top_artists": {
       "overall": [
@@ -227,7 +227,7 @@
         {
           "name": "brand new chanel$",
           "artist": "Slayyyter",
-          "playcount": 5,
+          "playcount": 4,
           "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$",
           "rank": 2
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-23T23:33:15.037762"
+    "fetched_at": "2026-11-24T08:57:43.582026"
   }
 }
