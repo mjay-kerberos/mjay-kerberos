@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-24T22:02:35.754890Z",
+  "collected_at": "2026-11-25T07:35:04.033386Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-24T08:57:40.261945",
+    "fetched_at": "2026-11-25T07:35:05.002080",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 46,
-      "fetched_at": "2026-11-24T08:57:41.375303"
+      "fetched_at": "2026-11-25T07:35:06.284396"
     }
   },
   "lastfm": {
@@ -34,13 +34,13 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 10052,
+      "total_scrobbles": 10053,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 10052,
-      "estimated_minutes": 35182,
+      "total_scrobbles": 10053,
+      "estimated_minutes": 35186,
       "estimated_hours": 586.4,
       "estimated_days": 24.4,
       "avg_track_duration_assumed": 3.5
@@ -48,36 +48,36 @@
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 193,
-        "estimated_minutes": 676,
+        "total_scrobbles": 194,
+        "estimated_minutes": 679,
         "estimated_hours": 11.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 911,
-        "estimated_minutes": 3188,
-        "estimated_hours": 53.1,
+        "total_scrobbles": 905,
+        "estimated_minutes": 3168,
+        "estimated_hours": 52.8,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 10052,
-        "estimated_minutes": 35182,
+        "total_scrobbles": 10053,
+        "estimated_minutes": 35186,
         "estimated_hours": 586.4,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Flatline",
-      "artist": "5 Seconds of Summer",
-      "uts": 1795525783,
+      "name": "Breaking In Brooklyn",
+      "artist": "Dogpark",
+      "uts": 1795525968,
       "now_playing": false,
-      "days_ago": 0.4
+      "days_ago": 0.8
     },
     "weekly_stats": {
-      "total_tracks_this_week": 187,
-      "total_plays_this_week": 222
+      "total_tracks_this_week": 164,
+      "total_plays_this_week": 200
     },
     "top_artists": {
       "overall": [
@@ -293,9 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-24T22:02:39.482069"
-  },
-  "errors": [
-    "github collection failed"
-  ]
+    "fetched_at": "2026-11-25T07:35:09.415597"
+  }
 }
