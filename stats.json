@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-27T07:20:57.452747Z",
+  "collected_at": "2026-11-27T20:49:42.006767Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-27T07:20:57.957128",
+    "fetched_at": "2026-11-27T20:49:42.540787",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 46,
-      "fetched_at": "2026-11-27T07:20:58.908125"
+      "fetched_at": "2026-11-27T20:49:43.574207"
     }
   },
   "lastfm": {
@@ -34,46 +34,46 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 10110,
+      "total_scrobbles": 10214,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 10110,
-      "estimated_minutes": 35385,
-      "estimated_hours": 589.8,
-      "estimated_days": 24.6,
+      "total_scrobbles": 10214,
+      "estimated_minutes": 35749,
+      "estimated_hours": 595.8,
+      "estimated_days": 24.8,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 194,
-        "estimated_minutes": 679,
-        "estimated_hours": 11.3,
+        "total_scrobbles": 298,
+        "estimated_minutes": 1043,
+        "estimated_hours": 17.4,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 909,
-        "estimated_minutes": 3182,
-        "estimated_hours": 53.0,
+        "total_scrobbles": 982,
+        "estimated_minutes": 3437,
+        "estimated_hours": 57.3,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 10110,
-        "estimated_minutes": 35385,
-        "estimated_hours": 589.8,
+        "total_scrobbles": 10214,
+        "estimated_minutes": 35749,
+        "estimated_hours": 595.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "Knees",
-      "artist": "Bebe Rexha",
-      "uts": 1795764060,
-      "now_playing": true,
-      "days_ago": 0.0
+      "name": "Falling Down - Bonus Track",
+      "artist": "Lil Peep",
+      "uts": 1795782350,
+      "now_playing": false,
+      "days_ago": 0.3
     },
     "weekly_stats": {
       "total_tracks_this_week": 150,
@@ -83,26 +83,26 @@
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 484,
+          "playcount": 487,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
+        },
+        {
+          "name": "Dominic Fike",
+          "playcount": 225,
+          "url": "https://www.last.fm/music/Dominic+Fike",
+          "rank": 2
         },
         {
           "name": "Fall Out Boy",
           "playcount": 225,
           "url": "https://www.last.fm/music/Fall+Out+Boy",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Tate McRae",
           "playcount": 225,
           "url": "https://www.last.fm/music/Tate+McRae",
-          "rank": 3
-        },
-        {
-          "name": "Dominic Fike",
-          "playcount": 224,
-          "url": "https://www.last.fm/music/Dominic+Fike",
           "rank": 4
         },
         {
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-27T07:21:00.941813"
+    "fetched_at": "2026-11-27T20:49:46.107078"
   }
 }
