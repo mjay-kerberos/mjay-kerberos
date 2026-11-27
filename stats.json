@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-26T21:05:08.982269Z",
+  "collected_at": "2026-11-27T07:20:57.452747Z",
   "github": {
     "username": "mjay-kerberos",
     "name": "Juliet Meza",
@@ -14,7 +14,7 @@
     "repos_contributed_to": 3,
     "organizations": 1,
     "year": 2026,
-    "fetched_at": "2026-11-26T21:05:09.621951",
+    "fetched_at": "2026-11-27T07:20:57.957128",
     "all_time": {
       "username": "mjay-kerberos",
       "account_created": "2019-09-27T16:09:42Z",
@@ -26,7 +26,7 @@
       "total_issues_all_time": 0,
       "total_stars_received": 288,
       "total_forks_received": 46,
-      "fetched_at": "2026-11-26T21:05:10.718861"
+      "fetched_at": "2026-11-27T07:20:58.908125"
     }
   },
   "lastfm": {
@@ -34,75 +34,75 @@
       "username": "julie-xandria",
       "real_name": "",
       "country": "None",
-      "total_scrobbles": 10067,
+      "total_scrobbles": 10110,
       "registered": 1765297888,
       "profile_url": "https://www.last.fm/user/julie-xandria"
     },
     "listening_time": {
-      "total_scrobbles": 10067,
-      "estimated_minutes": 35234,
-      "estimated_hours": 587.2,
-      "estimated_days": 24.5,
+      "total_scrobbles": 10110,
+      "estimated_minutes": 35385,
+      "estimated_hours": 589.8,
+      "estimated_days": 24.6,
       "avg_track_duration_assumed": 3.5
     },
     "listening_time_periods": {
       "7day": {
         "period": "7day",
-        "total_scrobbles": 156,
-        "estimated_minutes": 546,
-        "estimated_hours": 9.1,
+        "total_scrobbles": 194,
+        "estimated_minutes": 679,
+        "estimated_hours": 11.3,
         "avg_track_duration_assumed": 3.5
       },
       "1month": {
         "period": "1month",
-        "total_scrobbles": 867,
-        "estimated_minutes": 3034,
-        "estimated_hours": 50.6,
+        "total_scrobbles": 909,
+        "estimated_minutes": 3182,
+        "estimated_hours": 53.0,
         "avg_track_duration_assumed": 3.5
       },
       "12month": {
         "period": "12month",
-        "total_scrobbles": 10067,
-        "estimated_minutes": 35234,
-        "estimated_hours": 587.2,
+        "total_scrobbles": 10110,
+        "estimated_minutes": 35385,
+        "estimated_hours": 589.8,
         "avg_track_duration_assumed": 3.5
       }
     },
     "last_scrobble": {
-      "name": "BMF",
-      "artist": "SZA",
-      "uts": 1795719408,
-      "now_playing": false,
-      "days_ago": 0.1
+      "name": "Knees",
+      "artist": "Bebe Rexha",
+      "uts": 1795764060,
+      "now_playing": true,
+      "days_ago": 0.0
     },
     "weekly_stats": {
-      "total_tracks_this_week": 159,
-      "total_plays_this_week": 194
+      "total_tracks_this_week": 150,
+      "total_plays_this_week": 180
     },
     "top_artists": {
       "overall": [
         {
           "name": "5 Seconds of Summer",
-          "playcount": 481,
+          "playcount": 484,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer",
           "rank": 1
+        },
+        {
+          "name": "Fall Out Boy",
+          "playcount": 225,
+          "url": "https://www.last.fm/music/Fall+Out+Boy",
+          "rank": 2
         },
         {
           "name": "Tate McRae",
           "playcount": 225,
           "url": "https://www.last.fm/music/Tate+McRae",
-          "rank": 2
+          "rank": 3
         },
         {
           "name": "Dominic Fike",
           "playcount": 224,
           "url": "https://www.last.fm/music/Dominic+Fike",
-          "rank": 3
-        },
-        {
-          "name": "Fall Out Boy",
-          "playcount": 224,
-          "url": "https://www.last.fm/music/Fall+Out+Boy",
           "rank": 4
         },
         {
@@ -225,17 +225,17 @@
           "rank": 1
         },
         {
-          "name": "Not to be Dramatic",
-          "artist": "Zoe Clark",
-          "playcount": 4,
-          "url": "https://www.last.fm/music/Zoe+Clark/_/Not+to+be+Dramatic",
-          "rank": 2
-        },
-        {
           "name": "Flatline",
           "artist": "5 Seconds of Summer",
           "playcount": 3,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Flatline",
+          "rank": 2
+        },
+        {
+          "name": "Here",
+          "artist": "Alessia Cara",
+          "playcount": 3,
+          "url": "https://www.last.fm/music/Alessia+Cara/_/Here",
           "rank": 3
         },
         {
@@ -273,7 +273,7 @@
         {
           "name": "5SOS5",
           "artist": "5 Seconds of Summer",
-          "playcount": 111,
+          "playcount": 112,
           "url": "https://www.last.fm/music/5+Seconds+of+Summer/5SOS5",
           "rank": 3
         },
@@ -293,6 +293,6 @@
         }
       ]
     },
-    "fetched_at": "2026-11-26T21:05:12.420965"
+    "fetched_at": "2026-11-27T07:21:00.941813"
   }
 }
